@@ -1,0 +1,528 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20143",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20163",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "5420103-EGKK-101",
+      "nm_mk": "Matematika",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFKK-120",
+      "nm_mk": "Pengantar Ilmu Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-ERKK-101",
+      "nm_mk": "Biologi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFPK-112",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-102",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFBB-110",
+      "nm_mk": "Ilmu Kealaman Dasar",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-ERKK-102",
+      "nm_mk": "Kimia Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFPK-110",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-104",
+      "nm_mk": "Statistika",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-ERKK-104",
+      "nm_mk": "Dasar Agronomi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-101",
+      "nm_mk": "Ekonomi Pertanian dan Agribisnis",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFBB-112",
+      "nm_mk": "Bahasa Inggeris",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFPK-113",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-ERKK-103",
+      "nm_mk": "Organisme Pengganggu Tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EIKB-101",
+      "nm_mk": "Pengantar Teknologi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-103",
+      "nm_mk": "Dasar-dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFBB-111",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-313",
+      "nm_mk": "Ekologi Manusia",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-203",
+      "nm_mk": "Modal Sosial dan Budaya Lokal",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFPB-203",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-206",
+      "nm_mk": "Teori Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-202",
+      "nm_mk": "Manajemen Agribisnis",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-207",
+      "nm_mk": "Agroklimatologi",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-205",
+      "nm_mk": "Sosiologi Pedesaan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-201",
+      "nm_mk": "Teknologi Informasi dan Multimedia",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-208",
+      "nm_mk": "Dasar Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-306",
+      "nm_mk": "Strategi dan Kebijakan Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-212",
+      "nm_mk": "Dasar Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-205",
+      "nm_mk": "Manajemen Usahatani dan Perkebunan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-311",
+      "nm_mk": "Pengembangan Partisipasi Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-204",
+      "nm_mk": "Penyuluhan dan Komunikasi Pengembangan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-211",
+      "nm_mk": "Ekonomi Produksi Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-210",
+      "nm_mk": "Budidaya Tanaman Semusim",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-209",
+      "nm_mk": "Teori Ekonomi Makro",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-206",
+      "nm_mk": "Teori Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20143",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-103",
+      "nm_mk": "Dasar-dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20143",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-316",
+      "nm_mk": "Perilaku Konsumen",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-317",
+      "nm_mk": "Kependudukan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGBB-301",
+      "nm_mk": "Studi Pengenalan Wilayah",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-318",
+      "nm_mk": "Ekonometrika",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-307",
+      "nm_mk": "Analisis Proyek",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-315",
+      "nm_mk": "Teori Keputusan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-314",
+      "nm_mk": "Tataniaga Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGPB-402",
+      "nm_mk": "Pembiayaan Perusahaan Agribisnis",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-309",
+      "nm_mk": "Manajemen Tataniaga",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-312",
+      "nm_mk": "Metode Penelitian  Ekonomi Sosial",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-423",
+      "nm_mk": "Perubahan Sosial dan Budaya",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-310",
+      "nm_mk": "Perencanaan Pembangunan Wilayah",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-320",
+      "nm_mk": "Budidaya Tanaman Tahunan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-308",
+      "nm_mk": "Manajemen Sumberdaya Manusia",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFBB-112",
+      "nm_mk": "Bahasa Inggeris",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-313",
+      "nm_mk": "Riset Operasi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFBB-413",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-424",
+      "nm_mk": "Pembangunan dan Kebijakan Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-318",
+      "nm_mk": "Ekonometrika",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-425",
+      "nm_mk": "Ekonomi Sumberdaya dan Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFKB-436",
+      "nm_mk": "Skripsi",
+      "sks_mk": 5,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFKB-435",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKK-211",
+      "nm_mk": "Ekonomi Produksi Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-313",
+      "nm_mk": "Riset Operasi",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGKB-202",
+      "nm_mk": "Manajemen Agribisnis",
+      "sks_mk": 3,
+      "id_smt": "20163",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EGPB-401",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFKB-436",
+      "nm_mk": "Skripsi",
+      "sks_mk": 5,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5420103-EFKB-435",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BELLA ANGGRAINI",
+    "jk": "P",
+    "nipd": "E1D313011",
+    "namapt": "Universitas Lambung Mangkurat",
+    "namajenjang": "S1",
+    "namaprodi": "Agribisnis",
+    "reg_pd": "E3B19D31-514B-4D28-B712-94D9F1684475",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-03-05T00:00:00Z",
+    "no_seri_ijazah": "542012018000322",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NzM0MzdDRTAtMTYyRC00RDI0LTg2QkUtRDQxOUY5NTE4NjhE",
+    "link_prodi": "/data_prodi/MDIzQzQzM0ItNEQ5Qy00MTgxLTg1QTMtMTRGQTE2RTM4QjZE"
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20021",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20031",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20032",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20041",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20042",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20051",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20052",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20061",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "3310000911",
+      "nm_mk": "STUDI KEPEMIMPINAN DALAM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301121",
+      "nm_mk": "STATISTIKA FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302329",
+      "nm_mk": "PR. KIMIA ANALISIS",
+      "sks_mk": 1,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301229",
+      "nm_mk": "PR. KIMIA ORGANIK",
+      "sks_mk": 1,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302131",
+      "nm_mk": "TEKNOLOGI SEDIAAN FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302931",
+      "nm_mk": "KIMIA FARMASI ANALISIS",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301329",
+      "nm_mk": "PR. ANATOMI DAN FISIOLOGI MANUSIA",
+      "sks_mk": 1,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310001641",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361300621",
+      "nm_mk": "KIMIA FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305931",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361308232",
+      "nm_mk": "RADIO FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301531",
+      "nm_mk": "ANALISIS INSTRUMEN I",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302539",
+      "nm_mk": "PR. FARMAKOGNOSI",
+      "sks_mk": 1,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305239",
+      "nm_mk": "PR. FTS CAIR SEMI PADAT",
+      "sks_mk": 1,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310001011",
+      "nm_mk": "PEMIKIRAN DAN PERADABAN ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361304439",
+      "nm_mk": "PR. MIKROBIOLOGI FARMASI",
+      "sks_mk": 1,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310000611",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361303339",
+      "nm_mk": "PR. FARMAKOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302731",
+      "nm_mk": "FITOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361304531",
+      "nm_mk": "ANALISIS MIKROBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361304931",
+      "nm_mk": "FTS CAIR SEMI PADAT",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302439",
+      "nm_mk": "PR. FARMASI FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301831",
+      "nm_mk": "FARMASI FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361303439",
+      "nm_mk": "PR. FTS. PADAT",
+      "sks_mk": 1,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361304831",
+      "nm_mk": "FARMAKOTERAPI SISTEM SYARAF",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302229",
+      "nm_mk": "PR. BIOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302631",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306339",
+      "nm_mk": "PR. KIMIA FARMASI ANALISIS",
+      "sks_mk": 1,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361302831",
+      "nm_mk": "FTS. PADAT",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305139",
+      "nm_mk": "PR. FARMAKOKINETIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361304631",
+      "nm_mk": "BIOTEKNOLOGI FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305039",
+      "nm_mk": "PR. FITOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361304731",
+      "nm_mk": "FARMAKOKINETIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361300921",
+      "nm_mk": "ANAT. FISIOLOGI MANUSIA II",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361303031",
+      "nm_mk": "MIKROBIOLOGI FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305331",
+      "nm_mk": "ANALISIS MAKANAN DAN KOSMETIKA",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306031",
+      "nm_mk": "SISTEM PENGHANTARAN OBAT",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361308234",
+      "nm_mk": "PENANGANAN BAHAN SITOTOKSIK",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361303131",
+      "nm_mk": "PATOLOGI DAN KIMIA KLINIK",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306131",
+      "nm_mk": "STABILITAS OBAT",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301631",
+      "nm_mk": "ANALISIS INSTRUMEN II",
+      "sks_mk": 1,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305431",
+      "nm_mk": "BIOFARMASI",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306539",
+      "nm_mk": "PR. TOKSIKOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305631",
+      "nm_mk": "FARMAKOTERAPI RENAL DAN CARDIOVASCULAR",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306231",
+      "nm_mk": "TOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305531",
+      "nm_mk": "FARMAKOKINETIKA KLINIK",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361303239",
+      "nm_mk": "PR. ANALISIS INSTRUMEN",
+      "sks_mk": 1,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306439",
+      "nm_mk": "PR. BIOFARMASI",
+      "sks_mk": 1,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305731",
+      "nm_mk": "KIMIA MEDISINAL I",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306831",
+      "nm_mk": "FARMAKOTERAPI INDOKRIN DAN HORMON",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310001831",
+      "nm_mk": "SKRIPSI I",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306631",
+      "nm_mk": "ANTAR AKSI OBAT",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301721",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361307439",
+      "nm_mk": "PR. FTS STERIL",
+      "sks_mk": 1,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306931",
+      "nm_mk": "FARMAKOTERAPI INFEKSI & TUMOR",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361307131",
+      "nm_mk": "FTS STERIL",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361307231",
+      "nm_mk": "IMUNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305831",
+      "nm_mk": "KIMIA MEDISINAL II",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306731",
+      "nm_mk": "FARMAKOTERAPI GASTRO INTESTINAL & PERNAF",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301229",
+      "nm_mk": "PR. KIMIA ORGANIK",
+      "sks_mk": 1,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361307031",
+      "nm_mk": "FITOMEDICINE",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361305631",
+      "nm_mk": "FARMAKOTERAPI RENAL DAN CARDIOVASCULAR",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361307031",
+      "nm_mk": "FITOMEDICINE",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306831",
+      "nm_mk": "FARMAKOTERAPI INDOKRIN DAN HORMON",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310001931",
+      "nm_mk": "SKRIPSI II",
+      "sks_mk": 4,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361308234",
+      "nm_mk": "PENANGANAN BAHAN SITOTOKSIK",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306031",
+      "nm_mk": "SISTEM PENGHANTARAN OBAT",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310001452",
+      "nm_mk": "KKN MANDIRI",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361307351",
+      "nm_mk": "PERATURAN DAN PERUNDANG-UNDANGAN",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306931",
+      "nm_mk": "FARMAKOTERAPI INFEKSI & TUMOR",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361306931",
+      "nm_mk": "FARMAKOTERAPI INFEKSI & TUMOR",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361300921",
+      "nm_mk": "ANAT. FISIOLOGI MANUSIA II",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361307031",
+      "nm_mk": "FITOMEDICINE",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361304931",
+      "nm_mk": "FTS CAIR SEMI PADAT",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361301531",
+      "nm_mk": "ANALISIS INSTRUMEN I",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3361307231",
+      "nm_mk": "IMUNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310001931",
+      "nm_mk": "SKRIPSI II",
+      "sks_mk": 4,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310001931",
+      "nm_mk": "SKRIPSI II",
+      "sks_mk": 4,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HANA USWATUN HASANAH",
+    "jk": "P",
+    "nipd": "01613212          ",
+    "namapt": "Universitas Islam Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "8C5A1418-E854-4C18-8DA7-E2095353B2D4",
+    "mulai_smt": "20011",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2007-05-26T00:00:00Z",
+    "no_seri_ijazah": "140/UII-S1/V/FARM/26870/07",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTQyNzMzMDUtODM0Qi00ODZFLUE3OTYtNzhDRThDOEZBRjJE",
+    "link_prodi": "/data_prodi/NUY1OUY5NDUtN0RGQi00NUYwLThDQzctNTQzMUFFMDkzODlB"
+  }
+}

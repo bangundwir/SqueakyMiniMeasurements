@@ -1,0 +1,478 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK20703",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK20710",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK20708",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK10707",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40713",
+      "nm_mk": "TEKNOLOGI LABORATORIUM",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40723",
+      "nm_mk": "P. I. P",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK10701",
+      "nm_mk": "AGAMA ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK10708",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40722",
+      "nm_mk": "ILMU MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK20707",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40721",
+      "nm_mk": "ILMU LINGKUNGAN DAN KLIMATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40718",
+      "nm_mk": "ILMU NUTRISI",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK20704",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK10709",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK10702",
+      "nm_mk": "AGAMA ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40702",
+      "nm_mk": "ANATOMI DAN FISILOGI TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40709",
+      "nm_mk": "PENULISAN KARYA ILMIAH DAN TEKNIK SEMINAR",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40706",
+      "nm_mk": "GENETIKA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40716",
+      "nm_mk": "ILMU TERNAK UNGGAS",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK20710",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40711",
+      "nm_mk": "PIE PETERNAKAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40701",
+      "nm_mk": "AGROSTOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK10703",
+      "nm_mk": "AGAMA ISLAM III",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40707",
+      "nm_mk": "ILMU PEMULIAAN TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40715",
+      "nm_mk": "ILMU TERNAK PERAH",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40714",
+      "nm_mk": "ILMU TERNAK POTONG & KERJA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40710",
+      "nm_mk": "MANAJ. TERNAK UNGGAS",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK10704",
+      "nm_mk": "AGAMA ISLAM IV",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40702",
+      "nm_mk": "ILMU KESEHATAN TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB20702",
+      "nm_mk": "ENTREPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40719",
+      "nm_mk": "ILMU BAHAN PAKAN TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40709",
+      "nm_mk": "MANAJ. TERNAK PERAH",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40720",
+      "nm_mk": "ILMU REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40708",
+      "nm_mk": "MANAJ. TERNAK POTONG & KERJA",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU60805",
+      "nm_mk": "Agama Islam 5",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40717",
+      "nm_mk": "ILMU ANEKA TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW60814",
+      "nm_mk": "Ilmu Pakan Unggas & Non Ruminansia",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40715",
+      "nm_mk": "TEKNOLOGI REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40705",
+      "nm_mk": "DASAR THT",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40714",
+      "nm_mk": "TEKNOLOGI PAKAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW60813",
+      "nm_mk": "Ilmu Pakan Ternak Ruminansia",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW60820",
+      "nm_mk": "Manajemen Aneka Ternak",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40712",
+      "nm_mk": "MANAJEMEN PEMBIBITAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP60802",
+      "nm_mk": "Teknologi Pengolahan Limbah",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW60818",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW60817",
+      "nm_mk": "Agama Islam 6",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW60810",
+      "nm_mk": "Marketing Peternakan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW60819",
+      "nm_mk": "Ilmu dan Teknologi Daging, Kulit",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP60803",
+      "nm_mk": "Agribisnis Peternakan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW60816",
+      "nm_mk": "Sosiologi dan Penyuluhan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40705",
+      "nm_mk": "ILMU & TEKNOLOGI SUSU, TELUR",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB40705",
+      "nm_mk": "PKL",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK40712",
+      "nm_mk": "RANCANGAN PERCOBAAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP60804",
+      "nm_mk": "Farming System",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40718",
+      "nm_mk": "MANAJEMEN PENETASAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40701",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU60810",
+      "nm_mk": "KKN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB40713",
+      "nm_mk": "MANAJEMEN PRODUKSI PAKAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU60811",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DANIEL OMAR BADRID DUJA",
+    "jk": "L",
+    "nipd": "21601041056",
+    "namapt": "Universitas Islam Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Peternakan",
+    "reg_pd": "D37DB5DF-7DCA-464E-82B7-7EBCCC8D0C99",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-08-25T00:00:00Z",
+    "no_seri_ijazah": "1-041-25370",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjVDODhGREUtRTlGRS00MTY2LTg2MjktOUFEREZFQUJEQzJF",
+    "link_prodi": "/data_prodi/RUJBRDQ2RjEtQThGNi00Q0I4LTgxMzMtQUM2OTgzQUVFRDA4"
+  }
+}

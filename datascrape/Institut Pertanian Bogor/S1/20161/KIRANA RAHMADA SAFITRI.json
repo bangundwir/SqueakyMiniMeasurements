@@ -1,0 +1,506 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FKH200",
+      "nm_mk": "PENGHAYATAN PROFESI KEDOKTERAN HEWAN",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM101",
+      "nm_mk": "KIMIA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB107",
+      "nm_mk": "Pengantar Ilmu Pertanian",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB106",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB100",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO100",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB108",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB111",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO100",
+      "nm_mk": "EKONOMI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB100",
+      "nm_mk": "PENGANTAR KEWIRAUSAHAAN",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF211",
+      "nm_mk": "ANATOMI VETERINER I",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS100",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM130",
+      "nm_mk": "SOSIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK200",
+      "nm_mk": "BIOKIMIA UMUM",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT101",
+      "nm_mk": "Landasan Matematika",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH222",
+      "nm_mk": "Bakteriologi dan Mikologi Veteriner",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STK211",
+      "nm_mk": "METODE STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKH297",
+      "nm_mk": "METODOLOGI ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF212",
+      "nm_mk": "HISTOLOGI VETERINER I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF225",
+      "nm_mk": "Fisiologi Veteriner I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF224",
+      "nm_mk": "Biokimia Medik",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTP231",
+      "nm_mk": "PENGANTAR ILMU NUTRISI",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF214",
+      "nm_mk": "ANATOMI VETERINER II",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF215",
+      "nm_mk": "HISTOLOGI VETERINER II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH231",
+      "nm_mk": "PARASITOLOGI VETERINER : EKTOPARASIT",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF311",
+      "nm_mk": "ANATOMI TOPOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH223",
+      "nm_mk": "Virologi",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF213",
+      "nm_mk": "EMBRIOLOGI DAN GENETIKA PERKEMBANGAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF226",
+      "nm_mk": "Fisiologi Veteriner II",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKH304",
+      "nm_mk": "INSTRUMENTASI BIOMEDIS",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTP394",
+      "nm_mk": "Sistem Pemberian Pakan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH311",
+      "nm_mk": "Ilmu Kesehatan Masyarakat",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKH302",
+      "nm_mk": "Ilmu Perilaku Hewan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF331",
+      "nm_mk": "FARMAKOLOGI I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKH308",
+      "nm_mk": "Kesejahteraan hewan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH331",
+      "nm_mk": "PARASITOLOGI VETERINER : ENDOPARASIT",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP321",
+      "nm_mk": "ILMU BEDAH UMUM",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP311",
+      "nm_mk": "DIAGNOSTIK KLINIK VETERINER",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH322",
+      "nm_mk": "IMUNOLOGI MEDIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH411",
+      "nm_mk": "HIGIENE PANGAN ASAL HEWAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKH309",
+      "nm_mk": "Pengelolaan Kesehatan Hewan dan Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP421",
+      "nm_mk": "ILMU BEDAH KHUSUS VETERINER II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF332",
+      "nm_mk": "FARMAKOLOGI II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH325",
+      "nm_mk": "Penyakit Viral",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP342",
+      "nm_mk": "PATOLOGI SISTEMIK I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP322",
+      "nm_mk": "RADIOLOGI VETERINER",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP312",
+      "nm_mk": "ILMU PENYAKIT DALAM I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP332",
+      "nm_mk": "ILMU KEBIDANAN DAN KEMAJIRAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP412",
+      "nm_mk": "PATOLOGI KLINIK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH324",
+      "nm_mk": "Penyakit Bakterial dan Mikal",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH412",
+      "nm_mk": "ZOONOSIS",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP411",
+      "nm_mk": "ILMU PENYAKIT DALAM II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPH413",
+      "nm_mk": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP413",
+      "nm_mk": "DIETETIK KLINIK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFF431",
+      "nm_mk": "TOKSIKOLOGI VETERINER",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP323",
+      "nm_mk": "ILMU BEDAH KHUSUS I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP441",
+      "nm_mk": "PATOLOGI SISTEMIK II",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKH498",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP414",
+      "nm_mk": "DEMONSTRASI KLINIK",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP442",
+      "nm_mk": "PATOLOGI UNGGAS",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKH499",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKH400",
+      "nm_mk": "LEGISLASI DAN ETIKA VETERINER",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRP451",
+      "nm_mk": "SEDIAAN FARMASI DAN TERAPI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KIRANA RAHMADA SAFITRI",
+    "jk": "P",
+    "nipd": "B04160063",
+    "namapt": "Institut Pertanian Bogor",
+    "namajenjang": "S1",
+    "namaprodi": "Kedokteran Hewan",
+    "reg_pd": "E49936B3-701E-401E-934B-D9FD9D729F67",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-07-17T00:00:00Z",
+    "no_seri_ijazah": "1004200098",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODI4RkI5NjYtMzczMy00MzBFLTg2RkYtOTA5Qjc2NEUyNTIz",
+    "link_prodi": "/data_prodi/QjYxMTUzMkUtNEYwNi00Qjg3LUFDQTgtQkFGRkQ0RUQ3NzIw"
+  }
+}

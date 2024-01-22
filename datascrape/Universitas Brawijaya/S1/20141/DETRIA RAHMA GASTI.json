@@ -94,16 +94,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MET1",
-      "nm_mk": "Metodologi 1",
-      "sks_mk": 2,
+      "kode_mk": "DOC1",
+      "nm_mk": "Doctoring1",
+      "sks_mk": 1,
       "id_smt": "20141",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "DOC1",
-      "nm_mk": "Doctoring1",
-      "sks_mk": 1,
+      "kode_mk": "MET1",
+      "nm_mk": "Metodologi 1",
+      "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -150,15 +150,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BPE",
-      "nm_mk": "PEMERIKSAAN FISIK DASAR",
+      "kode_mk": "BMS4B",
+      "nm_mk": "BIO MEDICAL SCINCES4B",
       "sks_mk": 2,
       "id_smt": "20142",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BMS4B",
-      "nm_mk": "BIO MEDICAL SCINCES4B",
+      "kode_mk": "BPE",
+      "nm_mk": "PEMERIKSAAN FISIK DASAR",
       "sks_mk": 2,
       "id_smt": "20142",
       "nilai_huruf": null
@@ -178,6 +178,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "ENDO",
+      "nm_mk": "Sistem Endokrin",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KTI",
       "nm_mk": "Kedokteran Tropis",
       "sks_mk": 2,
@@ -185,15 +192,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "HEMA1",
-      "nm_mk": "Sistem Hematologi 1",
-      "sks_mk": 2,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ENDO",
-      "nm_mk": "Sistem Endokrin",
+      "kode_mk": "HEMA2",
+      "nm_mk": "Sistem Hematologi 2",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -213,9 +213,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PS2",
-      "nm_mk": "Keselamatan Pasien 2",
-      "sks_mk": 1,
+      "kode_mk": "HEMA1",
+      "nm_mk": "Sistem Hematologi 1",
+      "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
     },
@@ -227,9 +227,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "HEMA2",
-      "nm_mk": "Sistem Hematologi 2",
-      "sks_mk": 3,
+      "kode_mk": "PS2",
+      "nm_mk": "Keselamatan Pasien 2",
+      "sks_mk": 1,
       "id_smt": "20152",
       "nilai_huruf": null
     },
@@ -255,6 +255,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "ELTF2",
+      "nm_mk": "Elektif 2",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "SRF2",
       "nm_mk": "Sistem Saraf 2",
       "sks_mk": 3,
@@ -262,16 +269,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "THT",
-      "nm_mk": "Sistem Indra THT",
-      "sks_mk": 4,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ELTF2",
-      "nm_mk": "Elektif 2",
-      "sks_mk": 2,
+      "kode_mk": "SRF1",
+      "nm_mk": "Sistem Saraf 1",
+      "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
     },
@@ -297,45 +297,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SRF1",
-      "nm_mk": "Sistem Saraf 1",
-      "sks_mk": 3,
+      "kode_mk": "THT",
+      "nm_mk": "Sistem Indra THT",
+      "sks_mk": 4,
       "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KARD2",
-      "nm_mk": "Sistem Kardiovaskuler 2",
-      "sks_mk": 3,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RESP1",
-      "nm_mk": "Sistem Respirasi 1",
-      "sks_mk": 3,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PS3",
-      "nm_mk": "Patient Safety 3",
-      "sks_mk": 1,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "DOC5",
-      "nm_mk": "Doctoring 5",
-      "sks_mk": 1,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "LC2",
-      "nm_mk": "Siklus Kehidupan 2",
-      "sks_mk": 2,
-      "id_smt": "20162",
       "nilai_huruf": null
     },
     {
@@ -360,8 +325,36 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KTI",
-      "nm_mk": "Kedokteran Tropis",
+      "kode_mk": "RESP1",
+      "nm_mk": "Sistem Respirasi 1",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KARD2",
+      "nm_mk": "Sistem Kardiovaskuler 2",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PS3",
+      "nm_mk": "Patient Safety 3",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LC2",
+      "nm_mk": "Siklus Kehidupan 2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKM3",
+      "nm_mk": "IKM KP 3",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -374,16 +367,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IKM3",
-      "nm_mk": "IKM KP 3",
+      "kode_mk": "DOC5",
+      "nm_mk": "Doctoring 5",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTI",
+      "nm_mk": "Kedokteran Tropis",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FORS",
-      "nm_mk": "Forensik",
-      "sks_mk": 3,
+      "kode_mk": "URO",
+      "nm_mk": "Sistem Ginjal Dan Saluran Kemih",
+      "sks_mk": 4,
       "id_smt": "20171",
       "nilai_huruf": null
     },
@@ -391,20 +391,6 @@
       "kode_mk": "CAP",
       "nm_mk": "Aproach To Paediatrics",
       "sks_mk": 2,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKNM",
-      "nm_mk": "Program Kerja Nyata Mahasiswa",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "URO",
-      "nm_mk": "Sistem Ginjal Dan Saluran Kemih",
-      "sks_mk": 4,
       "id_smt": "20171",
       "nilai_huruf": null
     },
@@ -423,8 +409,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PKNM",
+      "nm_mk": "Program Kerja Nyata Mahasiswa",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "REPR1",
       "nm_mk": "Sistem Reproduksi 1",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REPR2",
+      "nm_mk": "Sistem Reproduksi 2",
       "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -437,9 +437,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REPR2",
-      "nm_mk": "Sistem Reproduksi 2",
-      "sks_mk": 2,
+      "kode_mk": "FORS",
+      "nm_mk": "Forensik",
+      "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
     }

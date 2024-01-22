@@ -1,0 +1,408 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Kampus Merdeka"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SPF1105",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPU1101",
+      "nm_mk": "PENGANTAR ILMU POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPU1100",
+      "nm_mk": "Ilmu Sosial Dasar",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPU1105",
+      "nm_mk": "Penulisan Akademik",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF1209",
+      "nm_mk": "Teori Politik",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF1241",
+      "nm_mk": "Masyarakat Sipil",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPU1102",
+      "nm_mk": "Sistem Sosial dan Politik Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF1231",
+      "nm_mk": "Partai Politik",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF1207",
+      "nm_mk": "Pemikiran Politik Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF1208",
+      "nm_mk": "Politik Hukum",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF1221",
+      "nm_mk": "Sistem dan Institusi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF1200",
+      "nm_mk": "Metodologi Ilmu Politik",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2308",
+      "nm_mk": "Analisa Politik Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2334",
+      "nm_mk": "Masyarakat Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2332",
+      "nm_mk": "Pemilu",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2323",
+      "nm_mk": "Politik Desentralisasi dan Otonomi Daerah",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2324",
+      "nm_mk": "Birokrasi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3571",
+      "nm_mk": "Perilaku Politik",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2398",
+      "nm_mk": "Manajemen Pemerintah",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPU2307",
+      "nm_mk": "Metode Penelitian Sosial 1",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2492",
+      "nm_mk": "Politik Agraria",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2491",
+      "nm_mk": "Politik Perburuhan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2496",
+      "nm_mk": "Politik dan Teknologi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2476",
+      "nm_mk": "Politik Ekstra-parlementer",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2423",
+      "nm_mk": "Kebijakan Publik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPU2403",
+      "nm_mk": "Metode Penelitian Sosial 2",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2453",
+      "nm_mk": "Penguatan Kapasitas Organisasi Publik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF2454",
+      "nm_mk": "Strategi dan Teknik Komunikasi Politik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPU2309",
+      "nm_mk": "Kewirausahaan Sosial (Lanjutan)",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3561",
+      "nm_mk": "Politik Keuangan Negara",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3552",
+      "nm_mk": "Manajemen Resiko",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3551",
+      "nm_mk": "Manajemen Jaringan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3593",
+      "nm_mk": "Politik Perkotaan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3590",
+      "nm_mk": "Politik Perbatasan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3599",
+      "nm_mk": "Agama dan Tata Politik",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3502",
+      "nm_mk": "Perencanaan Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3697",
+      "nm_mk": "Tata Kelola Pemilu",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3664",
+      "nm_mk": "Analisa Kebijakan Publik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3674",
+      "nm_mk": "Partai Politik dan Kebijakan Publik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3695",
+      "nm_mk": "Politik Sumber Daya Alam",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPC3669",
+      "nm_mk": "Politik Pemberitaan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPF3682",
+      "nm_mk": "Manajemen Konflik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPFA212114",
+      "nm_mk": "Society and Creative Industry",
+      "sks_mk": 0,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU212202",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPPP212106",
+      "nm_mk": "Pengantar Studi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPFA212139",
+      "nm_mk": "MBKM Studi Independen 1",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU212202",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPFA212140",
+      "nm_mk": "MBKM Studi Independen 2",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPFA212141",
+      "nm_mk": "MBKM Studi Independen 3",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MEIRZA LUTHFI PRADANA",
+    "jk": "L",
+    "nipd": "18428276SP28485",
+    "namapt": "Universitas Gadjah Mada",
+    "namajenjang": "S1",
+    "namaprodi": "Politik dan Pemerintahan",
+    "reg_pd": "745431DF-E69C-4EBF-98CB-DBFDF7D652AC",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-07-26T00:00:00Z",
+    "no_seri_ijazah": "652012022000701",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEVEMUQwQ0UtRjEyMi00QjM3LUE4NDktMjVGODFCMzM1Mzk1",
+    "link_prodi": "/data_prodi/OEFCQURDMTEtNzIxNS00MjNFLUEwQ0EtMzk4QTUxMTk5RkEw"
+  }
+}

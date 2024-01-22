@@ -1,0 +1,443 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IAB101",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB108",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB105",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB102",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB106",
+      "nm_mk": "PENGANTAR ILMU ADM MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB107",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB104",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB103",
+      "nm_mk": "PENGANTAR ILMU POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB201",
+      "nm_mk": "PENGANTAR ILMU ADM BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB209",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB213",
+      "nm_mk": "KOMPUTER, AKUNTANSI DAN PAJAK",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB208",
+      "nm_mk": "ASAS-ASAS MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB212",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB203",
+      "nm_mk": "BAHASA INGGRIS BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB211",
+      "nm_mk": "MATEMATIKA BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB210",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB304",
+      "nm_mk": "FILSAFAT BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB309",
+      "nm_mk": "ETIKA BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB303",
+      "nm_mk": "STATISTIK BISNIS I",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB307",
+      "nm_mk": "DASAR AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB301",
+      "nm_mk": "ADMINISTRASI PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB310",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB302",
+      "nm_mk": "TEORI ORGANISASI DAN MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB311",
+      "nm_mk": "PRILAKU ORGANISASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB409",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB413",
+      "nm_mk": "PRAKTEK BISNIS DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB404",
+      "nm_mk": "AKUNTANSI LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB410",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB408",
+      "nm_mk": "ADMINSITRASI PERBANKAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB412",
+      "nm_mk": "MANAJEMEN OPERASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB401",
+      "nm_mk": "STATISTIK BISNIS II",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB411",
+      "nm_mk": "MANAJEMEN KEUANGAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB504",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB511",
+      "nm_mk": "STRATEGI DAN KEBIJAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB512",
+      "nm_mk": "METODE PENELITIAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB509",
+      "nm_mk": "KEBIJAKAN DAN STRATEGI PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB502",
+      "nm_mk": "BISNIS INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB508",
+      "nm_mk": "SISTEM INFORMASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB510",
+      "nm_mk": "PERILAKU KONSUMEN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB501",
+      "nm_mk": "KEBIJAKAN DAN STRATEGI UMKM",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB604",
+      "nm_mk": "ANALISIS LAPORAN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB609",
+      "nm_mk": "ANALISIS INVESTASI DAN PORTO FOLIO",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB610",
+      "nm_mk": "PELATIHAN DAN PENGEMBANGAN MSDM",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB607",
+      "nm_mk": "MANAJEMEN RESIKO",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB608",
+      "nm_mk": "BISNIS SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB605",
+      "nm_mk": "PERENCANAAN DAN PENGEMBANGAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB706",
+      "nm_mk": "DESAIN DAN PENGEMBANGAN PRODUK",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB707",
+      "nm_mk": "PASAR MODAL",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB705",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB704",
+      "nm_mk": "PERENCANAAN PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB703",
+      "nm_mk": "KEPEMIMPINAN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB802",
+      "nm_mk": "NEGOSIASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB805",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IAB801",
+      "nm_mk": "TEORI PENGAMBILAN KEPUTUSAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LULLI GANJARAN",
+    "jk": "L",
+    "nipd": "3521140035        ",
+    "namapt": "STISIP Bina Putera Banjar",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Administrasi Niaga",
+    "reg_pd": "C953811D-9366-485D-BE42-28E93A1B2F91",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-08-18T00:00:00Z",
+    "no_seri_ijazah": "043183218.63211.047",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODg3MTVDMzItRTREMy00MDYzLTgwMDAtQjYxRkFBODNDRDYy",
+    "link_prodi": "/data_prodi/REEyRjEzMTktODYxNy00Q0M3LTgwN0EtN0YyM0JFMDZFM0NG"
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MAK311",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDI210",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDI320",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KID411L",
+      "nm_mk": "KIMIA DASAR I",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDP211",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FID411L",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK201",
+      "nm_mk": "PENGANTARPENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIU311",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDC230X2",
+      "nm_mk": "PENGANTAR KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP322",
+      "nm_mk": "PENGETAHUAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FID422",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAK322",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDK220",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KID422",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDA211",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDE210",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDS230",
+      "nm_mk": "BIOSTATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDA222",
+      "nm_mk": "AGAMA ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIB331",
+      "nm_mk": "BOTANI TUMBUHAN RENDAH",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDP231L",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM331",
+      "nm_mk": "MORFOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIT231",
+      "nm_mk": "TEKNIK LABORATORIUM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM231",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIZ331",
+      "nm_mk": "ZOOLOGI INVERTEBRATA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PBS341",
+      "nm_mk": "STRATEGI BELAJAR MENGAJAR",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDA233",
+      "nm_mk": "AGAMA ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDT341",
+      "nm_mk": "TELAAHKURIKULUMBIOSMU",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIZ344",
+      "nm_mk": "ZOOLOGI VERTEBRATA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA342",
+      "nm_mk": "ANATOMI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIS341",
+      "nm_mk": "STRUKTU RHEWAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIB344",
+      "nm_mk": "BOTANI TUMBUHAN TINGGI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BID241",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP52",
+      "nm_mk": "BIOLOGI SEL",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIT453L",
+      "nm_mk": "FISIOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDP351",
+      "nm_mk": "PROFESI KEPENDIDIKAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDA244",
+      "nm_mk": "AGAMAISLAM III",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIB371",
+      "nm_mk": "BIOTEKNOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG351",
+      "nm_mk": "GENETIKA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDP212LL",
+      "nm_mk": "PENDIDIKAN ANTI KORUPSI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP352",
+      "nm_mk": "PERKEMBANGAN HEWAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP361",
+      "nm_mk": "PENELITIAN PENGAJARAN BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIE364",
+      "nm_mk": "EKOLOGI HEWAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PBM361",
+      "nm_mk": "PERENCANAAN PENGAJARAN BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PBM717",
+      "nm_mk": "EVALUASIPROSESPEMBELAJARANBIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA361",
+      "nm_mk": "ANATOMI FISIOLOGI MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIH463",
+      "nm_mk": "FISIOLOGI HEWAN",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIT371",
+      "nm_mk": "EKOLOGITUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIS272",
+      "nm_mk": "SEMINAR BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP271",
+      "nm_mk": "EKOLOGIPERAIRAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIE271",
+      "nm_mk": "EVOLUSI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDZ680",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UDX380",
+      "nm_mk": "KULIAH KERJA NYATA (KKN)",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MISNA KAMIDIN",
+    "jk": "P",
+    "nipd": "201115385         ",
+    "namapt": "Universitas Darussalam Ambon",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Biologi",
+    "reg_pd": "1741A487-2CDC-4833-9CA9-CFC4D55B990F",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": "2018-01-16T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OERDRTk3NjAtNjk1NC00MkI5LTk1MzMtNDY1Q0FDMzEyQUU2",
+    "link_prodi": "/data_prodi/QjQxODJGOTEtMERERi00MDgyLTg4QkEtQUYyMDgyNkI5QzFD"
+  }
+}

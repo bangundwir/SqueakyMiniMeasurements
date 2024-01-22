@@ -1,0 +1,510 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 27,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 29,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK1203",
+      "nm_mk": "BAHASA INGGRIS HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1201",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1202",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1302",
+      "nm_mk": "PENGANTAR ILMU HUKUM",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1204",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1303",
+      "nm_mk": "PENGANTAR HUKUM INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1301",
+      "nm_mk": "ILMU NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1218",
+      "nm_mk": "HUKUM DAN KEBUDAYAAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1244",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2262",
+      "nm_mk": "HUKUM PERJANJIAN KREDIT DAN JAMINAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2305",
+      "nm_mk": "HUKUM PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1220",
+      "nm_mk": "HUKUM KEPARIWISATAAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB4202",
+      "nm_mk": "ANTROPOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2304",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2232",
+      "nm_mk": "HUKUM INVESTASI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2319",
+      "nm_mk": "HUKUM HINDU",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2307",
+      "nm_mk": "HUKUM TATA NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2206",
+      "nm_mk": "HUKUM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2313",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5208",
+      "nm_mk": "HUKUM LAUT",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5229",
+      "nm_mk": "HUKUM PASAR MODAL",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4321",
+      "nm_mk": "HUKUM KETENAGAKERJAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3316",
+      "nm_mk": "HUKUM AGRARIA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6243",
+      "nm_mk": "HUKUM PERDATA INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6249",
+      "nm_mk": "TINDAK PIDANA KORUPSI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4301",
+      "nm_mk": "METODELOGI PENELITIAN &amp;amp; PENULISAN HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB4303",
+      "nm_mk": "FILSAFAT HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5236",
+      "nm_mk": "HUKUM KEPAILITAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3315",
+      "nm_mk": "HUKUM DAGANG",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5223",
+      "nm_mk": "PERADILAN TINDAK PIDANA KORUPSI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4302",
+      "nm_mk": "HUKUM ADAT BALI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3246",
+      "nm_mk": "HUKUM PERIKATAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB4204",
+      "nm_mk": "HUKUM DAN HAM",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6226",
+      "nm_mk": "HUKUM PIDANA ADAT",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4310",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB6311",
+      "nm_mk": "HUKUM ACARA PERATUN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5243",
+      "nm_mk": "TINDAK PIDANA DILUAR KONDIFIKASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7217",
+      "nm_mk": "H A K I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3312",
+      "nm_mk": "HUKUM INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6314",
+      "nm_mk": "HUKUM LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5226",
+      "nm_mk": "GENDER DALAM HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5304",
+      "nm_mk": "HUKUM PEMERINTAHAN DAERAH",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4234",
+      "nm_mk": "HUKUM BISNIS INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB6210",
+      "nm_mk": "PRAKTEK PERADILAN PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB6208",
+      "nm_mk": "ADR",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7253",
+      "nm_mk": "HUKUM PENGAWASAN APARATUR PEMERINTAH",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB7213",
+      "nm_mk": "PERANCANGAN PERATURAN PERUNDANG UNDANGAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB7206",
+      "nm_mk": "STUDI KASUS HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB5205",
+      "nm_mk": "HUKUM KELUARGA &amp;amp; KEWARISAN ADAT BALI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5257",
+      "nm_mk": "HUKUM PERJANJIAN INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6248",
+      "nm_mk": "HUKUM ADAT PERTANAHAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5231",
+      "nm_mk": "HUKUM PERLINDUNGAN KONSUMEN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB5204",
+      "nm_mk": "HUKUM DAN KEBIJAKAN PUBLIK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB3304",
+      "nm_mk": "HUKUM ACARA PERDATA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6224",
+      "nm_mk": "HUKUM PEMBUKTIAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB3201",
+      "nm_mk": "SOSIOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7252",
+      "nm_mk": "HUKUM KONSTITUSI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK8240",
+      "nm_mk": "PERBANDINGAN HUKUM PERDATA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7238",
+      "nm_mk": "TINDAK PIDANA NARKOTIKA &amp;amp; PSIKOTROPIKA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3228",
+      "nm_mk": "HUKUM PAJAK",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK8241",
+      "nm_mk": "PERBANDINGAN HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB8407",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB7301",
+      "nm_mk": "PRAKTEK KETERAMPILAN HUKUM",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6247",
+      "nm_mk": "NEGARA HUKUM DAN DEMOKRASI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3313",
+      "nm_mk": "HUKUM ADMINISTRASI NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DESAK PUTU GAWATI",
+    "jk": "P",
+    "nipd": "098003557         ",
+    "namapt": "Universitas Dwijendra",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Hukum",
+    "reg_pd": "8C3AA087-0DCA-4BDE-AF2D-D685F19C7799",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-09-25T00:00:00Z",
+    "no_seri_ijazah": "1086/FH/IH/2012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/REY2N0JBMzMtRUM3Mi00QTVBLThFQjQtM0I3ODQwOEFGMTBC",
+    "link_prodi": "/data_prodi/M0NDMTRCNDAtQTQ1Qi00QzE2LUIxOTMtOUEyQ0U4Q0FDOTUz"
+  }
+}

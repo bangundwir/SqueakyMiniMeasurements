@@ -1,0 +1,640 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPM103",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPF 101",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB111",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB161",
+      "nm_mk": "Pengantar Ilmu Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG102",
+      "nm_mk": "Pendidikan Pancasila dan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG103",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK 101",
+      "nm_mk": "Kimia Dasar I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG 106",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 221",
+      "nm_mk": "Struktur Perkembangan Tumbuhan I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 231",
+      "nm_mk": "Struktur Perkembangan Hewan I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 222",
+      "nm_mk": "Praktikum struktur Perkembangan Tumbuhan I",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 232",
+      "nm_mk": "Praktikum Struktur Perkembangan Hewan I",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 204",
+      "nm_mk": "Biologi Sel dan Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK 202",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG 202",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG 201",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 121",
+      "nm_mk": "Struktur Perkembangan Tumbuhan II",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 104",
+      "nm_mk": "Pengantar Aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 105",
+      "nm_mk": "Biostatistika",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 132",
+      "nm_mk": "Praktikum Struktur Perkembangan Hewan II",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 131",
+      "nm_mk": "Struktur Perkembangan Hewan II",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 152",
+      "nm_mk": "Praktikum Genetika",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 103",
+      "nm_mk": "Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 151",
+      "nm_mk": "Genetika",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 122",
+      "nm_mk": "Praktikum Struktur Perkembangan Tumbuhan II",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB262",
+      "nm_mk": "Ekologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 224",
+      "nm_mk": "Sistematika Tumbuhan  I",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 233",
+      "nm_mk": "Struktur Perkembangan Hewan III",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 242",
+      "nm_mk": "Praktikum Mikrobiologi",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB212",
+      "nm_mk": "EVOLUSI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 223",
+      "nm_mk": "Struktur Perkembangan Tumbuhan III",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 234",
+      "nm_mk": "Praktikum Struktur Perkembangan Hewan III",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 241",
+      "nm_mk": "Mikrobiologi",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 208",
+      "nm_mk": "Rancangan Percobaan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB266",
+      "nm_mk": "Konservasi S.D.A.",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 235",
+      "nm_mk": "Sistematika Hewan I",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 225",
+      "nm_mk": "Praktikum Sistematika Tumbuhan I",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 236",
+      "nm_mk": "Praktikum Sistematika Hewan I",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 126",
+      "nm_mk": "Praktikum Fisiologi Tumbuhan",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB314",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 123",
+      "nm_mk": "Sistematika Tumbuhan II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 134",
+      "nm_mk": "Praktikum Sistematika Hewan II",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 133",
+      "nm_mk": "Sistematika Hewan  II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 124",
+      "nm_mk": "Praktium Sistematika Tumbuhan  II",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 135",
+      "nm_mk": "Fisiologi Hewan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 124",
+      "nm_mk": "Praktium Sistematika Tumbuhan  II",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 167",
+      "nm_mk": "Teknologi Pengolahan Limbah",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB314",
+      "nm_mk": "METODOLOHI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 135",
+      "nm_mk": "Fisiologi Hewan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB213",
+      "nm_mk": "Klimatologi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 134",
+      "nm_mk": "Praktikum Sistematika Hewan II",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 167",
+      "nm_mk": "Teknologi Pengolahan Limbah",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 125",
+      "nm_mk": "Fisiologi Tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 136",
+      "nm_mk": "Praktikum Fisiologi Hewan",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB213",
+      "nm_mk": "Klimatologi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 125",
+      "nm_mk": "Fisiologi Tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 263",
+      "nm_mk": "AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 209",
+      "nm_mk": "Bioteknologi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 262",
+      "nm_mk": "Pencemaran Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 234",
+      "nm_mk": "Ichtiologi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 237",
+      "nm_mk": "Ekologi Hewan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 238",
+      "nm_mk": "Praktikum Ekologi Hewan",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 226",
+      "nm_mk": "Ekologi Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB 227",
+      "nm_mk": "Praktikum Ekologi Tumbuhan",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB312",
+      "nm_mk": "Mikroteknik",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG401",
+      "nm_mk": "Kerja Praktek (KKM)",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 168",
+      "nm_mk": "Biologi Laut",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG 103",
+      "nm_mk": "Dasar - dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 165",
+      "nm_mk": "Toksikologi Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 123",
+      "nm_mk": "Ornitologi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 133",
+      "nm_mk": "Entomologi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB412",
+      "nm_mk": "Seminar I",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG 104",
+      "nm_mk": "Kerja Praktek / KKM",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB418",
+      "nm_mk": "Tugas Akhir (Skripsi)",
+      "sks_mk": 6,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB412",
+      "nm_mk": "Seminar I",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB416",
+      "nm_mk": "Seminar II",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB416",
+      "nm_mk": "Seminar II",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB418",
+      "nm_mk": "Tugas Akhir (Skripsi)",
+      "sks_mk": 6,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB418",
+      "nm_mk": "Tugas Akhir (Skripsi)",
+      "sks_mk": 6,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB416",
+      "nm_mk": "Seminar II",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "OZY ORIZA ",
+    "jk": "L",
+    "nipd": "H1041131028",
+    "namapt": "Universitas Tanjungpura",
+    "namajenjang": "S1",
+    "namaprodi": "Biologi",
+    "reg_pd": "434C4BB8-BBF4-4789-B145-BB72926CE44A",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-12-07T00:00:00Z",
+    "no_seri_ijazah": "0556/UN22/EP/S1/2019",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RUYyQTU1QjctMUNCOC00MEZDLThEMzctQjExMDQ0MEU0MjVF",
+    "link_prodi": "/data_prodi/MzRCQTI5OTktQzRDQS00MTc0LThGODEtMTcxQTQ1MzFEMjFC"
+  }
+}

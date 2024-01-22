@@ -65,8 +65,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MU104420",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MU104120",
       "nm_mk": "Ilmu Sosial Budaya Dasar",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU104520",
+      "nm_mk": "Pendidikan Pancasila",
       "sks_mk": 0,
       "id_smt": "20061",
       "nilai_huruf": null
@@ -100,29 +114,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MU104520",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 0,
-      "id_smt": "20061",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MU104420",
-      "nm_mk": "Pendidikan Kewarganegaraan",
-      "sks_mk": 0,
-      "id_smt": "20061",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK222731",
-      "nm_mk": "Sistem Digital",
-      "sks_mk": 0,
-      "id_smt": "20062",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MA201130",
-      "nm_mk": "Kalkulus II",
+      "kode_mk": "IK222431",
+      "nm_mk": "Logika Pemrograman II",
       "sks_mk": 0,
       "id_smt": "20062",
       "nilai_huruf": null
@@ -135,22 +128,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MA201130",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK222731",
+      "nm_mk": "Sistem Digital",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MA201230",
       "nm_mk": "Aljabar Linier Elementer",
-      "sks_mk": 0,
-      "id_smt": "20062",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK222431",
-      "nm_mk": "Logika Pemrograman II",
-      "sks_mk": 0,
-      "id_smt": "20062",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK222331",
-      "nm_mk": "Arsitektur Komputer I",
       "sks_mk": 0,
       "id_smt": "20062",
       "nilai_huruf": null
@@ -163,15 +156,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK322130",
-      "nm_mk": "Arsitektur Komputer II",
+      "kode_mk": "IK222331",
+      "nm_mk": "Arsitektur Komputer I",
       "sks_mk": 0,
-      "id_smt": "20071",
+      "id_smt": "20062",
       "nilai_huruf": null
     },
     {
       "kode_mk": "MA321531",
       "nm_mk": "Pengantar Pemodelan Matematika",
+      "sks_mk": 0,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA392331",
+      "nm_mk": "Pengantar Basis Data",
+      "sks_mk": 0,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK322130",
+      "nm_mk": "Arsitektur Komputer II",
       "sks_mk": 0,
       "id_smt": "20071",
       "nilai_huruf": null
@@ -191,22 +198,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MA392331",
-      "nm_mk": "Pengantar Basis Data",
-      "sks_mk": 0,
-      "id_smt": "20071",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK422431",
-      "nm_mk": "Pemrograman Komputer II",
-      "sks_mk": 0,
-      "id_smt": "20072",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MA491131",
-      "nm_mk": "Analisis Numerik",
+      "kode_mk": "IK422530",
+      "nm_mk": "Sistem Berkas",
       "sks_mk": 0,
       "id_smt": "20072",
       "nilai_huruf": null
@@ -226,8 +219,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK422530",
-      "nm_mk": "Sistem Berkas",
+      "kode_mk": "MA491131",
+      "nm_mk": "Analisis Numerik",
+      "sks_mk": 0,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK422431",
+      "nm_mk": "Pemrograman Komputer II",
       "sks_mk": 0,
       "id_smt": "20072",
       "nilai_huruf": null
@@ -247,8 +247,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK591330",
-      "nm_mk": "Teori Bahasa & Otomata",
+      "kode_mk": "IK391730",
+      "nm_mk": "Program Linier",
       "sks_mk": 0,
       "id_smt": "20081",
       "nilai_huruf": null
@@ -261,15 +261,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK591630",
-      "nm_mk": "Pengantar Kecerdasan Buatan",
+      "kode_mk": "IK593411",
+      "nm_mk": "Praktikum Jaringan Komputer",
       "sks_mk": 0,
       "id_smt": "20081",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK391730",
-      "nm_mk": "Program Linier",
+      "kode_mk": "IK591630",
+      "nm_mk": "Pengantar Kecerdasan Buatan",
       "sks_mk": 0,
       "id_smt": "20081",
       "nilai_huruf": null
@@ -282,45 +282,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK593411",
-      "nm_mk": "Praktikum Jaringan Komputer",
+      "kode_mk": "IK591330",
+      "nm_mk": "Teori Bahasa & Otomata",
       "sks_mk": 0,
       "id_smt": "20081",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK692320",
-      "nm_mk": "Etika Profesi",
-      "sks_mk": 0,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK691230",
-      "nm_mk": "Grafika Komputer",
-      "sks_mk": 0,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK692130",
-      "nm_mk": "Analisis & Desain Sistem Informasi",
-      "sks_mk": 0,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK491330",
-      "nm_mk": "Desain & Analisis algoritma",
-      "sks_mk": 0,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK933330",
-      "nm_mk": "Network Administrator",
-      "sks_mk": 0,
-      "id_smt": "20082",
       "nilai_huruf": null
     },
     {
@@ -333,6 +298,41 @@
     {
       "kode_mk": "IK933130",
       "nm_mk": "Keamanan Jaringan",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK933330",
+      "nm_mk": "Network Administrator",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK692320",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK491330",
+      "nm_mk": "Desain & Analisis algoritma",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK692130",
+      "nm_mk": "Analisis & Desain Sistem Informasi",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK691230",
+      "nm_mk": "Grafika Komputer",
       "sks_mk": 0,
       "id_smt": "20082",
       "nilai_huruf": null
@@ -352,30 +352,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK033130",
-      "nm_mk": "Basis Data Terdistribusi",
-      "sks_mk": 3,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK492511",
-      "nm_mk": "Praktikum Basis Data Lanjut",
-      "sks_mk": 0,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK793320",
-      "nm_mk": "Kewirausahaan",
+      "kode_mk": "IK795121",
+      "nm_mk": "Praktik Kerja Lapangan",
       "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK792230",
-      "nm_mk": "Analisis & Desain Berorientasi Objek",
-      "sks_mk": 3,
       "id_smt": "20091",
       "nilai_huruf": null
     },
@@ -387,23 +366,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK795121",
-      "nm_mk": "Praktik Kerja Lapangan",
+      "kode_mk": "IK033130",
+      "nm_mk": "Basis Data Terdistribusi",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK793320",
+      "nm_mk": "Kewirausahaan",
       "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK933230",
-      "nm_mk": "Jaringan Komputer Lanjut",
-      "sks_mk": 0,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IK391411",
-      "nm_mk": "Praktikum Algoritma & Struktur Data",
-      "sks_mk": 0,
       "id_smt": "20091",
       "nilai_huruf": null
     },
@@ -415,15 +387,36 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK203830",
-      "nm_mk": "Arsitektur Komputer",
-      "sks_mk": 0,
-      "id_smt": "20092",
+      "kode_mk": "IK792230",
+      "nm_mk": "Analisis & Desain Berorientasi Objek",
+      "sks_mk": 3,
+      "id_smt": "20091",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK691230",
-      "nm_mk": "Grafika Komputer",
+      "kode_mk": "IK391411",
+      "nm_mk": "Praktikum Algoritma & Struktur Data",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK933230",
+      "nm_mk": "Jaringan Komputer Lanjut",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK492511",
+      "nm_mk": "Praktikum Basis Data Lanjut",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK202530",
+      "nm_mk": "Pemrograman Komputer",
       "sks_mk": 0,
       "id_smt": "20092",
       "nilai_huruf": null
@@ -436,8 +429,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IK202530",
-      "nm_mk": "Pemrograman Komputer",
+      "kode_mk": "MA494130",
+      "nm_mk": "Analisis Numerik",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK691230",
+      "nm_mk": "Grafika Komputer",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK203830",
+      "nm_mk": "Arsitektur Komputer",
       "sks_mk": 0,
       "id_smt": "20092",
       "nilai_huruf": null
@@ -445,13 +452,6 @@
     {
       "kode_mk": "MA204230",
       "nm_mk": "Statistika Dasar",
-      "sks_mk": 0,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MA494130",
-      "nm_mk": "Analisis Numerik",
       "sks_mk": 0,
       "id_smt": "20092",
       "nilai_huruf": null

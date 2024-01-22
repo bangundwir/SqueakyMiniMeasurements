@@ -1,0 +1,591 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "1200012",
+      "nm_mk": "Konsep Teknologi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000012",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230041",
+      "nm_mk": "Praktikum  Algoritma dan Pemrograman",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230012",
+      "nm_mk": "Kalkulus",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230052",
+      "nm_mk": "Logika Informatika",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000101",
+      "nm_mk": "Olah Raga I",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000132",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000072",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230023",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230032",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230111",
+      "nm_mk": "Praktikum  Algoritma dan Pemrograman Lanjut",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000111",
+      "nm_mk": "Olah Raga II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000092",
+      "nm_mk": "Bela Negara dan Widya Mwat Yasa",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230073",
+      "nm_mk": "Statistika",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230093",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230121",
+      "nm_mk": "Praktikum Jaringan Komputer",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230062",
+      "nm_mk": "Algoritma dan Pemrograman Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230102",
+      "nm_mk": "Komputer dan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1230082",
+      "nm_mk": "Kalkulus Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000082",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000122",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232222",
+      "nm_mk": "Pemrograman Web",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232213",
+      "nm_mk": "Geoinformatika",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232231",
+      "nm_mk": "Praktikum Implementasi Struktur Data",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232382",
+      "nm_mk": "Riset Operasi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232192",
+      "nm_mk": "Interaksi Manusia dan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232163",
+      "nm_mk": "Struktur Data",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232071",
+      "nm_mk": "Praktikum Implementasi Basis Data",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232202",
+      "nm_mk": "Sistem Digital",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232043",
+      "nm_mk": "Sistem/Teknologi Basis Data",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232241",
+      "nm_mk": "Praktikum Pemrograman Web",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232311",
+      "nm_mk": "Praktikum Sistem Cerdas dan Pendukung Keputusan",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232273",
+      "nm_mk": "Sistem Cerdas dan Pendukung Keputusan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232283",
+      "nm_mk": "Rekayasa Perangkat Lunak",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232321",
+      "nm_mk": "Praktikum Pemrograman Berorientasi Objek",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1200022",
+      "nm_mk": "Teknopreunership",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232263",
+      "nm_mk": "Otomata Dan Pengantar Kompilasi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232432",
+      "nm_mk": "Grafika Komputer dan Multimedia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232303",
+      "nm_mk": "Pemrograman Berorientasi Objek",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232293",
+      "nm_mk": "Arsitektur dan Organisasi Komputer",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232252",
+      "nm_mk": "Analisa Algoritma",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232373",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232392",
+      "nm_mk": "Manajemen Proyek Perangkat Lunak",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232332",
+      "nm_mk": "Kriptografi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232342",
+      "nm_mk": "Data Science",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232411",
+      "nm_mk": "Praktikum Data Science",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232563",
+      "nm_mk": "Global Positioning System",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232362",
+      "nm_mk": "Internet of Things (IoT)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232813",
+      "nm_mk": "Pengolahan Citra",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232733",
+      "nm_mk": "Pengenalan Pola",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232352",
+      "nm_mk": "Kapita Selekta",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232401",
+      "nm_mk": "Praktikum Internet of Things (IoT)",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232472",
+      "nm_mk": "Teknologi Dan Pemrograman Mobile",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232422",
+      "nm_mk": "Metodologi Penulisan Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232491",
+      "nm_mk": "Praktikum Teknologi dan Pemrograman Mobile",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232482",
+      "nm_mk": "Teknologi Cloud Computing",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232462",
+      "nm_mk": "Uji Kualitas Perangkat Lunak",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232893",
+      "nm_mk": "User Experience &amp; User Interface",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232442",
+      "nm_mk": "Analisis dan Desain Berorientasi Objek",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232453",
+      "nm_mk": "Kerja Praktik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232753",
+      "nm_mk": "Jaringan Syaraf Tiruan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232501",
+      "nm_mk": "Praktikum Teknologi Cloud Computing",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232513",
+      "nm_mk": "Seminar Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232783",
+      "nm_mk": "Pembelajaran Mesin / Machine Learning",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000143",
+      "nm_mk": "KKN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232513",
+      "nm_mk": "Seminar Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1232523",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "123210523",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "123210513",
+      "nm_mk": "Seminar Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "123210523",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "123210513",
+      "nm_mk": "Seminar Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "123210513",
+      "nm_mk": "Seminar Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "123210523",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JULIA MUTIARA FARIDA",
+    "jk": "P",
+    "nipd": "123180109",
+    "namapt": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Informatika",
+    "reg_pd": "9F6BB9FC-5DF8-41F5-9523-C5E1DD56C055",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDhEQkQ2MkUtNEJENS00NjRBLTgzRTEtOTBDNTQyQTkzN0M1",
+    "link_prodi": "/data_prodi/REQwRDgxQzYtNDQ1NC00RDc1LUJEREQtQUZERUU5NDU2RkEw"
+  }
+}

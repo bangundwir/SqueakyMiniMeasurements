@@ -33,6 +33,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "TE1202",
+      "nm_mk": "INSTALASI LISTRIK DASAR",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "IN1201",
       "nm_mk": "BAHASA INGGRIS II",
       "sks_mk": 2,
@@ -61,6 +68,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "TE1203",
+      "nm_mk": "JARINGAN KOMPUTER DASAR",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "TE1207",
       "nm_mk": "TEKNIK DIGITAL DASAR",
       "sks_mk": 3,
@@ -82,41 +96,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TE1203",
-      "nm_mk": "JARINGAN KOMPUTER DASAR",
-      "sks_mk": 2,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TE1202",
-      "nm_mk": "INSTALASI LISTRIK DASAR",
-      "sks_mk": 2,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TE2304",
-      "nm_mk": "ELEKTRONIKA ANALOG DASAR",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TE2314",
-      "nm_mk": "SISTEM KENDALI DASAR",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TE2322",
-      "nm_mk": "KONSEP TEKNOLOGI",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KU2301",
       "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 3,
@@ -126,6 +105,13 @@
     {
       "kode_mk": "TE2302",
       "nm_mk": "BAHASA PEMROGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE2322",
+      "nm_mk": "KONSEP TEKNOLOGI",
       "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -152,6 +138,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "TE2304",
+      "nm_mk": "ELEKTRONIKA ANALOG DASAR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "TE2318",
       "nm_mk": "TEKNIK DIGITAL LANJUT",
       "sks_mk": 3,
@@ -161,6 +154,13 @@
     {
       "kode_mk": "TE2321",
       "nm_mk": "TEKNOLOGI MEKANIK DAN PCB",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE2314",
+      "nm_mk": "SISTEM KENDALI DASAR",
       "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -229,8 +229,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TE3606",
-      "nm_mk": "PEMROGRAMAN APLIKASI",
+      "kode_mk": "TE3610",
+      "nm_mk": "ROBOTIKA",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE3617",
+      "nm_mk": "PERANCANGAN SISTEM ANALOG DIGITAL",
       "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -243,13 +250,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TE3617",
-      "nm_mk": "PERANCANGAN SISTEM ANALOG DIGITAL",
-      "sks_mk": 2,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KU3601",
       "nm_mk": "KEWIRAUSAHAAN",
       "sks_mk": 2,
@@ -257,9 +257,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TE3610",
-      "nm_mk": "ROBOTIKA",
-      "sks_mk": 3,
+      "kode_mk": "TE3606",
+      "nm_mk": "PEMROGRAMAN APLIKASI",
+      "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
     },

@@ -1,0 +1,494 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "P108",
+      "nm_mk": "Bahasa Inggris 1",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P102",
+      "nm_mk": "Tauhid / Akidah Islam",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P101",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P106",
+      "nm_mk": "Bahasa Arab 1",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P104",
+      "nm_mk": "Ilmu Budaya, Sosial dan Teknologi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P109",
+      "nm_mk": "Ilmu Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P107",
+      "nm_mk": "Tafsir 1",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P105",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P103",
+      "nm_mk": "Pengantar Ilmu Agama",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P206",
+      "nm_mk": "Akhlak Tasawuf 1",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P202",
+      "nm_mk": "Pengantar Ilmu Hadits",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P203",
+      "nm_mk": "Pengantar Ilmu Fiqih",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P208",
+      "nm_mk": "Bahasa Inggris 2",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P205",
+      "nm_mk": "Tafsir 2",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P204",
+      "nm_mk": "Bahasa Arab 2",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P207",
+      "nm_mk": "Psikologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P201",
+      "nm_mk": "Pengantar Ilmu Tafsir",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P302",
+      "nm_mk": "Bahasa Arab 3",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P306",
+      "nm_mk": "Administrasi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P308",
+      "nm_mk": "Ushul Fiqih 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P301",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P309",
+      "nm_mk": "Ilmu Pendidikan Islam",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P307",
+      "nm_mk": "Tafsir 3",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P303",
+      "nm_mk": "Ulumul Qur'an",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P304",
+      "nm_mk": "Bahasa Inggris 3",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P305",
+      "nm_mk": "Ulumul Hadits",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P405",
+      "nm_mk": "Strategi Belajar Mengajar",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P402",
+      "nm_mk": "Perencanaan Belajar Mengajar",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P407",
+      "nm_mk": "Metodik Khusus PAI 1",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P403",
+      "nm_mk": "Akhlak Tasawuf 2",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P401",
+      "nm_mk": "Hadits 1",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P408",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P404",
+      "nm_mk": "Filsafat Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P406",
+      "nm_mk": "Ushul Fiqih 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P504",
+      "nm_mk": "Fiqih 1",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P507",
+      "nm_mk": "Program Praktek Pengenalan Lingkungan Kependidikan",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P502",
+      "nm_mk": "Hadits 2",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P506",
+      "nm_mk": "Pengembangan Kurikulum",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P501",
+      "nm_mk": "Psikologi Agama",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P505",
+      "nm_mk": "Manajemen Fasilitas Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P503",
+      "nm_mk": "Perbandingan Agama",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P602",
+      "nm_mk": "Tarikh Tasyri",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P606",
+      "nm_mk": "Hadits 3",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P608",
+      "nm_mk": "Metodik Khusus PAI 2",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P607",
+      "nm_mk": "Manajemen Pembiayaan Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P603",
+      "nm_mk": "Fiqih 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P605",
+      "nm_mk": "Aliran Modern Dalam Islam",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P604",
+      "nm_mk": "Masailul Fiqhiyah",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P742",
+      "nm_mk": "Fiqih 3",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P772",
+      "nm_mk": "Manajemen  Pendidikan / Sekolah",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P722",
+      "nm_mk": "Kapita Selekta Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P762",
+      "nm_mk": "Bimbingan dan Penyuluhan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P782",
+      "nm_mk": "Perbandingan Madzhab",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P732",
+      "nm_mk": "Psikologi Perkembangan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P713",
+      "nm_mk": "Evaluasi Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P753",
+      "nm_mk": "Sejarah Kebudayaan Islam",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P802",
+      "nm_mk": "Penelitian Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P801",
+      "nm_mk": "Statistik Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P806",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P804",
+      "nm_mk": "Pengetahuan Komputer",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P803",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "P805",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Rudi Pangestu",
+    "jk": "L",
+    "nipd": "12513.5524",
+    "namapt": "STAI Sabili Bandung",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Agama Islam",
+    "reg_pd": "3B9C509E-EEDF-4777-8C99-F9E3E77B3260",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-12-13T00:00:00Z",
+    "no_seri_ijazah": "4262.1.17",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDY4MjIzOUMtMUIxMi00MkIyLTlDM0MtRjAwN0QxM0IwRUMy",
+    "link_prodi": "/data_prodi/NjQ4ODk3MEYtNDFFMi00M0NCLUFBMjUtMzNEMENGM0QyRDVB"
+  }
+}

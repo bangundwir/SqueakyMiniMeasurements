@@ -1,0 +1,473 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UNG10101",
+      "nm_mk": "Dasar-dasar Ilmu Sosial",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG10103",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-003",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-004",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-006",
+      "nm_mk": "Olah Kreativitas dan Kewirausahaan (OKK)",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1F103",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-005",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-002",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-001",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG10102 ",
+      "nm_mk": "Dasar-Dasar Ilmu Politik ",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-003",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Q10A.I08",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX017",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-001",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H203",
+      "nm_mk": "Teori Politik Klasik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H209",
+      "nm_mk": "English for Political Sciences",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H205",
+      "nm_mk": "Bahasa Asing (Jepang)",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H201",
+      "nm_mk": "Statistik Sosial",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H202",
+      "nm_mk": "Metodologi Ilmu Politik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H204",
+      "nm_mk": "Teori Politik Modern dan Kontempoler",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H208",
+      "nm_mk": "Ideologi Politik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10406",
+      "nm_mk": "Civil Society",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.331",
+      "nm_mk": "Politik Global",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.312",
+      "nm_mk": "Studi Kewargaan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.510",
+      "nm_mk": "Ekonomi Politik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG10201",
+      "nm_mk": "Metode Penelitian Kualitatif",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.311",
+      "nm_mk": "Perubahan Politik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10405",
+      "nm_mk": "Pemikiran Politik Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.310",
+      "nm_mk": "Sistem Perwakilan Politik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.407",
+      "nm_mk": "Partai Politik dan Pemilu",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG10202",
+      "nm_mk": "Metode Penelitian Kuantitatif",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.405",
+      "nm_mk": "Pemikiran Politik Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.401",
+      "nm_mk": "Teori dan Metode Politik Perbandingan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.402",
+      "nm_mk": "Sistem Politik Negara-Negara di Asia Pasifik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.403",
+      "nm_mk": "Komunikasi Politik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.406",
+      "nm_mk": "Civil Society",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.404",
+      "nm_mk": "Politik Birokrasi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-009",
+      "nm_mk": "Berpikir Kritis, Kreatif dan Inovatif",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-009",
+      "nm_mk": "Berpikir Kritis, Kreatif dan Inovatif",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.512",
+      "nm_mk": "Representasi Politik*",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.521",
+      "nm_mk": "Parlemen dan Politik****",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.515",
+      "nm_mk": "Manajemen Partai Politik**",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-038",
+      "nm_mk": "Konferensi Nasional (Pemakalah)",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.524",
+      "nm_mk": "Partai Politik dan CSO*****",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.511",
+      "nm_mk": "Teori Keamanan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.518",
+      "nm_mk": "Manajemen Pemilu***",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.617",
+      "nm_mk": "Metode Survei****",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.609",
+      "nm_mk": "Keterwakilan Politik Perempuan***",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.603",
+      "nm_mk": "Regionalisme",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.602",
+      "nm_mk": "Keuangan Publik Pusat dan Daerah",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.606",
+      "nm_mk": "Politik Indentitas",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.612",
+      "nm_mk": "Kampanye dan Pemasaran Politik****",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.616",
+      "nm_mk": "Metode Penelitian Gender*****",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.601",
+      "nm_mk": "Ekonomi Politik Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.705",
+      "nm_mk": "Sidang Akhir",
+      "sks_mk": 5,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-012",
+      "nm_mk": "Etos Kerja dan Etika Profesional",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G10H.704",
+      "nm_mk": "Kolokium/Penelaahan Naskah",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1H10.511",
+      "nm_mk": "Teori Keamanan",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-016",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Raden Mochamad Primadi Sudrajat",
+    "jk": "L",
+    "nipd": "170810200002",
+    "namapt": "Universitas Padjadjaran",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Politik",
+    "reg_pd": "8420FCCE-A648-457E-896F-DA52EF36C9D6",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QjVGREYzNDctOTMxRC00NkM4LUJCOTUtMjBCN0IxQzhCNUJB",
+    "link_prodi": "/data_prodi/OUVFMDE2RTAtQ0RCNi00MEQ4LUE3RjAtMTQyODVGRUQzOERF"
+  }
+}

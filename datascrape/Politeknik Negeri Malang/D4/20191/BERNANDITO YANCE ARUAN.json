@@ -1,0 +1,420 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KEU191005",
+      "nm_mk": "Pengantar Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU191006",
+      "nm_mk": "Matematika Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU191008",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU191007",
+      "nm_mk": "Pengantar Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU191003",
+      "nm_mk": "Aplikasi Komputer Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU191004",
+      "nm_mk": "Pengetikan Niaga",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU191002",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU191001",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU192008",
+      "nm_mk": "Bahasa Inggris Menengah",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU192003",
+      "nm_mk": "Aplikasi Komputer Basis Data",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU192007",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU192004",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU192005",
+      "nm_mk": "Akuntansi Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU192002",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU192001",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU192006",
+      "nm_mk": "Aspek Huku Dalam Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU193003",
+      "nm_mk": "Bahasa Inggris Lanjutan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU193001",
+      "nm_mk": "Akuntansi Managerial",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU193005",
+      "nm_mk": "Lembaga Keuangan Bank dan Bukan Bank",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU193004",
+      "nm_mk": "Aplikasi Komputer Keuangan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU193007",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU193006",
+      "nm_mk": "Ekonomi Moneter",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU193002",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU194006",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU194005",
+      "nm_mk": "Penganggaran",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU194007",
+      "nm_mk": "Manajemen Investasi dan Pasar Modal",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU194001",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU194003",
+      "nm_mk": "Bahasa Inggris Bisnis 1",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU194004",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU194002",
+      "nm_mk": "Etika Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU195006",
+      "nm_mk": "Manajemen Aset",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU195003",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU195002",
+      "nm_mk": "Praktik Penganggaran",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU195001",
+      "nm_mk": "Bahasa Inggris Bisnis 2",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU195004",
+      "nm_mk": "Keuangan Daerah",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU195005",
+      "nm_mk": "Keuangan Internasional",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU196004",
+      "nm_mk": "Praktik Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU196001",
+      "nm_mk": "Bahasa Inggris Bisnis 3",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU196006",
+      "nm_mk": "Praktik Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU196005",
+      "nm_mk": "Praktik Pasar Modal",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU196002",
+      "nm_mk": "Analisis Laporan Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU196007",
+      "nm_mk": "Manajemen Stratejik",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU196003",
+      "nm_mk": "Statistik",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU197105",
+      "nm_mk": "Manajemen Resiko",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU197107",
+      "nm_mk": "Proyek Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU197102",
+      "nm_mk": "Tata Kelola Perusahaan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU197101",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU197103",
+      "nm_mk": "Keuangan Syariah",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU197106",
+      "nm_mk": "Appraisal",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU197104",
+      "nm_mk": "Keuangan Negara",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BERNANDITO YANCE ARUAN",
+    "jk": "L",
+    "nipd": "1942530054",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Keuangan",
+    "reg_pd": "8255222C-C9B2-4B19-9C8D-235837750723",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/NTRENzg2QjUtNzZGRS00QkM5LTgxRUYtRkU3RTYzOEJGQUE1"
+  }
+}

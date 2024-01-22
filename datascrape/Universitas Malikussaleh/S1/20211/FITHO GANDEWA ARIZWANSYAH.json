@@ -1,0 +1,393 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKU0511",
+      "nm_mk": "KEMALIKUSSALEHAN",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0812",
+      "nm_mk": "Pengantar Teknik Kimia",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU0112",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0613",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU0212",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0413",
+      "nm_mk": "Matematika I",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0911",
+      "nm_mk": "Prak. Kimia Dasar",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0713",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU0312",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM1011",
+      "nm_mk": "Prak. Fisika Dasar",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0821",
+      "nm_mk": "Prak. Kimia Organik",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0523",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0921",
+      "nm_mk": "Prak. Kimia Analisa",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0623",
+      "nm_mk": "Kimia Analisa",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0723",
+      "nm_mk": "Kimia Fisika",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0121",
+      "nm_mk": "Psikologi Industri & Etika Profesi",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM1022",
+      "nm_mk": "Ilmu Bahan dan Korosi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU0421",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU0222",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0323",
+      "nm_mk": "Matematika II",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0433",
+      "nm_mk": "Analisa Numerik + Pemprograman Komputer",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0831",
+      "nm_mk": "Prak. Kimia Fisika",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0533",
+      "nm_mk": "Operasi Teknik Kimia I",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0232",
+      "nm_mk": "Thermodinamika Teknik Kimia I",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0952",
+      "nm_mk": "Menggambar Teknik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0132",
+      "nm_mk": "Proses Industri Kimia I",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0333",
+      "nm_mk": "Matematika Teknik Kimia I",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0632",
+      "nm_mk": "Mikrobiologi Industri",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0932",
+      "nm_mk": "Teknologi Air dan Buangan Industri",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0733",
+      "nm_mk": "Neraca Massa dan Energi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP0562",
+      "nm_mk": "Teknologi Minyak Sawit dan Atsiri",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0842",
+      "nm_mk": "Prak. Proses Teknik Kimia I",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0343",
+      "nm_mk": "Matematika Teknik Kimia II",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0643",
+      "nm_mk": "Aplikasi Komputasi Proses",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0543",
+      "nm_mk": "Teknik Reaksi Kimia I",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0443",
+      "nm_mk": "Operasi Teknik Kimia II",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0142",
+      "nm_mk": "Proses Industri Kimia II",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0743",
+      "nm_mk": "Fenomena Perpindahan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0243",
+      "nm_mk": "Thermodinamika Teknik Kimia II",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM055",
+      "nm_mk": "Prak. Proses Teknik Kimia II",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0652",
+      "nm_mk": "Utilitas",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0453",
+      "nm_mk": "Teknik Reaksi Kimia II",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0852",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0353",
+      "nm_mk": "Operasi Teknik Kimia III",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0153",
+      "nm_mk": "Proses Perpindahan Panas",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKB0172",
+      "nm_mk": "Material Sains",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKB0272",
+      "nm_mk": "Teknik Pengendalian Korosi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0252",
+      "nm_mk": "Statistik",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKM0753",
+      "nm_mk": "Peranc. Alat Proses I",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "FITHO GANDEWA ARIZWANSYAH",
+    "jk": "L",
+    "nipd": "210140124",
+    "namapt": "Universitas Malikussaleh",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Kimia",
+    "reg_pd": "14B261AB-7ED9-4E13-83AA-18EF24007BE0",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjBCOUI4OEYtODVGMi00Mzc4LUJDNkYtNzlFNTlBNDE5NEE3",
+    "link_prodi": "/data_prodi/NzVFQkY5OUMtNzQxRS00QzVFLTk5NTAtMTBBNkU5ODk5OEI5"
+  }
+}

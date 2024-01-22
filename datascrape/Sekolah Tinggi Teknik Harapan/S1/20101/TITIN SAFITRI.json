@@ -1,0 +1,193 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Lulus"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FKB5433",
+      "nm_mk": "PERANTARAAN DAN PERIPHERAL",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK1100",
+      "nm_mk": "PRAK FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKB3244",
+      "nm_mk": "BAHASA RAKITAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKB3233",
+      "nm_mk": "PENGANTAR ARSITEKTUR KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKB5444",
+      "nm_mk": "PRAK PERANTARAAN DAN PERIPHERAL",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKB5377",
+      "nm_mk": "ORGANISASI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK1044",
+      "nm_mk": "LOGIKA MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKB3255",
+      "nm_mk": "PRAK BAHASA RAKITAN",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK1099",
+      "nm_mk": "FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKB5388",
+      "nm_mk": "PEMODELAN DAN SIMULASI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK4322",
+      "nm_mk": "TEORI BAHASADAN AUTOMATA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK2155",
+      "nm_mk": "DESAIN DAN ANALISIS ALGORITMA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKB4288",
+      "nm_mk": "SISTEM MIKROPROSESSOR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK2133",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK2188",
+      "nm_mk": "ELEKTRONIKA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKB4299",
+      "nm_mk": "PRAK SISTEM MIKROPROSESSOR",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK2144",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK2199",
+      "nm_mk": "PRAK ELEKTRONIKA",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKK4311",
+      "nm_mk": "PRINSIP PRINSIP BAHASA PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TITIN SAFITRI",
+    "jk": "P",
+    "nipd": "10251378          ",
+    "namapt": "Sekolah Tinggi Teknik Harapan",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "FD6BE852-08AE-4BD6-B67E-1593A6165A68",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2013-04-06T00:00:00Z",
+    "no_seri_ijazah": "0243513",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTc5NTY4QzEtMTBFNy00QzM5LUJEODEtRDlDQjM2MzNGMDlD",
+    "link_prodi": "/data_prodi/OEJERDYxMzYtRkNBNS00QURELUI3NjEtODRENDBGRjMyNENB"
+  }
+}

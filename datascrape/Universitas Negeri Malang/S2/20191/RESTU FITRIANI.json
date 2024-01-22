@@ -1,0 +1,188 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "NBIO811-46101-16",
+      "nm_mk": "Biosistematik, Taksonomi, dan Evolusi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO802-46101-16",
+      "nm_mk": "Genetika Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO805-46101-16",
+      "nm_mk": "Biologi Sel Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO801-46101-16",
+      "nm_mk": "Filsafat dan Didaktik Sains (Biologi)",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO804-46101-16",
+      "nm_mk": "Statistik Biologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO803-46101-16",
+      "nm_mk": "Desain Penelitian Biologi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO813-46101-16",
+      "nm_mk": "Biologi Konservasi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO842-46101-16",
+      "nm_mk": "Ekologi Landscape",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO815-46101-16",
+      "nm_mk": "Mikrobiologi Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO851-46101-16",
+      "nm_mk": "Teknik dan Analisis Biologi Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO812-46101-16",
+      "nm_mk": "Problematika Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO861-46101-16",
+      "nm_mk": "Bioinformatika",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO847-46101-17",
+      "nm_mk": "Manajemen Ekosistem",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO838-46101-16",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO871-46101-16",
+      "nm_mk": "Seminar Usulan Tesis",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO838-17",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO871-16",
+      "nm_mk": "Seminar Usulan Tesis",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIO872-16",
+      "nm_mk": "Seminar Hasil Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NBIOUM8072-2020",
+      "nm_mk": "Tesis",
+      "sks_mk": 8,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RESTU FITRIANI",
+    "jk": "P",
+    "nipd": "190342520804",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S2",
+    "namaprodi": "Biologi",
+    "reg_pd": "A16E5278-3627-41A7-B275-FDB7C74A872F",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-12-31T00:00:00Z",
+    "no_seri_ijazah": "461012021000055",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QjU2NjE2RkMtMTk2Ny00MTg1LUE1MjQtNTRDRDUxMzcwODIx"
+  }
+}

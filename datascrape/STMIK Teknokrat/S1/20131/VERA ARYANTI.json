@@ -1,0 +1,653 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TIS112",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN I",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS850",
+      "nm_mk": "DASAR-DASAR PEMROGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS112",
+      "nm_mk": "KONSEP SISTEM INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK101",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS848",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN I",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS113",
+      "nm_mk": "LOGIKA INFORMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS114",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS113",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT101",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI123",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS221",
+      "nm_mk": "LOGIKA INFORMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS235",
+      "nm_mk": "DASAR-DASAR AKUNTANSI",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS842",
+      "nm_mk": "APLIKASI KOMPUTER 1",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT104",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS111",
+      "nm_mk": "PEMROGRAMAN BAHASA PASCAL",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT106",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS111",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS216",
+      "nm_mk": "DASAR-DASAR AKUNTANSI",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT103",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT104",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS123",
+      "nm_mk": "APLIKASI KOMPUTER II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS121",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKD124",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS121",
+      "nm_mk": "Statistika",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS123",
+      "nm_mk": "APLIKASI KOMPUTER II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT103",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS124",
+      "nm_mk": "Konsep Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT104",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS121",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS122",
+      "nm_mk": "STATISTIK DESKRIPTIF",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS121",
+      "nm_mk": "Statistika",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS124",
+      "nm_mk": "Konsep Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSI122",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKD124",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSI122",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS122",
+      "nm_mk": "STATISTIK DESKRIPTIF",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS233",
+      "nm_mk": "DESAIN GRAFIS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS351",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS351P",
+      "nm_mk": "PRAKTIKUM JARINGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS243",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS351",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS233",
+      "nm_mk": "DESAIN GRAFIS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS243",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS248",
+      "nm_mk": "PERANCANGAN E-BUSINESS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS473",
+      "nm_mk": "KOMPUTER DAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS232",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS248",
+      "nm_mk": "PERANCANGAN E-BUSINESS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS351P",
+      "nm_mk": "PRAKTIKUM JARINGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP2021",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP2021",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS473",
+      "nm_mk": "KOMPUTER DAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS353",
+      "nm_mk": "JARINGAN KOMPUTER & KOMUNIKASI DATA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS242",
+      "nm_mk": "TROUBLESHOOTING SW/HW",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS475",
+      "nm_mk": "PEMROGRAMAN BERBASIS WEB",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS241",
+      "nm_mk": "SISTEM BASIS DATA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS243",
+      "nm_mk": "Teori Organisasi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS241",
+      "nm_mk": "Analisis dan Perancangan Sistem Informasi",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT108",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS242",
+      "nm_mk": "E-BUSINESS DAN E-COMMERCE",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS355",
+      "nm_mk": "Statistik Probabilitas",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS352",
+      "nm_mk": "Pengembangan Sistem Informasi",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS231",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS354",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS475",
+      "nm_mk": "Enterprise Resource Planning",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS353",
+      "nm_mk": "Manajemen Sains",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS351",
+      "nm_mk": "Perancangan Basis Data",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS364",
+      "nm_mk": "Perancangan E-Business",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS365",
+      "nm_mk": "Pengelolaan Sistem Informasi Organisasi",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS363",
+      "nm_mk": "Metodologi Penelitian Ilmu Komputer",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTT109",
+      "nm_mk": "Praktek Kerja Lapangan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS244",
+      "nm_mk": "Informasi Bisnis dan Proses",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS361",
+      "nm_mk": "Analisis Proses Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS362",
+      "nm_mk": "Testing dan Implementasi Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS472",
+      "nm_mk": "Rekayasa Perangkat Lunak",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS472",
+      "nm_mk": "Manajeman Proyek",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS232",
+      "nm_mk": "Struktur Data",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS311",
+      "nm_mk": "Sistem Pendukung Keputusan",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS231",
+      "nm_mk": "Sistem  Operasi",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS474",
+      "nm_mk": "Audit Sistem informasi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS363",
+      "nm_mk": "Metodologi Penelitian Ilmu Komputer",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS365",
+      "nm_mk": "Pengelolaan Sistem Informasi Organisasi",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIS352",
+      "nm_mk": "Testing dan Implementasi Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS241",
+      "nm_mk": "SISTEM BASIS DATA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIS363",
+      "nm_mk": "Organisasi dan Arsitektur Komputer",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "VERA ARYANTI",
+    "jk": "P",
+    "nipd": "13311904          ",
+    "namapt": "STMIK Teknokrat",
+    "namajenjang": "S1",
+    "namaprodi": "Sistem Informasi",
+    "reg_pd": "5D9BED4E-4A0F-46A7-A21A-0ED7E621443C",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mutasi",
+    "tgl_keluar": null,
+    "no_seri_ijazah": "",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkU2RjdBM0UtQTUzRC00QkM4LUIwQTMtMTg1QTZBRkY5QTAz",
+    "link_prodi": "/data_prodi/MzBDQjJFQzktNjdDRS00OTk0LUEzODUtQzk4MEE4MTE4ODE0"
+  }
+}

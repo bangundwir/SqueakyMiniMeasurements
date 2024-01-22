@@ -1,0 +1,384 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UIN132",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN112",
+      "nm_mk": "AL-ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK132",
+      "nm_mk": "KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF101",
+      "nm_mk": "Pengantar Teknik Informatika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN142",
+      "nm_mk": "B INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF122",
+      "nm_mk": "LOGIKA MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK113",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK122",
+      "nm_mk": "FISIKA DASAR 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN122",
+      "nm_mk": "ICT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK212",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN212",
+      "nm_mk": "AL-ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN222",
+      "nm_mk": "PPKN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN232",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK222",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF223",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF214",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF233",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF313",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF343",
+      "nm_mk": "BASIS DATA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK312",
+      "nm_mk": "MATRIK DAN RUANG VEKTOR (ALJABAR LINIER)",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN322",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK323",
+      "nm_mk": "STATISTIKA DAN PROBABILITAS",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF332",
+      "nm_mk": "ARSITEKTUR DAN ORGANISASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF323",
+      "nm_mk": "PEMROGRAMAN ORIENTASI OBJEK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN312",
+      "nm_mk": "AL-ISLAM III",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF472",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF462",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF413",
+      "nm_mk": "DECISION SUPPORT SYSTEMS",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF453",
+      "nm_mk": "TEORI BAHASA DAN OTOMATA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF482",
+      "nm_mk": "GRAFIKA KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF433",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF422",
+      "nm_mk": "PERANCANGAN SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF443",
+      "nm_mk": "PEMROGRAMAN BERBASIS WEB",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN512",
+      "nm_mk": "KULIAH KERJA NYATA (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF513",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF533",
+      "nm_mk": "KEAMANAN INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF552",
+      "nm_mk": "KOMPUTER MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF563",
+      "nm_mk": "MANAJEMEN PROYEK TI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF543",
+      "nm_mk": "DATA WAREHOUSE DAN MINING",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF523",
+      "nm_mk": "SISTEM MULTIMEDIA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF663",
+      "nm_mk": "KRIPTOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF633",
+      "nm_mk": "TEKNIK KOMPILASI",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF643",
+      "nm_mk": "PEMROGRAMAN BERBASIS KERANGKA KERJA",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF653",
+      "nm_mk": "PENGEMBANGAN APLIKASI PADA PLATFORM KHUSUS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF612",
+      "nm_mk": "PEMODELAN DAN SIMULASI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF623",
+      "nm_mk": "KECERDASAAN TIRUAN",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK613",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KUSUMA FEBI APRIADI",
+    "jk": "L",
+    "nipd": "41037006200060",
+    "namapt": "Universitas Islam Nusantara",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "35CCBD39-F7AB-44F4-892A-D8884EB66A46",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDIxNEY5MTktMDA1Qi00MDA1LThBRDQtMEMxRTE1QzU1NDZB",
+    "link_prodi": "/data_prodi/Q0YwREI2NkUtMTQyNi00REJDLUFCMDItNkNCOTUwNUUzMkE4"
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PAF201",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF204",
+      "nm_mk": "METODE PENGUKURAN FISIS",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF203P",
+      "nm_mk": "PRAKTIKUM KIMIA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK101F",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF202",
+      "nm_mk": "MATEMATIKA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF201P",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MSN104A",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF203",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF206A",
+      "nm_mk": "MATEMATIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK102",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF287",
+      "nm_mk": "FISIKA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU110A",
+      "nm_mk": "TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF207",
+      "nm_mk": "BIOLOGI DASAR",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU108A",
+      "nm_mk": "OLAH RAGA",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF290",
+      "nm_mk": "FISIKA ENERGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF286",
+      "nm_mk": "STANDARISASI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF205",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF205PA",
+      "nm_mk": "PRAKT. FISIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF221B",
+      "nm_mk": "FISIKA KOMPUTASI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF217A",
+      "nm_mk": "TERMODINAMIKA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF215A",
+      "nm_mk": "MEKANIKA I",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF218A",
+      "nm_mk": "ELEKTRODINAMIKA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF208",
+      "nm_mk": "FISIKA MATEMATIKA I",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF216B",
+      "nm_mk": "FISIKA MATEMATIKA II",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF221P",
+      "nm_mk": "PRAKT. FISIKA KOMPUTASI",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF220",
+      "nm_mk": "FISIKA ZAT PADAT PENDAHULUAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF223A",
+      "nm_mk": "FISIKA STATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU109",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF227",
+      "nm_mk": "SENSOR DAN TRANSDUSER",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF224A",
+      "nm_mk": "PRAKTIKUM KERJA LABORATORIUM I",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF226PA",
+      "nm_mk": "FISIKA EKSPERIMEN I",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF219",
+      "nm_mk": "MEKANIKA II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF246A",
+      "nm_mk": "NANOMATERIAL",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF203P",
+      "nm_mk": "PRAKTIKUM KIMIA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF222A",
+      "nm_mk": "FISIKA KUANTUM I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF203",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF245A",
+      "nm_mk": "TEKNOLOGI LAPISAN TIPIS",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF225P",
+      "nm_mk": "PRAKTEK KERJA LAB. I",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF253P",
+      "nm_mk": "PRAKT. PREPARASI DAN KARAKT. MATERIAL",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF229A",
+      "nm_mk": "OPTIKA MODERN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF208",
+      "nm_mk": "FISIKA MATEMATIKA I",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF230PA",
+      "nm_mk": "FISIKA EKSPERIMEN II",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF251",
+      "nm_mk": "MATERIAL MAGNETIK DAN DIELEKTRIK",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF218A",
+      "nm_mk": "ELEKTRODINAMIKA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF228A",
+      "nm_mk": "FISIKA KUANTUM II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF255",
+      "nm_mk": "GEOLOGI FISIS",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF250",
+      "nm_mk": "SEMIKONDUKTOR",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF252",
+      "nm_mk": "SUPERKONDUKTOR",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF254",
+      "nm_mk": "GEOSAINS",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF223A",
+      "nm_mk": "FISIKA STATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF224A",
+      "nm_mk": "PRAKTIKUM KERJA LABORATORIUM I",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF231A",
+      "nm_mk": "TELEMETRI DAN TELEKONTROL",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF247",
+      "nm_mk": "HOLOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NWU411",
+      "nm_mk": "KKN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF203P",
+      "nm_mk": "PRAKTIKUM KIMIA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF209A",
+      "nm_mk": "LISTRIK MAGNET",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF210A",
+      "nm_mk": "ELEKTRONIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF285A",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF206A",
+      "nm_mk": "MATEMATIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF260",
+      "nm_mk": "FISIKA PLASMA & FUSI NUKLIR",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF241A",
+      "nm_mk": "PROGRAMMABLE LOGIC CONTROLLER",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF291P",
+      "nm_mk": "PKL II",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF234A",
+      "nm_mk": "Elektronika Digital",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF281A",
+      "nm_mk": "QUALITY ASSURANCE",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF269A",
+      "nm_mk": "GRAVITY DAN GEOMAGNET",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF300A",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF263",
+      "nm_mk": "Proteksi Radiasi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFS21335",
+      "nm_mk": "Fisika Modern",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFS21315",
+      "nm_mk": "Praktikum Kimia Dasar",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF218",
+      "nm_mk": "Elektrodinamika",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAF215",
+      "nm_mk": "GELOMBANG",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AFS21500",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DWI GADA FIRMAN S",
+    "jk": "L",
+    "nipd": "24040113130097    ",
+    "namapt": "Universitas Diponegoro",
+    "namajenjang": "S1",
+    "namaprodi": "Fisika",
+    "reg_pd": "1ED4C2B7-EAE4-4603-9F22-DDD98B910DF3",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-07-27T00:00:00Z",
+    "no_seri_ijazah": "452012018000709",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTREMDFCRjMtODI1NS00NzRCLUI5NkQtNDQyNjEzNUVFRDAx",
+    "link_prodi": "/data_prodi/QkJERkRCRTEtOUE3Ni00QkM0LUExMEUtNDBEMTE4OTc3QjQy"
+  }
+}

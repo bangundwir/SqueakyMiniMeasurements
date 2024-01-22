@@ -1,0 +1,180 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EL5306",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL1301",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL5308",
+      "nm_mk": "ARTIFICIAL INTELLIGENT",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL5304",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL1302",
+      "nm_mk": "ALJABAR LINIER",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL5309",
+      "nm_mk": "MATEMATIKA TEKNIK 2",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL3107",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL3206",
+      "nm_mk": "MATEMATIKA TEKNIK 1",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL1106",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL6503",
+      "nm_mk": "WIRELESS SENSOR NETWORK",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL7222",
+      "nm_mk": "SEMINAR PROPOSAL SKRIPSI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL2204",
+      "nm_mk": "FISIKA 2",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL6509",
+      "nm_mk": "PENGOLAHAN SINYAL DIGITAL",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL4307",
+      "nm_mk": "PENGANTAR TIK DAN IoT",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL6711",
+      "nm_mk": "TEKNOLOGI PENGINDERAAN JARAK JAUH",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL2205",
+      "nm_mk": "PROBABILITAS DAN STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL7508",
+      "nm_mk": "PERANCANGAN SISTEM DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL7501",
+      "nm_mk": "SISTEM EMBEDED LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL7507",
+      "nm_mk": "INSTRUMENTASI MEDIKA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL8223",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TRIGEL SITOMPUL",
+    "jk": "P",
+    "nipd": "1912903",
+    "namapt": "Institut Teknologi Nasional Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Elektro",
+    "reg_pd": "994F6A54-B4A6-4901-BE29-BFDD7C41A93F",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Alih Jenjang",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-02-27T00:00:00Z",
+    "no_seri_ijazah": "202012021000151",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDE2MTAzNkQtQ0Y4QS00MDhFLUIxNEYtRDlGNUI0QkE4RkIy",
+    "link_prodi": "/data_prodi/RUMwMjAyMEYtODdFQi00NDE5LTkyM0MtREVDMzkwMkNFNkU2"
+  }
+}

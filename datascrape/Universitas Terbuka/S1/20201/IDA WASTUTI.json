@@ -1,0 +1,202 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EKMA4369",
+      "nm_mk": "Manajemen Operasi Jasa",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4316",
+      "nm_mk": "Hukum Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4314",
+      "nm_mk": "Perekonomian Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4216",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4311",
+      "nm_mk": "Studi Kelayakan Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4434",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADBI4201",
+      "nm_mk": "Bahasa Inggris Niaga",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4221",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4366",
+      "nm_mk": "Pengembangan SDM",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4568",
+      "nm_mk": "Pemasaran Jasa",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4116",
+      "nm_mk": "Manajemen",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4111",
+      "nm_mk": "Pengantar Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4122",
+      "nm_mk": "Matematika Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4263",
+      "nm_mk": "Manajemen Kinerja",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4475",
+      "nm_mk": "Pemasaran Strategik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4157",
+      "nm_mk": "Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4413",
+      "nm_mk": "Riset Operasi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4158",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4569",
+      "nm_mk": "Perencanaan Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "IDA WASTUTI",
+    "jk": "P",
+    "nipd": "042472171",
+    "namapt": "Universitas Terbuka",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "FC992CF0-8C26-48E9-A2BF-7628E73802D9",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEY0NjBGOTctNkQ0Ny00RDk2LThBMkEtNDM2MUVBMDRGM0U4",
+    "link_prodi": "/data_prodi/MTc3MkQ1QjktOERGMi00QTVGLUI1REQtRUIyM0U2OTVGQTAz"
+  }
+}

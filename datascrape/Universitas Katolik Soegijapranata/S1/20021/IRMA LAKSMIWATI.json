@@ -1,0 +1,615 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20021",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20031",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20032",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20041",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20042",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20051",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20052",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20061",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 2,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PSO106",
+      "nm_mk": "KAPITA SELEKTA PSIKOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO107",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO104",
+      "nm_mk": "ANTROPOBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO108",
+      "nm_mk": "STATISTIKA I",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO101",
+      "nm_mk": "FILSAFAT",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO103",
+      "nm_mk": "ANTROPOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKS109",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO105",
+      "nm_mk": "PSIKOLOGI UMUM I",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO102",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO110",
+      "nm_mk": "PSIKOLOGI SOSIAL I",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO203",
+      "nm_mk": "STATISTIKA II",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO109",
+      "nm_mk": "FILSAFAT MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO201",
+      "nm_mk": "PSIKOLOGI UMUM II",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO111",
+      "nm_mk": "PSIKOLOGI FAAL",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO202",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO115",
+      "nm_mk": "BAHASA INGGRIS PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO114",
+      "nm_mk": "KODE ETIK PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKS108",
+      "nm_mk": "PENGANTAR APLIKASI KOMP.",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO218",
+      "nm_mk": "TES PSIKOLOGI I : TES IN",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO217",
+      "nm_mk": "PSIKOLOGI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO211",
+      "nm_mk": "PSIKOLOGI SOSIAL II",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO215",
+      "nm_mk": "PSIKOLOGI KLINIS",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO216",
+      "nm_mk": "PSIKOLOGI KEPRIBADIAN I",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO214",
+      "nm_mk": "PSIKOLOGI INDUSTRI DAN OR",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO213",
+      "nm_mk": "TEORI BELAJAR",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO212",
+      "nm_mk": "PSIKOLOGI LINTAS BUDAYA",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO221",
+      "nm_mk": "METODOLOGI PENELITIAN I:",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO223",
+      "nm_mk": "PSIKOLOGI ABNORMAL",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO219",
+      "nm_mk": "PSIKOLOGI KELOMPOK",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO224",
+      "nm_mk": "PSIKOLOGI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO222",
+      "nm_mk": "PERILAKU MANUSIA DALAM OR",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO301",
+      "nm_mk": "PSIKOLOGI KEPRIBADIAN II",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO220",
+      "nm_mk": "PSIKOLOGI EKSPERIMEN",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO225",
+      "nm_mk": "TES PSIKOLOGI II : TES KE",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO226",
+      "nm_mk": "PSIKOLOGI KOGNITIF",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO317",
+      "nm_mk": "WAWANCARA",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO316",
+      "nm_mk": "OBSERVASI",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO302",
+      "nm_mk": "METODOLOGI PENELITIAN II:",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO315",
+      "nm_mk": "TES PSIKOLOGI III: INVENT",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO312",
+      "nm_mk": "PSIKOLOGI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO313",
+      "nm_mk": "KONSTRUKSI ALAT UKUR",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO311",
+      "nm_mk": "KESEHATAN MENTAL",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO314",
+      "nm_mk": "KONSELING PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO560",
+      "nm_mk": "PSIKOLOGI KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO318",
+      "nm_mk": "ASESMEN PSIKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO536",
+      "nm_mk": "MODIFIKASI PERILAKU",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO521",
+      "nm_mk": "PSIKOLOGI KELUARGA",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO538",
+      "nm_mk": "KONSELING PERKAWINAN",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO533",
+      "nm_mk": "PSIKIATRI",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO114",
+      "nm_mk": "KODE ETIK PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO523",
+      "nm_mk": "PSI & PEND ANAK LUAR BIAS",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO552",
+      "nm_mk": "PSIKOLOGI OLAH RAGA",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO514",
+      "nm_mk": "HUKUM PERBURUHAN",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO563",
+      "nm_mk": "ANALISA JABATAN",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO545",
+      "nm_mk": "PENDIDIKAN SEKSUALITAS",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO319",
+      "nm_mk": "BIMBINGAN MENULIS SKRIPSI",
+      "sks_mk": 1,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO535",
+      "nm_mk": "PSIKOLOGI KOMUNITAS",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO317",
+      "nm_mk": "WAWANCARA",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO542",
+      "nm_mk": "PSIKOLOGI KESEHATAN TERAP",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO511",
+      "nm_mk": "ERGONOMI",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO561",
+      "nm_mk": "NARKOBA DALAM KAJIAN PSIK",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKS410",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO528",
+      "nm_mk": "PSIKOLOGI KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO109",
+      "nm_mk": "FILSAFAT MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO202",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO564",
+      "nm_mk": "PSIKOLOGI MASSA",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO301",
+      "nm_mk": "PSIKOLOGI KEPRIBADIAN II",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO213",
+      "nm_mk": "TEORI BELAJAR",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO102",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO107",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO212",
+      "nm_mk": "PSIKOLOGI LINTAS BUDAYA",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO216",
+      "nm_mk": "PSIKOLOGI KEPRIBADIAN I",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO564",
+      "nm_mk": "PSIKOLOGI MASSA",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSO411",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI411",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "IRMA LAKSMIWATI",
+    "jk": "P",
+    "nipd": "02400219",
+    "namapt": "Universitas Katolik Soegijapranata",
+    "namajenjang": "S1",
+    "namaprodi": "Psikologi",
+    "reg_pd": "97EC0B6A-5A50-4FBB-9ED9-AE6956B14AB8",
+    "mulai_smt": "20021",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2008-02-18T00:00:00Z",
+    "no_seri_ijazah": "PSI.2021",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RTVFNzg2RkItQjhBNy00OUU2LUJBRDgtM0Q4RThFMEE0RUJG",
+    "link_prodi": "/data_prodi/MDA0MjY5QTUtNUM1RC00NUEwLTgzQUEtQ0Y4MjdGNEQ3OEUz"
+  }
+}

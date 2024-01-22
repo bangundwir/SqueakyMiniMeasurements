@@ -1,0 +1,169 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20071",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": null,
+      "nm_stat_mhs": "Drop-Out/Putus Studi"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MAK4103",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAM4180",
+      "nm_mk": "MATEMATIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4004",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP4190",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAB4150",
+      "nm_mk": "BIOLOGI DASAR",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS4121",
+      "nm_mk": "METODE STATISTIKA I",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAM4181",
+      "nm_mk": "PENG.HIMPUNAN LOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS4218",
+      "nm_mk": "PENGANTAR TEORI PELUANG +",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS4221",
+      "nm_mk": "METODE STATISTIKA II +",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAM4282",
+      "nm_mk": "MATRIKS DAN RUANG VEKTOR",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG4002",
+      "nm_mk": "Pendidikan Agama Katolik",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS4131",
+      "nm_mk": "PENGANTAR ANALISIS REGRESI",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAM4281",
+      "nm_mk": "MATEMATIKA I",
+      "sks_mk": 4,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS4111",
+      "nm_mk": "STATISTIKA MATEMATIKA I",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI4180A",
+      "nm_mk": "KOMPUTER DASAR +",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS4141",
+      "nm_mk": "PEMROGRAMAN LINIER",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS4122",
+      "nm_mk": "PENGANTAR RANCOB",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JOHANS MARAS PONDA",
+    "jk": "L",
+    "nipd": "0710953031",
+    "namapt": "Universitas Brawijaya",
+    "namajenjang": "S1",
+    "namaprodi": "Statistika",
+    "reg_pd": "1E6193D1-D559-4C81-BA9E-860892F30833",
+    "mulai_smt": "20071",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": "2008-02-01T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTlBM0I3QUYtNjQ3MC00RDE4LThCMDYtMDk5NDFFNjYzQjA3",
+    "link_prodi": "/data_prodi/RUI2ODY1REEtREQ0NS00NkQ5LUFEQ0QtOUQ3QTY1RDAzNjM3"
+  }
+}

@@ -92,6 +92,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EA23331",
+      "nm_mk": "AKUNTANSI BIAYA/LAB",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA44401",
+      "nm_mk": "KONS. AKT. PERPAJAKAN",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11061",
+      "nm_mk": "ILMU ALAMIAH DASAR",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EA23311",
       "nm_mk": "AKT. KEU. MENENGAH I/LAB",
       "sks_mk": 2,
@@ -106,9 +127,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA23331",
-      "nm_mk": "AKUNTANSI BIAYA/LAB",
-      "sks_mk": 2,
+      "kode_mk": "EK32451",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 4,
       "id_smt": "20022",
       "nilai_huruf": null
     },
@@ -123,21 +144,7 @@
       "kode_mk": "DU11061",
       "nm_mk": "ILMU ALAMIAH DASAR",
       "sks_mk": 2,
-      "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA44401",
-      "nm_mk": "KONS. AKT. PERPAJAKAN",
-      "sks_mk": 2,
-      "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK32451",
-      "nm_mk": "METODE PENELITIAN",
-      "sks_mk": 4,
-      "id_smt": "20022",
+      "id_smt": "20031",
       "nilai_huruf": null
     },
     {
@@ -169,22 +176,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "DU11061",
-      "nm_mk": "ILMU ALAMIAH DASAR",
-      "sks_mk": 2,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EA23341",
       "nm_mk": "AKUNTANSI MANAJEMEN/LAB",
-      "sks_mk": 4,
-      "id_smt": "20032",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA44404",
-      "nm_mk": "KONS. SEMINAR PERPAJAKAN",
       "sks_mk": 4,
       "id_smt": "20032",
       "nilai_huruf": null
@@ -193,6 +186,13 @@
       "kode_mk": "EA44403",
       "nm_mk": "KONS. PERPAJAKAN. INTER.",
       "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA44404",
+      "nm_mk": "KONS. SEMINAR PERPAJAKAN",
+      "sks_mk": 4,
       "id_smt": "20032",
       "nilai_huruf": null
     },
@@ -232,13 +232,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA23341",
-      "nm_mk": "AKUNTANSI MANAJEMEN/LAB",
-      "sks_mk": 4,
-      "id_smt": "20041",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EA23321",
       "nm_mk": "AKT. KEU. LANJUTAN I/LAB",
       "sks_mk": 2,
@@ -246,10 +239,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA44402",
-      "nm_mk": "KONS. PERC.& PEMERK.PAJAK",
+      "kode_mk": "EA23341",
+      "nm_mk": "AKUNTANSI MANAJEMEN/LAB",
       "sks_mk": 4,
-      "id_smt": "20042",
+      "id_smt": "20041",
       "nilai_huruf": null
     },
     {
@@ -262,6 +255,13 @@
     {
       "kode_mk": "EA33322",
       "nm_mk": "AKT.KEU.LANJUTAN II/LAB",
+      "sks_mk": 4,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA44402",
+      "nm_mk": "KONS. PERC.& PEMERK.PAJAK",
       "sks_mk": 4,
       "id_smt": "20042",
       "nilai_huruf": null
@@ -295,13 +295,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA33401",
-      "nm_mk": "TEORI AKUNTANSI",
-      "sks_mk": 4,
-      "id_smt": "20051",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EA44341",
       "nm_mk": "SEMINAR AKUNTANSI",
       "sks_mk": 4,
@@ -309,16 +302,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA23341",
-      "nm_mk": "AKUNTANSI MANAJEMEN/LAB",
+      "kode_mk": "EA33401",
+      "nm_mk": "TEORI AKUNTANSI",
       "sks_mk": 4,
-      "id_smt": "20052",
+      "id_smt": "20051",
       "nilai_huruf": null
     },
     {
       "kode_mk": "EA45011",
       "nm_mk": "SKRIPSI",
       "sks_mk": 6,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA23341",
+      "nm_mk": "AKUNTANSI MANAJEMEN/LAB",
+      "sks_mk": 4,
       "id_smt": "20052",
       "nilai_huruf": null
     }

@@ -1,0 +1,206 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20153",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20163",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SA235",
+      "nm_mk": "MANAJEMEN",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA207",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA209",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA223",
+      "nm_mk": "P.I.E(MAKRO)",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA225",
+      "nm_mk": "AKUNTANSI PENGANTAR II",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA231",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA208",
+      "nm_mk": "BHSINDONESIA KORBISNIS",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA233",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA344",
+      "nm_mk": "BAHASA MANDARIN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA333",
+      "nm_mk": "STATISTIK BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA314",
+      "nm_mk": "AKUNTANSI KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA339",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA342",
+      "nm_mk": "PERILAKU KEORGANISASIAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA315",
+      "nm_mk": "EK.PEMBANGUNAN & PER.INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA343",
+      "nm_mk": "LEMBAGA KEUANGAN (KONV. & SYARIAH)",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA422",
+      "nm_mk": "AKUNTANSI KEUANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA778",
+      "nm_mk": "AUDIT MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA450",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA444",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA858",
+      "nm_mk": "SEMINAR AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA669",
+      "nm_mk": "PRAKTIKA AUDITING I",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA639",
+      "nm_mk": "AUDITING II",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SA668",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Among Prakarsa",
+    "jk": "L",
+    "nipd": null,
+    "namapt": "Universitas Sangga Buana",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "F4E48427-2D78-4A01-885D-7E1E769038F7",
+    "mulai_smt": "20132",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": "2019-02-18T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzQ0MTkxMkUtN0FDMi00M0FELTkzODUtMEYwN0FFQzYxRTQy",
+    "link_prodi": "/data_prodi/NTA4RTlFMTAtREQ1Qi00MUNELUJBRTItMkREQUE4OTE3OUM5"
+  }
+}

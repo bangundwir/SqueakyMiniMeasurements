@@ -1,0 +1,427 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "111",
+      "nm_mk": "ILMU DASAR KEPERAWATAN I",
+      "sks_mk": 7,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "109",
+      "nm_mk": "ILMU KEPERAWATAN DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "108",
+      "nm_mk": "ILMU KEPERAWATAN DASAR I",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "104",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "102",
+      "nm_mk": "PPKN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1423",
+      "nm_mk": "SISTEM KARDIOVASKULER I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "212",
+      "nm_mk": "ILMU DASAR KEPERAWATAN II",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "203",
+      "nm_mk": "ILMU SOSIAL DASAR",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "205",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SN1316",
+      "nm_mk": "ILMU KEPERAWATAN DASAR IV",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1318",
+      "nm_mk": "SISTEM IMUN DAN HEMATOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1306",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1317",
+      "nm_mk": "SISTEM RESPIRASI",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1338",
+      "nm_mk": "PRAKTEK KDDK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1333",
+      "nm_mk": "RISET KEPERAWATAN II",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1319",
+      "nm_mk": "SISTEM NEUROBEHAVIOR",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1316",
+      "nm_mk": "ILMU KEPERAWATAN DASAR IV",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1427",
+      "nm_mk": "KEPERAWATAN KOMUNITAS I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1420",
+      "nm_mk": "SISTEM SENSORI PERSEPSI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1421",
+      "nm_mk": "SISTEM ENDOKRIN",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1448",
+      "nm_mk": "SOSIAL POLITIK KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1422",
+      "nm_mk": "SISTEM PENCERNAAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1439",
+      "nm_mk": "KOMPREHENSIF I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1523",
+      "nm_mk": "SISTEM MUSKULOSKELETAL",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1525",
+      "nm_mk": "SISTEM PERKEMIHAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1531",
+      "nm_mk": "MANAGEMEN KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1507",
+      "nm_mk": "BAHASA INGGRIS DALAM KEPERAWATAN I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1540",
+      "nm_mk": "KOMPREHENSIF II (KMB I)",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1528",
+      "nm_mk": "KEPERAWATAN KOMUNITAS II",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1524",
+      "nm_mk": "SISTEM INTEGUMEN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1645",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1629",
+      "nm_mk": "KEPERAWATAN KOMUNITAS III",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1634",
+      "nm_mk": "KEPERAWATAN KEGAWATDARURATAN SISTEM I",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1641",
+      "nm_mk": "KOMPREHENSIF III",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1647",
+      "nm_mk": "KEPERAWATAN ALTERNATIF",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1626",
+      "nm_mk": "SISTEM REPRODUKSI",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1736",
+      "nm_mk": "Keperawatan Kegawatdaruratan Sistem III",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1742",
+      "nm_mk": "KOMPREHENSIF IV",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1730",
+      "nm_mk": "KEPERAWATAN KOMUNITAS IV",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1735",
+      "nm_mk": "KEGAWATDARURATAN SISTEM II",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1837",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1843",
+      "nm_mk": "KOMPREHENSIF V",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1735",
+      "nm_mk": "Keperawatan Kegawatdaruratan Sistem II",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1736",
+      "nm_mk": "Keperawatan Kegawatdaruratan Sistem III",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1730",
+      "nm_mk": "KEPERAWATAN KOMUNITAS IV",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1742",
+      "nm_mk": "Komprehensif IV (Gadar, Kritis)",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1843",
+      "nm_mk": "KOMPREHENSIF V",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1844",
+      "nm_mk": "TOEFL PREPARATION",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1845",
+      "nm_mk": "ELEKTIF (WOUND CARE)",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "S1837",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "VERA NOVITASRI",
+    "jk": "P",
+    "nipd": "S11046            ",
+    "namapt": "STIKES Kusuma Husada Surakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Keperawatan",
+    "reg_pd": "7F75AF5B-EB17-429E-8EC0-3AA65FCB00EA",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-09-29T00:00:00Z",
+    "no_seri_ijazah": "S11046/063086/14201/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MERDMjIxNEUtOEYwRC00NjM2LTlFRTYtMUJBRjQ2RTZDQUJE",
+    "link_prodi": "/data_prodi/NEQxMjI2NjgtNTA4Ny00MTJELTlCMTgtNDNGOEExQUU5ODUz"
+  }
+}

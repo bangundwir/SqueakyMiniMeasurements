@@ -52,15 +52,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK071014",
-      "nm_mk": "Pengantar Ilmu Ekonomi",
-      "sks_mk": 2,
+      "kode_mk": "MKK071005",
+      "nm_mk": "Pengantar TeknologiI Informasi",
+      "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
     },
     {
       "kode_mk": "MKK071006",
       "nm_mk": "Sistem Operasi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK071014",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
       "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -87,27 +94,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK071005",
-      "nm_mk": "Pengantar TeknologiI Informasi",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKB071005",
-      "nm_mk": "Komputer Grafik 1 (Adobe PageMaker) *",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MPB071001",
-      "nm_mk": "Kewirausahaan dan Manajemen Bisnis",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKK071008",
       "nm_mk": "Metode Penelitian & Penulisan Karya Ilmiah",
       "sks_mk": 2,
@@ -115,8 +101,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB071008",
-      "nm_mk": "Sistem Operasi GUI 1 (OS Windows)*",
+      "kode_mk": "MKK071007",
+      "nm_mk": "Algoritma dan Flowchart",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -129,8 +115,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK071007",
-      "nm_mk": "Algoritma dan Flowchart",
+      "kode_mk": "MKB071005",
+      "nm_mk": "Komputer Grafik 1 (Adobe PageMaker) *",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB071008",
+      "nm_mk": "Sistem Operasi GUI 1 (OS Windows)*",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB071001",
+      "nm_mk": "Kewirausahaan dan Manajemen Bisnis",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -206,6 +206,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MBB071004",
+      "nm_mk": "Tugas Proyek (TP)",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB071004",
+      "nm_mk": "Rekayasa WEB dan Internet *",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB071016",
+      "nm_mk": "Pemrograman Visual Basic Lanjutan *",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MPB071003",
       "nm_mk": "Manajemen Umum",
       "sks_mk": 2,
@@ -220,23 +241,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB071016",
-      "nm_mk": "Pemrograman Visual Basic Lanjutan *",
-      "sks_mk": 4,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MBB071004",
-      "nm_mk": "Tugas Proyek (TP)",
+      "kode_mk": "MBB071002",
+      "nm_mk": "Etika Profesi",
       "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKB071004",
-      "nm_mk": "Rekayasa WEB dan Internet *",
-      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -255,41 +262,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MBB071002",
-      "nm_mk": "Etika Profesi",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKB071017",
-      "nm_mk": "Computer Aided Design (CAD) *",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKK071011",
-      "nm_mk": "Analisis dan Desain Sistem Informasi",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKB071018",
-      "nm_mk": "Aplikasi Multimedia 1 *",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKB071009",
-      "nm_mk": "Sistem Operasi GUI 2 (OS Linux)*",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKB071011",
       "nm_mk": "Pemrograman Berorientasi Objek *",
       "sks_mk": 2,
@@ -297,8 +269,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MPB071002",
-      "nm_mk": "Sistem Informasi Manajemen",
+      "kode_mk": "MKK071011",
+      "nm_mk": "Analisis dan Desain Sistem Informasi",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -311,10 +283,31 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB071019",
-      "nm_mk": "Aplikasi Multimedia 2 *",
+      "kode_mk": "MKB071018",
+      "nm_mk": "Aplikasi Multimedia 1 *",
       "sks_mk": 3,
-      "id_smt": "20192",
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB071002",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB071009",
+      "nm_mk": "Sistem Operasi GUI 2 (OS Linux)*",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB071017",
+      "nm_mk": "Computer Aided Design (CAD) *",
+      "sks_mk": 3,
+      "id_smt": "20191",
       "nilai_huruf": null
     },
     {
@@ -325,8 +318,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB071012",
-      "nm_mk": "Pemrograman Berorientasi Objek Lanjutan *",
+      "kode_mk": "MKB071019",
+      "nm_mk": "Aplikasi Multimedia 2 *",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK071002",
+      "nm_mk": "Extra Kokurikuler",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB071005",
+      "nm_mk": "Tugas Proyek Akhir (TPA)",
       "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -339,16 +346,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MBB071005",
-      "nm_mk": "Tugas Proyek Akhir (TPA)",
+      "kode_mk": "MKB071012",
+      "nm_mk": "Pemrograman Berorientasi Objek Lanjutan *",
       "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MPK071002",
-      "nm_mk": "Extra Kokurikuler",
-      "sks_mk": 1,
       "id_smt": "20192",
       "nilai_huruf": null
     }

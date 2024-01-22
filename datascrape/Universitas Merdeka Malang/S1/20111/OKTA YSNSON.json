@@ -1,0 +1,457 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": null,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "451270",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451150",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451711",
+      "nm_mk": "PRAKTIKUM SISTEM KONTROL",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451562",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451915",
+      "nm_mk": "MEKATRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451730",
+      "nm_mk": "PROGRAMMABLE LOGIC CONTROLLER",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451434",
+      "nm_mk": "PRAKTIKUM ELEKTRONIKA LANJUT",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451810",
+      "nm_mk": "MIKROKONTROLER",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451813",
+      "nm_mk": "PEMROSESAN SINYAL DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451805",
+      "nm_mk": "KOMUNIKASI DATA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451444",
+      "nm_mk": "SISTEM INSTRUMENTASI ELEKTRONIKA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451912",
+      "nm_mk": "ELEKTRONIKA BIOMEDIK",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451823",
+      "nm_mk": "PRAKTIKUM INTERFACE",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451803",
+      "nm_mk": "ROBOTIKA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451914",
+      "nm_mk": "TEKNOLOGI SELULER",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451901",
+      "nm_mk": "PEMROGRAMAN VISUAL LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451818",
+      "nm_mk": "SISTEM KONTROL CERDAS",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451816",
+      "nm_mk": "PLC LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451206",
+      "nm_mk": "PRAK. DASAR SISTEM TELEKOMUNIKASI",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451711",
+      "nm_mk": "PRAKTIKUM SISTEM KONTROL",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451673",
+      "nm_mk": "PRAKTIKUM ROBOTIKA",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451570",
+      "nm_mk": "PENGOLAHAN CITRA DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451106",
+      "nm_mk": "ALGORITMA, PEMROGRAMAN DAN LAB. KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451105",
+      "nm_mk": "DASAR SISTEM TELEKOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451303",
+      "nm_mk": "SISTEM DIGITAL DAN MIKROPROSESOR",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451450",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451573",
+      "nm_mk": "MEKATRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451304",
+      "nm_mk": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451702",
+      "nm_mk": "SEMINAR TUGAS AKHIR",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451692",
+      "nm_mk": "PRAK. PERANCANGAN SISTEM ELKA",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451305",
+      "nm_mk": "PRAKTIKUM RANGKAIAN DIGITAL",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451772",
+      "nm_mk": "SISTEM PENGATURAN ADAPTIF",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451594",
+      "nm_mk": "KECERDASAN BUATAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451306",
+      "nm_mk": "PRAK. DSR KONVERSI ENERGI ELEKTRIK",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451301",
+      "nm_mk": "PROBABILITAS DAN STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451592",
+      "nm_mk": "PERANCANGAN SISTEM ELEKTRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451448",
+      "nm_mk": "PKN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451550",
+      "nm_mk": "SISTEM JARINGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451572",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451701",
+      "nm_mk": "PENGANTAR TECHNOPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451565",
+      "nm_mk": "BASIS DATA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451591",
+      "nm_mk": "SISTEM INSTRUMENTASI ELEKTRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451501",
+      "nm_mk": "PRAK. PENGOLAHAN SINYAL DIGITAL",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451571",
+      "nm_mk": "TEKNOLOGI MIKROKONTROLLER",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451205",
+      "nm_mk": "BAHASA PEMROGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451672",
+      "nm_mk": "SISTEM KONTROL DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451693",
+      "nm_mk": "PRAKTIKUM SISTEM KONTROL LANJUT",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451550",
+      "nm_mk": "SISTEM JARINGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451690",
+      "nm_mk": "TEKNOLOGI TRANSDUSER",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451691",
+      "nm_mk": "PROGRAMMABLE LOGIC CONTROLLER LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451695",
+      "nm_mk": "SISTEM KENDALI NIRKABEL",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451674",
+      "nm_mk": "PRAK. PENGOLAHAN CITRA DIGITAL",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451404",
+      "nm_mk": "PRAKTIKUM MIKROKONTROLLER",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451671",
+      "nm_mk": "KECERDASAN BUATAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451681",
+      "nm_mk": "KOMUNIKASI ANALOG DAN DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "451782",
+      "nm_mk": "PENGOLAHAN SINYAL MULTIMEDIA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "OKTA YSNSON",
+    "jk": "L",
+    "nipd": "11450014          ",
+    "namapt": "Universitas Merdeka Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Elektro",
+    "reg_pd": "FF04F367-C07B-49DD-99B9-1A9E8E2B1EB9",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-08-26T00:00:00Z",
+    "no_seri_ijazah": "45-0003/UM/II/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODRCMjU0NTUtNkVGQi00RjdDLUIxQjEtRTFEMUNBNEM2QUM4",
+    "link_prodi": "/data_prodi/NTA3M0JEQkItQzgxMi00NjdDLUFCNUQtMkI1NTk3ODE2NzZF"
+  }
+}

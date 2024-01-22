@@ -1,0 +1,511 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PEL1.61.1304",
+      "nm_mk": "Senam Dasar",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.2101",
+      "nm_mk": "Gizi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.1106",
+      "nm_mk": "Dasar-Dasar Pendidikan Jasmani",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.2301",
+      "nm_mk": "Pengantar Ilmu Melatih",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.1308",
+      "nm_mk": "Bulutangkis Dasar",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.1302",
+      "nm_mk": "SepakBola Dasar",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.1309",
+      "nm_mk": "Aplikasi Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.1102",
+      "nm_mk": "Anatomi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.2201",
+      "nm_mk": "Fisiologi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.1306",
+      "nm_mk": "Bola Voli Dasar",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.3101",
+      "nm_mk": "Pengantar Statistik",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.1307",
+      "nm_mk": "Renang Dasar",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1403",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.4201",
+      "nm_mk": "Psikologi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.1305",
+      "nm_mk": "Atletik Dasar",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.1102",
+      "nm_mk": "Pengantar Belajar Motorik",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.3101",
+      "nm_mk": "Bola Basket Dasar",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.1101",
+      "nm_mk": "Sosiologi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1405",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.1103",
+      "nm_mk": "Filsafat Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.2102",
+      "nm_mk": "Tenis Meja Dasar",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.4101",
+      "nm_mk": "Fisiologi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.4103",
+      "nm_mk": "Massage",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.2101",
+      "nm_mk": "Pertumbuhan dan Perkembangan Fisik Motorik",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.3102",
+      "nm_mk": "Aplikasi Ilmu Melatih",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.3103",
+      "nm_mk": "Pencak Silat Dasar",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5101",
+      "nm_mk": "Pencegahan dan Perawatan Cedera",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.3102",
+      "nm_mk": "Pengantar Metode Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.1201",
+      "nm_mk": "Dasar-dasar Ilmu Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.6102",
+      "nm_mk": "Manajemen Kepelatihan Olahraga",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL2.61.4101",
+      "nm_mk": "Renang Pendalaman",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5106",
+      "nm_mk": "Statistik Terapan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL2.61.3101",
+      "nm_mk": "Tenis Lapangan Dasar",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5103",
+      "nm_mk": "Pengelolaan Fitness Centre",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.4102",
+      "nm_mk": "Sistem Organisasi Pertandingan Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.4104",
+      "nm_mk": "Tes Pengukuran Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.4201",
+      "nm_mk": "Bimbingan Dan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5302",
+      "nm_mk": "Biomekanika Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5102",
+      "nm_mk": "Perencanaan Pembelajaran dan Telaah Kurikulum",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5301",
+      "nm_mk": "Strategi Pembelajaran Pendidikan Olahraga",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5104",
+      "nm_mk": "Aplikasi Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL2.61.3134",
+      "nm_mk": "Komputer",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.2101",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL2.61.4301",
+      "nm_mk": "Bolavoli Pendalaman",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5105",
+      "nm_mk": "Evaluasi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.3201",
+      "nm_mk": "Belajar Motorik Lanjutan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.6101",
+      "nm_mk": "Micro Teaching",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.4201",
+      "nm_mk": "Pembentukan Kondisi Fisik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.6303",
+      "nm_mk": "Sport Entrepreneurship",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIK1.60.6401",
+      "nm_mk": "Seminar",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.2102",
+      "nm_mk": "Administrasi Dan Supervisi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL2.61.5305",
+      "nm_mk": "Renang Spesialisasi",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP2.60.1402",
+      "nm_mk": "Ilmu Sosial Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.6401",
+      "nm_mk": "Program Pengalaman Lapangan 2 (PPL 2)",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.6103",
+      "nm_mk": "Praktek Melatih",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.5101",
+      "nm_mk": "Program Pengalaman Lapangan 1 (PPL1)",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.2101",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.7401",
+      "nm_mk": "Proglam Pengalaman Lapangan 3 (PPL 3)",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL2.61.4301",
+      "nm_mk": "Bolavoli Pendalaman",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.5303",
+      "nm_mk": "Aplikasi Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.5401",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.8101",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEL1.61.8301",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Sherly Mulyani",
+    "jk": "P",
+    "nipd": "18087047",
+    "namapt": "Universitas Negeri Padang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Kepelatihan Olahraga",
+    "reg_pd": "244E6483-3950-4DC8-A01F-CF9923044FB1",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-11-08T00:00:00Z",
+    "no_seri_ijazah": "852022022001617",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTc4NEI5MjctMzQ3QS00MjVELThEQ0YtN0NFOEZENEUwMDAy",
+    "link_prodi": "/data_prodi/OUNDQjlEQjItNEFBRS00MUU1LThEM0ItNkFFQ0JFODc5RjU1"
+  }
+}

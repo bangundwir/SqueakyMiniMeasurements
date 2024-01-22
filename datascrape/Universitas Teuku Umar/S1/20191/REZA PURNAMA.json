@@ -1,0 +1,562 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "JTS 104",
+      "nm_mk": "Gambar Struktur Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 102",
+      "nm_mk": "Kalkulus I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU 201",
+      "nm_mk": "Pendidikan Pancasila & Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 101",
+      "nm_mk": "Bahasa Inggris Teknik",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 103",
+      "nm_mk": "Teknologi Bahan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 106",
+      "nm_mk": "Geologi Rekayasa",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 105",
+      "nm_mk": "Analisa Struktur I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 107",
+      "nm_mk": "Fisika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU 102",
+      "nm_mk": "Kepemimpinan Teuku Umar",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU 101X",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 206",
+      "nm_mk": "Analisa Struktur II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU 202",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 205",
+      "nm_mk": "Mekanika Bahan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 201",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 203",
+      "nm_mk": "Mekanika Fluida",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 202",
+      "nm_mk": "Pemetaan dan SIG",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 207",
+      "nm_mk": "Sistem Transportasi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 204",
+      "nm_mk": "Mekanika Tanah I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 508",
+      "nm_mk": "Pemrograman Komputer",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 306",
+      "nm_mk": "Struktur Kayu I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 311",
+      "nm_mk": "Rekayasa Lalu Lintas I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 304",
+      "nm_mk": "Analisa Struktur III",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 303",
+      "nm_mk": "Struktur Beton Bertulang I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 302",
+      "nm_mk": "Statistika dan Probabilitas",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 309",
+      "nm_mk": "Hidrolika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 301",
+      "nm_mk": "Kalkulus III",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 305",
+      "nm_mk": "Struktur Baja I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 307",
+      "nm_mk": "Mekanika Tanah II",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS 506",
+      "nm_mk": "Teknologi & Peralatan Konstruksi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT1917",
+      "nm_mk": "REKAYASA HIDROLOGI I",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU0417",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT131",
+      "nm_mk": "MANAJEMEN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT125",
+      "nm_mk": "TEKNOLOGI BETON",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT127",
+      "nm_mk": "ANALISA STRUKTUR IV",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT150",
+      "nm_mk": "ASPEK HUKUM &amp; ADM PROYEK KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT128",
+      "nm_mk": "STRUKTUR BAJA II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT130",
+      "nm_mk": "REKAYASA PONDASI I",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT129",
+      "nm_mk": "GEOMETRIK JALAN RAYA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT147",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT126",
+      "nm_mk": "STRUKTUR BETON BERTULANG II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT1817",
+      "nm_mk": "PRAKTIKUM TEKNOLOGI BAHAN",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT123",
+      "nm_mk": "REKAYASA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT140",
+      "nm_mk": "PERENCANAAN KONSTRUKSI GEOTEKNIK I",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT136",
+      "nm_mk": "PRAKTIKUM MATERIAL JALAN RAYA",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT135",
+      "nm_mk": "PERENCANAAN GEOMETRIK JALAN RAYA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT124",
+      "nm_mk": "SISTEM IRIGASI &amp; BANGUNAN AIR",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT139",
+      "nm_mk": "PERENCANAAN &amp; PENGENDALIAN PROYEK KONSTRUKSI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT137",
+      "nm_mk": "REKAYASA BAHAN DAN PERKERASAN JALAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT113",
+      "nm_mk": "PRAKTIKUM HIDROLIKA",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT142",
+      "nm_mk": "DRAINASE PERKOTAAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT138",
+      "nm_mk": "ESTIMASI BIAYA KONSTRUKSI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT141",
+      "nm_mk": "REKAYASA PELABUHAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT133",
+      "nm_mk": "PERENCANAAN IRIGASI &amp; BANGUNAN AIR",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT151",
+      "nm_mk": "MITIGASI BENCANA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT149",
+      "nm_mk": "REKAYASA JALUR (LAUT, UDARA DAN KERETA API)",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT134",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT175",
+      "nm_mk": "APLIKASI PERALATAN REKAYASA KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT176",
+      "nm_mk": "REKAYASA LALU LINTAS II",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT1105",
+      "nm_mk": "REKAYASA TERMINAL",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT121",
+      "nm_mk": "PRAKTIKUM MEKANIKA TANAH",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT132",
+      "nm_mk": "PERENCANAAN KONSTRUKSI GEDUNG I",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT174",
+      "nm_mk": "PENGANTAR EKONOMI TRANSPORTASI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT193",
+      "nm_mk": "MANAJEMEN RISIKO",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU2017",
+      "nm_mk": "KEMAMPUAN BEKERJASAMA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU1917",
+      "nm_mk": "KEMAMPUAN BERKOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU1717",
+      "nm_mk": "MENYELESAIKAN PERMASALAHAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU1617",
+      "nm_mk": "MERUMUSKAN PERMASALAHAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU2217",
+      "nm_mk": "KEPEMIMPINAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU2317",
+      "nm_mk": "KREATIVITAS",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU2117",
+      "nm_mk": "KERJA KERAS",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTU1817",
+      "nm_mk": "PENULISAN KARYA ILMIAH",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "REZA PURNAMA",
+    "jk": "L",
+    "nipd": "1905903020058",
+    "namapt": "Universitas Teuku Umar",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Sipil",
+    "reg_pd": "62E4F0A6-2994-416F-B5C1-166B2D2DCC9A",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-06-27T00:00:00Z",
+    "no_seri_ijazah": "222012023000080",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjVEOUMzQjUtOUIwRi00RERELUI2MzAtMzc3NjBBRDJFRDFB",
+    "link_prodi": "/data_prodi/OTlERkNDNzItQTA3Mi00NURGLTlGMzktNzY5ODZDNjg2MzZB"
+  }
+}

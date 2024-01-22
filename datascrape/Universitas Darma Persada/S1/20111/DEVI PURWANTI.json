@@ -1,0 +1,254 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FT3010",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3039",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT4010",
+      "nm_mk": "ETIKA REKAYASA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3160",
+      "nm_mk": "PRAK PEMOGRAMAN BERBASIS WEB",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4019",
+      "nm_mk": "MANJEMEN PROYEK SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4060",
+      "nm_mk": "PEMOGRAMAN JAVA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PS4039",
+      "nm_mk": "SUPPLY CHAIN MANAGEMENT",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3209",
+      "nm_mk": "DATA WAREHOUSE DAN OLAP",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3150",
+      "nm_mk": "PEMOGRAMAN BERBASIS WEB",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4070",
+      "nm_mk": "PRAKTIKUM PEMOGRAMAN JAVA",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PS4029",
+      "nm_mk": "CUSTOMER RELATIONSHIP MANAGEMENT",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PS3069",
+      "nm_mk": "MANAJEMEN RESIKO",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PS3049",
+      "nm_mk": "PERENCANAAN STRATEGIS SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3189",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT4020",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3219",
+      "nm_mk": "DATA MINING",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3129",
+      "nm_mk": "TESTING DAN IMPLEMENTASI SISTINFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3229",
+      "nm_mk": "PRAKTIKUM DATA MINING",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4109",
+      "nm_mk": "PENGENDALIAN DAN AUDIT SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4139",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4119",
+      "nm_mk": "ENTERPRISE RESOURCE PLANNING",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4129",
+      "nm_mk": "SEMINAR SKRIPSI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4159",
+      "nm_mk": "TATA KELOLA SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS3189",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN2110",
+      "nm_mk": "MONOZUKURI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4139",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS4129",
+      "nm_mk": "SEMINAR SKRIPSI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DEVI PURWANTI",
+    "jk": "P",
+    "nipd": "2011240010        ",
+    "namapt": "Universitas Darma Persada",
+    "namajenjang": "S1",
+    "namaprodi": "Sistem Informasi",
+    "reg_pd": "FD83C85B-93C3-46F8-8705-7336A3FCF64F",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-08-21T00:00:00Z",
+    "no_seri_ijazah": "2015195",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjM2MDdFRDMtQTc0RC00RDdDLThEMzItOEU5OTg0Q0EwNDg1",
+    "link_prodi": "/data_prodi/Mjk2Nzc0QzEtNkRERS00NkYzLTk1NUYtQkM3MkQzQjJGQzdC"
+  }
+}

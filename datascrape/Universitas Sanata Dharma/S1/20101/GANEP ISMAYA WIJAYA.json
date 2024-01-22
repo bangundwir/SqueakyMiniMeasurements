@@ -1,0 +1,539 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "STE130",
+      "nm_mk": "DASAR KOMPUTER DAN PEMROGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST141",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE122",
+      "nm_mk": "PENGUKURAN BESARAN LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE131",
+      "nm_mk": "TEKNIK DIGITAL",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE123",
+      "nm_mk": "APLIKASI ELEKTRONIKA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "USD120",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE121",
+      "nm_mk": "PRAKT. OTOMASI PERANCANGAN ELEKTRONIKA",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE120",
+      "nm_mk": "RANGKAIAN LISTRIK I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE111",
+      "nm_mk": "FISIKA I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE110",
+      "nm_mk": "METODE NUMERIK I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE124",
+      "nm_mk": "RANGKAIAN LISTRIK II",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE113",
+      "nm_mk": "FISIKA II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "USD122",
+      "nm_mk": "FILSAFAT MORAL",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE124P",
+      "nm_mk": "PRAKT. RANGKAIAN LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE131P",
+      "nm_mk": "PRAKT. TEKNIK DIGITAL",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE125",
+      "nm_mk": "ELEKTRONIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE112",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE133",
+      "nm_mk": "PERANCANGAN SISTEM DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE132P",
+      "nm_mk": "PRAKT. PEMROGRAMAN",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "USD123",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST111",
+      "nm_mk": "PEMROGRAMAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST342",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE227",
+      "nm_mk": "PENGUAT OPERASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE234",
+      "nm_mk": "MIKROKONTROLER DASAR",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE234P",
+      "nm_mk": "PRAKT. MIKROKONTROLER",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "USD224",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE335",
+      "nm_mk": "PEMROGRAMAN ANTARMUKA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE215",
+      "nm_mk": "METODE NUMERIK II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE216",
+      "nm_mk": "TEKNIK TENAGA LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE225P",
+      "nm_mk": "PRAKT. ELEKTRONIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST112",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE214",
+      "nm_mk": "METODE TRANSFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE213P",
+      "nm_mk": "PRAKT. FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE215P",
+      "nm_mk": "PRAKT. KOMPUTASI NUMERIK",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE240",
+      "nm_mk": "KENDALI DASAR",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST243",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE229",
+      "nm_mk": "SISTEM INSTRUMENTASI ELEKTRONIS",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE217",
+      "nm_mk": "TEKNIK INSTALASI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE228P",
+      "nm_mk": "PRAKT. ELEKTRONIKA LANJUT",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE250",
+      "nm_mk": "TELEKOMUNIKASI DASAR",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE216P",
+      "nm_mk": "PRAKT. TEKNIK TENAGA LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE228",
+      "nm_mk": "ELEKTRONIKA LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE218",
+      "nm_mk": "SISTEM LINEAR",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE350P",
+      "nm_mk": "PRAKT. TELEKOMUNIKASI DASAR",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE329",
+      "nm_mk": "PERANCANGAN SISTEM ELEKTRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE341",
+      "nm_mk": "MIKROKONTROLER LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE336",
+      "nm_mk": "JARINGAN KOMUNIKASI & KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE340P",
+      "nm_mk": "PRAKT. KENDALI DASAR",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE360",
+      "nm_mk": "TEKNOLOGI KOMUNIKASI NIRKABEL",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "USD325",
+      "nm_mk": "FILSAFAT ILMU PENGETAHUAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE346",
+      "nm_mk": "MESIN LISTRIK DALAM INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE337",
+      "nm_mk": "PENGOLAHAN SINYAL DIGITAL",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST432",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST313",
+      "nm_mk": "ANALISIS SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE345",
+      "nm_mk": "KENDALI TERPROGRAM",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE344",
+      "nm_mk": "ROBOTIKA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE342",
+      "nm_mk": "ELEKTRONIKA DAYA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE343",
+      "nm_mk": "PERANCANGAN PENGENDALI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE361",
+      "nm_mk": "SISTEM TELEMETRI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE347",
+      "nm_mk": "KENDALI SAMAR",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE462",
+      "nm_mk": "PRA TUGAS AKHIR",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST414",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE348",
+      "nm_mk": "KENDALI INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST331",
+      "nm_mk": "ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE463",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE462",
+      "nm_mk": "PRA TUGAS AKHIR",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STE463",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GANEP ISMAYA WIJAYA",
+    "jk": "L",
+    "nipd": "105114027         ",
+    "namapt": "Universitas Sanata Dharma",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Elektro",
+    "reg_pd": "758AD3F1-C686-4B20-84EC-F00F3FA8FBB5",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-10-31T00:00:00Z",
+    "no_seri_ijazah": "31731/SD/FST/S1/14",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjRDNTFFRDktNjYzRi00MjlBLThGMjMtNzExRTJGN0I1M0RG",
+    "link_prodi": "/data_prodi/NEE1OUU0Q0ItMzA3Qi00OTdCLTkwMDktOTZDQjJBOTdBRDVF"
+  }
+}

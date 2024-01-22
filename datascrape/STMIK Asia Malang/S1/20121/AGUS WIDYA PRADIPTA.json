@@ -1,0 +1,100 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK-TI 046",
+      "nm_mk": "COMPUTER AIDED DESIGN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-TI 024",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-TI 040",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK-TI 025",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU-TI 010",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AGUS WIDYA PRADIPTA",
+    "jk": "L",
+    "nipd": "12201007          ",
+    "namapt": "STMIK Asia Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "B3FC779E-C7C9-4FDD-9418-9B66666A28BE",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": "2016-08-13T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QUI5QjgzRjctNDdDNS00ODY1LTg2QUUtNDdCMEJBMjE1NUY5",
+    "link_prodi": "/data_prodi/QzE1NzE2MDItMzQzQS00RkY3LUE1NkMtNDQ4NjZFQkQ5QTRD"
+  }
+}

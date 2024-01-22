@@ -1,0 +1,240 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ECG105",
+      "nm_mk": "Pengantar Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU008",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ECG115",
+      "nm_mk": "Hukum Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU002",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ECG107",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ECG101",
+      "nm_mk": "Dasar-dasar Ilmu Sosial",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ECG103",
+      "nm_mk": "Pengantar Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU001",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ECG109",
+      "nm_mk": "Pengantar Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU011",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK205",
+      "nm_mk": "Ekonomi Moneter",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK303",
+      "nm_mk": "Evaluasi Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ECG302",
+      "nm_mk": "Perekonomian Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK306",
+      "nm_mk": "Praktik Koperasi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK312",
+      "nm_mk": "Pasar Uang dan Pasar Modal",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK314",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK308",
+      "nm_mk": "Seminar Koperasi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK310",
+      "nm_mk": "Praktik Akuntansi Koperasi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK304",
+      "nm_mk": "Ekonomi Internasional",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPK302",
+      "nm_mk": "Metodologi Riset Koperasi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUU004",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUU002",
+      "nm_mk": "Praktik Pengalaman Lapangan 2",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUU001",
+      "nm_mk": "Praktik Pengalaman Lapangan 1",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB000016",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUU005",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TANTRI RAHAYU",
+    "jk": "P",
+    "nipd": "7101410119",
+    "namapt": "Universitas Negeri Semarang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Ekonomi",
+    "reg_pd": "35E8F2F5-F7DE-4636-82A2-9F96CED7BC67",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-09-01T00:00:00Z",
+    "no_seri_ijazah": "14.07.0412",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTU4NTg4QTgtMEY1Mi00RDRELThBQTgtRjgzMjc4QTU2NTU5",
+    "link_prodi": "/data_prodi/QkIyMUZFMkMtMEQ1Mi00MUQ0LUI5MTAtMDM0MkU0NTRDRDFD"
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "GIZ170002",
+      "nm_mk": "Pengantar Antropologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170003",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170003",
+      "nm_mk": "Sanitasi Makanan dan Keselamatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170001",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170005",
+      "nm_mk": "Kimia",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170004",
+      "nm_mk": "Anatomi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170004",
+      "nm_mk": "English for Academic Purposes",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170013",
+      "nm_mk": "Pengantar Sosiologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170006",
+      "nm_mk": "Fisiologi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170006",
+      "nm_mk": "Standardized Test Preparation",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170011",
+      "nm_mk": "Analisis Zat Gizi Pangan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170002",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170012",
+      "nm_mk": "Dasar Ilmu Gizi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170056",
+      "nm_mk": "Ilmu Bahan Pangan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170008",
+      "nm_mk": "Dasar Kulinari",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170005",
+      "nm_mk": "Ibadah dan Muamalah",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170009",
+      "nm_mk": "Dasar Biokimia Gizi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170007",
+      "nm_mk": "Fisiologi Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170008",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170010",
+      "nm_mk": "Patofisiologi Penyakit Menular",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170007",
+      "nm_mk": "Islam dan IPTEKS",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170018",
+      "nm_mk": "Pengantar Komunikasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170016",
+      "nm_mk": "Metabolisme Energi dan Gizi Makro",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170029",
+      "nm_mk": "Dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170001",
+      "nm_mk": "Pengantar Psikologi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170014",
+      "nm_mk": "Gizi Dalam Daur Kehidupan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170015",
+      "nm_mk": "Teknologi Pangan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170028",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170017",
+      "nm_mk": "Biologi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170020",
+      "nm_mk": "Metabolisme Gizi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170019",
+      "nm_mk": "Matematika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170044",
+      "nm_mk": "Bioetika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170021",
+      "nm_mk": "Metode Penelitian Gizi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170045",
+      "nm_mk": "Isu Gizi Terkini",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170023",
+      "nm_mk": "Patofosiologi Penyakit Tidak Menular",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170009",
+      "nm_mk": "Kemuhammadiyahan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170024",
+      "nm_mk": "Penilaian Konsumsi Pangan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170022",
+      "nm_mk": "Penilaian Status Gizi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170031",
+      "nm_mk": "Statistik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170051",
+      "nm_mk": "Gizi Kebutuhan Khusus",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170033",
+      "nm_mk": "Epidemiologi Gizi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170027",
+      "nm_mk": "Dasar Penulisan Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170048",
+      "nm_mk": "Multimedia Gizi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170046",
+      "nm_mk": "Gizi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170030",
+      "nm_mk": "Dietetik Penyakit Infeksi dan Defisiensi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170026",
+      "nm_mk": "Ekonomi Pangan dan Gizi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170025",
+      "nm_mk": "Keamanan Pangan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170034",
+      "nm_mk": "Konsultasi Gizi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170032",
+      "nm_mk": "Kehalalan Pangan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170037",
+      "nm_mk": "Pendidikan Gizi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS170010",
+      "nm_mk": "Ketrampilan Berkehidupan (Life-skill)",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170036",
+      "nm_mk": "Manajemen Program Gizi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170039",
+      "nm_mk": "Analisis Data Pangan dan Gizi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170038",
+      "nm_mk": "Dietetik Penyakit Tidak Menular",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170035",
+      "nm_mk": "Manajemen Industri Jasa Pangan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170040",
+      "nm_mk": "Proposal Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170052",
+      "nm_mk": "Gizi Geriatri",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170042",
+      "nm_mk": "Makanan Enteral",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170043",
+      "nm_mk": "Manajemen Analisis Program Gizi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170054",
+      "nm_mk": "Praktek Kerja Masyarakat",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170055",
+      "nm_mk": "Praktek Kerja Industri Jasa Pangan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170041",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ170053",
+      "nm_mk": "Praktek Kerja Dietetik",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NUT3231485",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TITIN RETNO SAFITRI",
+    "jk": "P",
+    "nipd": "J310190143",
+    "namapt": "Universitas Muhammadiyah Surakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Gizi",
+    "reg_pd": "DBAFBBD6-74F1-423C-8638-7D6184820535",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-10-18T00:00:00Z",
+    "no_seri_ijazah": "132112023010951",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkQxMjQxNDItRTc5OC00RjYyLTg3NEItQ0U0MzVCNTQwOUYx",
+    "link_prodi": "/data_prodi/Nzc2MjhBOTItMEQxNi00RTMxLUFBQTktRDU5MThFRDREQTY0"
+  }
+}

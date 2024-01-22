@@ -1,0 +1,738 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20133",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": null,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MIP-11908",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR I ",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI-10108",
+      "nm_mk": "PENDIDIKAN AGAMA ",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIP-108P",
+      "nm_mk": "PRAKTIKUM KIMIA DASAR ",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIP-11708",
+      "nm_mk": "FISIKA DASAR I ",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-11208",
+      "nm_mk": "PRAKTIKUM BIOLOGI UMUM I ",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIP-11508",
+      "nm_mk": "MATEMATIKA I ",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI-17208",
+      "nm_mk": "ILMU KEALAMAN DASAR ",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-11108",
+      "nm_mk": "BIOLOGI UMUM I ",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI-10308",
+      "nm_mk": "BAHASA INDONESIA ",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIP-108",
+      "nm_mk": "KIMIA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIP-104",
+      "nm_mk": "MATEMATIKA II",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIP-101",
+      "nm_mk": "PENGANTAR ILMU LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI-109",
+      "nm_mk": "BAHASA INGGRIS ",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI-102",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN ",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-102",
+      "nm_mk": "BIOLOGI UMUM II ",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIP-106",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-104",
+      "nm_mk": "KIMIA ORGANIK",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI-104",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-211",
+      "nm_mk": "PRAKTIKUM BIOKIMIA ",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-201",
+      "nm_mk": "STRUKTUR PERK TUMBUHAN I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-203",
+      "nm_mk": "STRUKTUR PERK HEWAN I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-205",
+      "nm_mk": "PRAKTIKUM MIKROBIOLOGI 1 ",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-206B",
+      "nm_mk": "BIOLOGI SEL ",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-307",
+      "nm_mk": "PRAKTIKUM EKOLOGI HEWAN ",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-204",
+      "nm_mk": "STRUKTUR& PERK HEWAN II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-206",
+      "nm_mk": "PRAK. TAKSONOMI TUMBUHAN ",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-208",
+      "nm_mk": "PRAK. TAKSONOMI HEWAN ",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-210",
+      "nm_mk": "BIOLOGI MOLEKULER",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-202",
+      "nm_mk": "PRAK. STRUK. & PERKM. TUMB. II ",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-212",
+      "nm_mk": "MIKROBIOLOGI I",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-306",
+      "nm_mk": "PRAKTIKUM MIKROBIOLOGI II ",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-309",
+      "nm_mk": "PRAKTIKUM GENETIKA ",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-307",
+      "nm_mk": "PRAKTIKUM EKOLOGI HEWAN ",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI301",
+      "nm_mk": "AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-313",
+      "nm_mk": "ICHTIOLOGI ",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-305",
+      "nm_mk": "PRAKTIKUM EKOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-303",
+      "nm_mk": "FISIOLOGI HEWAN I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-304",
+      "nm_mk": "FISIOLOGI HEWAN II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-308",
+      "nm_mk": "PENGELOLAAN KEHATI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-304",
+      "nm_mk": "PRAKTIKUM PARASITOLOGI ",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-310",
+      "nm_mk": "EVOLUSI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-406",
+      "nm_mk": "PRAKTIKUM MIKROBIOLOGI II ",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-410",
+      "nm_mk": "PRAKTIKUM LIMNOLOGI ",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI301",
+      "nm_mk": "AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-422",
+      "nm_mk": "EKOWISATA ",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-302",
+      "nm_mk": "FISOLOGI TUMBUHAN II ",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-305",
+      "nm_mk": "PRAKTIKUM EKOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-309",
+      "nm_mk": "PRAKTIKUM GENETIKA ",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-401P",
+      "nm_mk": "PRAKTIKUM PLANKTONOLOGI ",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI.301",
+      "nm_mk": "PRAKTIKUM FISIOLOGI TUMBUHAN 1",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-401",
+      "nm_mk": "EVOLUSI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-401",
+      "nm_mk": "PLANKTONOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-309",
+      "nm_mk": "ZOOGEOGRAFI ",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP401",
+      "nm_mk": "PLANKTONOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI305",
+      "nm_mk": "EKOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI301",
+      "nm_mk": "AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI309",
+      "nm_mk": "PRAKTIKUM GENETIKA",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI401",
+      "nm_mk": "EVOLUSI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP309",
+      "nm_mk": "ZOOGEOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI403",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-405",
+      "nm_mk": "WAWASAN I (BIOTEKNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI405",
+      "nm_mk": "WAWASAN I (BIOTEKNOLOGI)",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP401.P",
+      "nm_mk": "PRAKTIKUM PLANKTONOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-407",
+      "nm_mk": "WAWASAN II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-403",
+      "nm_mk": "KERJA PRAKTEK ",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI309",
+      "nm_mk": "GENETIKA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI407",
+      "nm_mk": "WAWASAN II (MANAJEMEN)",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-204P",
+      "nm_mk": "PRK. STRUKTUR DAN PERKEMBANGAN TUMBUHAN 1",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-206",
+      "nm_mk": "PRAK. TAKSONOMI TUMBUHAN ",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-302",
+      "nm_mk": "FISOLOGI TUMBUHAN II ",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-210",
+      "nm_mk": "BIOLOGI MOLEKULER",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP-310",
+      "nm_mk": "KULTUR JARINGAN",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP310",
+      "nm_mk": "PRAKTIKUM KULTUR JARINGAN",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI302.",
+      "nm_mk": "PRAKTIKUM FISIOLOGI TUMBUHAN II",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI210",
+      "nm_mk": "BIOLOGI MOLEKULER",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI204P",
+      "nm_mk": "PRK. STRUKTUR DAN PERKEMBANGAN TUMBUHAN 1",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI.202",
+      "nm_mk": "PRAK. STRUK. &amp;amp; PERKM. TUMB. II",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBP310.",
+      "nm_mk": "KULTUR JARINGAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI409",
+      "nm_mk": "TUGAS AKHIR 1",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI304",
+      "nm_mk": "FISIOLOGI HEWAN II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-409",
+      "nm_mk": "TUGAS AKHIR 1 ",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-402",
+      "nm_mk": "WAWASAN III (KEHATI) ",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-203",
+      "nm_mk": "STRUKTUR PERK HEWAN I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-304",
+      "nm_mk": "FISIOLOGI HEWAN II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-204",
+      "nm_mk": "STRUKTUR& PERK HEWAN II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-202",
+      "nm_mk": "PRAK. STRUK. & PERKM. TUMB. II ",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI.204",
+      "nm_mk": "PRAK. STRUK. &amp;amp; PERKM. HEWAN II",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI402",
+      "nm_mk": "WAWASAN III (KEHATI)",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI206",
+      "nm_mk": "TAKSONOMI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI203",
+      "nm_mk": "PRAKTEK STRUKTUR DAN PERKEMBANGAN HEWAN 1",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI409",
+      "nm_mk": "TUGAS AKHIR 1",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI-409",
+      "nm_mk": "TUGAS AKHIR 1 ",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI410",
+      "nm_mk": "TUGAS AKHIR II",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBI410",
+      "nm_mk": "TUGAS AKHIR II",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AJIMAN ",
+    "jk": "L",
+    "nipd": "08091004037       ",
+    "namapt": "Universitas Sriwijaya",
+    "namajenjang": "S1",
+    "namaprodi": "Biologi",
+    "reg_pd": "EF721378-51B5-4C23-B638-8D114E4AB94F",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-12-12T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEE4MDMzNzMtQzUyMS00RjQ0LTg4RDAtQkUyOEFEQTlFNjdB",
+    "link_prodi": "/data_prodi/RjY1MENBNTItQUY2OC00NDg0LThEMzEtQ0EzMTI2MUQ1OThC"
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PKN0001",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN0004",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN0005",
+      "nm_mk": "Pengantar Ilmu Hukum",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3035",
+      "nm_mk": "Pengantar Hukum Pajak",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3031",
+      "nm_mk": "Pajak Bumi dan Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3013",
+      "nm_mk": "Pengantar Akuntansi I",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3028",
+      "nm_mk": "Pajak Penghasilan",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3015",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3032",
+      "nm_mk": "Pajak Daerah dan Retribusi Daerah",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3014",
+      "nm_mk": "Pengantar Akuntansi II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3009",
+      "nm_mk": "Hukum Keuangan Negara",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3022",
+      "nm_mk": "Ketentuan Umum Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3011",
+      "nm_mk": "Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3047a",
+      "nm_mk": "Lab. Pajak Penghasilan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3030",
+      "nm_mk": "Pajak Pertambahan Nilai",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3018",
+      "nm_mk": "Statistika",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3003",
+      "nm_mk": "Akuntansi Keuangan Menengah I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3010",
+      "nm_mk": "Keuangan Publik",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3058",
+      "nm_mk": "Budaya Nusantara dan Pengembangan Kepribadian",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3044",
+      "nm_mk": "Aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3034",
+      "nm_mk": "Penagihan dan Sengketa Pajak",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3029",
+      "nm_mk": "Pajak Penghasilan Pot-Put",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3100",
+      "nm_mk": "PPnBM dan PTLL",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3055",
+      "nm_mk": "Hukum Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3001",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3012",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3004",
+      "nm_mk": "Akuntansi Keuangan Menengah II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3048",
+      "nm_mk": "Lab Pajak Penghasilan Pot-Put",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3049",
+      "nm_mk": "Lab. PPN dan PPnBM",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3008",
+      "nm_mk": "Audit Keuangan Sektor Komersial",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3027",
+      "nm_mk": "Pajak Internasional",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3002",
+      "nm_mk": "Akuntansi Keuangan Lanjutan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3050",
+      "nm_mk": "Penelitian Ilmu Sosial",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3054",
+      "nm_mk": "Komunikasi Publik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3053",
+      "nm_mk": "Etika dan Anti Korupsi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3045",
+      "nm_mk": "Manajemen dan Proses Bisnis Wajib Pajak",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN0006",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3020",
+      "nm_mk": "Akuntansi Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN0003",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3046",
+      "nm_mk": "Analisis Laporan Keuangan dan SPT",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3026",
+      "nm_mk": "Organisasi dan Tata Kerja",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN0010",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3021",
+      "nm_mk": "Karya Tulis Tugas Akhir",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3033",
+      "nm_mk": "Pemeriksaan Pajak",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3051",
+      "nm_mk": "Upaya Hukum Perpajakan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJK3037",
+      "nm_mk": "Praktik Kerja Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "FARAH RAHIMAH RABIATUL ADAWIYAH",
+    "jk": "P",
+    "nipd": "2301180502",
+    "namapt": "Politeknik Keuangan Negara STAN",
+    "namajenjang": "D3",
+    "namaprodi": "Pajak",
+    "reg_pd": "3226CF66-5C0A-4B4C-A320-FAEEB1AAF4FE",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-10-27T00:00:00Z",
+    "no_seri_ijazah": "614032021008507",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QUNGRTJGRUUtOTBCNy00MzEyLUE5NDMtN0Y5OTFBNTYyRTM3",
+    "link_prodi": "/data_prodi/Q0REQTc0NDctNDg1Qy00ODU1LUI2RTEtQjI2Mzg3OURCMjFC"
+  }
+}

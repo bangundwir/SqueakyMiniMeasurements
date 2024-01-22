@@ -1,0 +1,101 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20021",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20042",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Lulus"
+    },
+    {
+      "id_smt": "20051",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TS5012",
+      "nm_mk": "PENGANTAR METODE ELEMEN HINGGA",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS5054",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS4159",
+      "nm_mk": "ASPEK HUKUM PEMBANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS5052",
+      "nm_mk": "Analisis Sistem",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS5053",
+      "nm_mk": "Manajemen Mutu Terpadu",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA1211",
+      "nm_mk": "Matematika II",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS4159",
+      "nm_mk": "ASPEK HUKUM PEMBANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS4299",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MADE WERDI RAJATA",
+    "jk": "L",
+    "nipd": "9808120074        ",
+    "namapt": "Universitas Udayana",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Sipil",
+    "reg_pd": "57DC19B2-0DF9-4486-AD06-7102B9C837EC",
+    "mulai_smt": "19981",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2005-07-29T00:00:00Z",
+    "no_seri_ijazah": "5379/J14.1.31/PP.08.02/2005",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEFGNzM0OTgtMzgwMy00RjQ5LUFBNjQtQ0FGODJDNTU0Q0NF",
+    "link_prodi": "/data_prodi/MzNDNzRBRTQtRUM2Qi00QjlELTg5MEQtQUE2RkM4NTFBNkE3"
+  }
+}

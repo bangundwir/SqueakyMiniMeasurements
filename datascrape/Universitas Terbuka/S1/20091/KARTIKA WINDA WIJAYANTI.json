@@ -1,0 +1,732 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SKOM4315",
+      "nm_mk": "Komunikasi Massa",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4111",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4101",
+      "nm_mk": "Pengantar Ilmu Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4211",
+      "nm_mk": "Logika",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4221",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4206",
+      "nm_mk": "Perencanaan Program Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4103",
+      "nm_mk": "Hubungan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4101",
+      "nm_mk": "Pengantar Ilmu Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4432",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4111",
+      "nm_mk": "Asas-asas Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4323",
+      "nm_mk": "Filsafat dan Etika Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4313",
+      "nm_mk": "Komunikasi Antar Pribadi",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4103",
+      "nm_mk": "Hubungan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4332",
+      "nm_mk": "Teknik Hubungan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4328",
+      "nm_mk": "Komunikasi Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4321",
+      "nm_mk": "Opini Publik",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4317",
+      "nm_mk": "Psikologi Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4109",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4131",
+      "nm_mk": "Sistem Hukum Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4110",
+      "nm_mk": "Pengantar Sosiologi",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4205",
+      "nm_mk": "Sosiologi Komunikasi Massa",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4441",
+      "nm_mk": "Komunikasi Sosial",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4312",
+      "nm_mk": "Public Speaking",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4439",
+      "nm_mk": "Hukum Media Massa",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4319",
+      "nm_mk": "Komunikasi Politik",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4434",
+      "nm_mk": "Perbandingan Sistem Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4327",
+      "nm_mk": "Manajemen Hubungan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4221",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4318",
+      "nm_mk": "Komunikasi Antar Budaya",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4204",
+      "nm_mk": "Teori Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4326",
+      "nm_mk": "Komunikasi Persuasif",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4111",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4435",
+      "nm_mk": "Komunikasi Internasional",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4321",
+      "nm_mk": "Opini Publik",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4434",
+      "nm_mk": "Perbandingan Sistem Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4319",
+      "nm_mk": "Komunikasi Politik",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4103",
+      "nm_mk": "Hubungan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4329",
+      "nm_mk": "Komunikasi Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4312",
+      "nm_mk": "Public Speaking",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4215",
+      "nm_mk": "Pengantar Statistik Sosial",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4316",
+      "nm_mk": "Komunikasi Inovasi",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4322",
+      "nm_mk": "Perkembangan Teknologi Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4324",
+      "nm_mk": "Manajemen Media Massa",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4432",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4212",
+      "nm_mk": "Pengantar Ilmu Politik",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4330",
+      "nm_mk": "Teknik Mencari dan Menulis Berita",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4331",
+      "nm_mk": "Cybermedia",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4112",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4314",
+      "nm_mk": "Perencanaan Pesan dan Media",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4332",
+      "nm_mk": "Teknik Hubungan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4440",
+      "nm_mk": "Produksi Media",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4437",
+      "nm_mk": "Analisis Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4440",
+      "nm_mk": "Produksi Media",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4435",
+      "nm_mk": "Komunikasi Internasional",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4112",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4437",
+      "nm_mk": "Analisis Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4112",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4436",
+      "nm_mk": "Metode Penelitian Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4112",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4437",
+      "nm_mk": "Analisis Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4436",
+      "nm_mk": "Metode Penelitian Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4326",
+      "nm_mk": "Komunikasi Persuasif",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4435",
+      "nm_mk": "Komunikasi Internasional",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4326",
+      "nm_mk": "Komunikasi Persuasif",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4318",
+      "nm_mk": "Komunikasi Antar Budaya",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4332",
+      "nm_mk": "Teknik Hubungan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4107",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4207",
+      "nm_mk": "Sistem Komunikasi Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4322",
+      "nm_mk": "Perkembangan Teknologi Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKOM4209",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4212",
+      "nm_mk": "Pengantar Ilmu Politik",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KARTIKA WINDA WIJAYANTI",
+    "jk": "P",
+    "nipd": "015831396         ",
+    "namapt": "Universitas Terbuka",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Komunikasi",
+    "reg_pd": "B953CE54-3EEA-4050-BE64-6992373F582A",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": "",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEY0NjBGOTctNkQ0Ny00RDk2LThBMkEtNDM2MUVBMDRGM0U4",
+    "link_prodi": "/data_prodi/NDRGNTIzRjItMkNCQS00NjhFLUJFNDktODdBRjc4Q0JEQjE1"
+  }
+}

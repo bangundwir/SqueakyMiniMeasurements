@@ -1,0 +1,544 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "DA1511",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1120",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1213",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1217",
+      "nm_mk": "KETERAMPILAN DASAR PRAKTEK KLINIK I",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1115",
+      "nm_mk": "AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1211",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1123",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1411",
+      "nm_mk": "KONSEP KEBIDANAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1215",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1119",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1218",
+      "nm_mk": "FISIKA KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1416",
+      "nm_mk": "KOMUNIKASI & KONSELING DLM PRAKT. KEBID.",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA2217",
+      "nm_mk": "GIZI KESEHATAN REPRODUKSI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA2311",
+      "nm_mk": "ASUHAN KEBIDANAN I (KEHAMILAN)",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1214",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1229",
+      "nm_mk": "PRAKTEK KDPK",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1238",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1312",
+      "nm_mk": "KESEHATAN REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1212",
+      "nm_mk": "BIOLOGI REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA1220",
+      "nm_mk": "OBSTETRI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA103",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA104",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA202",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA102",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA208",
+      "nm_mk": "KETERAMPILAN DASAR PRAKTIK KLINIK",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA502",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA201",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA401",
+      "nm_mk": "KONSEP KEBIDANAN",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA207",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA403",
+      "nm_mk": "KOMUNIKASI & KONSELING DLM PRAK. KEB.",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA205",
+      "nm_mk": "FISIKA KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA213",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA307",
+      "nm_mk": "KESEHATAN REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA313",
+      "nm_mk": "PRAKTIK KETERAMPILAN DSR PRAK. KLINIK",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA301",
+      "nm_mk": "ASUHAN KEBIDANAN I/KEHAMILAN",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA209",
+      "nm_mk": "OBSTETRI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DA203",
+      "nm_mk": "BIOLOGI REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD306",
+      "nm_mk": "ASUHAN NEONATUS, BAYI, & ANAK BALITA",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD309",
+      "nm_mk": "DOKUMENTASI KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD303",
+      "nm_mk": "ASKEB III (NIFAS)",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD206",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD3101",
+      "nm_mk": "PKK I",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD302",
+      "nm_mk": "ASKEB II (PERSALINAN)",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD402",
+      "nm_mk": "ETIKA PROFESI & HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD308",
+      "nm_mk": "PELAYANAN KB",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD211",
+      "nm_mk": "ILMU KESEHATAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD501",
+      "nm_mk": "ILMU KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD210",
+      "nm_mk": "GINEKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD214",
+      "nm_mk": "EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD217",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD503",
+      "nm_mk": "PROMOSI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD304",
+      "nm_mk": "ASKEB IV (PATOLOGI KEB.)",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD405",
+      "nm_mk": "METODA PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD603",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD604",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD404",
+      "nm_mk": "MUTU LAYANAN KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD215",
+      "nm_mk": "BIOSTATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD504",
+      "nm_mk": "ORGANISASI & MANAJ. PELAY.KES.",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD311",
+      "nm_mk": "PRAKTIK KLINIK KEBIDANAN II",
+      "sks_mk": 5,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD211",
+      "nm_mk": "ILMU KESEHATAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD406",
+      "nm_mk": "KARYA TULIS ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD214",
+      "nm_mk": "EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD601",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD312",
+      "nm_mk": "PRAKTIK KLINIK KEBIDANAN III",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD406",
+      "nm_mk": "KARYA TULIS ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD601",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD406",
+      "nm_mk": "KARYA TULIS ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BERPA ANANDA",
+    "jk": "P",
+    "nipd": "1310214           ",
+    "namapt": "Sekolah Tinggi Ilmu Kesehatan Jenderal Achmad Yani Yogyakarta",
+    "namajenjang": "D3",
+    "namaprodi": "Kebidanan",
+    "reg_pd": "D1D234F9-3D5A-49C3-B9B3-BC21AD6A9DC2",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-09-04T00:00:00Z",
+    "no_seri_ijazah": "1278/DIII Keb/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MzNDQjQwRjYtNjNFMi00OEI1LUJCQkEtRjkwQ0YyMEFDOEQz",
+    "link_prodi": "/data_prodi/MEVCQzBBNTYtQTc1Qy00M0RDLUE4NDktMkE5NkIwNEQ3QzFF"
+  }
+}

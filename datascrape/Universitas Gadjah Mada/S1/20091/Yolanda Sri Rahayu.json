@@ -1,0 +1,497 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MMS1101",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFS2609",
+      "nm_mk": "PENGELEKTRONIKA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1651",
+      "nm_mk": "PRAKPENGTEKNOLOGI INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFS2659",
+      "nm_mk": "PRAKPENGELEKTRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1901",
+      "nm_mk": "LOGIKA INFORMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1601",
+      "nm_mk": "PENGTEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU1000",
+      "nm_mk": "AGAMA ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU1010",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1206",
+      "nm_mk": "ALJABAR VEKTOR DAN MATRIKS",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1911",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2400",
+      "nm_mk": "METODE STATISTIKA I (PRODI :KOM)",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1801",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2802",
+      "nm_mk": "MATEMATIKA DISKRIT (PRODI :KOM)",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2805",
+      "nm_mk": "KONSEP BAHASA PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2451",
+      "nm_mk": "PRAKTIKUM METODE STATISTIKA I",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1851",
+      "nm_mk": "PRAKTIKUM ALGORITMA & PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1702",
+      "nm_mk": "SISTEM DIGITAL",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1102",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2605",
+      "nm_mk": "BERKAS DAN BASIS DATA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS1912",
+      "nm_mk": "BHSINGGRIS 2",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2754",
+      "nm_mk": "PRAKJARINGAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS3653",
+      "nm_mk": "PRAKREKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2806",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBYEK",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2807",
+      "nm_mk": "MATEMATIKA INFORMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU3000",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2704",
+      "nm_mk": "JARINGANKOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2702",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS3603",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2801",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS3601",
+      "nm_mk": "SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS4703",
+      "nm_mk": "KSSISTEM TERDISTRIBUSI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2803",
+      "nm_mk": "METODE NUMERIS",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2705",
+      "nm_mk": "ANALISIS DAN PERANCANGAN PROTOKOL",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS3707",
+      "nm_mk": "INTER/INTRANET",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS3610",
+      "nm_mk": "SISTEM INFORMASI TERDISTRIBUSI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2708",
+      "nm_mk": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2707",
+      "nm_mk": "MANAJEMEN JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MMS2655",
+      "nm_mk": "PRAKBERKAS DAN BASIS DATA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4503",
+      "nm_mk": "ENTERPRICE SYSTEM",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4609",
+      "nm_mk": "SISTEM PARALEL",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK2602",
+      "nm_mk": "PRAKSISTEM OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4509",
+      "nm_mk": "SISTEM INFORMASI GEOGRAFIS",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4507",
+      "nm_mk": "MULTIMEDIA",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK3401",
+      "nm_mk": "INTERAKSI MANUSIA KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4601",
+      "nm_mk": "KEAMANAN SISTEM DAN JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK3001",
+      "nm_mk": "FILSAFAT ILMU KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4501",
+      "nm_mk": "DATA MINING DAN BUSINESS INTELLIGENCE",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4551",
+      "nm_mk": "SISTEM TEMU BALIK INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK3053",
+      "nm_mk": "METOD.PEN.ILMU KOMP",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK3051",
+      "nm_mk": "ETIKA PROFESI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4259",
+      "nm_mk": "VERIFIKASI DAN VALIDASI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4559",
+      "nm_mk": "INFORMATIKA SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4555",
+      "nm_mk": "INFORMATION TECH.AUDIT CONTROL",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK1253",
+      "nm_mk": "MATEMATIKA DISKRIT II",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4553",
+      "nm_mk": "MANAJEMEN PROYEK TEK.INF",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4201",
+      "nm_mk": "TEORI BAHASA DAN OTOMATA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4001",
+      "nm_mk": "TUGAS KHUSUS",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4401",
+      "nm_mk": "LOGIKA FUZZY",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU4500",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4051",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIK4051",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Yolanda Sri Rahayu",
+    "jk": "P",
+    "nipd": "09284019PA12782",
+    "namapt": "Universitas Gadjah Mada",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Komputer",
+    "reg_pd": "7C2F5B75-90E9-483C-AE84-53FCA857DD27",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": null,
+    "no_seri_ijazah": "9147/PA/2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEVEMUQwQ0UtRjEyMi00QjM3LUE4NDktMjVGODFCMzM1Mzk1",
+    "link_prodi": "/data_prodi/N0I2MjJGQjgtQTc1NS00NkJELUE4MjAtNTJFNjBERjgwODQx"
+  }
+}

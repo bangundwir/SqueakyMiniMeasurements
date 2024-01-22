@@ -1,0 +1,321 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BD101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD401",
+      "nm_mk": "KONSEP KEBIDANAN",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD501",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD203",
+      "nm_mk": "KETERAMPILAN DASAR KEBIDANAN I",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD102",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD201",
+      "nm_mk": "BIOLOGI DASAR DAN PERKEMBANGAN",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD302A",
+      "nm_mk": "ASKEB PERSALINAN DAN BBL",
+      "sks_mk": 5,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "309",
+      "nm_mk": "DOKUMENTASI KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD205A",
+      "nm_mk": "KESEHATAN REPRODUKSI DAN KB",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD202A",
+      "nm_mk": "KETERAMPILAN DASAR KEBIDANAN II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD104",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD307B_",
+      "nm_mk": "PRAKTEK KEBIDANAN I",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD301A",
+      "nm_mk": "ASKEB KEHAMILAN",
+      "sks_mk": 5,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD304",
+      "nm_mk": "ASKEB NEONATUS,BAYI,BALITA & ANAK PRA SEKOLAH",
+      "sks_mk": 5,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML3",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD403",
+      "nm_mk": "KESEHATAN MASYARAKAT",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD303",
+      "nm_mk": "ASKEB NIFAS DAN MENYUSUI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML4",
+      "nm_mk": "MANAJEMEN IGD KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD402",
+      "nm_mk": "ETIKOLEGAL DALAM PRAK. KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD202",
+      "nm_mk": "KOMUNIKASI DALAM PRAK.KEBIDANAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD307B",
+      "nm_mk": "PRAKTEK KEBIDANAN II",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD308A",
+      "nm_mk": "PRAKTEK KEBIDANAN III",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD502",
+      "nm_mk": "MUTU LAYANAN KEBIDANAN & KEBIJAKAN KESEHATAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML5",
+      "nm_mk": "IMUNISASI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD305",
+      "nm_mk": "ASKEB KEGAWATDARURATAN MATERNAL NEONATAL",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD306",
+      "nm_mk": "ASKEB KOMUNITAS",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD404",
+      "nm_mk": "METODE PENELITIAN DAN STATISTIK DASAR",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML6",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD308B",
+      "nm_mk": "PRAKTEK KEBIDANAN IV (Luar)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD309A",
+      "nm_mk": "PRAKTEK KEBIDANAN IV (DARBIN)",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD309B",
+      "nm_mk": "PRAKTEK KEBIDANAN V",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML10",
+      "nm_mk": "MANAJEMEN KRISIS KESEHATANN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML8",
+      "nm_mk": "BAHASA INGGRIS 2",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML7",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML9",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD503",
+      "nm_mk": "LAPORAN TUGAS AKHIR",
+      "sks_mk": 5,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML11",
+      "nm_mk": "PRAKTEK KEBIDANAN VI",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SANDEI YANI",
+    "jk": "P",
+    "nipd": "201303040         ",
+    "namapt": "Akademi Kebidanan Graha Ananda",
+    "namajenjang": "D3",
+    "namaprodi": "Kebidanan",
+    "reg_pd": "4B3AF3F7-D646-46A0-9DAE-11F2F5E895E8",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-08-01T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/M0M4QjBEODktNkFEQy00M0ZFLTk0NUYtREQxRjk1MkUwMDJD",
+    "link_prodi": "/data_prodi/OEQ1NzNEMDktMjI4RC00MTZDLUIyOTktOTgyMDUxQTMyN0Yw"
+  }
+}

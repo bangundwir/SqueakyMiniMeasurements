@@ -1,0 +1,408 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ME101",
+      "nm_mk": "DASAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK039",
+      "nm_mk": "BAHASA INDONESIA AKADEMIK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ES105",
+      "nm_mk": "KETERAMPILAN ANTARPRIBADI & KEPEMIMPINAN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK017",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AE105",
+      "nm_mk": "AKUNTANSI PENGANTAR + PRATIKTA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK060",
+      "nm_mk": "FENOMENOLOGI AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ES101",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME103",
+      "nm_mk": "MATEMATIKA EKONOMI & BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME104",
+      "nm_mk": "MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ES106",
+      "nm_mk": "EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ES102",
+      "nm_mk": "STATISTIKA I + PRAKTIKA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME102",
+      "nm_mk": "Metode Kuantitatif",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK024",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AE104",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME201",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME203",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AE205",
+      "nm_mk": "Akuntansi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME207",
+      "nm_mk": "Perilaku Organisasional",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME205",
+      "nm_mk": "Manajemen Operasi",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ES203",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ES205",
+      "nm_mk": "Statistika II + Praktika",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME214",
+      "nm_mk": "KEWIRAUSAHAAN & INOVASI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME208",
+      "nm_mk": "MANAJEMEN SUMBER DAYA INSANI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME202",
+      "nm_mk": "Manajemen Bauran Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME216",
+      "nm_mk": "HUKUM BISNIS & HUKUM PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME204",
+      "nm_mk": "MANAJEMEN KEUANGAN LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME206",
+      "nm_mk": "Manajemen Operasi Lanjutan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ES206",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME305",
+      "nm_mk": "PASAR MODAL + PRAKTIKA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME103",
+      "nm_mk": "MATEMATIKA EKONOMI & BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME303",
+      "nm_mk": "Perencanaan Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME329",
+      "nm_mk": "Budaya Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME325",
+      "nm_mk": "Desain Organisasional",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK061",
+      "nm_mk": "ETIKA BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ES301",
+      "nm_mk": "Komunikasi Bisnis & Keterampilan Presentasi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME327",
+      "nm_mk": "Psikologi Organisasional",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME421",
+      "nm_mk": "MANAJEMEN KOMPENSASI",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME336",
+      "nm_mk": "Metode Riset Bisnis + Praktika",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME328",
+      "nm_mk": "Pengembangan Sumber Daya Insani",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME308",
+      "nm_mk": "BANK & LEMBAGA KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME302",
+      "nm_mk": "Bisnis International",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME306",
+      "nm_mk": "MANAJEMEN PERUBAHAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME326",
+      "nm_mk": "Manajemen Sumber Daya Insani Internasional",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME304",
+      "nm_mk": "Manajemen Stratejik",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME403",
+      "nm_mk": "NEGOSIASI",
+      "sks_mk": 3,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME301",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME411",
+      "nm_mk": "SEMINAR MANAJEMEN SUMBER DAYA INSANI",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME401",
+      "nm_mk": "MANAJEMEN KINERJA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ME440",
+      "nm_mk": "TUGAS AKHIR MANAJEMEN SUMBER DAYA INSANI",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "CICI PADMASARI",
+    "jk": "P",
+    "nipd": "1652073",
+    "namapt": "Universitas Kristen Maranatha",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "95F25A9B-4A4F-4227-A716-0C66D8D91FAB",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-01-29T00:00:00Z",
+    "no_seri_ijazah": "33614 D 6198",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTQzMjY1QjMtMkY0Ri00Q0EwLUEwQTUtOEQwNTM3QjQ0QjYy",
+    "link_prodi": "/data_prodi/MDc4MUUxMTAtQkY5OS00OTc5LUIxQzQtMEI0QkZCREY0OUM5"
+  }
+}

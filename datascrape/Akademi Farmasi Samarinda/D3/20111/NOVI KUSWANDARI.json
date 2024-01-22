@@ -1,0 +1,76 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FR502",
+      "nm_mk": "KARYA TULIS ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FR503",
+      "nm_mk": "SEMINAR KTI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FR501",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NOVI KUSWANDARI",
+    "jk": "P",
+    "nipd": "723901S11064      ",
+    "namapt": "Akademi Farmasi Samarinda",
+    "namajenjang": "D3",
+    "namaprodi": "Farmasi",
+    "reg_pd": "003A82CC-E170-4A9F-BE4D-26893A05AFFC",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-08-25T00:00:00Z",
+    "no_seri_ijazah": "5074/AFS/2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjlBQkZDRjktOUZEQy00QzY2LTk2MTYtQjIwMzJDNkM3Nzg1",
+    "link_prodi": "/data_prodi/MUY1MkQ5OTMtRTJERC00NEI3LThBNkUtRkQ0ODk5ODI2QjY0"
+  }
+}

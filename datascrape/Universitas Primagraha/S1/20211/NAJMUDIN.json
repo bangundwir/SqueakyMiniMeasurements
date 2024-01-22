@@ -2,41 +2,36 @@
   "datastatuskuliah": [
     {
       "id_smt": "20211",
-      "sks_smt": 22,
+      "sks_smt": 23,
       "nm_stat_mhs": "Aktif"
     },
     {
       "id_smt": "20212",
-      "sks_smt": 0,
-      "nm_stat_mhs": "Non-Aktif                           "
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
     },
     {
       "id_smt": "20221",
-      "sks_smt": 24,
+      "sks_smt": 23,
       "nm_stat_mhs": "Aktif"
     },
     {
       "id_smt": "20222",
-      "sks_smt": 20,
+      "sks_smt": 18,
       "nm_stat_mhs": "Aktif"
-    },
-    {
-      "id_smt": "20231",
-      "sks_smt": 0,
-      "nm_stat_mhs": "Non-Aktif                           "
     }
   ],
   "datastudi": [
     {
-      "kode_mk": "IN2007",
-      "nm_mk": "MICRO CONTROLLER I",
-      "sks_mk": 3,
+      "kode_mk": "UN2001",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2002",
-      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "kode_mk": "FE2019",
+      "nm_mk": "PENGANTAR BISNIS MODERN",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -49,29 +44,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UN2001",
-      "nm_mk": "PENDIDIKAN AGAMA",
+      "kode_mk": "UN2005",
+      "nm_mk": "BAHASA INGGRIS I",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2011",
-      "nm_mk": "SISTEM DIGITAL",
-      "sks_mk": 3,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IN2010",
-      "nm_mk": "PEMROGRAMAN DASAR",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IN2022",
-      "nm_mk": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "kode_mk": "FE2020",
+      "nm_mk": "MATEMATIKA BISNIS",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -84,58 +65,142 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UN2005",
-      "nm_mk": "BAHASA INGGRIS I (UMUM)",
-      "sks_mk": 2,
+      "kode_mk": "FE2001",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2017",
-      "nm_mk": "JARINGAN KOMPUTER",
+      "kode_mk": "FE2026",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
       "sks_mk": 3,
-      "id_smt": "20221",
+      "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2003",
-      "nm_mk": "DATABASE MANAJEMEN SISTEM I",
+      "kode_mk": "FE2007",
+      "nm_mk": "PENGANTAR AKUNTANSI",
       "sks_mk": 3,
-      "id_smt": "20221",
+      "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2006",
-      "nm_mk": "METODE NUMERIK",
+      "kode_mk": "FE2014",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2030",
+      "nm_mk": "PENGANTAR EKONOMI PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2013",
+      "nm_mk": "ASPEK HUKUM DALAM BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2008",
+      "nm_mk": "STATISTIK I",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2024",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2032",
+      "nm_mk": "KEWIRAUSAHAAN DAN INOVASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN2003",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2021",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2028",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2023",
+      "nm_mk": "STATISTIK II",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FT2001",
-      "nm_mk": "ALJABAR LINIER",
+      "kode_mk": "MN2005",
+      "nm_mk": "KOMUNIKASI BISNIS",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2024",
-      "nm_mk": "PEMROGRAMAN WEB II",
+      "kode_mk": "FE2006",
+      "nm_mk": "SOSIOLOGI DAN POLITIK",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MSB302",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FT2003",
-      "nm_mk": "KALKULUS II",
+      "kode_mk": "MN2027",
+      "nm_mk": "EKONOMI DAN LEMBAGA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN2007",
+      "nm_mk": "ETIKA DAN TANGGUNGJAWAB SOSIAL BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB0025",
+      "nm_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2019",
-      "nm_mk": "KECERDASAN BUATAN",
-      "sks_mk": 3,
+      "kode_mk": "MN2006",
+      "nm_mk": "KEPEMIMPINAN BISNIS",
+      "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
     },
@@ -147,70 +212,119 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "INF2009",
-      "nm_mk": "MICRO CONTROLLER III",
+      "kode_mk": "MN2004",
+      "nm_mk": "TEORI EKONOMI",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2025",
-      "nm_mk": "PEMROGRAMAN WEB III",
+      "kode_mk": "FE2037",
+      "nm_mk": "EKONOMI MANAJERIAL",
       "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2015",
-      "nm_mk": "DATABASE MANAJEMEN SISTEM II",
+      "kode_mk": "FE2033",
+      "nm_mk": "MANAJEMEN BIAYA",
       "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2012",
-      "nm_mk": "SISTEM ADMINISTRATOR",
+      "kode_mk": "FE2035",
+      "nm_mk": "PERILAKU KEORGANISASIAN",
       "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2016",
-      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
-      "sks_mk": 3,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IN2013",
-      "nm_mk": "TEORI BAHASA & AUTOMATA",
+      "kode_mk": "UN2010",
+      "nm_mk": "E-COMMERECE",
       "sks_mk": 2,
       "id_smt": "20222",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IN2028",
-      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "kode_mk": "FE2038",
+      "nm_mk": "MANAJEMEN KOPERASI & UKM",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2034",
+      "nm_mk": "TEKNIK PENGAMBILAN KEPUTUSAN",
       "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FT2005",
-      "nm_mk": "ANALISIS DAN PERANCANGAN SISTEM INFORMASI",
-      "sks_mk": 3,
+      "kode_mk": "FE2036",
+      "nm_mk": "MANAJEMEN LINTAS BUDAYA",
+      "sks_mk": 2,
       "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN2019",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN2008",
+      "nm_mk": "RISET OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN2016",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN2018",
+      "nm_mk": "MANAJEMEN OPERASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN2023",
+      "nm_mk": "PENGANTAR BISNIS INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN2017",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FE2012",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
       "nilai_huruf": null
     }
   ],
   "dataumum": {
     "nm_pd": "NAJMUDIN",
     "jk": "L",
-    "nipd": "210758",
+    "nipd": "212343",
     "namapt": "Universitas Primagraha",
     "namajenjang": "S1",
-    "namaprodi": "Informatika",
-    "reg_pd": "D1304995-8FC0-42A2-9A05-3F9C26CF581C",
+    "namaprodi": "Manajemen",
+    "reg_pd": "CE0C3867-BE0F-4F89-9DD0-C307564B18C0",
     "mulai_smt": "20211",
     "nm_jns_daftar": "Peserta didik baru",
     "nm_pt_asal": null,
@@ -220,6 +334,6 @@
     "no_seri_ijazah": null,
     "sert_prof": null,
     "link_pt": "/data_pt/OUQ3RTMzNTEtRjU5Mi00MzM0LTg2MjYtODBFNjFCNDM2ODhC",
-    "link_prodi": "/data_prodi/QjExRkY0NEQtOEI4Mi00NEE2LUE0QjMtNEM1QTRBMUEwMzZB"
+    "link_prodi": "/data_prodi/QUE1NjRFODYtN0MzMi00OTBCLTg1RDgtNzY2MEZCQjMwNjMw"
   }
 }

@@ -1,0 +1,739 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20061",
+      "sks_smt": 26,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EM1301",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2201",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1202",
+      "nm_mk": "BAHASA INGGRIS 2",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1102",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2302",
+      "nm_mk": "MATEMATIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2101",
+      "nm_mk": "PENGANTAR EKONOMI MIKRO",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1106",
+      "nm_mk": "ORKESBUD 1",
+      "sks_mk": 1,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1201",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1103",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2106",
+      "nm_mk": "EKONOMI PEMBANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2301",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2401",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3203",
+      "nm_mk": "RISET OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2308",
+      "nm_mk": "BANK & LEMBAGA KEUANGAN LAIN",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2601",
+      "nm_mk": "PENGANTAR AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3408",
+      "nm_mk": "POLITIK DALAM ORGANISASI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2103",
+      "nm_mk": "TEORI EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2102",
+      "nm_mk": "PENGANTAR EKONOMI MAKRO",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2306",
+      "nm_mk": "STATISTIK BISNIS 1",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2109",
+      "nm_mk": "EKONOMI KOPERASI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1203",
+      "nm_mk": "BAHASA INGGRIS 3",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2104",
+      "nm_mk": "TEORI EKONOMI MAKRO",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1401",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2307",
+      "nm_mk": "STATISTIK BISNIS 2",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2209",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3401",
+      "nm_mk": "MANAJEMEN SDM1",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3201",
+      "nm_mk": "MANAJEMEN OPERASI 1",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2315",
+      "nm_mk": "TEORI ORGANISASI",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3101",
+      "nm_mk": "MANAJEMEN KEUANGAN 1",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3301",
+      "nm_mk": "MANAJEMEN PEMASARAN 1",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3404",
+      "nm_mk": "KEPEMIMPINAN",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2602",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2103",
+      "nm_mk": "TEORI EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3102",
+      "nm_mk": "MANAJEMEN KEUANGAN 2",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3203",
+      "nm_mk": "RISET OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2107",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3302",
+      "nm_mk": "MANAJEMEN PEMASARAN 2",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2314",
+      "nm_mk": "PERILAKU ORGANISASI",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2501",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2312",
+      "nm_mk": "PENGANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2209",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3204",
+      "nm_mk": "MANAJEMEN INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2603",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2303",
+      "nm_mk": "KOMUNIKASI & NEGOSIASI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2304",
+      "nm_mk": "STUDY KELAYAKAN BISNIS 1",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2309",
+      "nm_mk": "METODE PENELITIAN BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3205",
+      "nm_mk": "MANAJEMEN PERSEDIAAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2103",
+      "nm_mk": "TEORI EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3102",
+      "nm_mk": "MANAJEMEN KEUANGAN 2",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3402",
+      "nm_mk": "MANAJEMEN SDM2",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2602",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2314",
+      "nm_mk": "PERILAKU ORGANISASI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2307",
+      "nm_mk": "STATISTIK BISNIS 2",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2304",
+      "nm_mk": "STUDY KELAYAKAN BISNIS 1",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2309",
+      "nm_mk": "METODE PENELITIAN BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3103",
+      "nm_mk": "MANAJEMEN PERBANKAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2312",
+      "nm_mk": "PENGANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2311",
+      "nm_mk": "PASAR MODAL & TEORI PORTOPOLIO",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3303",
+      "nm_mk": "RISET PEMASARAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2313",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3302",
+      "nm_mk": "MANAJEMEN PEMASARAN 2",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2107",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2305",
+      "nm_mk": "STUDY KELAYAKAN BISNIS 2",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3304",
+      "nm_mk": "PEMASARAN GLOBAL",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2309",
+      "nm_mk": "METODE PENELITIAN BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3203",
+      "nm_mk": "RISET OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2208",
+      "nm_mk": "KAPITA SELEKTA MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2312",
+      "nm_mk": "PENGANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3101",
+      "nm_mk": "MANAJEMEN KEUANGAN 1",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2307",
+      "nm_mk": "STATISTIK BISNIS 2",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3103",
+      "nm_mk": "MANAJEMEN PERBANKAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2604",
+      "nm_mk": "ANALISA LAPORAN KEUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2110",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2204",
+      "nm_mk": "MANAJEMEN TRANSPORTASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3202",
+      "nm_mk": "MANAJEMEN OPERASI 2",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2205",
+      "nm_mk": "MANAJEMEN KOPERASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3104",
+      "nm_mk": "TEORI PENGAMBILAN KEPUTUSAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2314",
+      "nm_mk": "PERILAKU ORGANISASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3305",
+      "nm_mk": "SISTEM INFORMASI PEMASARAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3403",
+      "nm_mk": "SISTEM INFORMASI SDM",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM4102",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2203",
+      "nm_mk": "MANAJEMEN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2207",
+      "nm_mk": "MANAJEMEN STRATEGIK",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM1107",
+      "nm_mk": "ORKESBUD II",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2311",
+      "nm_mk": "PASAR MODAL & TEORI PORTOPOLIO",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2312",
+      "nm_mk": "PENGANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3204",
+      "nm_mk": "MANAJEMEN INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2202",
+      "nm_mk": "MANAJEMEN RESIKO",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM4102",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM3105",
+      "nm_mk": "TEKNIK PROYEKSI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM4102",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUSTIKA ADI NUGROHO",
+    "jk": "L",
+    "nipd": "06010035          ",
+    "namapt": "Universitas Bandar Lampung",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "5DEACB84-08FC-4B6B-8010-A4541F53C87F",
+    "mulai_smt": "20061",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": "2012-08-28T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/M0RFNzMxNjYtQjlFRS00NkI5LThCNDMtNEVBMEM1MDVGMzgy",
+    "link_prodi": "/data_prodi/MDQzMjVFNDQtOUVFQy00NUQ2LUI2OEYtRkVGOERFMzA1M0FG"
+  }
+}

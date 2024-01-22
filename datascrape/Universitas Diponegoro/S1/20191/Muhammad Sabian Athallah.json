@@ -1,0 +1,469 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EMJ11-406",
+      "nm_mk": "MATEMATIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ11400",
+      "nm_mk": "Pengantar Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11201",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 0,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11207",
+      "nm_mk": "Olah Raga",
+      "sks_mk": 0,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK11310",
+      "nm_mk": "PENGANTAR AKUNTANSI I",
+      "sks_mk": 0,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ11300",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 0,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP11301",
+      "nm_mk": "PENGANTAR EKONOMI MIKRO",
+      "sks_mk": 0,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11206",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW21211",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 0,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21411",
+      "nm_mk": "TEKNOLOGI INFORMASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21407",
+      "nm_mk": "STATISTIKA BISNIS I",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21301",
+      "nm_mk": "MANAJEMEN SAINS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK21320",
+      "nm_mk": "PENGANTAR AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP21304",
+      "nm_mk": "PENGANTAR EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21308",
+      "nm_mk": "MANAJEMEN OPERASI I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK21331",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21302",
+      "nm_mk": "SEJARAH PEMIKIRAN MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21307",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21306",
+      "nm_mk": "MANAJEMEN KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21305",
+      "nm_mk": "MANAJEMEN PEMASARAN I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21408",
+      "nm_mk": "STATISTIKA BISNIS II",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21406",
+      "nm_mk": "Matematika Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK21346",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21311",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21314",
+      "nm_mk": "MANAJEMEN LEMBAGA KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21312",
+      "nm_mk": "MANAJEMEN OPERASI II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21310",
+      "nm_mk": "MANAJEMEN KEUANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21317",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21309",
+      "nm_mk": "MANAJEMEN PEMASARAN II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21303",
+      "nm_mk": "MANAJEMEN LINTAS BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21403",
+      "nm_mk": "PENGANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11213",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21313",
+      "nm_mk": "MANAJEMEN STRATEGIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21401",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKM411",
+      "nm_mk": "Metodologi Penelitian Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11207",
+      "nm_mk": "Olah Raga",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21402",
+      "nm_mk": "ETIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21304",
+      "nm_mk": "PERILAKU KEORGANISASIAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21405",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21501",
+      "nm_mk": "Seminar Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21318",
+      "nm_mk": "PASAR KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21315",
+      "nm_mk": "MANAJEMEN MUTU",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP21339",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21506",
+      "nm_mk": "Manajemen Hutang dan Aset",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21546",
+      "nm_mk": "Manajemen Investasi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21404",
+      "nm_mk": "ANALISIS LAPORAN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21502",
+      "nm_mk": "ANALISIS KREDIT DAN PEMBIAYAAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11-211",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11212",
+      "nm_mk": "KKN/KKU",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21599",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21316",
+      "nm_mk": "Manajemen Risiko Bisnis",
+      "sks_mk": 0,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP21301",
+      "nm_mk": "Pengantar Teori Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11207",
+      "nm_mk": "Olah Raga",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNW11209",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21412",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21599",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ21599",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Muhammad Sabian Athallah",
+    "jk": "L",
+    "nipd": "12010119130202",
+    "namapt": "Universitas Diponegoro",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "3242ADBB-2314-45EC-91EF-0F4429074529",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTREMDFCRjMtODI1NS00NzRCLUI5NkQtNDQyNjEzNUVFRDAx",
+    "link_prodi": "/data_prodi/ODQ0MkNGQUEtREZCNC00RUJBLUE3NzItMkQwQjJFQ0FCMTk0"
+  }
+}

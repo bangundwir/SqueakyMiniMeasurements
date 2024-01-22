@@ -1,0 +1,87 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20092",
+      "sks_smt": 2,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Lulus"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KIP353",
+      "nm_mk": "PATOLOGI KLINIK",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KUF413T",
+      "nm_mk": "FARMAKOTERAPI TUTORIAL",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM411K",
+      "nm_mk": "KIMIA MEDISINAL KULIAH",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KUF413K",
+      "nm_mk": "FARMAKOTERAPI KULIAH",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM411P",
+      "nm_mk": "KIMIA MEDISINAL PRAKTIKUM",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT212K",
+      "nm_mk": "BIOFARMASETIKA KULIAH",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JOHAN HARYADI",
+    "jk": "L",
+    "nipd": "050911193         ",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "0BE85A1F-FEEB-4C15-B80C-FF833004B020",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-02-29T00:00:00Z",
+    "no_seri_ijazah": "3646/0113/05/S1/2012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/MTBCNUVEQ0EtREM2Ny00NDEyLUEyQUYtM0NDNEUwRjEyRDU3"
+  }
+}

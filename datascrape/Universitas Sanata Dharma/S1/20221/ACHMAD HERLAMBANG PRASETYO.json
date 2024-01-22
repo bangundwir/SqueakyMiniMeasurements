@@ -1,0 +1,208 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BIND101",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO103",
+      "nm_mk": "Informatika dan Dampak Sosialnya",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO102",
+      "nm_mk": "SISTEM DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATE102",
+      "nm_mk": "MATEMATIKA DISKRET",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEOL101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BING101",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO101",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATE101",
+      "nm_mk": "LOGIKA MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO108",
+      "nm_mk": "DASAR KOMUNIKASI KOMPUTER DAN JARINGAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATE103",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FILS105",
+      "nm_mk": "Filsafat Moral",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATE104",
+      "nm_mk": "STATISTIKA DAN PROBABILITAS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO106",
+      "nm_mk": "PEMROGRAMAN ANALISIS DATA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO104",
+      "nm_mk": "STRUKTUR DATA LINIER",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO105",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO107",
+      "nm_mk": "DASAR KOMPUTER DAN SISTEM OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RPLN102",
+      "nm_mk": "BAHASA QUERY",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO110",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO111",
+      "nm_mk": "SISTEM CERDAS",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO112",
+      "nm_mk": "INTERNET DAN APLIKASINYA",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INFO109",
+      "nm_mk": "STRUKTUR DATA NON LINIER",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEBN101",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATE105",
+      "nm_mk": "ALJABAR LINIER",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RPLN101",
+      "nm_mk": "KONSEP DAN DESAIN BASIS DATA",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ACHMAD HERLAMBANG PRASETYO",
+    "jk": "L",
+    "nipd": "225314018",
+    "namapt": "Universitas Sanata Dharma",
+    "namajenjang": "S1",
+    "namaprodi": "Informatika",
+    "reg_pd": "FD2C7EA4-01EE-4962-8BD3-9A080BFE506F",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjRDNTFFRDktNjYzRi00MjlBLThGMjMtNzExRTJGN0I1M0RG",
+    "link_prodi": "/data_prodi/NTkxNTk2RDQtMEY5OS00RUY4LThFOTItRENEQkU5QzQ1MDA3"
+  }
+}

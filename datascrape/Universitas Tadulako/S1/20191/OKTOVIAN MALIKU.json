@@ -62,6 +62,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "U01171002",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "U00171014",
       "nm_mk": "Biologi",
       "sks_mk": 3,
@@ -79,13 +86,6 @@
       "kode_mk": "U01171001A",
       "nm_mk": "PENDIDIKAN AGAMA KRISTEN",
       "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "U01171002",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -167,8 +167,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "E02171005",
+      "nm_mk": "BIOKIMIA DAN FISIOLOGI TUMBUHAN",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "E02171003",
       "nm_mk": "GENETIKA DAN PEMULIAAN TANAMAN",
+      "sks_mk": 5,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E02171016",
+      "nm_mk": "TEKNOLOGI PERBANYAKAN BAHAN TANAMAN",
       "sks_mk": 5,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -177,20 +191,6 @@
       "kode_mk": "E02171004",
       "nm_mk": "DASAR-DASAR HORTIKULTURA",
       "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "E02171005",
-      "nm_mk": "BIOKIMIA DAN FISIOLOGI TUMBUHAN",
-      "sks_mk": 6,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "E02171016",
-      "nm_mk": "TEKNOLOGI PERBANYAKAN BAHAN TANAMAN",
-      "sks_mk": 5,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -209,9 +209,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "E02171009",
-      "nm_mk": "Budidaya Tanaman",
-      "sks_mk": 5,
+      "kode_mk": "AGT3515",
+      "nm_mk": "BIOTEKNOLOGI TANAH",
+      "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -230,9 +230,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AGT3515",
-      "nm_mk": "BIOTEKNOLOGI TANAH",
-      "sks_mk": 3,
+      "kode_mk": "E02171009",
+      "nm_mk": "Budidaya Tanaman",
+      "sks_mk": 5,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -244,16 +244,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "E02171019",
-      "nm_mk": "PENGELOLAAN TANAH DAN IRIGASI",
-      "sks_mk": 5,
+      "kode_mk": "U00171008A",
+      "nm_mk": "Kajian Lingkungan Hidup",
+      "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AGT3614",
-      "nm_mk": "Sistim Informasi Sumberdaya Lahan",
-      "sks_mk": 3,
+      "kode_mk": "E02171019",
+      "nm_mk": "PENGELOLAAN TANAH DAN IRIGASI",
+      "sks_mk": 5,
       "id_smt": "20211",
       "nilai_huruf": null
     },
@@ -272,30 +272,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "U00171008A",
-      "nm_mk": "Kajian Lingkungan Hidup",
-      "sks_mk": 2,
+      "kode_mk": "AGT3614",
+      "nm_mk": "Sistim Informasi Sumberdaya Lahan",
+      "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AGT4703",
-      "nm_mk": "KO-KURIKULER",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "E02171011",
-      "nm_mk": "METODE PENELITIAN DAN PENULISAN ILMIAH",
-      "sks_mk": 5,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "E02171010",
-      "nm_mk": "BIOTEKNOLOGI PERTANIAN",
-      "sks_mk": 4,
+      "kode_mk": "E02171018",
+      "nm_mk": "PENYULUHAN DAN KOMUNIKASI PERTANIAN",
+      "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
     },
@@ -314,6 +300,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "AGT4703",
+      "nm_mk": "KO-KURIKULER",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "E02171017",
       "nm_mk": "MEKANISASI PERTANIAN",
       "sks_mk": 3,
@@ -321,17 +314,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "E02171018",
-      "nm_mk": "PENYULUHAN DAN KOMUNIKASI PERTANIAN",
-      "sks_mk": 3,
+      "kode_mk": "E02171011",
+      "nm_mk": "METODE PENELITIAN DAN PENULISAN ILMIAH",
+      "sks_mk": 5,
       "id_smt": "20212",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "E01171012",
-      "nm_mk": "SEMINAR",
-      "sks_mk": 2,
-      "id_smt": "20221",
+      "kode_mk": "E02171010",
+      "nm_mk": "BIOTEKNOLOGI PERTANIAN",
+      "sks_mk": 4,
+      "id_smt": "20212",
       "nilai_huruf": null
     },
     {
@@ -345,6 +338,13 @@
       "kode_mk": "E01171011",
       "nm_mk": "KKN",
       "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E01171012",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
     },

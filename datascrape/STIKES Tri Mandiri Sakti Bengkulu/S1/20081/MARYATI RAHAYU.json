@@ -1,0 +1,597 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20081",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "211204",
+      "nm_mk": "FILSAFAT DAN LOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "211202",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "221205",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "221207",
+      "nm_mk": "KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "211211",
+      "nm_mk": "PENGANTAR KESEHATAN MASYARAKAT",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "211101",
+      "nm_mk": "ISLAM I",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "211210",
+      "nm_mk": "SOSIOLOGI DAN ANTROPOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "211103",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "221209",
+      "nm_mk": "DEMOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "221308",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "221206",
+      "nm_mk": "FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "222204",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "222309",
+      "nm_mk": "BIOSTATISTIK DESKRIPTIF",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "212101",
+      "nm_mk": "AL-ISLAM II",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "222102",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "222210",
+      "nm_mk": "APLIKASI KOMPUTER DALAM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "222207",
+      "nm_mk": "ANATOMI DAN FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "212303",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "222208",
+      "nm_mk": "KOMUNIKASI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "222211",
+      "nm_mk": "PENGANTAR KESEHATAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "232205",
+      "nm_mk": "MIKROBIOLOGI DAN PARASITOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "222206",
+      "nm_mk": "PATOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "213210",
+      "nm_mk": "PENGANTAR ORGANISASI DAN MANAJEMEN KESET",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "233409",
+      "nm_mk": "BIOSTATISTIK INFERENSIAL",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "213203",
+      "nm_mk": "ETIKA DAN HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223204",
+      "nm_mk": "KESEHATAN DAN KESELAMATAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223207",
+      "nm_mk": "PENGANTAR PENDIDIKAN KESEHATAN DAN ILMUU",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2A13101",
+      "nm_mk": "AL ISLAM III",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223102",
+      "nm_mk": "BAHASA INGGRIS III",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2A23305",
+      "nm_mk": "DASAR-DASAR EPIDEMIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "213208",
+      "nm_mk": "PENGANTAR ILMU GIZI",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "213206",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "234206",
+      "nm_mk": "EPIDEMIOLOGI PENYAKIT MENULAR",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "214203",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "234211",
+      "nm_mk": "MANAJEMEN DATA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "224102",
+      "nm_mk": "BAHASA INGGRIS IV",
+      "sks_mk": 1,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "234208",
+      "nm_mk": "PENGORGANISASIAN DAN PENGEMBANGAN MASYAT",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "234310",
+      "nm_mk": "PENGANTAR ADMINISTRASI KESEHATAN MASYART",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "234209",
+      "nm_mk": "GIZI KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "234204",
+      "nm_mk": "KESEHATAN LINGKUNGAN II",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "214101",
+      "nm_mk": "AL-ISLAM IV",
+      "sks_mk": 1,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "234205",
+      "nm_mk": "HYGENE INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235203",
+      "nm_mk": "ERGONOMI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235111",
+      "nm_mk": "PENGOBATAN ALTERNATIF",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235209",
+      "nm_mk": "MANAJEMEN DAN KEPEMIMPINAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235205",
+      "nm_mk": "PSIKOLOGI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235208",
+      "nm_mk": "GIZI KESEHATAN DAN PENYAKIT",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235204",
+      "nm_mk": "EPIDEMIOLOGI PENYAKIT TIDAK MENULAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235301",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "231204",
+      "nm_mk": "PEMASARAN SOSIAL DALAM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235202",
+      "nm_mk": "AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "235206",
+      "nm_mk": "KESEHATAN REPRODUKSI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "241206",
+      "nm_mk": "PE DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "236201",
+      "nm_mk": "PROMOSI K3",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "236203",
+      "nm_mk": "PBL I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "226202",
+      "nm_mk": "ANALISIS KUALITAS LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "241206",
+      "nm_mk": "PE DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "241202",
+      "nm_mk": "MANAJEMEN MUTU",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "236204",
+      "nm_mk": "EKONOMI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "226201",
+      "nm_mk": "MANAJEMEN SDM",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "241203",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "241208",
+      "nm_mk": "ASURANSI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "237201",
+      "nm_mk": "PBL-II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "241204",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "241207",
+      "nm_mk": "MANAJEMEN LOGISTIK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "237202",
+      "nm_mk": "METODE DAN TEKNIK PENDIDIKAN KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "243304",
+      "nm_mk": "MANAJEMEN STRATEGIK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "237204",
+      "nm_mk": "TELAAH ARTIKEL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "237203",
+      "nm_mk": "SURVEILANS EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "241205",
+      "nm_mk": "OMPEKES DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "237202",
+      "nm_mk": "METODE DAN TEKNIK PENDIDIKAN KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "237204",
+      "nm_mk": "TELAAH ARTIKEL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "237201",
+      "nm_mk": "PBL-II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "237203",
+      "nm_mk": "SURVEILANS EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "238301",
+      "nm_mk": "KPKM",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "238402",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MARYATI RAHAYU",
+    "jk": "P",
+    "nipd": "0826020027        ",
+    "namapt": "STIKES Tri Mandiri Sakti Bengkulu",
+    "namajenjang": "S1",
+    "namaprodi": "Kesehatan Masyarakat",
+    "reg_pd": "AB2E7597-7710-4DED-BF87-61EFD73CDE1E",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-09-12T00:00:00Z",
+    "no_seri_ijazah": "002/J.02/A/S.I/IX/2012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjAwQTZBNTItRjY2Ni00NkUxLThCRkYtMjg2RDE0QkIyQzkx",
+    "link_prodi": "/data_prodi/OTgyNUQwREItNTdBNy00OUY5LThEOTQtOUQyNEU0QTBBNjc5"
+  }
+}

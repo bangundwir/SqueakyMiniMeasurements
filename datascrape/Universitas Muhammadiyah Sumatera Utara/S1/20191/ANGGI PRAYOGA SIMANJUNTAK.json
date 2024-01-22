@@ -1,0 +1,574 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PAG110022",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG120022",
+      "nm_mk": "Pengantar Ilmu Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG110032",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG130032",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG130023P",
+      "nm_mk": "Praktikum morfologi dan Anatomi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG130012",
+      "nm_mk": "Sosiologi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG130023",
+      "nm_mk": "Morfologi Anatomi Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG120012",
+      "nm_mk": "Dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG110042",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG110012",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG230052",
+      "nm_mk": "Statistik Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG230042",
+      "nm_mk": "Matematika Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG230063",
+      "nm_mk": "Ekonomi Pertanian PSEP",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG210052",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG230072",
+      "nm_mk": "Pengantar Teknologi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG210062",
+      "nm_mk": "Ibadah",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG220052",
+      "nm_mk": "Dasar Agribisnis",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG220043",
+      "nm_mk": "Dasar Agronomi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG220043P",
+      "nm_mk": "Praktikum Dasar Agronomi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG220032",
+      "nm_mk": "Teknologi Informasi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330103",
+      "nm_mk": "Agroklimatologi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG430182",
+      "nm_mk": "Lembaga Keuangan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330113",
+      "nm_mk": "Dasar Perlindungan Tanaman",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330092",
+      "nm_mk": "Dasar Ilmu Tanah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG530203",
+      "nm_mk": "Tata Niaga Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330122",
+      "nm_mk": "Dasar Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330113P",
+      "nm_mk": "Praktikum Dasar Perlindungan Tanaman",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG530252",
+      "nm_mk": "Etika Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330083",
+      "nm_mk": "Teori Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG310072",
+      "nm_mk": "Muamalah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330132",
+      "nm_mk": "Agribisnis Tanaman Pangan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330103P",
+      "nm_mk": "Praktikum Agroklimatologi",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG830413",
+      "nm_mk": "Studi Kelayakan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG430163",
+      "nm_mk": "Ilmu Usahatani",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG830402",
+      "nm_mk": "Strategi dan Kebijakan Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG430192",
+      "nm_mk": "Kebijakan Pembangunan Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG420062",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG420072",
+      "nm_mk": "Metode Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG330142",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG430172",
+      "nm_mk": "Komunikasi Agribisnis",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG410082",
+      "nm_mk": "Kemuhammadiyahan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG430153",
+      "nm_mk": "Teori Ekonomi Makro",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG730362",
+      "nm_mk": "Riset Operasional",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG730343",
+      "nm_mk": "Penyuluhan Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG720102",
+      "nm_mk": "Agroindustri",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG730353",
+      "nm_mk": "Koperasi dan Kelembagaan Agribisnis",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG530232",
+      "nm_mk": "Pembiayaan Perusahaan Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG530213",
+      "nm_mk": "Manajemen Agribisnis",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG530222",
+      "nm_mk": "Perencanaan Pembangunan Wilayah",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG530242",
+      "nm_mk": "Agribisnis Tanaman Perkebunan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG530262",
+      "nm_mk": "Agribisnis Tanaman Hortikultura",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG540022",
+      "nm_mk": "Pertanian Organik*",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG830383P",
+      "nm_mk": "Praktikum Bussiness Plan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG630303",
+      "nm_mk": "Metode Riset Agrbisnis",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG830383",
+      "nm_mk": "Bussiness Plan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG630292",
+      "nm_mk": "Manajemen SDM",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG830393",
+      "nm_mk": "Ekonometrika",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG630282",
+      "nm_mk": "Ekonomi SDA dan Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG630313",
+      "nm_mk": "Ekonomi Produksi Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG630272",
+      "nm_mk": "Manajemen Tata Niaga Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG640052",
+      "nm_mk": "Dinamika Pasar Agribisnis*",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG630322",
+      "nm_mk": "Statistik Non Parametrik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG730372",
+      "nm_mk": "Perdagangan Internasional",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG620082",
+      "nm_mk": "PKL",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG730333",
+      "nm_mk": "Manajemen Produksi Agribisnis",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG720092",
+      "nm_mk": "KKN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG740082",
+      "nm_mk": "Pengelolaan Perkebunan*",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG820111",
+      "nm_mk": "Seminar Usulan Penelitian",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG820134",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG820121",
+      "nm_mk": "Seminar Hasil Penelitian",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG820121",
+      "nm_mk": "Seminar Hasil Penelitian",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG820134",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ANGGI PRAYOGA SIMANJUNTAK",
+    "jk": "L",
+    "nipd": "1904300008",
+    "namapt": "Universitas Muhammadiyah Sumatera Utara",
+    "namajenjang": "S1",
+    "namaprodi": "Agribisnis",
+    "reg_pd": "B2BBF2B6-55C6-4508-A047-1B6D263F882F",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QUMxQUNEMkMtQzQ5OS00NUFDLUI3OTAtNzZGNUU3Mjk2REY5",
+    "link_prodi": "/data_prodi/NjM4RDNCNTMtRDczNi00MDA4LTk4MzYtNjJDQTk3OUM1MUE3"
+  }
+}

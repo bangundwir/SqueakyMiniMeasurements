@@ -1,0 +1,572 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "180IE006",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "180IE008",
+      "nm_mk": "EKONOMI ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "180IE005",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "180IE002",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "180IE001",
+      "nm_mk": "PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "180IE004",
+      "nm_mk": "MATEMATIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "182IE009",
+      "nm_mk": "PERKEMBANGAN TEORI EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "180IE003",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "180IE007",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE018",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE016",
+      "nm_mk": "ILMU SOSIAL DASAR",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE010",
+      "nm_mk": "ULUMUL QUR`AN DAN ULUMUL HADITS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE011",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE013",
+      "nm_mk": "SEJARAH PEMIKIRAN EKONOMI ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE015",
+      "nm_mk": "MATEMATIKA EKONOMI DAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE012",
+      "nm_mk": "LEMBAGA KEUANGAN SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE017",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE067",
+      "nm_mk": "EKONOMI KOPERASI DAN UKM",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE063",
+      "nm_mk": "FIQH MU'AMALAH",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE064",
+      "nm_mk": "STATISTIKA DESKRIFTIF",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE061",
+      "nm_mk": "ILMU AKHLAK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE066",
+      "nm_mk": "EKONOMI PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE068",
+      "nm_mk": "EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE062",
+      "nm_mk": "FILSAFAT UMUM",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE022",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE028",
+      "nm_mk": "STATISTIKA INFERENSIAL",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE026",
+      "nm_mk": "EKONOMI MIKRO LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE027",
+      "nm_mk": "MANAJEMEN KEUANGAN LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE020",
+      "nm_mk": "STUDI SYARI'AT ISLAM DI ACEH",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE025",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE019",
+      "nm_mk": "METODOLOGI STUDI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE017",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE026",
+      "nm_mk": "EKONOMI MIKRO LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE023",
+      "nm_mk": "TAFSIR AHKAM MUAMALAH",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE019",
+      "nm_mk": "METODOLOGI STUDI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE021",
+      "nm_mk": "USHUL FIQH MUAMALAH",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE017",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE029",
+      "nm_mk": "EKONOMI MAKRO II",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 84801",
+      "nm_mk": "KPM",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE036",
+      "nm_mk": "EKONOMI KELEMBAGAAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE032",
+      "nm_mk": "EKONOMI PUBLIC",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE037",
+      "nm_mk": "EKONOMI KEMISKINAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE033",
+      "nm_mk": "KEWIRAUSAHAAN DAN EKONOMI KREATIF",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE030",
+      "nm_mk": "EKONOMI MONETER",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE022",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE053",
+      "nm_mk": "KEUANGAN DAERAH",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE043",
+      "nm_mk": "EKONOMI SDA DAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE054",
+      "nm_mk": "EKONOMI KEBIJAKAN PUBLIK",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE028",
+      "nm_mk": "STATISTIKA INFERENSIAL",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE014",
+      "nm_mk": "PENGANTAR AKUNTANSI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2032IE030",
+      "nm_mk": "Perekonomian Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE034",
+      "nm_mk": "EKONOMETRIKA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE052",
+      "nm_mk": "EVALUASI PROYEK",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2012IE018",
+      "nm_mk": "Fiqh dan Ushul Fiqh",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE055",
+      "nm_mk": "SEMINAR EKONOMI PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "180IE004",
+      "nm_mk": "MATEMATIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2032IE035",
+      "nm_mk": "Ekonomi Moneter",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EIE 84308",
+      "nm_mk": "Ekonomi SDM dan Ketenagakerjaan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2032IE049",
+      "nm_mk": "EKONOMI PEDESAAN DAN PERKOTAAN",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE045",
+      "nm_mk": "EKONOMI POLITIK",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE054",
+      "nm_mk": "EKONOMI KEBIJAKAN PUBLIK",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE024",
+      "nm_mk": "HADIST AHKAM MUAMALAH",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2032IE046",
+      "nm_mk": "EKONOMI REGIONAL",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE042",
+      "nm_mk": "METODELOGI PENELITIAN EKONOMI DAN BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2032IE050",
+      "nm_mk": "EKONOMI INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2022IE063",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2032IE024",
+      "nm_mk": "EKONOMI MAKRO II",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN 83303",
+      "nm_mk": "Ilmu Akhlak",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE065",
+      "nm_mk": "PERKEMBANGAN TEORI EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2032IE058",
+      "nm_mk": "EKONOMI INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "193IE059",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ANDI BAKTIADI",
+    "jk": "L",
+    "nipd": "180604056",
+    "namapt": "Universitas Islam Negeri Ar-Raniry Banda Aceh",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Ekonomi",
+    "reg_pd": "2208E270-1631-41B3-B8CB-999155807B64",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/Mzk1RTdDNDUtRTFDRS00ODhDLUExOEMtMDAyQjcyQTg0MDcx",
+    "link_prodi": "/data_prodi/RTY0NUJBODctRDdDQy00QjY0LUFEQTgtMTY3MzhFNjcxQkZD"
+  }
+}

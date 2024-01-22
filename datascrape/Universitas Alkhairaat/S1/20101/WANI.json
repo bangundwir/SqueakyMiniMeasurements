@@ -98,13 +98,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KKLIE05",
-      "nm_mk": "PENGANTAR ILMU EKONOMI",
-      "sks_mk": 3,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KKIIP06",
       "nm_mk": "PENGANTAR ILMU PERTANIAN",
       "sks_mk": 2,
@@ -119,9 +112,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PBLPU01",
-      "nm_mk": "PETERNAKAN UMUM",
-      "sks_mk": 2,
+      "kode_mk": "KKLIE05",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 3,
       "id_smt": "20101",
       "nilai_huruf": null
     },
@@ -133,17 +126,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KKIBK07",
-      "nm_mk": "BIOKIMIA TANAMAN",
-      "sks_mk": 3,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KKLMP10",
-      "nm_mk": "MIKROBIOLOGI PERTANIAN",
-      "sks_mk": 3,
-      "id_smt": "20102",
+      "kode_mk": "PBLPU01",
+      "nm_mk": "PETERNAKAN UMUM",
+      "sks_mk": 2,
+      "id_smt": "20101",
       "nilai_huruf": null
     },
     {
@@ -154,9 +140,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKIAI02",
-      "nm_mk": "IBADAH DAN AKHLAK",
-      "sks_mk": 2,
+      "kode_mk": "KKIBK07",
+      "nm_mk": "BIOKIMIA TANAMAN",
+      "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
     },
@@ -175,16 +161,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKLIS06",
-      "nm_mk": "ILMU SOSIAL DASAR",
+      "kode_mk": "PKIAI02",
+      "nm_mk": "IBADAH DAN AKHLAK",
       "sks_mk": 2,
       "id_smt": "20102",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKLAI02",
-      "nm_mk": "PENDIDIKAN AGAMA ISLAM II (IBADAH)",
-      "sks_mk": 1,
+      "kode_mk": "KKLMP10",
+      "nm_mk": "MIKROBIOLOGI PERTANIAN",
+      "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
     },
@@ -199,6 +185,20 @@
       "kode_mk": "KKIIT14",
       "nm_mk": "DASAR-DASAR ILMU TANAH",
       "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKLIS06",
+      "nm_mk": "ILMU SOSIAL DASAR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKLAI02",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM II (IBADAH)",
+      "sks_mk": 1,
       "id_smt": "20102",
       "nilai_huruf": null
     },
@@ -252,6 +252,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PBLKU15",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KBITS08",
       "nm_mk": "BUDIDAYA TANAMAN SEMUSIM",
       "sks_mk": 3,
@@ -262,13 +269,6 @@
       "kode_mk": "KKLMI21",
       "nm_mk": "METODE ILMIAH",
       "sks_mk": 3,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PBLKU15",
-      "nm_mk": "KEWIRAUSAHAAN",
-      "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
     },
@@ -287,6 +287,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KBIPT15",
+      "nm_mk": "DASAR-DASAR PERLINDUNGAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KKIFT16",
       "nm_mk": "FISIOLOGI TUMBUHAN",
       "sks_mk": 3,
@@ -301,16 +308,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BBISP01",
-      "nm_mk": "SOSIOLOGI PERTANIAN",
-      "sks_mk": 2,
+      "kode_mk": "KBITB03",
+      "nm_mk": "TEKNOLOGI BENIH",
+      "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KBIPT15",
-      "nm_mk": "DASAR-DASAR PERLINDUNGAN TANAMAN",
-      "sks_mk": 3,
+      "kode_mk": "PBLPA06",
+      "nm_mk": "PESTISIDA DAN APLIKASI",
+      "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -329,6 +336,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "BBISP01",
+      "nm_mk": "SOSIOLOGI PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KKIEP10",
       "nm_mk": "EKONOMI PERTANIAN",
       "sks_mk": 2,
@@ -338,20 +352,6 @@
     {
       "kode_mk": "KKLPB24",
       "nm_mk": "PENGANTAR BIOTEKNOLOGI",
-      "sks_mk": 2,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KBITB03",
-      "nm_mk": "TEKNOLOGI BENIH",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PBLPA06",
-      "nm_mk": "PESTISIDA DAN APLIKASI",
       "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -385,15 +385,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KBIPT11",
-      "nm_mk": "PEMULIAAN TANAMAN",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KKLEF23",
-      "nm_mk": "ENTOMOFITOPATOLOGI",
+      "kode_mk": "KBIPA04",
+      "nm_mk": "PENGELOLAAN AIR",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -406,8 +399,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KBIPA04",
-      "nm_mk": "PENGELOLAAN AIR",
+      "kode_mk": "KKLEF23",
+      "nm_mk": "ENTOMOFITOPATOLOGI",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -415,6 +408,13 @@
     {
       "kode_mk": "KBIKT02",
       "nm_mk": "KESUBURAN DAN KESEHATAN TANAHNUTRISI TN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KBIPT11",
+      "nm_mk": "PEMULIAAN TANAMAN",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null

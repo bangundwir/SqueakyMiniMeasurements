@@ -1,0 +1,522 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TE12291",
+      "nm_mk": "DSR. TEK. SIST. KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12281",
+      "nm_mk": "MENGGAMBAR TEKNIK LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE11101",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12274",
+      "nm_mk": "FISIKA LISTRIK MAGNET + P",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12271",
+      "nm_mk": "FISIKA MEKANIKA + P",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF12021",
+      "nm_mk": "KALKULUS 1",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11081",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11031",
+      "nm_mk": "PENDDKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE15191",
+      "nm_mk": "PENGETAHUAN HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12331",
+      "nm_mk": "DSR SISTEM TELEKOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12301",
+      "nm_mk": "PROBABILITAS & STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12321",
+      "nm_mk": "PENG.BESAR.& LISTRIK + P",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12311",
+      "nm_mk": "RANGKAIAN LISTRIK + P",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12262",
+      "nm_mk": "KALKULUS 2",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12341",
+      "nm_mk": "PRAK.DSR.SISTEM.TELEKOM.",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12272",
+      "nm_mk": "FIS.GEL,BUNYI & OPTIK + P",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE24081",
+      "nm_mk": "MANAJ. & KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11013",
+      "nm_mk": "PENDDKAN AGAMA KHATOLIK",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE12263",
+      "nm_mk": "KALKULUS 3",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22401",
+      "nm_mk": "DSR.TEK.TEN.LISTRIK + P",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22361",
+      "nm_mk": "DSR ELEKTRONIKA + P",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22411",
+      "nm_mk": "RANGKAIAN LOGIKA + P",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22421",
+      "nm_mk": "FIS.DEVAIS SEMIKONDUKTOR",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22391",
+      "nm_mk": "SISTEM LINIER",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE31121",
+      "nm_mk": "KEPEMIMPINAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22381",
+      "nm_mk": "PRAK.DSR.PEMROGRAMAN",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE21111",
+      "nm_mk": "KETRAMPILAN BERKOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22371",
+      "nm_mk": "DASAR PEMROGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22351",
+      "nm_mk": "MATEMATIKA TEKNIK I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22353",
+      "nm_mk": "MATEMATIKA TEKNIK 3",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22441",
+      "nm_mk": "DASAR SISTEM KONTROL",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE23231",
+      "nm_mk": "ELEKTRONIKA ANALOG + P",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE23241",
+      "nm_mk": "ELEKTRONIKA DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22352",
+      "nm_mk": "MATEMATIKA TEKNIK 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE22431",
+      "nm_mk": "MEDAN ELEKTROMAGNETIK",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP36141",
+      "nm_mk": "INTELEGENSIA BUATAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE23221",
+      "nm_mk": "TEORI ANTRIAN & KEANDALAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE44051",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE36031",
+      "nm_mk": "KAPITA SELEKTA I",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE23251",
+      "nm_mk": "SISTEM MIKROPROSESOR",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP46291",
+      "nm_mk": "MULTIMEDIA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE33271",
+      "nm_mk": "SISTEM KOMUNIKASI DATA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE33281",
+      "nm_mk": "PRAK.SIS.KOMUNIKASI DATA",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE23261",
+      "nm_mk": "PRAKT.SIS.MIKROPROSESOR",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE33291",
+      "nm_mk": "SISTEM PEMROSESAN SINYAL",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP33321",
+      "nm_mk": "ALGORITMA.& STRUK.DT. + P",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP33311",
+      "nm_mk": "ARSITEKTUR SIST.KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE33301",
+      "nm_mk": "PRAK.SIS.PEMROSES.SINYAL",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE33421",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP46101",
+      "nm_mk": "HARDWARE DESCRIP.LANGUAGE",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP33331",
+      "nm_mk": "PERANC.SISTEM DIGITAL + P",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP33341",
+      "nm_mk": "TEKNIK ANTARMUKA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP33361",
+      "nm_mk": "SISTEM OPERASI + P",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP33351",
+      "nm_mk": "PRAK.TEKNIK ANTARMUKA",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP43431",
+      "nm_mk": "PERANC.SIS.BERBS.MIKRO + P",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP33371",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE34001",
+      "nm_mk": "PEMROSES.SINYAL BIOMEDIS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP43391",
+      "nm_mk": "PERANC.SIS.BERBS.KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP33381",
+      "nm_mk": "PERAN.SIS.DIGITAL.LANJ.+P",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE45211",
+      "nm_mk": "PRA SKRIPSI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP43411",
+      "nm_mk": "PEMODELAN & SIULASI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP43401",
+      "nm_mk": "ARSITEKTUR SIS.KOMP.LANJ.",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE35201",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TT43461",
+      "nm_mk": "KOMUNIKASI SPEKTRM TERSBR",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TP46271",
+      "nm_mk": "PEMROGRM.BERORIENT.OBYEK",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE45212",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "IGNASIUS VINSEN",
+    "jk": "L",
+    "nipd": "525140005         ",
+    "namapt": "Universitas Tarumanagara",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Elektro",
+    "reg_pd": "D09CDEBA-71C2-4867-B81E-2519254ABF78",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-07-26T00:00:00Z",
+    "no_seri_ijazah": "202012018000095",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Q0U4NUIzQTYtNTIwNS00QjlCLTg1N0YtQThBNkQ3NzcwRDlE",
+    "link_prodi": "/data_prodi/NzQ5RDMyMTYtNEQyQy00QzI5LTg2RjgtRTJBQjYwQTQ4MEVF"
+  }
+}

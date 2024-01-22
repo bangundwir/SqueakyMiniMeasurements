@@ -1,0 +1,511 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20173",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK42111",
+      "nm_mk": "APLIKASI TEKNOLOGI INFORMASI I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK42103",
+      "nm_mk": "BAHASA INGGRIS I (Integrated)",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42104",
+      "nm_mk": "ALGORITMA & PEMROGRAMAN I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42105",
+      "nm_mk": "ALJABAR LINEAR & MATRIKS",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK42104",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB42108",
+      "nm_mk": "KOMPUTER DAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42106",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK42101I",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB42109",
+      "nm_mk": "PENGEMBANGAN KEPRIBADIAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42107",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK42202",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42208",
+      "nm_mk": "PEMROGRAMAN DASAR",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK42210",
+      "nm_mk": "PEND KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42207",
+      "nm_mk": "STATISTIKA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42209",
+      "nm_mk": "PEMROGRAMAN DASAR PRAKT",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42202",
+      "nm_mk": "ALGORITMA & PEMROGRAMAN II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42204",
+      "nm_mk": "MIKROPROSESSOR",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42203",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK42201",
+      "nm_mk": "Aural English",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42208",
+      "nm_mk": "APLIKASI TEKNOLOGI INFORMASI II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42302",
+      "nm_mk": "MATEMATIKA DISKRET",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42306",
+      "nm_mk": "ARSITEKTUR DAN ORG.KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42303",
+      "nm_mk": "METODE NUMERIK I",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42308",
+      "nm_mk": "SEKURITI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42307",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42304",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK42302",
+      "nm_mk": "COMMUNICATIVE ENGLISH",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42309",
+      "nm_mk": "LOGIKA INFORMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42305",
+      "nm_mk": "STRUKTUR DATA PRAKT",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42409",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42402",
+      "nm_mk": "METODE NUMERIK II",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42404",
+      "nm_mk": "PEMROGRAMAN TERSTRUKTUR",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB42617",
+      "nm_mk": "ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42406",
+      "nm_mk": "SISTEM BASIS DATA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42407",
+      "nm_mk": "SISTEM BASIS DATA PRAKT",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42405",
+      "nm_mk": "PEMROGRAMAN TERSTRUKTUR PRAKT",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42403",
+      "nm_mk": "MANAJEMEN INSTALASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42410",
+      "nm_mk": "SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42408",
+      "nm_mk": "SISTEM BERKAS",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42506",
+      "nm_mk": "TEORI BAHASA AUTOMATA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42507",
+      "nm_mk": "RISET OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB42712",
+      "nm_mk": "RISET TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42501",
+      "nm_mk": "METODOLOGI PENGEMBANGAN SISTEM",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42503",
+      "nm_mk": "PEMROGRAMAN JAVA PRAKT",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB42501",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42508",
+      "nm_mk": "INTERAKSI MANUSIA & KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42504",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42502",
+      "nm_mk": "PEMROGRAMAN JAVA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42615",
+      "nm_mk": "INFORMATIKA TELEKOMUNIKASI [SBW]",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB42109",
+      "nm_mk": "PENGEMBANGAN KEPRIBADIAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42603",
+      "nm_mk": "PEMROGRAMAN CLIENTSERVER PRAKT",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42605",
+      "nm_mk": "PEMROGRAMAN WEB PRAKT",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42604",
+      "nm_mk": "PEMROGRAMAN WEB",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42614",
+      "nm_mk": "ADMINISTRASI WEB SERVER [SBW]",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42602",
+      "nm_mk": "PEMROGRAMAN CLIENTSERVER",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42616",
+      "nm_mk": "REKAYASA WEB [SBW]",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK42103",
+      "nm_mk": "BAHASA INGGRIS I (Integrated)",
+      "sks_mk": 2,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK42309",
+      "nm_mk": "LOGIKA INFORMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42718",
+      "nm_mk": "DESAIN WEB PRAKT [SBW]",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42717",
+      "nm_mk": "DESAIN WEB [SBW]",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42716",
+      "nm_mk": "APLIKASI MULTIMEDIA [SBW]",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB42711",
+      "nm_mk": "KERJA PRAKTEK & SEMINAR",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB42711",
+      "nm_mk": "KERJA PRAKTEK & SEMINAR",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "VIVI ARYANTI",
+    "jk": "P",
+    "nipd": "5150411031",
+    "namapt": "Universitas Teknologi Yogyakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "C5546139-864D-44F7-979D-24671AA7661F",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-11-07T00:00:00Z",
+    "no_seri_ijazah": "552022020001475",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODcyMEY5MkMtREQyMi00RDU3LUI3MEItNTZDNzJFNUVGREMw",
+    "link_prodi": "/data_prodi/OTNDNTE5QTctMkVFNy00RkRBLTg1NDMtOEJDQTM4N0I4NENF"
+  }
+}

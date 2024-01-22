@@ -1,0 +1,201 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20081",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKB101",
+      "nm_mk": "PENGANTAR INTERNET WEB",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK104",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK101",
+      "nm_mk": "AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK103",
+      "nm_mk": "MATEMATIKA I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK101",
+      "nm_mk": "AKUNTANSI I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK102",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK102",
+      "nm_mk": "MANAJEMEN UMUM",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK105",
+      "nm_mk": "PROGRAM PAKET NIAGA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK103",
+      "nm_mk": "BAHASA MANDARIN I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK202",
+      "nm_mk": "MATEMATIKA II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK203",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB201",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK201",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK202",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK201",
+      "nm_mk": "AKUNTANSI II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK203",
+      "nm_mk": "LOGIKA DAN ALGORITMA TERSTRUKTUR",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK302",
+      "nm_mk": "BASIS DATA I",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK304",
+      "nm_mk": "PEMROGRAMAN BAHASA C",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK307",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK303",
+      "nm_mk": "INTERAKSI MANUSIA DENGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK306",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK301",
+      "nm_mk": "BAHASA INGGRIS III",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK305",
+      "nm_mk": "SISTEM ARSIP AKSES",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HESTI YOLANDA PRIMA",
+    "jk": "P",
+    "nipd": "0801020011        ",
+    "namapt": "Akademi Manajemen Informatika Dan Komputer Medan",
+    "namajenjang": "D3",
+    "namaprodi": "Manajemen Informatika",
+    "reg_pd": "AD82F15E-4311-48DC-9CF6-B5BA7B605C8B",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": "",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NzAwNDQxNEMtQUY3Mi00ODEzLTg0MEEtMjQ4RkNDQkVFQUVG",
+    "link_prodi": "/data_prodi/MjVDREIwOEMtMkEyNi00MzRBLThBQUUtNEU2Q0Q1RTdCRjZE"
+  }
+}

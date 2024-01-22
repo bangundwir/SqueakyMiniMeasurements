@@ -78,13 +78,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MPK110113",
-      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
-      "sks_mk": 3,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKK120213",
       "nm_mk": "ILMU NEGARA",
       "sks_mk": 3,
@@ -92,8 +85,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MPK110113",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MPK110423",
       "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK110623",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -109,13 +116,6 @@
       "kode_mk": "MKB130122F",
       "nm_mk": "HUKUM ADAT",
       "sks_mk": 2,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MPK110623",
-      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
-      "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
     },
@@ -148,8 +148,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB130833R",
-      "nm_mk": "HUKUM INTERNASIONAL I",
+      "kode_mk": "MKB130733Q",
+      "nm_mk": "HUKUM TATA NEGARA I",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB130633P",
+      "nm_mk": "HUKUM PIDANA I",
       "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
@@ -176,23 +183,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB130633P",
-      "nm_mk": "HUKUM PIDANA I",
+      "kode_mk": "MKB130833R",
+      "nm_mk": "HUKUM INTERNASIONAL I",
       "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB130733Q",
-      "nm_mk": "HUKUM TATA NEGARA I",
+      "kode_mk": "MKB130933S",
+      "nm_mk": "METODE PENELITIAN HUKUM",
       "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MPB140242",
-      "nm_mk": "HUKUM INTERNASIONAL II",
-      "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
@@ -204,9 +204,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB130933S",
-      "nm_mk": "METODE PENELITIAN HUKUM",
-      "sks_mk": 3,
+      "kode_mk": "MPB140242",
+      "nm_mk": "HUKUM INTERNASIONAL II",
+      "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
@@ -260,9 +260,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MPB140453",
-      "nm_mk": "HUKUM ACARA PERDATA",
-      "sks_mk": 3,
+      "kode_mk": "MPB140352",
+      "nm_mk": "HUKUM ACARA PTUN",
+      "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
     },
@@ -270,13 +270,6 @@
       "kode_mk": "MPB140653",
       "nm_mk": "HUKUM ACARA PIDANA",
       "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MPB140352",
-      "nm_mk": "HUKUM ACARA PTUN",
-      "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
     },
@@ -290,6 +283,13 @@
     {
       "kode_mk": "MPB140753",
       "nm_mk": "HUKUM AGRARIA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB140453",
+      "nm_mk": "HUKUM ACARA PERDATA",
       "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -379,20 +379,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MPB7019",
-      "nm_mk": "PRAKTEK HUKUM",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MBB150372DAT",
-      "nm_mk": "HUKUM KONTRAK DAGANG",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MBB150172DAT",
       "nm_mk": "HUKUM PERLINDUNGAN KONSUMEN",
       "sks_mk": 2,
@@ -402,6 +388,20 @@
     {
       "kode_mk": "MPB1401672",
       "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB7019",
+      "nm_mk": "PRAKTEK HUKUM",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB150372DAT",
+      "nm_mk": "HUKUM KONTRAK DAGANG",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null

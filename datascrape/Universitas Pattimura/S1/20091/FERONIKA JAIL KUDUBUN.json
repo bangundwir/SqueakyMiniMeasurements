@@ -1,0 +1,658 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KKM113",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM111",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM107",
+      "nm_mk": "KIMIA DASAR I",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM109",
+      "nm_mk": "PRATIKUM KIMIA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM121X",
+      "nm_mk": "PENGANTAR KALKULUS",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM103X",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM101",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM105",
+      "nm_mk": "PRATIKUM FISIKA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM215",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM122",
+      "nm_mk": "AGAMA KRISTEN PROTESTAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM114",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM102",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM104X",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM108",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM002X",
+      "nm_mk": "AGAMA KRISTEN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM106",
+      "nm_mk": "PRATIKUM FISIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM110",
+      "nm_mk": "PRATIKUM KIMIA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM112",
+      "nm_mk": "KALKULUS 2",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM202",
+      "nm_mk": "KIMIA ANORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM322",
+      "nm_mk": "TELAAH KURIKULUM KIMIA II",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM323X",
+      "nm_mk": "KIMIA BAHAN MAKANAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM408",
+      "nm_mk": "SEMINAR KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM414XX",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM417",
+      "nm_mk": "KIMIA LAUT *",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM415",
+      "nm_mk": "PPL I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM402",
+      "nm_mk": "KIMIA ANALISA INSTRUMENTAL",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM202",
+      "nm_mk": "KIMIA ANORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM417",
+      "nm_mk": "KIMIA LAUT *",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM415",
+      "nm_mk": "PPL I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM408",
+      "nm_mk": "SEMINAR KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM322",
+      "nm_mk": "TELAAH KURIKULUM KIMIA II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM402X",
+      "nm_mk": "KIMIA ANALISA INSTRUMENTAL",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM414X",
+      "nm_mk": "RADIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM323X",
+      "nm_mk": "KIMIA BAHAN MAKANAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM323X",
+      "nm_mk": "KIMIA BAHAN MAKANAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM402",
+      "nm_mk": "KIMIA ANALISA INSTRUMENTAL",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM322",
+      "nm_mk": "TELAAH KURIKULUM KIMIA II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM408",
+      "nm_mk": "SEMINAR KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM202",
+      "nm_mk": "KIMIA ANORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM415",
+      "nm_mk": "PPL I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM417",
+      "nm_mk": "KIMIA LAUT *",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM323X",
+      "nm_mk": "KIMIA BAHAN MAKANAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM415",
+      "nm_mk": "PPL I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM202",
+      "nm_mk": "KIMIA ANORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM408",
+      "nm_mk": "SEMINAR KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM402X",
+      "nm_mk": "KIMIA ANALISA INSTRUMENTAL",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM322",
+      "nm_mk": "TELAAH KURIKULUM KIMIA II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM202",
+      "nm_mk": "KIMIA ANORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM402",
+      "nm_mk": "KIMIA ANALISA INSTRUMENTAL",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM323X",
+      "nm_mk": "KIMIA BAHAN MAKANAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM415",
+      "nm_mk": "PPL I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM322",
+      "nm_mk": "TELAAH KURIKULUM KIMIA II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM408",
+      "nm_mk": "SEMINAR KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM322",
+      "nm_mk": "TELAAH KURIKULUM KIMIA II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM323X",
+      "nm_mk": "KIMIA BAHAN MAKANAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM415",
+      "nm_mk": "PPL I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM402X",
+      "nm_mk": "KIMIA ANALISA INSTRUMENTAL",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM408",
+      "nm_mk": "SEMINAR KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM417",
+      "nm_mk": "KIMIA LAUT *",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM414",
+      "nm_mk": "RADIOKIMIA *",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM202",
+      "nm_mk": "KIMIA ANORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM412",
+      "nm_mk": "PRAKTEK PENGALAMAN LAPANGAN (PPL2",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM400",
+      "nm_mk": "KKN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM412XX",
+      "nm_mk": "PRAKTEK PENGALAMAN LAPANGAN (PPL) 2",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM400",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM310",
+      "nm_mk": "KIMIA ORGANIK LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM210",
+      "nm_mk": "PRATIKUM KIMIA ORGANIK II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM320",
+      "nm_mk": "IKATAN KIMIA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM108",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM108",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM201",
+      "nm_mk": "KIMIA ANORGANIK 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM208",
+      "nm_mk": "KIMIA ORGANIK II",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM207",
+      "nm_mk": "KIMIA ORGANIK I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM209",
+      "nm_mk": "PRATIKUM KIMIA ORGANIK I",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM314",
+      "nm_mk": "KIMIA BAHAN ALAM",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM108",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM112",
+      "nm_mk": "KALKULUS 2",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM418",
+      "nm_mk": "KIMIA BAHAN MAKANAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM402X",
+      "nm_mk": "KIMIA ANALISA INSTRUMENTAL",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "FERONIKA JAIL KUDUBUN",
+    "jk": "P",
+    "nipd": "200941095         ",
+    "namapt": "Universitas Pattimura",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Kimia",
+    "reg_pd": "6F1DB647-892E-44E5-93F1-8AF4900713CC",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-11-21T00:00:00Z",
+    "no_seri_ijazah": "011743245",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEU5QUY4MUQtRjczNy00N0RBLTkyRkMtRDJBRTAyNEE5QzM0",
+    "link_prodi": "/data_prodi/MURGQTNENjYtMkNDNy00MEZDLUE1MjEtREM2Q0E5REE0NEJF"
+  }
+}

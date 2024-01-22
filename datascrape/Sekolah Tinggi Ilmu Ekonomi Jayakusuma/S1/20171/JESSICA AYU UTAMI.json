@@ -1,0 +1,429 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ESE11003",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA11002",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA11003",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK11101",
+      "nm_mk": "PENGANTAR AKUNTANSI I",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE11004",
+      "nm_mk": "LAP APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE11005",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE11002",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE11006",
+      "nm_mk": "PENGANTAR EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE12001",
+      "nm_mk": "LAP APLIKASI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE12007",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE12006",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE12003",
+      "nm_mk": "BAHASA MANDARIN I",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE12004",
+      "nm_mk": "STATISTIK I",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE11001",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK12102",
+      "nm_mk": "PENGANTAR AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE12002",
+      "nm_mk": "PENGANTAR EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE21004",
+      "nm_mk": "STATISTIK II",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK21102",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA21002",
+      "nm_mk": "MANAJEMEN MARKETING I",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA21001",
+      "nm_mk": "MANAJEMEN OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA21003",
+      "nm_mk": "MANAJEMEN KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE21003",
+      "nm_mk": "BAHASA MANDARIN II",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE21001",
+      "nm_mk": "BAHASA INGGRIS III",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE22006",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA22001",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA22003",
+      "nm_mk": "SUMBER DAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE22001",
+      "nm_mk": "PASAR MODALBANK LEMBAGA KEULAINNYA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK22101",
+      "nm_mk": "AKUNTANSI KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE22005",
+      "nm_mk": "ASPEK HUKUM DALAM EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK31101",
+      "nm_mk": "AUDITING",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA31004",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK31104",
+      "nm_mk": "AKUNTANSI PEMERINTAH",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK31103",
+      "nm_mk": "AKUNTANSI KEUANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK31101",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA31005",
+      "nm_mk": "PERILAKU ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK32101",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK32106",
+      "nm_mk": "TEORI AKUNTANSI KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA41002",
+      "nm_mk": "STRATEGIK MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK32103",
+      "nm_mk": "AKUNTANSI KEUANGAN  LANJUTAN I",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK32104",
+      "nm_mk": "PAJAK LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK32102",
+      "nm_mk": "SISTEM INFORMASI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK41003",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE21002",
+      "nm_mk": "AKUNTANSI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK41102",
+      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN II",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK41101",
+      "nm_mk": "INTERNAL AUDIT",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA41001",
+      "nm_mk": "SISTEM PENGENDALIAN MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK41103",
+      "nm_mk": "AUDITING LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA41004",
+      "nm_mk": "ANALISA LAPORAN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESE42102",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK42102",
+      "nm_mk": "SEMINAR AKUNTANSI KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EAK42103",
+      "nm_mk": "AKUNTANSI MANAJEMEN DAN BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA42002",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JESSICA AYU UTAMI",
+    "jk": "P",
+    "nipd": "1750300031",
+    "namapt": "Sekolah Tinggi Ilmu Ekonomi Jayakusuma",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "417A90F4-68E3-46D8-8925-67A5E8D17C78",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-07-27T00:00:00Z",
+    "no_seri_ijazah": "622012021001709",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkZFRjY4N0EtQTQ0QS00NjRBLThBRjAtNjdCNzBEN0FGNkMz",
+    "link_prodi": "/data_prodi/OUFEREI5RjYtMjUyMi00N0U5LUE2OUYtQUMwRTU4NjYxRDQ1"
+  }
+}

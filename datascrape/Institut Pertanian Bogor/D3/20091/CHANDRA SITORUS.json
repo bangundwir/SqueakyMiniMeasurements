@@ -1,0 +1,207 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": null,
+      "nm_stat_mhs": "Lulus"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "INF205",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF201",
+      "nm_mk": "Pengantar Organisasi Komputer",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF204",
+      "nm_mk": "Aljabar Linier",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF203",
+      "nm_mk": "Manajemen Basis Data",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF202",
+      "nm_mk": "Teknik Riset Operasi",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF207",
+      "nm_mk": "Pemrograman Berorientasi Obyek",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF206",
+      "nm_mk": "Pengenalan Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIP212",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF208",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF210",
+      "nm_mk": "Basis Data Klien/Server",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF213",
+      "nm_mk": "Perancangan Web",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF212",
+      "nm_mk": "Teknik Multimedia",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF211",
+      "nm_mk": "Pemrograman Visual",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF209",
+      "nm_mk": "Dasar Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF302",
+      "nm_mk": "TEKNIK RISET OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF301",
+      "nm_mk": "PENGANTAR ORGANISASI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF307",
+      "nm_mk": "PROGRAM PENGOLAHAN DATA STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF305",
+      "nm_mk": "Teknik Animasi",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF303",
+      "nm_mk": "KOMPUTER AKUNTANSI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF306",
+      "nm_mk": "Sistem Informasi Geografi",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF308",
+      "nm_mk": "Sistem Informasi Lanjutan",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "CHANDRA SITORUS",
+    "jk": "L",
+    "nipd": "J3C109044         ",
+    "namapt": "Institut Pertanian Bogor",
+    "namajenjang": "D3",
+    "namaprodi": "Manajemen Informatika",
+    "reg_pd": "B3C9C24E-8630-4CF6-B4FD-33D3AE3573E8",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-06-28T00:00:00Z",
+    "no_seri_ijazah": "0301121269",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODI4RkI5NjYtMzczMy00MzBFLTg2RkYtOTA5Qjc2NEUyNTIz",
+    "link_prodi": "/data_prodi/MDUxN0QzM0ItRDM0Ni00NjVCLUIwRjItODMwQTMyQUQyNjBD"
+  }
+}

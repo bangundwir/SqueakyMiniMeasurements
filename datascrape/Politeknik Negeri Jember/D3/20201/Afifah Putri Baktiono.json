@@ -1,0 +1,328 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BIG1608",
+      "nm_mk": "BASIC GRAMMAR",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1602",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1603",
+      "nm_mk": "KOMPUTER 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1605",
+      "nm_mk": "LITERAL READING",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1601",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1609",
+      "nm_mk": "PRONUNCIATION",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1604",
+      "nm_mk": "LITERAL LISTENING",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1607",
+      "nm_mk": "PARAGRAPH WRITING",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1606",
+      "nm_mk": "SPEAKING FOR DAILY ACTIVITY",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG1610",
+      "nm_mk": "BASIC MANDARIN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2603",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2609",
+      "nm_mk": "INTERMEDIATE ENGLISH GRAMMAR",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2608",
+      "nm_mk": "ESSAY WRITING",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2610",
+      "nm_mk": "VOCABULARY",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2607",
+      "nm_mk": "SPEAKING FOR GROUP ACTIVITIES",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2606",
+      "nm_mk": "INTERPRETIVE READING",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2601",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2604",
+      "nm_mk": "PROFESSIONAL COMMUNICATION",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2602",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG2605",
+      "nm_mk": "INTERPRETIVE LISTENING",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG130708",
+      "nm_mk": "Kesekretarisan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG130703",
+      "nm_mk": "Public Speaking",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG130701",
+      "nm_mk": "Critical Listening",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG130702",
+      "nm_mk": "Critical Reading",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG130706",
+      "nm_mk": "Translation",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG130704",
+      "nm_mk": "Academic Writing",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG130707",
+      "nm_mk": "Manajemen Hospitality",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG130705",
+      "nm_mk": "Upper Intermediate English Grammar",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG140704",
+      "nm_mk": "Public Relation",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG140706",
+      "nm_mk": "English for Secretary",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG140705",
+      "nm_mk": "English for Business",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG140701",
+      "nm_mk": "English for Hotel and Restaurant",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG140708",
+      "nm_mk": "Media Development",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG120709",
+      "nm_mk": "Intermediate Mandarin",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG140707",
+      "nm_mk": "Interpreting",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG150701",
+      "nm_mk": "Magang",
+      "sks_mk": 20,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG160702",
+      "nm_mk": "Interpersonal Skill",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG160701",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIG160703",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Afifah Putri Baktiono",
+    "jk": "P",
+    "nipd": "F31201712",
+    "namapt": "Politeknik Negeri Jember",
+    "namajenjang": "D3",
+    "namaprodi": "Bahasa Inggris",
+    "reg_pd": "B86A0FB7-123B-4454-8CB0-E4BAF2960162",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-03T00:00:00Z",
+    "no_seri_ijazah": "794022023000491",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzhEREJBRTgtM0ExMS00MTU2LTlGREItOUY1N0Q0MEJCNEMw",
+    "link_prodi": "/data_prodi/MTc1NUU2QUQtOUZDRi00OEExLUExQzUtQUQyQ0FBNDMwOTRF"
+  }
+}

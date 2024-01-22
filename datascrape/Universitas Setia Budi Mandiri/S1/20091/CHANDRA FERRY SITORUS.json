@@ -53,13 +53,6 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "IMM1113",
-      "nm_mk": "BAHASA INGGRIS",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "IMM1111",
       "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
       "sks_mk": 3,
@@ -67,15 +60,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU1101",
-      "nm_mk": "ILMU BUDAYA DASAR",
+      "kode_mk": "MKDK1203",
+      "nm_mk": "PENGANTAR AKUNTANSI-I",
       "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IMM1117",
-      "nm_mk": "PRAKTEK PENGANTAR AKUNTANSI-I",
+      "kode_mk": "IMM1113",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK1201",
+      "nm_mk": "PENG TEORI EKONOMI (MIKRO)",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU1101",
+      "nm_mk": "ILMU BUDAYA DASAR",
       "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
@@ -109,13 +116,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IMM1116",
-      "nm_mk": "MATEMATIKA EKONOMI",
-      "sks_mk": 3,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKU1102",
       "nm_mk": "BAHASA INGGRIS",
       "sks_mk": 3,
@@ -123,45 +123,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKDK1203",
-      "nm_mk": "PENGANTAR AKUNTANSI-I",
+      "kode_mk": "IMM1117",
+      "nm_mk": "PRAKTEK PENGANTAR AKUNTANSI-I",
       "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKDK1201",
-      "nm_mk": "PENG TEORI EKONOMI (MIKRO)",
+      "kode_mk": "IMM1116",
+      "nm_mk": "MATEMATIKA EKONOMI",
       "sks_mk": 3,
       "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IMM1127",
-      "nm_mk": "ASPEK HUKUM DALAM BISNIS",
-      "sks_mk": 2,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IMM1121",
-      "nm_mk": "PENDIDIKAN AGAMA",
-      "sks_mk": 3,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKDK2206",
-      "nm_mk": "PENGANTAR AKUNTANSI-II",
-      "sks_mk": 3,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU1105",
-      "nm_mk": "ILMU ALAMIAH DASAR",
-      "sks_mk": 2,
-      "id_smt": "20092",
       "nilai_huruf": null
     },
     {
@@ -174,6 +146,34 @@
     {
       "kode_mk": "MKDK2208",
       "nm_mk": "PENG TEORI EKONOMI (MAKRO)",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU2106",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU1105",
+      "nm_mk": "ILMU ALAMIAH DASAR",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK2206",
+      "nm_mk": "PENGANTAR AKUNTANSI-II",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMM1123",
+      "nm_mk": "AKUNTANSI-II",
       "sks_mk": 3,
       "id_smt": "20092",
       "nilai_huruf": null
@@ -193,15 +193,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU2106",
-      "nm_mk": "AGAMA",
-      "sks_mk": 2,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IMM1123",
-      "nm_mk": "AKUNTANSI-II",
+      "kode_mk": "IMM1121",
+      "nm_mk": "PENDIDIKAN AGAMA",
       "sks_mk": 3,
       "id_smt": "20092",
       "nilai_huruf": null
@@ -210,6 +203,13 @@
       "kode_mk": "MKDK2204",
       "nm_mk": "STATISTIK-I",
       "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMM1127",
+      "nm_mk": "ASPEK HUKUM DALAM BISNIS",
+      "sks_mk": 2,
       "id_smt": "20092",
       "nilai_huruf": null
     },
@@ -256,6 +256,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKK3303",
+      "nm_mk": "MANAJEMEN OPERASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKK3301",
       "nm_mk": "MANAJEMEN KEUANGAN-I",
       "sks_mk": 3,
@@ -270,29 +277,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK3303",
-      "nm_mk": "MANAJEMEN OPERASIONAL",
-      "sks_mk": 3,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKDK4212",
       "nm_mk": "STUDY KELAYAKAN BISNIS",
-      "sks_mk": 3,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKK6317",
-      "nm_mk": "AKUNTANSI MANAJEMEN",
-      "sks_mk": 3,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKDK4211",
-      "nm_mk": "EKONOMI PEMBANGUNAN",
       "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -312,6 +298,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKDK4211",
+      "nm_mk": "EKONOMI PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6317",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKK6316",
       "nm_mk": "MANAJ.KEUANGAN LANJUTAN-I",
       "sks_mk": 3,
@@ -319,29 +319,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IMM1157",
-      "nm_mk": "STRATEGI PEMASARAN INTERNASIONAL",
-      "sks_mk": 3,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "IMM1153",
       "nm_mk": "PERILAKU KONSUMEN",
-      "sks_mk": 3,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IMM1156",
-      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
-      "sks_mk": 3,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IMM1152",
-      "nm_mk": "MANAJEMEN KEUANGAN-II",
       "sks_mk": 3,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -354,6 +333,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "IMM1157",
+      "nm_mk": "STRATEGI PEMASARAN INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "IMM1154",
       "nm_mk": "KEWIRAUSAHAAN",
       "sks_mk": 3,
@@ -361,8 +347,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "IMM1156",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "IMM1151",
       "nm_mk": "MANAJEMEN PEMASARAN-II",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMM1152",
+      "nm_mk": "MANAJEMEN KEUANGAN-II",
       "sks_mk": 3,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -382,15 +382,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IMM1162",
-      "nm_mk": "PENGANGGARAN",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IMM1165",
-      "nm_mk": "MANAJEMEN STRATEGI",
+      "kode_mk": "IMM1166",
+      "nm_mk": "METODOLOGI PENELITIAN",
       "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -403,6 +396,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "IMM1165",
+      "nm_mk": "MANAJEMEN STRATEGI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "IMM1161",
       "nm_mk": "PELAKSANAAN PENGEMBANGAN SDM",
       "sks_mk": 3,
@@ -410,15 +410,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IMM1166",
-      "nm_mk": "METODOLOGI PENELITIAN",
+      "kode_mk": "IMM1162",
+      "nm_mk": "PENGANGGARAN",
       "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MPK8101506",
-      "nm_mk": "PERILAKU KONSUMEN",
+      "kode_mk": "MKB8101504",
+      "nm_mk": "PERKEMBANGAN INDONESIA INTERNASIONAL",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -431,15 +431,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB8101504",
-      "nm_mk": "PERKEMBANGAN INDONESIA INTERNASIONAL",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKK8101514",
-      "nm_mk": "MANAJEMEN PEMASARAN II",
+      "kode_mk": "MPK8101506",
+      "nm_mk": "PERILAKU KONSUMEN",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -447,6 +440,13 @@
     {
       "kode_mk": "MKK8101516",
       "nm_mk": "MANAJEMEN SDM",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK8101514",
+      "nm_mk": "MANAJEMEN PEMASARAN II",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -466,20 +466,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK8323",
-      "nm_mk": "SEMINAR PEMASARAN",
-      "sks_mk": 3,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKK8101721",
-      "nm_mk": "MATAKULIAH PILIHAN TEORI PENGAMBILAN KEP",
-      "sks_mk": 3,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKK8101723",
       "nm_mk": "MATAKULIAH PILIHAN HUBUNGAN MASYARAKAT",
       "sks_mk": 3,
@@ -489,6 +475,20 @@
     {
       "kode_mk": "MKK8101720",
       "nm_mk": "MANAJEMEN PEMASARAN JASA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK8323",
+      "nm_mk": "SEMINAR PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK8101721",
+      "nm_mk": "MATAKULIAH PILIHAN TEORI PENGAMBILAN KEP",
       "sks_mk": 3,
       "id_smt": "20122",
       "nilai_huruf": null
@@ -508,6 +508,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKK8323",
+      "nm_mk": "SEMINAR PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKDK8221",
       "nm_mk": "SKRIPSI",
       "sks_mk": 6,
@@ -515,10 +522,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK8323",
-      "nm_mk": "SEMINAR PEMASARAN",
+      "kode_mk": "IMM1181",
+      "nm_mk": "SEMINAR MANAJEMEN",
       "sks_mk": 3,
-      "id_smt": "20131",
+      "id_smt": "20132",
       "nilai_huruf": null
     },
     {
@@ -531,13 +538,6 @@
     {
       "kode_mk": "MKK8323",
       "nm_mk": "SEMINAR PEMASARAN",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IMM1181",
-      "nm_mk": "SEMINAR MANAJEMEN",
       "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null

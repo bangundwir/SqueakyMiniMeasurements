@@ -1,0 +1,501 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": null,
+      "nm_stat_mhs": "Keluar"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "1203700440109",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan I",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203711370209",
+      "nm_mk": "Kesehatan Jasmani",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203702120209",
+      "nm_mk": "Bahasa Inggris Teknik I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203720000209",
+      "nm_mk": "Pengembangan Kepribadian",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103710010409",
+      "nm_mk": "Kalkulus dan Geometri",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103719700209",
+      "nm_mk": "Pengantar Teknologi Informasi",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103718360609",
+      "nm_mk": "Pemrograman Terstruktur",
+      "sks_mk": 6,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203715780209",
+      "nm_mk": "Metode Numerik",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4203707030209",
+      "nm_mk": "Grafika Komputer",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103700530609",
+      "nm_mk": "Algoritma dan Struktur Data",
+      "sks_mk": 6,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103727310209",
+      "nm_mk": "Statistik dan Probabilitas",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4203703720609",
+      "nm_mk": "Desain Database",
+      "sks_mk": 6,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103718300209",
+      "nm_mk": "Pemrograman Fungsional",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103726230209",
+      "nm_mk": "Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203700450109",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan II",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103709850609",
+      "nm_mk": "Jaringan dan Komunikasi Data",
+      "sks_mk": 6,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103726410609",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 6,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203715780209",
+      "nm_mk": "Metode Numerik",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103700530609",
+      "nm_mk": "Algoritma dan Struktur Data",
+      "sks_mk": 6,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4203703720609",
+      "nm_mk": "Desain Database",
+      "sks_mk": 6,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103727310209",
+      "nm_mk": "Statistik dan Probabilitas",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4203707030209",
+      "nm_mk": "Grafika Komputer",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103718300209",
+      "nm_mk": "Pemrograman Fungsional",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103726230209",
+      "nm_mk": "Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103709850609",
+      "nm_mk": "Jaringan dan Komunikasi Data",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103726410609",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203700450109",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan II",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18699",
+      "nm_mk": "KESEHATAN JASMANI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "40947",
+      "nm_mk": "BAHASA INGGRIS TEKNIK I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "19004",
+      "nm_mk": "ILMU KEALAMAN DASAR",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18793",
+      "nm_mk": "GRAFIKA KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18817",
+      "nm_mk": "DESAIN DATABASE",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18720",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18799",
+      "nm_mk": "PENGANTAR TOPOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18812",
+      "nm_mk": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18822",
+      "nm_mk": "DESAIN DAN APLIKASI MULTIMEDIA",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18832",
+      "nm_mk": "JARINGAN DAN KOMUNIKASI DATA",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "34567",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18793",
+      "nm_mk": "GRAFIKA KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18746",
+      "nm_mk": "PEMROGRAMAN TERSTRUKTUR",
+      "sks_mk": 6,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18782",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "19004",
+      "nm_mk": "ILMU KEALAMAN DASAR",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103717170209",
+      "nm_mk": "Organisasi dan Arsitektur Komputer",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103718350609",
+      "nm_mk": "Pemrograman Objek dengan Java",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103719750209",
+      "nm_mk": "Pengantar Topologi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103714880209",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103713230209",
+      "nm_mk": "Manajemen dan Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103726230209",
+      "nm_mk": "Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103700560209",
+      "nm_mk": "Aljabar Linier dan Matriks",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203710560209",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103703630209",
+      "nm_mk": "Data Warehouse",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4203725150209",
+      "nm_mk": "Rekayasa Ulang Sistem",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3203703760209",
+      "nm_mk": "Desain Pattern",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103709630209",
+      "nm_mk": "Interaksi Manusia dan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103703620209",
+      "nm_mk": "Data Mining",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1103700460109",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan III",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1103709380309",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203715780209",
+      "nm_mk": "Metode Numerik",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "IRWAN",
+    "jk": "L",
+    "nipd": "09560121          ",
+    "namapt": "Universitas Muhammadiyah Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Informatika",
+    "reg_pd": "1F811651-AD0E-41C1-B415-00EB312D34D3",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": "2015-12-14T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjM5OUQ3N0QtOEM1NS00REZBLTgwRjgtNzAwMjc1MjMwOTlF",
+    "link_prodi": "/data_prodi/ODBCQzhENUEtREE4RS00MzRCLTg3RDktNjg3QkY4MURCREE0"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20021",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20031",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20032",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20041",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20042",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EMB201",
+      "nm_mk": "Manajemen Keuangan I + Asistensi",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMD305",
+      "nm_mk": "Seminar Manajemen Operasi",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HERYANTO",
+    "jk": "L",
+    "nipd": "022000304         ",
+    "namapt": "Universitas Trisakti",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "D96196A9-F329-40A2-95E9-1E92CA77735E",
+    "mulai_smt": "20001",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2005-06-24T00:00:00Z",
+    "no_seri_ijazah": "0695/FE/S1/MJ/XII/2005",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTEzQjREMDYtMzRDQS00QTZFLUEyOUEtOUFGMzcyOTMzQzhG",
+    "link_prodi": "/data_prodi/QkUwMzBBQTctRDEzRC00RTg2LUJGMDItMDMwRTgxMTBGQ0ZD"
+  }
+}

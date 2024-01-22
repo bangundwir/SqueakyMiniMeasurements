@@ -48,6 +48,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "EKO1142",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EKO1132",
       "nm_mk": "PENGANTAR ILMU EKONOMI",
       "sks_mk": 3,
@@ -90,20 +97,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO1142",
-      "nm_mk": "PENGANTAR MANAJEMEN",
-      "sks_mk": 3,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO2152",
-      "nm_mk": "TEORI EKONOMI MIKRO",
-      "sks_mk": 3,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO2142",
       "nm_mk": "HUKUM BISNIS",
       "sks_mk": 2,
@@ -120,6 +113,13 @@
     {
       "kode_mk": "EKO2162",
       "nm_mk": "TEORI EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO2152",
+      "nm_mk": "TEORI EKONOMI MIKRO",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -181,13 +181,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EMA3152",
-      "nm_mk": "EKONOMI MANAJERIAL",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO3122",
       "nm_mk": "STATISTIKA BISNIS II",
       "sks_mk": 3,
@@ -195,10 +188,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EMA4152",
-      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "kode_mk": "EMA3152",
+      "nm_mk": "EKONOMI MANAJERIAL",
       "sks_mk": 3,
-      "id_smt": "20162",
+      "id_smt": "20161",
       "nilai_huruf": null
     },
     {
@@ -232,6 +225,13 @@
     {
       "kode_mk": "EKO4172",
       "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMA4152",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
       "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -279,6 +279,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "WKO5172",
+      "nm_mk": "Mjn SDM Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EMA5142",
       "nm_mk": "LEMBAGA KEUANGAN SYARIAH",
       "sks_mk": 3,
@@ -288,13 +295,6 @@
     {
       "kode_mk": "EMA5132",
       "nm_mk": "ETIKA BISNIS",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "WKO5172",
-      "nm_mk": "Mjn SDM Kewirausahaan",
       "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -335,16 +335,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EMA6112",
-      "nm_mk": "MANAJEMEN STRATEGI",
+      "kode_mk": "EMA6132",
+      "nm_mk": "KOMUNIKASI BISNIS",
       "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKS6182",
-      "nm_mk": "EVALUASI KINERJA",
-      "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -356,24 +349,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EMA6132",
-      "nm_mk": "KOMUNIKASI BISNIS",
-      "sks_mk": 3,
+      "kode_mk": "PKS6182",
+      "nm_mk": "EVALUASI KINERJA",
+      "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO7250",
-      "nm_mk": "PEREKONOMIAN INDONESIA (MANAJEMEN)",
+      "kode_mk": "EMA6112",
+      "nm_mk": "MANAJEMEN STRATEGI",
       "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO7112",
-      "nm_mk": "METODE PENELITIAN BISNIS",
-      "sks_mk": 3,
-      "id_smt": "20181",
+      "id_smt": "20172",
       "nilai_huruf": null
     },
     {
@@ -391,8 +377,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EKO7112",
+      "nm_mk": "METODE PENELITIAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EMA7132",
       "nm_mk": "MANAJEMEN RESIKO",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO7250",
+      "nm_mk": "PEREKONOMIAN INDONESIA (MANAJEMEN)",
       "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null

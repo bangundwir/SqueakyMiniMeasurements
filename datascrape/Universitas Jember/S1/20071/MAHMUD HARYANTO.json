@@ -1,0 +1,91 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20071",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Keluar"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KPK1105",
+      "nm_mk": "Pengantar Ilmu Sosial",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU9003",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPK1103",
+      "nm_mk": "DASAR-DASAR AKUNTANSI",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPU1002",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK9001",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPK1101",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPU1001",
+      "nm_mk": "Pengantar Ilmu Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPK1102",
+      "nm_mk": "Pengantar Pemasaran",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MAHMUD HARYANTO",
+    "jk": "L",
+    "nipd": "070210391165",
+    "namapt": "Universitas Jember",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Ekonomi",
+    "reg_pd": "F8E80CF3-9D11-4898-8D17-81BB09FF67C1",
+    "mulai_smt": "20071",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/Qjk1MDdGQUItMjg3NC00RENELTlDMzctNEM5MjFDMjMxMjEw",
+    "link_prodi": "/data_prodi/NzA1NTk0RDAtNjE4RS00RkM4LTlENEMtNjlEMDkyNDQ1RkI4"
+  }
+}

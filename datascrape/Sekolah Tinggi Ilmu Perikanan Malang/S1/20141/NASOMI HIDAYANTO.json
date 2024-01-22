@@ -82,8 +82,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MWN0115",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MWB0112",
       "nm_mk": "PENGANTAR ILMU PERIKANAN KELAUTAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWN0112",
+      "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -98,20 +112,6 @@
     {
       "kode_mk": "MWN0114",
       "nm_mk": "PANCASILA",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MWN0112",
-      "nm_mk": "BAHASA INDONESIA",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MWN0115",
-      "nm_mk": "FISIKA",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -166,6 +166,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MWN0117",
+      "nm_mk": "KIMIA",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MWB0117",
       "nm_mk": "DASAR AKUAKULTUR",
       "sks_mk": 2,
@@ -180,9 +187,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MWB01138",
-      "nm_mk": "ICHTYOLOGI",
-      "sks_mk": 3,
+      "kode_mk": "MWB0118",
+      "nm_mk": "SOSIOLOGI PERIKANAN",
+      "sks_mk": 2,
       "id_smt": "20151",
       "nilai_huruf": null
     },
@@ -194,24 +201,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MWN0117",
-      "nm_mk": "KIMIA",
+      "kode_mk": "MWB01138",
+      "nm_mk": "ICHTYOLOGI",
       "sks_mk": 3,
       "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MWB0118",
-      "nm_mk": "SOSIOLOGI PERIKANAN",
-      "sks_mk": 2,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MWB01131",
-      "nm_mk": "EKOLOGI PERIKANAN",
-      "sks_mk": 3,
-      "id_smt": "20152",
       "nilai_huruf": null
     },
     {
@@ -229,24 +222,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MWB01117",
-      "nm_mk": "FISH HANDLING",
+      "kode_mk": "MWB01131",
+      "nm_mk": "EKOLOGI PERIKANAN",
       "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MWB01118",
-      "nm_mk": "PARASIT PENYAKIT IKAN",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MWB01132",
-      "nm_mk": "EKONOMI PERIKANAN",
-      "sks_mk": 2,
-      "id_smt": "20161",
+      "id_smt": "20152",
       "nilai_huruf": null
     },
     {
@@ -271,15 +250,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB08",
-      "nm_mk": "LIMNOLOGI",
+      "kode_mk": "MWB01117",
+      "nm_mk": "FISH HANDLING",
       "sks_mk": 3,
-      "id_smt": "20162",
+      "id_smt": "20161",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MWB01112",
-      "nm_mk": "PEMUPUKAN DAN KESUBURAN PERAIRAN",
+      "kode_mk": "MWB01118",
+      "nm_mk": "PARASIT PENYAKIT IKAN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB01132",
+      "nm_mk": "EKONOMI PERIKANAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB08",
+      "nm_mk": "LIMNOLOGI",
       "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -288,6 +281,13 @@
       "kode_mk": "MWN0118",
       "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
       "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWB01112",
+      "nm_mk": "PEMUPUKAN DAN KESUBURAN PERAIRAN",
+      "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
     },

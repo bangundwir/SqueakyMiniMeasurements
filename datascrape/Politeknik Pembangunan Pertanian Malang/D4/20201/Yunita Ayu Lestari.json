@@ -1,0 +1,594 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PM 1111 P",
+      "nm_mk": "Agama",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PM 1112 T",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4118 P",
+      "nm_mk": "Sistem Pertanian Berkelanjutan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PM 1113 T",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2114 P",
+      "nm_mk": "Perencanaan Wilayah Pedesaan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2117 T",
+      "nm_mk": "Pendidikan Orang Dewasa",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2114 T",
+      "nm_mk": "Perencanaan Wilayah Pedesaan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2116 T",
+      "nm_mk": "Dasar-Dasar Penyuluhan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2115 T",
+      "nm_mk": "Sosiologi Pedesaan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2115 P",
+      "nm_mk": "Sosiologi Pedesaan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PM 1113 P",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2117 P",
+      "nm_mk": "Pendidikan Orang Dewasa",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PM 1111 T",
+      "nm_mk": "Agama",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4118 T",
+      "nm_mk": "Sistem Pertanian Berkelanjutan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2116 P",
+      "nm_mk": "Dasar-Dasar Penyuluhan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2123 T",
+      "nm_mk": "Pemetaan Potensi Wilayah Pedesaan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2123 P",
+      "nm_mk": "Pemetaan Potensi Wilayah Pedesaan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2122 T",
+      "nm_mk": "Komunikasi Penyuluhan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4124 P",
+      "nm_mk": "Agroekosistem Berkelanjutan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4125 P",
+      "nm_mk": "Pengelolaan Tanah dan Air",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2136 T",
+      "nm_mk": "Kelembagaan Petani",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2127 T",
+      "nm_mk": "Kebijakan Pembangunan Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2122 P",
+      "nm_mk": "Komunikasi Penyuluhan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PM 1121 T",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2136 P",
+      "nm_mk": "Kelembagaan Petani",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4124 T",
+      "nm_mk": "Agroekosistem Berkelanjutan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4125 T",
+      "nm_mk": "Pengelolaan Tanah dan Air",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121 P",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4132 T",
+      "nm_mk": "Alat dan Mesin Pertanian",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3124 T",
+      "nm_mk": "Kewirausahaan Pertanian Berkelanjutan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4132 P",
+      "nm_mk": "Alat dan Mesin Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121 T",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2138 T",
+      "nm_mk": "Metode Penyuluhan Pertanian",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2138 P",
+      "nm_mk": "Metode Penyuluhan Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3135 P",
+      "nm_mk": "Studi Kelayakan Agribisnis",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PM 2136T",
+      "nm_mk": "Teknologi Informasi Penyuluhan Pertanian",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3124 P",
+      "nm_mk": "Kewirausahaan Pertanian Berkelanjutan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4137 P",
+      "nm_mk": "Teknologi Produksi Benih Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PM 2136P",
+      "nm_mk": "Teknologi Informasi Penyuluhan Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2133 T",
+      "nm_mk": "Inovasi Penyuluhan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3135 T",
+      "nm_mk": "Studi Kelayakan Agribisnis",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4137 T",
+      "nm_mk": "Teknologi Produksi Benih Tanaman",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2133 P",
+      "nm_mk": "Inovasi Penyuluhan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4141P",
+      "nm_mk": "Perlindungan Tanaman Ramah Lingkungan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4144T",
+      "nm_mk": "Pengelolaan Media Tanam",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4141T",
+      "nm_mk": "Perlindungan Tanaman Ramah Lingkungan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2142P",
+      "nm_mk": "Media Penyuluhan Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3143P",
+      "nm_mk": "Perencanaan Agribisnis Pertanian Berkelanjutan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4177T",
+      "nm_mk": "Statistika Terapan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4145T",
+      "nm_mk": "Teknologi Produksi Tanaman Pangan Berkelanjutan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3143T",
+      "nm_mk": "Perencanaan Agribisnis Pertanian Berkelanjutan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2142T",
+      "nm_mk": "Media Penyuluhan Pertanian",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4145P",
+      "nm_mk": "Teknologi Produksi Tanaman Pangan Berkelanjutan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4144P",
+      "nm_mk": "Pengelolaan Media Tanam",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4177P",
+      "nm_mk": "Statistika Terapan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4146P",
+      "nm_mk": "Budidaya Tanaman Organik",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4146T",
+      "nm_mk": "Budidaya Tanaman Organik",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4157T",
+      "nm_mk": "Teknologi Penanganan dan Pengolahan Hasil Pertanian",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1161P",
+      "nm_mk": "Magang Teknis Pertanian",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4153T",
+      "nm_mk": "Teknologi Pemupukan Ramah Lingkungan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4155T",
+      "nm_mk": "Teknologi Produksi Tanaman Hortikultura Berkelanjutan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4153P",
+      "nm_mk": "Teknologi Pemupukan Ramah Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4157P",
+      "nm_mk": "Teknologi Penanganan dan Pengolahan Hasil Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4156T",
+      "nm_mk": "Adaptasi dan Mitigasi Perubahan Iklim",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4156P",
+      "nm_mk": "Adaptasi dan Mitigasi Perubahan Iklim",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4155P",
+      "nm_mk": "Teknologi Produksi Tanaman Hortikultura Berkelanjutan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3154P",
+      "nm_mk": "Evaluasi Penyuluhan Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2172T",
+      "nm_mk": "Pemberdayaan Masyarakat",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3154T",
+      "nm_mk": "Evaluasi Penyuluhan Pertanian",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3176P",
+      "nm_mk": "Proyek Pengembangan Teknologi Pertanian Berkelanjutan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2172P",
+      "nm_mk": "Pemberdayaan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1162P",
+      "nm_mk": "Magang Penyuluhan",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2177P",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2151P",
+      "nm_mk": "Program Penyuluhan Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2151T",
+      "nm_mk": "Program Penyuluhan Pertanian",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2177T",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3176T",
+      "nm_mk": "Proyek Pengembangan Teknologi Pertanian Berkelanjutan",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Yunita Ayu Lestari",
+    "jk": "P",
+    "nipd": "04.01.20.565",
+    "namapt": "Politeknik Pembangunan Pertanian Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Penyuluhan Pertanian Berkelanjutan",
+    "reg_pd": "FA0FFA4D-B7E8-43B8-9661-DB1057987F38",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzcxQjhFNjAtNjkwNC00Qzg5LUE0MjYtMjEwQUFFMjY4QTA3",
+    "link_prodi": "/data_prodi/OEY0NDY2NkEtMkQxQi00MEFBLUI0RDktMDIzRjREMENCQjdE"
+  }
+}

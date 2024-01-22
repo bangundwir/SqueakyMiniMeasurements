@@ -1,0 +1,532 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TMS112",
+      "nm_mk": "PROSES MANUFAKTUR I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS113",
+      "nm_mk": "STATIKA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS110",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS108",
+      "nm_mk": "FISIKA TEKNIK I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS106",
+      "nm_mk": "ALJABAR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS109",
+      "nm_mk": "GAMBAR TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS111",
+      "nm_mk": "MATEMATIKA I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS101",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS107",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS203",
+      "nm_mk": "GAMBAR MESIN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS207",
+      "nm_mk": "PEMROGRAMAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS204",
+      "nm_mk": "KINEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS208",
+      "nm_mk": "PROSES MANUFAKTUR II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS208T",
+      "nm_mk": "PRAKTIKUM PROSES MANUFAKTUR",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS206",
+      "nm_mk": "MATERIAL TEKNIK I",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS205",
+      "nm_mk": "MATEMATIKA II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS201",
+      "nm_mk": "ELEMEN MESIN I",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS202",
+      "nm_mk": "FISIKA TEKNIK II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS202T",
+      "nm_mk": "PRAKTIKUM FISIKA TEKNIK",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS307",
+      "nm_mk": "TEKNIK TENAGA LISTRIK I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS304",
+      "nm_mk": "MEKANIKA KEKUATAN MATERIAL I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS306",
+      "nm_mk": "PROSES MANUFAKTUR III",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS302T",
+      "nm_mk": "PRAKTIKUM GAMBAR MESIN",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS302",
+      "nm_mk": "ELEMEN MESIN II",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS303",
+      "nm_mk": "MATERIAL TEKNIK II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS407",
+      "nm_mk": "TEKNIK TENAGA LISTRIK II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS406",
+      "nm_mk": "PERPINDAHAN KALOR I",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS407T",
+      "nm_mk": "PRAKTIKUM TEKNIK TENAGA LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS404",
+      "nm_mk": "MESIN KONVERSI ENERGI I",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS402",
+      "nm_mk": "MATEMATIKA III",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS202T",
+      "nm_mk": "PRAKTIKUM FISIKA TEKNIK",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS405",
+      "nm_mk": "PEMILIHAN BAHAN DAN PROSES",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS202",
+      "nm_mk": "FISIKA TEKNIK II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS403",
+      "nm_mk": "MEKANIKA FLUIDA I",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS609P",
+      "nm_mk": "MATERIAL KONSTRUKSI MESIN I",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS202",
+      "nm_mk": "FISIKA TEKNIK II",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS610P",
+      "nm_mk": "MOTOR BAKAR DAN PROPULSI JET I",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS614P",
+      "nm_mk": "TEKNIK KENDARAAN I",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS405",
+      "nm_mk": "PEMILIHAN BAHAN DAN PROSES",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS505",
+      "nm_mk": "PERANCANGAN MESIN DAN SEMINAR",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7508T",
+      "nm_mk": "Praktikum Fenomena Dasar Mesin",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7506",
+      "nm_mk": "Teknik Pemeliharaan I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7507",
+      "nm_mk": "Termodinamika II",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7504",
+      "nm_mk": "Perancangan Mesin dan Seminar",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7509T",
+      "nm_mk": "Praktikum Performa Mesin",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7501",
+      "nm_mk": "Matematika IV",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7502",
+      "nm_mk": "Mekanika Fluida II",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7505",
+      "nm_mk": "Perpindahan Kalor II",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7503",
+      "nm_mk": "Mekanika Kekuatan Material II",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7403",
+      "nm_mk": "Matematika III",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7207",
+      "nm_mk": "Pemrograman Komputer",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7206",
+      "nm_mk": "Material Teknik I",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7703",
+      "nm_mk": "Kerja Praktek",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7504",
+      "nm_mk": "Perancangan Mesin dan Seminar",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7613PC",
+      "nm_mk": "Aero dan Hidrodinamika I",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7205",
+      "nm_mk": "Matematika II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7703",
+      "nm_mk": "Kerja Praktek",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7706",
+      "nm_mk": "Statistika dan Analisis Data",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7702",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7717PCD",
+      "nm_mk": "Material Konstruksi Mesin II",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7707",
+      "nm_mk": "Teknopreneurship",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7504",
+      "nm_mk": "Perancangan Mesin dan Seminar",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7704",
+      "nm_mk": "Mekatronika",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7716PC",
+      "nm_mk": "Aero dan Hidrodinamika II",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7705",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMS7701",
+      "nm_mk": "Analisis Numerik",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HENDRI YAN PRABOWO",
+    "jk": "L",
+    "nipd": "210014072         ",
+    "namapt": "Sekolah Tinggi Teknologi Nasional",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Mesin",
+    "reg_pd": "07E58934-2FC6-4F54-8176-C9C35F779D55",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mutasi",
+    "tgl_keluar": "2019-06-17T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEM3QjAxRDktNjQ2Ny00MjM3LTlFRkYtMjYwRUJBQjUzRjZC",
+    "link_prodi": "/data_prodi/MDhERUVBMTEtNDEwQy00RUQ4LUEzRUQtMkM2REM3OTJDMjlE"
+  }
+}

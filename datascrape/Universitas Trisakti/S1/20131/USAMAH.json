@@ -1,0 +1,536 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IFI208",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKL253",
+      "nm_mk": "PEMROGRAMAN DAN DASAR KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFI107",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMA211",
+      "nm_mk": "MATRIKS DAN RUANG VEKTOR",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMA201",
+      "nm_mk": "Kalkulus I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPA200",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKL106",
+      "nm_mk": "PRAK. PEMROG KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBA301",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBN302",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKW300",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFI209",
+      "nm_mk": "Fisika Dasar II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMA206",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIE211",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMG244",
+      "nm_mk": "MENGGAMBAR TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIS204",
+      "nm_mk": "Pemodelan Sistem",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMG109",
+      "nm_mk": "PRAKTIKUM MENGGAMBAR TEKNIK",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "III311",
+      "nm_mk": "Pengantar Teknik Industri",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBA302",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIC219",
+      "nm_mk": "PENGETAHUAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP228",
+      "nm_mk": "PROSES MANUFAKTUR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMA215",
+      "nm_mk": "KALKULUS PEUBAH BANYAK",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "III113",
+      "nm_mk": "PRAKTIKUM PROBABILITAS DAN STATISTIKA",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKI304",
+      "nm_mk": "KIMIA INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMJ212",
+      "nm_mk": "Mekanika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIO213",
+      "nm_mk": "PENGANTAR BISNIS DAN MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IED208",
+      "nm_mk": "ELEKTRONIKA INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMN206",
+      "nm_mk": "Material Teknik",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "III212",
+      "nm_mk": "TEORI PROBABILITAS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "III206",
+      "nm_mk": "Psikologi Industri",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "III314",
+      "nm_mk": "STATISTIKA INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIO204",
+      "nm_mk": "Sistem Manajemen Sumberdaya Manusia",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIG310",
+      "nm_mk": "PERANCANGAN SISTEM KERJA DAN ERGONOMI",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP329",
+      "nm_mk": "Perencanaan dan Pengendalian Produksi I",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP221",
+      "nm_mk": "Perancangan Industri Manufaktur I",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP324",
+      "nm_mk": "Pengendalian dan Penjaminan Mutu",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIO214",
+      "nm_mk": "BISNIS BERBASIS TEKNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIG211",
+      "nm_mk": "ANALISIS DAN PENGUKURAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIS301",
+      "nm_mk": "Penelitian Operasional I",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP225",
+      "nm_mk": "Manajemen Rantai Pasok",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP222",
+      "nm_mk": "Perancangan Industri Manufaktur II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIE310",
+      "nm_mk": "Analisis Biaya",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMG244",
+      "nm_mk": "MENGGAMBAR TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIO211",
+      "nm_mk": "Organisasi & Manajemen Perusahaan Industri",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIB201",
+      "nm_mk": "Analisis Keputusan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "III210",
+      "nm_mk": "Perancangan Eksperimen",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP330",
+      "nm_mk": "Perencanaan dan Pengendalian Produksi II",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIS319",
+      "nm_mk": "Simulasi Sistem",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP227",
+      "nm_mk": "Perancangan dan Pengembangan Produk",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP223",
+      "nm_mk": "Perancangan Industri Manufaktur III",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIE310",
+      "nm_mk": "Analisis Biaya",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIS321",
+      "nm_mk": "Analisa & Perancangan Sistem Informasi & Praktikum",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIS302",
+      "nm_mk": "Penelitian Operasional II",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP331",
+      "nm_mk": "Perancangan Tata Letak Fasilitas",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIU201",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIO311",
+      "nm_mk": "Analisis dan Perancangan Perusahaan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIO304",
+      "nm_mk": "Lean Start Up Enterpreneurship",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP321",
+      "nm_mk": "Proses Manufaktur & Praktikum",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMA206",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIG313",
+      "nm_mk": "Ergonomi Makro",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIU202",
+      "nm_mk": "Kerja Praktek",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIE251",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIP233",
+      "nm_mk": "Perancangan Industri Manufaktur IV",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAG201",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIU302",
+      "nm_mk": "Tugas Akhir II",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IMJ212",
+      "nm_mk": "Mekanika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIG304",
+      "nm_mk": "Advanced Ergonomic",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIS321",
+      "nm_mk": "Analisa & Perancangan Sistem Informasi & Praktikum",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IIU301",
+      "nm_mk": "Tugas Akhir I",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "USAMAH",
+    "jk": "L",
+    "nipd": "063001300174      ",
+    "namapt": "Universitas Trisakti",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Industri",
+    "reg_pd": "A198B73C-9B76-44E6-BAA7-8D18B0F0F6DB",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-09-11T00:00:00Z",
+    "no_seri_ijazah": "0109/FTI/S1/TI/X/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTEzQjREMDYtMzRDQS00QTZFLUEyOUEtOUFGMzcyOTMzQzhG",
+    "link_prodi": "/data_prodi/QkI1NThFMzUtQzFCOS00NkVFLUJEMDgtRkQ2QzI1MTkxNzRB"
+  }
+}

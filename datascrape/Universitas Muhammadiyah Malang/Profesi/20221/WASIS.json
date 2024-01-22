@@ -1,0 +1,63 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "2106322710422",
+      "nm_mk": "Praktik Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2106351960322",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2106358420522",
+      "nm_mk": "Pendalaman Materi",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2106322710422",
+      "nm_mk": "Praktik Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "WASIS",
+    "jk": "L",
+    "nipd": "202210631014243",
+    "namapt": "Universitas Muhammadiyah Malang",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "84C8642A-0A0B-40BF-987A-8BBDFC18F696",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "RPL Perolehan SKS",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-15T00:00:00Z",
+    "no_seri_ijazah": "0710242315620510",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjM5OUQ3N0QtOEM1NS00REZBLTgwRjgtNzAwMjc1MjMwOTlF",
+    "link_prodi": "/data_prodi/RkZERjBFNDktNkJDNi00OTgxLTkxRTUtMzgzMTlBRUQ3MkM1"
+  }
+}

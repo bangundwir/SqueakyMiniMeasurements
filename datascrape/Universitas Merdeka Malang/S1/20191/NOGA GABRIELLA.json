@@ -38,6 +38,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "330001",
+      "nm_mk": "FILSAFAT ILMU DAN LOGIKA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "330643",
       "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 3,
@@ -45,9 +52,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330001",
-      "nm_mk": "FILSAFAT ILMU DAN LOGIKA",
-      "sks_mk": 3,
+      "kode_mk": "330221",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -87,20 +94,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330221",
-      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "330304",
-      "nm_mk": "PENDIDIKAN AGAMA LANJUTAN",
-      "sks_mk": 1,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "330645",
       "nm_mk": "SISTEM POLITIK INDONESIA",
       "sks_mk": 3,
@@ -118,6 +111,13 @@
       "kode_mk": "330653",
       "nm_mk": "ETIKA DAN HUKUM KOMUNIKASI",
       "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330304",
+      "nm_mk": "PENDIDIKAN AGAMA LANJUTAN",
+      "sks_mk": 1,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -150,8 +150,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330403",
-      "nm_mk": "FOTOGRAFI",
+      "kode_mk": "330572",
+      "nm_mk": "KOMUNIKASI ORGANISASI",
       "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -164,8 +164,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330572",
-      "nm_mk": "KOMUNIKASI ORGANISASI",
+      "kode_mk": "330655",
+      "nm_mk": "KOMUNIKASI KELOMPOK",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330657",
+      "nm_mk": "KOMUNIKASI INTERPERSONAL",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330403",
+      "nm_mk": "FOTOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330598",
+      "nm_mk": "PUBLIC SPEAKING",
       "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -185,27 +206,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330657",
-      "nm_mk": "KOMUNIKASI INTERPERSONAL",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "330655",
-      "nm_mk": "KOMUNIKASI KELOMPOK",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "330598",
-      "nm_mk": "PUBLIC SPEAKING",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "330535",
       "nm_mk": "TEORI KOMUNIKASI",
       "sks_mk": 3,
@@ -213,8 +213,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330565",
-      "nm_mk": "KEMANDIRIAN DAN KEWIRAUSAHAAN",
+      "kode_mk": "330659",
+      "nm_mk": "PRAKTIKUM PERANCANGAN PROGRAM INTERNAL PUBLIC RELATIONS",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -227,13 +227,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330405",
-      "nm_mk": "METODE PENELITIAN SOSIAL DAN KOMUNIKASI",
-      "sks_mk": 4,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "330665",
       "nm_mk": "COPY WRITING",
       "sks_mk": 3,
@@ -241,15 +234,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330658",
-      "nm_mk": "PUBLIKASI PUBLIC RELATIONS",
+      "kode_mk": "330565",
+      "nm_mk": "KEMANDIRIAN DAN KEWIRAUSAHAAN",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330659",
-      "nm_mk": "PRAKTIKUM PERANCANGAN PROGRAM INTERNAL PUBLIC RELATIONS",
+      "kode_mk": "330405",
+      "nm_mk": "METODE PENELITIAN SOSIAL DAN KOMUNIKASI",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330658",
+      "nm_mk": "PUBLIKASI PUBLIC RELATIONS",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -276,13 +276,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330671",
-      "nm_mk": "PRAKTIKUM PENYIAR",
-      "sks_mk": 3,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "330669",
       "nm_mk": "PRAKTIKUM DESAIN IDENTITAS KORPORASI",
       "sks_mk": 3,
@@ -297,8 +290,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330548",
-      "nm_mk": "KOMUNIKASI PEMASARAN",
+      "kode_mk": "330671",
+      "nm_mk": "PRAKTIKUM PENYIAR",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -311,17 +304,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330211",
-      "nm_mk": "STATISTIKA",
+      "kode_mk": "330548",
+      "nm_mk": "KOMUNIKASI PEMASARAN",
       "sks_mk": 3,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "330677",
-      "nm_mk": "READING COURSE",
-      "sks_mk": 3,
-      "id_smt": "20212",
+      "id_smt": "20211",
       "nilai_huruf": null
     },
     {
@@ -332,8 +318,29 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "330211",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "330664",
       "nm_mk": "MEDIA PERIKLANAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330650",
+      "nm_mk": "KOMUNIKASI ANTAR BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330554",
+      "nm_mk": "KOMUNIKASI POLITIK",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -353,15 +360,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "330554",
-      "nm_mk": "KOMUNIKASI POLITIK",
-      "sks_mk": 3,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "330650",
-      "nm_mk": "KOMUNIKASI ANTAR BUDAYA",
+      "kode_mk": "330677",
+      "nm_mk": "READING COURSE",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -369,13 +369,6 @@
     {
       "kode_mk": "330676",
       "nm_mk": "PERANCANGAN PERIKLANAN",
-      "sks_mk": 3,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "330679",
-      "nm_mk": "KRISIS KOMUNIKASI",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -390,6 +383,13 @@
     {
       "kode_mk": "330550",
       "nm_mk": "PERKEMBANGAN TEKNOLOGI KOM.",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330679",
+      "nm_mk": "KRISIS KOMUNIKASI",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null

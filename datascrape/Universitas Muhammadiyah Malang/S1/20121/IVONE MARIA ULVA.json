@@ -85,6 +85,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "6104101890212",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2104101190312",
       "nm_mk": "Anatomi dan Fisiologi Manusia",
       "sks_mk": 3,
@@ -92,15 +99,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2104136500212",
-      "nm_mk": "Matematika & Fisika Dasar",
+      "kode_mk": "2104111720212",
+      "nm_mk": "Kimia Dasar",
       "sks_mk": 2,
       "id_smt": "20121",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2104111720212",
-      "nm_mk": "Kimia Dasar",
+      "kode_mk": "2104136500212",
+      "nm_mk": "Matematika & Fisika Dasar",
       "sks_mk": 2,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -113,15 +120,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "6104101890212",
-      "nm_mk": "Bahasa Indonesia",
+      "kode_mk": "3104105900212",
+      "nm_mk": "Farmasi Fisika I",
       "sks_mk": 2,
-      "id_smt": "20121",
+      "id_smt": "20122",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2104134860212",
-      "nm_mk": "Mikrobiologi",
+      "kode_mk": "2104111860212",
+      "nm_mk": "Kimia Organik I",
       "sks_mk": 2,
       "id_smt": "20122",
       "nilai_huruf": null
@@ -134,15 +141,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104105900212",
-      "nm_mk": "Farmasi Fisika I",
-      "sks_mk": 2,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2104111860212",
-      "nm_mk": "Kimia Organik I",
+      "kode_mk": "2104134860212",
+      "nm_mk": "Mikrobiologi",
       "sks_mk": 2,
       "id_smt": "20122",
       "nilai_huruf": null
@@ -190,9 +190,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "52776",
+      "nm_mk": "FARMAKOLOGI I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "52775",
       "nm_mk": "FARMASI FISIKA II",
       "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "52777",
+      "nm_mk": "KIMIA FARMASI ANALISIS",
+      "sks_mk": 5,
       "id_smt": "20131",
       "nilai_huruf": null
     },
@@ -218,41 +232,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "52777",
-      "nm_mk": "KIMIA FARMASI ANALISIS",
-      "sks_mk": 5,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "52776",
-      "nm_mk": "FARMAKOLOGI I",
-      "sks_mk": 3,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "54401",
-      "nm_mk": "FARMAKOLOGI II TOKSIKOLOGI",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "54400",
-      "nm_mk": "MANAJEMEN UNDANG-UNDANG FARMASI KESEHA",
-      "sks_mk": 2,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "52785",
-      "nm_mk": "BIOKIMIA",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "52784",
       "nm_mk": "AL ISLAM DAN KEMUHAMMADIYAHAN IV",
       "sks_mk": 2,
@@ -267,9 +246,30 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "54400",
+      "nm_mk": "MANAJEMEN UNDANG-UNDANG FARMASI KESEHA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "54401",
+      "nm_mk": "FARMAKOLOGI II TOKSIKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "52778",
       "nm_mk": "BIOFARMASETIKA",
       "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "52785",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
     },
@@ -309,15 +309,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "52786",
-      "nm_mk": "FARMAKOKINETIKA",
-      "sks_mk": 4,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "52788",
-      "nm_mk": "KIMIA MEDISINAL",
+      "kode_mk": "54408",
+      "nm_mk": "FARMASETIKA SEMI SOLIDA",
       "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -330,9 +323,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "54408",
-      "nm_mk": "FARMASETIKA SEMI SOLIDA",
-      "sks_mk": 2,
+      "kode_mk": "52786",
+      "nm_mk": "FARMAKOKINETIKA",
+      "sks_mk": 4,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -344,10 +337,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104105880312",
-      "nm_mk": "Farmasetika Sediaan Steril",
-      "sks_mk": 3,
-      "id_smt": "20142",
+      "kode_mk": "52788",
+      "nm_mk": "KIMIA MEDISINAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
       "nilai_huruf": null
     },
     {
@@ -393,6 +386,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "3104105880312",
+      "nm_mk": "Farmasetika Sediaan Steril",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "3104136580412",
       "nm_mk": "Preskripsi",
       "sks_mk": 4,
@@ -421,9 +421,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104139830212",
-      "nm_mk": "Bioteknologi Farmasi",
-      "sks_mk": 2,
+      "kode_mk": "3104106700312",
+      "nm_mk": "Fitofarmaka",
+      "sks_mk": 3,
       "id_smt": "20151",
       "nilai_huruf": null
     },
@@ -435,16 +435,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104136590412",
-      "nm_mk": "Farmakoterapi Terintegrasi",
-      "sks_mk": 4,
+      "kode_mk": "3104139830212",
+      "nm_mk": "Bioteknologi Farmasi",
+      "sks_mk": 2,
       "id_smt": "20151",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104106700312",
-      "nm_mk": "Fitofarmaka",
-      "sks_mk": 3,
+      "kode_mk": "3104136590412",
+      "nm_mk": "Farmakoterapi Terintegrasi",
+      "sks_mk": 4,
       "id_smt": "20151",
       "nilai_huruf": null
     },

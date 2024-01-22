@@ -1,0 +1,443 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MA1001",
+      "nm_mk": "Kalkulus I",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1102",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1006",
+      "nm_mk": "Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KI1001",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1001",
+      "nm_mk": "Fisika Dasar I",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1103",
+      "nm_mk": "Aljabar Linier",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1003",
+      "nm_mk": "Teknik Komunikasi Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1004",
+      "nm_mk": "Fisika Dasar II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA1004",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA1005",
+      "nm_mk": "Pengantar Metode Statistik",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL1003",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1105",
+      "nm_mk": "Fisika Madya",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KI1102",
+      "nm_mk": "LABORATORIUM KIMIA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1004",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1207",
+      "nm_mk": "Termodinamika",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1209",
+      "nm_mk": "Elektronika Dasar I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1110",
+      "nm_mk": "Fisika Matematika I",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1111",
+      "nm_mk": "Gelombang I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1208",
+      "nm_mk": "Mekanika I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1106",
+      "nm_mk": "Fisika Modern I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1011",
+      "nm_mk": "Wawasan Teknologi dan Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1216",
+      "nm_mk": "Gelombang II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1213",
+      "nm_mk": "Mekanika II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1214",
+      "nm_mk": "Elektronika Dasar II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1212",
+      "nm_mk": "Fisika Matematika II",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201442",
+      "nm_mk": "Listrik Magnet",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201453",
+      "nm_mk": "Pengantar Fisika Kuantum",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201452",
+      "nm_mk": "Optik",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201435",
+      "nm_mk": "Metode Numerik",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201434",
+      "nm_mk": "Elektronika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201421",
+      "nm_mk": "Metode Pengukuran dan Analisis Data",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU201320",
+      "nm_mk": "Pemanfaatan Sumber Daya",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201463",
+      "nm_mk": "Fisika Kuantum",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201451",
+      "nm_mk": "Pengantar Elektrodinamika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU201108",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201461",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201456",
+      "nm_mk": "Pengantar Geofisika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201446",
+      "nm_mk": "Fisika Komputasi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201445",
+      "nm_mk": "Elektronika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201444",
+      "nm_mk": "Fisika Modern",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201601",
+      "nm_mk": "Kerja Praktik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201472",
+      "nm_mk": "Fisika Energi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201455",
+      "nm_mk": "Pengantar Fisika Material",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201541",
+      "nm_mk": "Baterai Nuklir",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201515",
+      "nm_mk": "Analisis Material",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201471",
+      "nm_mk": "Fisika Zat Padat",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201510",
+      "nm_mk": "Bahan Logam",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201454",
+      "nm_mk": "Fisika Statistik",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201464",
+      "nm_mk": "Fisika Inti",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201462",
+      "nm_mk": "Fisika Instrumentasi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201543",
+      "nm_mk": "Teknologi Nuklir Medis",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201533",
+      "nm_mk": "Pengantar Kalibrasi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201701",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201516",
+      "nm_mk": "Teknologi Lapisan Tipis",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Tania Wulandari",
+    "jk": "P",
+    "nipd": "01181025",
+    "namapt": "Institut Teknologi Kalimantan",
+    "namajenjang": "S1",
+    "namaprodi": "Fisika",
+    "reg_pd": "77A0A107-025C-4E71-A4C3-9645B658E853",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-08-03T00:00:00Z",
+    "no_seri_ijazah": "452012022000163",
+    "sert_prof": null,
+    "link_pt": "/data_pt/M0M2OTAwRjQtQTgwMS00RjRDLUFCRTEtRDE0ODU1ODlCMDdG",
+    "link_prodi": "/data_prodi/NTk3OUE2NkEtQjI5NC00MzVCLUJFMDUtMzAxRDVCNEZFQ0FF"
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK421-83204-10",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK401-83204-10",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF408-83204-10",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME404-83204-10",
+      "nm_mk": "Kimia Teknik",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK432-83204-10",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME401-83204-10",
+      "nm_mk": "Matematika I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK402-83204-10",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK427-83204-10",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME403-83204-10",
+      "nm_mk": "Fisika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK428-83204-10",
+      "nm_mk": "Bahasa Inggris Profes",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME422-83204-10",
+      "nm_mk": "Pengukuran",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME402-83204-10",
+      "nm_mk": "Matematika II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME409-83204-10",
+      "nm_mk": "Kinematika dan Dinamika",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME407-83204-10",
+      "nm_mk": "Menggambar Teknik",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME424-83204-10",
+      "nm_mk": "Bahasa Inggris Teknik",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK403-83204-10",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME413-83204-10",
+      "nm_mk": "Termodinamika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK433-83204-10",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME420-83203-10",
+      "nm_mk": "MKE I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME415-83204-10",
+      "nm_mk": "Mekanika Fluida",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME405-83204-10",
+      "nm_mk": "Statika Struktur",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME416-83204-10",
+      "nm_mk": "Dasar Otomasi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME426-83204-10",
+      "nm_mk": "Manajemen Bengkel",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TME341-21401-10",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME421-83204-10",
+      "nm_mk": "MKE II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME406-83204-10",
+      "nm_mk": "Mekanika Bahan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME418-83204-10",
+      "nm_mk": "Elektronika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME414-83204-10",
+      "nm_mk": "Perpindahan Panas",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME408-83204-10",
+      "nm_mk": "Pengetahuan Bahan Teknik",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO401-83204-10",
+      "nm_mk": "Peralatan Otomotif",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO402-83204-10",
+      "nm_mk": "Teknologi Motor Bensin",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO408-83204-10",
+      "nm_mk": "Praktikum Kerja Bengkel",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF401-83204-10",
+      "nm_mk": "Kurikulum Pendidikan Kejuruan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF402-83204-10",
+      "nm_mk": "Manajemen Pendidikan Kejuruan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME412-83204-10",
+      "nm_mk": "Pesawat Angkat",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME410-83204-10",
+      "nm_mk": "Elemen Mesin I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO409-83204-10",
+      "nm_mk": "Praktikum Motor Bensin",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO405-83204-10",
+      "nm_mk": "Pengisian dan Starter",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME417-83204-10",
+      "nm_mk": "Teknik Tenaga Listrik",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME423-83204-10",
+      "nm_mk": "Program Komputer",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF403-83204-10",
+      "nm_mk": "Evaluasi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO403-83204-10",
+      "nm_mk": "Teknologi Motor Diesel",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO411-83204-09",
+      "nm_mk": "Diagnosis Gangguan Mesin",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME411-83204-09",
+      "nm_mk": "Elemen Mesin II",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO404-83204-09",
+      "nm_mk": "Pelistrikan Bodi Standar",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO414-83204-09",
+      "nm_mk": "Sistem Chasis, Suspensi, Kemudi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF404-83204-09",
+      "nm_mk": "Sumber Belajar",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO410-83204-09",
+      "nm_mk": "Praktikum Motor Diesel",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO415-83204-09",
+      "nm_mk": "Sistem Rem dan Roda",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME427-83204-09",
+      "nm_mk": "Computer Aided Design (CAD)",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF405-83204-09",
+      "nm_mk": "Perencanaan Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO406-83204-09",
+      "nm_mk": "Autotronik",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO416-83204-09",
+      "nm_mk": "AC Mobil",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO413-83204-09",
+      "nm_mk": "Sistem Pemindahan Tenaga",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF407-83204-09",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO412-83204-09",
+      "nm_mk": "Overhaul Mesin",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO417-83204-09",
+      "nm_mk": "Perancangan Mesin Otomotif",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME429-83204-09",
+      "nm_mk": "Praktik Industri",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKN490-83205-09",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO407-83204-09",
+      "nm_mk": "Sepeda Motor",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PME430-83204-09",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF406-83204-09",
+      "nm_mk": "Praktik Pembelajaran Mikro",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMO417-83204-09",
+      "nm_mk": "Perancangan Mesin Otomotif",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTO456-83204-07",
+      "nm_mk": "Skripsi",
+      "sks_mk": 0,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPL490-83204-09",
+      "nm_mk": "Praktik Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DWI PRABOWO PUDYARTOKO",
+    "jk": "L",
+    "nipd": "110513428078      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Teknik Otomotif",
+    "reg_pd": "8A2F6061-0BD3-4A55-8EEB-785533FD43BF",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-06-08T00:00:00Z",
+    "no_seri_ijazah": "31318/UN32/5/S1/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/NzIxMTZDQ0YtNzAzOC00ODc4LTg3NDAtQUYzQTI2NzRCNzJG"
+  }
+}

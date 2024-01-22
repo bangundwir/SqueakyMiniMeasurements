@@ -1,0 +1,384 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "APD-C102",
+      "nm_mk": "ETIKA DAN HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-A104",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-A102",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D102",
+      "nm_mk": "KEBUTUHAN  DASAR MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-C101",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-A101",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-B101",
+      "nm_mk": "ILMU BIOMEDIK DASAR",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D101",
+      "nm_mk": "KONSEP DASAR KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-A105",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-A103",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-B204",
+      "nm_mk": "GIZI DAN DIET",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D203",
+      "nm_mk": "KEPERAWATAN DASAR",
+      "sks_mk": 5,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-B202",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APDB203",
+      "nm_mk": "PATOFISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APDE201",
+      "nm_mk": "PRAKTEK KLINIK KEPERAWATAN I",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APDC203",
+      "nm_mk": "ANTHROPOLOGI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APDC204",
+      "nm_mk": "ETIKA KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E302",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH I",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E303",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN DASAR",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D307",
+      "nm_mk": "MANAJEMEN PASIEN SAFETY",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D304",
+      "nm_mk": "KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D305",
+      "nm_mk": "DOKUMENTASI KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-A306",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D306",
+      "nm_mk": "METODOLOGI KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-B305",
+      "nm_mk": "FISIOLOGI I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-A407",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E406",
+      "nm_mk": "KEPERAWATAN GAWAT DARURAT DAN MANAJEMEN BENCANA",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E408",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN ANAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E407",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN MEDIKAL BEDAH I",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E405",
+      "nm_mk": "KEPERAWATAN MATERNITAS",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-B406",
+      "nm_mk": "FISIOLOGI II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E404",
+      "nm_mk": "KEPERAWATAN ANAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D408",
+      "nm_mk": "PERAWATAN PASIEN OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E509",
+      "nm_mk": "KEPERAWATAN JIWA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E512",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN JIWA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E510",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH  II",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-F502",
+      "nm_mk": "KEPERAWATAN GERONTIK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E511",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN MATERNITAS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-F503",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN KELUARGA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D509",
+      "nm_mk": "PERAWATAN LUKA MODERN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-F501",
+      "nm_mk": "KEPERAWATAN KELUARGA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-A608",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-D610",
+      "nm_mk": "MANAJEMEN KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E614",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN MEDIKAL BEDAH II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E615",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN GAWAT DARURAT",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-E613",
+      "nm_mk": "KEPERAWATAN GAWAT DARURAT",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APD-F604",
+      "nm_mk": "KARYA TULIS ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DARMAN WIJAYA TELAUMBANUA",
+    "jk": "L",
+    "nipd": "2016006",
+    "namapt": "Akademi Keperawatan Darmo Medan",
+    "namajenjang": "D3",
+    "namaprodi": "Keperawatan",
+    "reg_pd": "771AB554-2544-4CB6-B796-0537A96A5245",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-05-15T00:00:00Z",
+    "no_seri_ijazah": "00257",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NDcxNTA5QjQtODAzMy00RTBGLTg1NjItMzQ0QzNDRkUwQkQy",
+    "link_prodi": "/data_prodi/RUEzNzc4OTMtQjlDNy00QkU2LThDQTUtNERBQzU3NjM0RDJG"
+  }
+}

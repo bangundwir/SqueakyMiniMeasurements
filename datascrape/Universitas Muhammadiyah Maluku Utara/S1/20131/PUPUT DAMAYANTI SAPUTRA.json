@@ -1,0 +1,643 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20153",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20163",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "HKM138",
+      "nm_mk": "BAHASA INDONESIA HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM104",
+      "nm_mk": "BAHASA INGGRIS HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM109",
+      "nm_mk": "ILMU NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM101",
+      "nm_mk": "PENDIDIKAN KEWARGA NEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AIK1",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN 1",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM107",
+      "nm_mk": "PENGANTAR ILMU HUKUM",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU1202",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM108",
+      "nm_mk": "PENGANTAR HUKUM INDONESIA",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AIK2",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN 2",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM118",
+      "nm_mk": "HUKUM INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM112",
+      "nm_mk": "HUKUM LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM116",
+      "nm_mk": "HUKUM PIDANA",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM110",
+      "nm_mk": "HUKUM TATA NEGARA",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM111",
+      "nm_mk": "HUKUM ADMINSTRASI NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM115",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AIK3",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN 3",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM119",
+      "nm_mk": "HUKUM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM121",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM114",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM133",
+      "nm_mk": "HUKUM ORGANISASI INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU3303A",
+      "nm_mk": "HUKUM DAGANG",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM103",
+      "nm_mk": "HUKUM PENGAWASAN APARATUR NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM123",
+      "nm_mk": "ILMU PERUNDANG-UNDANGAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM113",
+      "nm_mk": "HUKUM AGRARIA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM180",
+      "nm_mk": "ILMU FORENSIK",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5208",
+      "nm_mk": "HUKUM DAN HAK ASASI MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5202",
+      "nm_mk": "FILSAFAT HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM240",
+      "nm_mk": "ILLEGAL FISHING",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5205",
+      "nm_mk": "HUKUM PERBURUHAN DAN KETENAGAKERJAAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4305",
+      "nm_mk": "HUKUM WARIS",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4201",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN 4",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4207",
+      "nm_mk": "HUKUM ACARA PERADILAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4403",
+      "nm_mk": "HUKUM PIDANA KHUSUS",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6233",
+      "nm_mk": "PERBANDINGAN HUKUM PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6212",
+      "nm_mk": "PRAKTEK KEPENGACARAAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4202",
+      "nm_mk": "FILSAFAT ILMU",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6231",
+      "nm_mk": "VIKTIMOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6211",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU3201",
+      "nm_mk": "AL  ISLAM KEMUHAMMADIYAHAN 3",
+      "sks_mk": 2,
+      "id_smt": "20163",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU3202",
+      "nm_mk": "HUKUM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20163",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU3204",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20163",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU3306",
+      "nm_mk": "ILMU PERUNDANG UNDANGAN",
+      "sks_mk": 3,
+      "id_smt": "20163",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7220",
+      "nm_mk": "HUKUM PIDANA PERS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5206",
+      "nm_mk": "HUKUM PAJAK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5401",
+      "nm_mk": "METODE PENELITIAN DAN PENULISAN HUKUM",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5203",
+      "nm_mk": "SOSIOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7219",
+      "nm_mk": "HUKUM PIDANA POLITIK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5207",
+      "nm_mk": "HUKUM PEMERINTAHAN DAERAH",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7218",
+      "nm_mk": "HUKUM PIDANA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7221",
+      "nm_mk": "HUKUM PIDANA NARKOBA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5204",
+      "nm_mk": "POLITIK HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7223",
+      "nm_mk": "MONEY LAUNDERING",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7222",
+      "nm_mk": "HUKUM PERLINDUNGAN PEREMPUAN DAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4208",
+      "nm_mk": "HUKUM ACARA PENGADILAN TATA USAHA NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4306",
+      "nm_mk": "HUKUM ACARA PERDATA",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4304",
+      "nm_mk": "HUKUM PERKAWINAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6232",
+      "nm_mk": "SISTEM PERADILAN PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6209",
+      "nm_mk": "LITIGASI DAN  NON LITIGASI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7224",
+      "nm_mk": "STUDI KASUS HUKUM PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6236",
+      "nm_mk": "TINDAK PIDANA KORUPSI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6237",
+      "nm_mk": "CYBER CRIME",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6201",
+      "nm_mk": "ETIKA DAN TANGGUNG JAWAB PROFESI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6237",
+      "nm_mk": "CYBER CRIME",
+      "sks_mk": 2,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7223",
+      "nm_mk": "MONEY LAUNDERING",
+      "sks_mk": 2,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4208",
+      "nm_mk": "HUKUM ACARA PENGADILAN TATA USAHA NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7219",
+      "nm_mk": "HUKUM PIDANA POLITIK",
+      "sks_mk": 2,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7223",
+      "nm_mk": "MONEY LAUNDERING",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7218",
+      "nm_mk": "HUKUM PIDANA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7222",
+      "nm_mk": "HUKUM PERLINDUNGAN PEREMPUAN DAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7219",
+      "nm_mk": "HUKUM PIDANA POLITIK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMMU8401",
+      "nm_mk": "KULIAH KERJA SOSIAL",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5205",
+      "nm_mk": "HUKUM PERBURUHAN DAN KETENAGAKERJAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU5202",
+      "nm_mk": "FILSAFAT HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU6237",
+      "nm_mk": "CYBER CRIME",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4208",
+      "nm_mk": "HUKUM ACARA PENGADILAN TATA USAHA NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7224",
+      "nm_mk": "STUDI KASUS HUKUM PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU7601",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4304",
+      "nm_mk": "HUKUM PERKAWINAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU4306",
+      "nm_mk": "HUKUM ACARA PERDATA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "PUPUT DAMAYANTI SAPUTRA",
+    "jk": "P",
+    "nipd": "121057420113067   ",
+    "namapt": "Universitas Muhammadiyah Maluku Utara",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Hukum",
+    "reg_pd": "9DA519ED-1033-43CD-9DA4-9E2E46F9218D",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-07-20T00:00:00Z",
+    "no_seri_ijazah": "742012019001295",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODJDMjJBM0EtOUY5Ni00QTIwLThBQTItMjEzNTI3NkJDNzAy",
+    "link_prodi": "/data_prodi/MjVFMDUwMDMtQUMxRS00OEUxLTlGQzktRDNFMkUzMzgwNEVD"
+  }
+}

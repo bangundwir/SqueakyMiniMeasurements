@@ -1,0 +1,419 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MUH1C2",
+      "nm_mk": "TEKNIK MEMBACA DAN MENULIS KRITIS",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUH1A3",
+      "nm_mk": "PROBABILITAS DAN STATISTIKA A",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUH1D4",
+      "nm_mk": "KALKULUS 2 A",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUH1B2",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMH1A4",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMH1B4",
+      "nm_mk": "EKONOMI",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMH1D3",
+      "nm_mk": "ETIKA BISNIS & GCG",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMH1C4",
+      "nm_mk": "AKUNTANSI",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMH1F3",
+      "nm_mk": "MANAJEMEN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMH1H3",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMH1G3",
+      "nm_mk": "SISTEM TELEKOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMH1E4",
+      "nm_mk": "STATISTIKA BISNIS",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM62C4",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA STRATEJIK",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0H4",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM61A4",
+      "nm_mk": "METODE KUANTITATIF UNTUK BISNIS",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0D3",
+      "nm_mk": "MANAGEMENT INFORMATION SYSTEM",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DUH1A2",
+      "nm_mk": "LITERASI TIK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM62A4",
+      "nm_mk": "MANAJEMEN OPERASI DAN KUALITAS",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM62E4",
+      "nm_mk": "DATA MANAGEMENT",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAH2F3",
+      "nm_mk": "PERILAKU ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM62G3",
+      "nm_mk": "PERILAKU KONSUMEN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM62H3",
+      "nm_mk": "ANALISIS INVESTASI DAN PORTOFOLIO",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM62F3",
+      "nm_mk": "MANAJEMEN RANTAI PASOK DALAM LAYANAN TIK",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM62D4",
+      "nm_mk": "CREATIVE THINKING IN BUSINESS",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DUH2A2",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM64C4",
+      "nm_mk": "E-COMMERCE DAN BISNIS INFORMASI",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0I4",
+      "nm_mk": "MANAJEMEN STRATEGI",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63C4",
+      "nm_mk": "PROJECT MANAGEMENT",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63K4",
+      "nm_mk": "MANAJEMEN PENGETAHUAN",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63A3",
+      "nm_mk": "BIG DATA DAN DATA ANALISIS",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63B3",
+      "nm_mk": "SYSTEM ANALYSIS AND DESIGN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63F3",
+      "nm_mk": "E-CULTURE DAN JEJARING SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63G4",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63E3",
+      "nm_mk": "NEW DIGITAL ECONOMY",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63D4",
+      "nm_mk": "PROYEK KEWIRAUSAHAAN",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0J2",
+      "nm_mk": "INTERPERSONAL DAN KOMUNIKASI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63E3",
+      "nm_mk": "EKONOMI DIGITAL BARU",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0K2",
+      "nm_mk": "INTERNSHIP",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63D4",
+      "nm_mk": "PROYEK KEWIRAUSAHAAN",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63S4",
+      "nm_mk": "PENGEMBANGAN ORGANISASI",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0K2",
+      "nm_mk": "MAGANG",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM64B4",
+      "nm_mk": "PENGEMBANGAN KONTEN DAN EKOSISTEM",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0M4",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63M4",
+      "nm_mk": "MANAJEMEN USAHA BARU",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM63M4",
+      "nm_mk": "MANAJEMEN USAHA BARU",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0L2",
+      "nm_mk": "KOLOKIUM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM64D3",
+      "nm_mk": "HUKUM DAN REGULASI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBH0L2",
+      "nm_mk": "KOLOKIUM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM64H4",
+      "nm_mk": "MANAJEMEN TALENTA",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM64D3",
+      "nm_mk": "HUKUM DAN REGULASI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM64B4",
+      "nm_mk": "PENGEMBANGAN KONTEN DAN EKOSISTEM",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BM64H4",
+      "nm_mk": "MANAJEMEN TALENTA",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DIAR ULFAH HASSANAH",
+    "jk": "P",
+    "nipd": "1401154430",
+    "namapt": "Universitas Telkom",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "90412FFA-E2E2-4364-B1E7-5AA288C7C806",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-01-25T00:00:00Z",
+    "no_seri_ijazah": "0188/AKD1.15/SFEB/2019",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODYxRDlBNjQtOTQ5NS00Njg4LUE1MjgtODk5RkNDQTFDMUU4",
+    "link_prodi": "/data_prodi/OEM2MjY4NDItRDRBNC00MkQ4LTlFOUEtMTMyOUFDQ0FDNkZD"
+  }
+}

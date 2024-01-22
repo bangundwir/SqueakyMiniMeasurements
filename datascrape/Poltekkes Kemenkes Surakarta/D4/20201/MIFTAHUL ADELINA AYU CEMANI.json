@@ -1,0 +1,426 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "WAT.1.1.02",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.1.06",
+      "nm_mk": "Konsep Dasar Keperawatan (KDK)",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.1.08",
+      "nm_mk": "Etika Keperawatan dan Hukum Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.16",
+      "nm_mk": "ILMU GIZI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.1.01",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.1.04",
+      "nm_mk": "ANATOMI FISIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.13",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.1.1.05",
+      "nm_mk": "FISIKA DAN BIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.1.1.03",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.1.19",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.09",
+      "nm_mk": "MIKROBIOLOGI DAN PARASITOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.11",
+      "nm_mk": "KEBUTUHAN DASAR MANUSIA II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.1.20",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.15",
+      "nm_mk": "PROSES DAN DOKUMENTASI KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.1.07",
+      "nm_mk": "Kebutuhan  Dasar  Manusia I",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.14",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.10",
+      "nm_mk": "KOMUNIKASI DALAM KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.12",
+      "nm_mk": "PATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.1.21",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH I",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.1.23",
+      "nm_mk": "KEPERAWATAN ANAK",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.1.24",
+      "nm_mk": "PRAKTIK KEPERAWATAN III (PRAKTIK KLINIK KEPERAWATAN ANAK)",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.1.18",
+      "nm_mk": "PROMOSI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 1.2.17",
+      "nm_mk": "PARKTIK KEPERAWATAN I (PRAKTIK KLINIK KEBUTUHAN DASAR MANUSIA)",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.1.22",
+      "nm_mk": "PRAKTIK KEPERAWATAN II (PRAKTIK KLINIK KMB I)",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.2.30",
+      "nm_mk": "PRAKTIK KEPERAWATAN VI (PRAKTIK KLINIK KEPERAWATAN JIWA)",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.2.26",
+      "nm_mk": "PRAKTIK KEPERAWATAN IV (PRAKTIK KLINIK KEPERAWATAN MATERNITAS)",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.2.25",
+      "nm_mk": "KEPERAWATAN MATERNITAS",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.2.29",
+      "nm_mk": "KEPERAWATAN JIWA",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.2.27",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH II",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 2.2.28",
+      "nm_mk": "PRAKTIK KEPERAWATAN V (PRAKTIK KLINIK KMB II)",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.33",
+      "nm_mk": "MANAJEMEN DAN KEPEMIMPINAN DALAM KEPERAWATAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.35",
+      "nm_mk": "KEPERAWATAN GAWAT DARURAT",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.32",
+      "nm_mk": "PRAKTIK KEPERAWATAN VII (PRAKTIK KLINIK KEPERAWATAN ORTOPEDI)",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.31",
+      "nm_mk": "KEPERAWATAN ORTOPEDI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.37",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.38",
+      "nm_mk": "PENDIDIKAN BUDAYA ANTI KORUPSI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.4.1.51",
+      "nm_mk": "Praktik Klinik Manajemen & Kepemimpinan dlm Keperawatan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 4.1.55",
+      "nm_mk": "KEBIJAKAN KESEHATAN NASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.36",
+      "nm_mk": "PRAKTIK KEPERAWATAN IX (PRAKTIK KLINIK KEPERAWATAN GADAR DARURAT )",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.41",
+      "nm_mk": "KEPERAWATAN GERONTIK",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.43",
+      "nm_mk": "PRAKTIK KEPERAWATAN XI (PRAKTIK KEPERAWATAN KHUSUS &amp; KOMUNITAS)",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.45",
+      "nm_mk": "INTER PROFESIONAL EDUCATION (IPE) DAN INTER PROFESIONAL COLLABORATION (IPC)",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.44",
+      "nm_mk": "PEMBERDAYAAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.39",
+      "nm_mk": "KEPERAWATAN KELUARGA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.46",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.40",
+      "nm_mk": "PRAKTIK KEPERAWATAN X (PRAKTIK KEPERAWATAN KELUARGA)",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 3.1.42",
+      "nm_mk": "KEPERAWATAN KOMUNITAS",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 4.1.53",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 4.1.49",
+      "nm_mk": "KEPERAWATAN KRITIS",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 4.1.47",
+      "nm_mk": "STATISTIK KESEHATAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.4.1.56",
+      "nm_mk": "ELEKTIF BAHASA",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 4.1.48",
+      "nm_mk": "RISET KEPERAWATAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT. 4.1.50",
+      "nm_mk": "PRAKTIK KEPERAWATAN XII (PRAKTIK KLINIK KEPERAWATAN KRITIS)",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MIFTAHUL ADELINA AYU CEMANI",
+    "jk": "P",
+    "nipd": "P27220020165",
+    "namapt": "Poltekkes Kemenkes Surakarta",
+    "namajenjang": "D4",
+    "namaprodi": "Keperawatan",
+    "reg_pd": "7BF4526B-152E-404C-9CB2-6C9C3501D7D3",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RUU0Qzg1QkMtN0NGMS00NTU1LTk1OTEtQjJENTNFNTYwMTBF",
+    "link_prodi": "/data_prodi/NzlCNkFCOTctNzhCQi00NkJGLUI3MTEtOUVEMUI2RTI3RjNF"
+  }
+}

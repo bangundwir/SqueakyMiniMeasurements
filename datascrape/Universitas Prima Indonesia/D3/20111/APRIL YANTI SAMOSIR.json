@@ -1,0 +1,517 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK312",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK302",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB338",
+      "nm_mk": "KONSEP KEBIDANAN",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK307",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK304",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB347",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK306",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK313",
+      "nm_mk": "KETRAMPILAN DASAR PRAKTEK KLINIK",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB332",
+      "nm_mk": "MODUL TERINTEGRASI PEMERIKSAAN FISIK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK301",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB327",
+      "nm_mk": "KESEHATAN REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK308",
+      "nm_mk": "BIOLOGI REPRODUKSI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB321",
+      "nm_mk": "ASKEB I(KEHAMILAN)",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB340",
+      "nm_mk": "KOM & KONSELING DLM PRAKTEK KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK318",
+      "nm_mk": "PSIKOLOGI DALAM KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK317",
+      "nm_mk": "GIZI DALAM KESPRO",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK309",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB333",
+      "nm_mk": "MODUL TERINTEGRASI MANAJ KEB",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK314",
+      "nm_mk": "OBSTETRI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK310",
+      "nm_mk": "FISIKA KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK319",
+      "nm_mk": "EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB327",
+      "nm_mk": "KESEHATAN REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB333",
+      "nm_mk": "MODUL TERINTEGRASI MANAJ KEB",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK308",
+      "nm_mk": "BIOLOGI REPRODUKSI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK305",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK212",
+      "nm_mk": "GIZI DALAM KESEHATAN REPRODUKSI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK315",
+      "nm_mk": "GINEKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK309",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB339",
+      "nm_mk": "ETIKA PROFESI DAN HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK316",
+      "nm_mk": "ILMU KESEHATAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB309",
+      "nm_mk": "DOKUMENTASI KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB323",
+      "nm_mk": "ASKEB III (NIFAS)",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB340",
+      "nm_mk": "KOMUNIKASI DAN KONSELING DLM PRAK KEB",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK334",
+      "nm_mk": "MODUL TERINTEGRITASI:ASUHAN KONSELING",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB324",
+      "nm_mk": "ASKEB IV (PATOLOGI KEBIDANAN)",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK310",
+      "nm_mk": "FISIKA KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB301",
+      "nm_mk": "ASKEB I (KEHAMILAN)",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK311",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB322",
+      "nm_mk": "ASKEB II (PERSALINAN)",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB326",
+      "nm_mk": "ASKEB NEONATUS,BAYI DAN ANAK BALITA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB324",
+      "nm_mk": "ASKEB IV (PATOLOGI KEBIDANAN)",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB325",
+      "nm_mk": "ASKEB V (KEBIDANAN KOMUNITAS)",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB323",
+      "nm_mk": "ASKEB III (NIFAS)",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB343",
+      "nm_mk": "ENTERPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK319",
+      "nm_mk": "EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB328",
+      "nm_mk": "PELAYANAN KB",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB346",
+      "nm_mk": "ILMU KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB326",
+      "nm_mk": "ASKEB NEONATUS,BAYI DAN ANAK BALITA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB329",
+      "nm_mk": "PRAKTEK KLINIK KEBIDANAN I",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB339",
+      "nm_mk": "ETIKA PROFESI DAN HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB337",
+      "nm_mk": "MODUL TERINTEGRASIPENCEGAHAN INFEKSI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK316",
+      "nm_mk": "ILMU KESEHATAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB322",
+      "nm_mk": "ASKEB II (PERSALINAN)",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB330",
+      "nm_mk": "PRAKTEK KLINIK KEBIDANAN II",
+      "sks_mk": 5,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD342",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB336",
+      "nm_mk": "MODUL TERINTEGRASI : IMUNISASI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB341",
+      "nm_mk": "MUTU LAYANAN KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB345",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK303",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB348",
+      "nm_mk": "ORGANISASI DAN MANAJEMEN PELAYANAN KES",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK320",
+      "nm_mk": "BIOSTATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD342",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB341",
+      "nm_mk": "MUTU LAYANAN KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB331",
+      "nm_mk": "PRAKTEK KLINIK KEBIDANAN III",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK320",
+      "nm_mk": "BIOSTATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB406",
+      "nm_mk": "KTI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "APRIL YANTI SAMOSIR",
+    "jk": "P",
+    "nipd": "11330206049       ",
+    "namapt": "Universitas Prima Indonesia",
+    "namajenjang": "D3",
+    "namaprodi": "Kebidanan",
+    "reg_pd": "4424799D-5403-484A-85EF-2045C23F569D",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-07-08T00:00:00Z",
+    "no_seri_ijazah": "1560/FKK-III/IX/2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTMyMDdBNTMtMTJENC00RjMyLUIzMkQtRTA4OEVDNUEyQTM0",
+    "link_prodi": "/data_prodi/OUM3RTE4QkUtRDIxQi00MjlFLTkyQTQtMDA4OTgwOTBBMDUz"
+  }
+}

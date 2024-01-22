@@ -1,0 +1,557 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20213",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK1103",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB1161",
+      "nm_mk": "LAB BAHASA INGGRIS",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1042",
+      "nm_mk": "PENDIDIKAN AGAMA*",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1013",
+      "nm_mk": "AKUNTANSI PENGANTAR I*",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1062",
+      "nm_mk": "PENDIDIKAN OLAH RAGA**",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1062",
+      "nm_mk": "EKONOMI PENGANTAR MAKRO",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1022",
+      "nm_mk": "BAHASA INGGRIS#",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB1062",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1092",
+      "nm_mk": "MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2143",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB6042",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2072",
+      "nm_mk": "EKONOMI PENGANTAR MIKRO",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB2012",
+      "nm_mk": "BAHASA INGGRIS BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB2231",
+      "nm_mk": "PRAKTIKA AKUNTANSI PENGANTAR",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2022",
+      "nm_mk": "AKUNTANSI PENGANTAR II*",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2033",
+      "nm_mk": "AKUNTANSI KEULANJUTAN I",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK2072",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB2022",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5082",
+      "nm_mk": "EKONOMI SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK7032",
+      "nm_mk": "ETIKA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3281",
+      "nm_mk": "PRAKTIKA STATISTIK",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3053",
+      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3043",
+      "nm_mk": "BANK DAN LEMBAGA KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3132",
+      "nm_mk": "PENGANTAR PERPAJAKAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3303",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3173",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3013",
+      "nm_mk": "AKUNTANSI BIAYA**",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB3032",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK6012",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4193",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4062",
+      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4073",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4152",
+      "nm_mk": "BUDGETING",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4221",
+      "nm_mk": "PRAKTIKA AKUNTANSI KEUANGAN MENENGAH",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4052",
+      "nm_mk": "EKONOMI KOPERASI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB6042",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4123",
+      "nm_mk": "PASAR UANG DAN MODAL",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4201",
+      "nm_mk": "PRAKTIKA AKUNTANSI BIAYA",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4293",
+      "nm_mk": "SISTEM INFORMASI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5143",
+      "nm_mk": "ANALISA LAPORAN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5183",
+      "nm_mk": "PENGAUDITAN I",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5033",
+      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN I",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5113",
+      "nm_mk": "AKUNTANSI PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5261",
+      "nm_mk": "PRAKTIKA PERPAJAKAN",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5241",
+      "nm_mk": "PRAKTIKA BUDGETING",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB7113",
+      "nm_mk": "SISTEM PENGENDALIAN MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5123",
+      "nm_mk": "AKUNTANSI SEKTOR PUBLIK",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB7103",
+      "nm_mk": "AKUNTANSI PERBANKAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7153",
+      "nm_mk": "MANAJEMEN KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5271",
+      "nm_mk": "PRAKTIKA SISTEM INFORMASI AKUNTANSI",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB8083",
+      "nm_mk": "SEMINAR AKUNTANSI KEUANGAN**",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB6052",
+      "nm_mk": "AKUNTANSI KEU. LANJUTAN II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB8083",
+      "nm_mk": "AKUNTANSI PEMERINTAHAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB6072",
+      "nm_mk": "PENGAUDITAN II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB6012",
+      "nm_mk": "KULIAH KERJA NYATA (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB6251",
+      "nm_mk": "PRAKTIKA PENGAUDITAN",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB6053",
+      "nm_mk": "PEMERIKSAAN MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB6122",
+      "nm_mk": "STANDAR DAN ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6113",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB6211",
+      "nm_mk": "PRAKTIKA AKUNTANSI KEUANGAN LANJUTAN",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB7133",
+      "nm_mk": "AKUNTANSI SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB8026",
+      "nm_mk": "S K R I P S I",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB8026",
+      "nm_mk": "S K R I P S I",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB8026",
+      "nm_mk": "S K R I P S I",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB8026",
+      "nm_mk": "S K R I P S I",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB8026",
+      "nm_mk": "S K R I P S I",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TANIA SINTA WULANDARI",
+    "jk": "P",
+    "nipd": "24022118161",
+    "namapt": "Universitas Garut",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "5F2596AC-C3C6-4527-8914-F8CE5E996C61",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QjNDMjY0QkItQTcyRS00MTgzLUI1ODMtNzlGQjhCNDNBMEJD",
+    "link_prodi": "/data_prodi/RjZERkIxQkEtMEZGNi00MjQ0LUI1NjUtNzY4MkIzQ0EzNzBC"
+  }
+}

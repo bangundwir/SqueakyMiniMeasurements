@@ -1,0 +1,558 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20061",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": null,
+      "nm_stat_mhs": "Keluar"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SI2105",
+      "nm_mk": "IUT LAB.IUT I",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2103",
+      "nm_mk": "BAHAN BANGUNAN I",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2108",
+      "nm_mk": "MEKANIKA FLUIDA LAB",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2106",
+      "nm_mk": "PENGENALAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2107",
+      "nm_mk": "GAMBAR TEKNIK I",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2101",
+      "nm_mk": "FISIKA TERAPAN",
+      "sks_mk": 1,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1101",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1102",
+      "nm_mk": "BAHASA INGGRIS TEKNIK I",
+      "sks_mk": 1,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4101",
+      "nm_mk": "REKAYASA BETON",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP3108",
+      "nm_mk": "MEKANIKA REKAYASA I",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2102",
+      "nm_mk": "MATEMATIKA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS3201",
+      "nm_mk": "HIDROLIKA LAB",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2205",
+      "nm_mk": "IUT LAB.IUT II",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2202",
+      "nm_mk": "GAMBAR TEKNIK II (CAD",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS3202",
+      "nm_mk": "GEOMETRIK",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2204",
+      "nm_mk": "MEKANIKA TANAH I",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2206",
+      "nm_mk": "GAMBAR TEKNIK II",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3202",
+      "nm_mk": "STRUKTUR BETON DASAR",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2203",
+      "nm_mk": "MATEMATIKA DAN STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3201",
+      "nm_mk": "STRUKTUR BAJA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2201",
+      "nm_mk": "MATEMATIKA II STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1201",
+      "nm_mk": "BAHASA INGGRIS TEKNIK II",
+      "sks_mk": 1,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4304",
+      "nm_mk": "KERJA KAYU I",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS3302",
+      "nm_mk": "STRUKTUR BAJA II",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2302",
+      "nm_mk": "MEKANIKA TANAH II",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3302",
+      "nm_mk": "STRUKTUR KAYU",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS3303",
+      "nm_mk": "PERKERASAN JALAN I",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS3301",
+      "nm_mk": "STRUKTUR BETON II",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4301",
+      "nm_mk": "LABUJI BAHAN I",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4303",
+      "nm_mk": "KERJA BAJA",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI2301",
+      "nm_mk": "MEKANIKA REKAYASA III",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3301",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4302",
+      "nm_mk": "KERJA BATU",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS3304",
+      "nm_mk": "IRIGASI BANGUNAN IRIGASI",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1301",
+      "nm_mk": "BAHASA INGGRIS TEKNIK III",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1401",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4403",
+      "nm_mk": "LABOR TANAH",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3402",
+      "nm_mk": "TEKNIK PONDASI I",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1403",
+      "nm_mk": "BAHASA INGGRIS TEKNIK IV",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3404",
+      "nm_mk": "HIDROLIKA DAN LABORATORIUM",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3405",
+      "nm_mk": "DASAR PEMOGRAMAN DAN APLIKASI",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4404",
+      "nm_mk": "KERJA PLUMBING",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3401",
+      "nm_mk": "ALAT BERAT DAN PTM",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4401",
+      "nm_mk": "LABUJI BAHAN II",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3406",
+      "nm_mk": "DRAINASE KOTA",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1402",
+      "nm_mk": "KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3403",
+      "nm_mk": "MANAJEMEN KONSTRUKSI I",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4402",
+      "nm_mk": "KERJA KAYU II",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS3401",
+      "nm_mk": "PERKERASAN JALAN II",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4508",
+      "nm_mk": "KERJA PERANCAH II",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4509",
+      "nm_mk": "REKAYASA SUNGAI",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4503",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4504",
+      "nm_mk": "ASPEK HUKUM INDUSTRI KONSTRUKSI",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3504",
+      "nm_mk": "REKAYASA PONDASI II",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4506",
+      "nm_mk": "KERJA DRAINASE",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1501",
+      "nm_mk": "BAHASA INGGRIS TEKNIK V",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4507",
+      "nm_mk": "KERJA BETON",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4505",
+      "nm_mk": "PRA PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4502",
+      "nm_mk": "REKAYASA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3506",
+      "nm_mk": "ALAT BERAT PTM",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3502",
+      "nm_mk": "EKONOMI REKAYASA",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3505",
+      "nm_mk": "METODA DAN TEKNIS PELAKSANAAN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI4501",
+      "nm_mk": "LABUJI TANAH",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI3503",
+      "nm_mk": "MANAJEMEN KONSTRUKSI II",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI5601",
+      "nm_mk": "PKL",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI5602",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI1601",
+      "nm_mk": "TATA TULIS LAPORAN&PRESENTASI",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI5602",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI5602",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BUDI RAMADAN",
+    "jk": "L",
+    "nipd": "06072060          ",
+    "namapt": "Politeknik Negeri Padang",
+    "namajenjang": "D3",
+    "namaprodi": "Teknik Sipil",
+    "reg_pd": "74CD11BB-8C18-47CD-91E5-4EB894135F46",
+    "mulai_smt": "20061",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": null,
+    "no_seri_ijazah": "",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Q0E1RTM0NUYtQTYxNy00NENFLTlEMkItMzdBNDMzMDQ3RUQz",
+    "link_prodi": "/data_prodi/MDRGMTFBMjItNTdFNC00Rjg0LTlFREEtNzczNEJFNkQ1MkNG"
+  }
+}

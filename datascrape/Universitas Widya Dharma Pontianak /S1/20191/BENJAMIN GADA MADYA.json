@@ -1,0 +1,413 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TIKK102",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK103A",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK104",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK105A",
+      "nm_mk": "LOGIKA PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIPK101",
+      "nm_mk": "PENDIDIKAN AGAMA KATOLIK / ETIKA SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB101",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB104",
+      "nm_mk": "PAKET PROGRAM NIAGA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK101",
+      "nm_mk": "ALJABAR LINEAR",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK203",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK205",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB204",
+      "nm_mk": "SISTEM BASIS DATA",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK208",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK207",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK206",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIPK302",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB307",
+      "nm_mk": "APLIKASI BASIS DATA DASAR",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK514",
+      "nm_mk": "TEKNIK KOMPILASI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK310",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK311",
+      "nm_mk": "LOGIKA INFORMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB305",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB306",
+      "nm_mk": "ANALISA DAN PERANCANGAN SISFO",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK412",
+      "nm_mk": "METODA NUMERIK",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB408",
+      "nm_mk": "PEMROGRAMAN VISUAL",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB410",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB406",
+      "nm_mk": "PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIBB601",
+      "nm_mk": "KECAKAPAN INTER PERSONIL",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB409",
+      "nm_mk": "ARSITEKTUR DAN ORGANISASI KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB407",
+      "nm_mk": "RISET TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK515",
+      "nm_mk": "TEORI BAHASA DAN AUTOMATA",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKP501",
+      "nm_mk": "KONSEP DATA MINING DAN WAREHOUSE",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB512",
+      "nm_mk": "PEMROGRAMAN VISUAL LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKK513A",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB513",
+      "nm_mk": "GRAFIKA KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKP603",
+      "nm_mk": "PEMROGRAMAN VISUAL BASIC.NET",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB821",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB617",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB615",
+      "nm_mk": "PEMROGRAMAN WEB",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIPB801",
+      "nm_mk": "ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB614",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIPK801",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB616",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB719",
+      "nm_mk": "SISTEM MULTIMEDIA",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB720A",
+      "nm_mk": "SISTEM BERKAS",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKP705",
+      "nm_mk": "JARINGAN KOMPUTER LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIBB702",
+      "nm_mk": "KOMPUTER DAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIKB718",
+      "nm_mk": "KECERDASAN BUATAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIPK703",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIBB707",
+      "nm_mk": "SISTEM INFORMASI AKUNTANSI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIBB803",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BENJAMIN GADA MADYA",
+    "jk": "L",
+    "nipd": "19421257",
+    "namapt": "Universitas Widya Dharma Pontianak ",
+    "namajenjang": "S1",
+    "namaprodi": "Informatika",
+    "reg_pd": "934864CE-E580-4242-8732-063578134455",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OUQ1QjAwODYtMjk2Qi00NDkxLUE3RUUtNTYyNzkwNjQ2MEE2",
+    "link_prodi": "/data_prodi/QUYzOTJFNUQtOUI1OC00NzFCLUI5NjItQUQzODNCQjhERjRF"
+  }
+}

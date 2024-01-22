@@ -1,0 +1,662 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "32032TPK3",
+      "nm_mk": "TEKNIK PRESENTASE KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032KLK3",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032KOR1",
+      "nm_mk": "KOKURIKULER",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032BHS3",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10000PAI3",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032MEK2",
+      "nm_mk": "MEKANIKA TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PAR2",
+      "nm_mk": "PENGANTAR ARSITEKTUR",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032ESB3",
+      "nm_mk": "ESTETIKA BENTUK",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032DDB3",
+      "nm_mk": "DASAR-DASAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10000BIN3",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PKA2",
+      "nm_mk": "PERKEMBANGAN ARSITEKTUR I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10000KWG3",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SKB3",
+      "nm_mk": "STRUKTUR & KONSTRUKSI BANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PDP3",
+      "nm_mk": "PENGUKURAN DAN PEMETAAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SPA3",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032DDM3",
+      "nm_mk": "DASAR-DASAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032TEA2",
+      "nm_mk": "TEORI ARSITEKTUR I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032TEB2",
+      "nm_mk": "TEKNOLOGI BAHAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AGB2",
+      "nm_mk": "ANGGARAN BORONGAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PEA2",
+      "nm_mk": "PERKEMBANGAN ARSITEKTUR II",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032FSB2",
+      "nm_mk": "FISIKA BANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SPR3",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032ENP3",
+      "nm_mk": "ENTREPRENEUR",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032MEB2",
+      "nm_mk": "MEKANIKA BANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032UTS3",
+      "nm_mk": "UTILITAS",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032TER2",
+      "nm_mk": "TEORI ARSITEKTUR II",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SKA3",
+      "nm_mk": "STRUKTUR & KONSTRUKSI BANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032KSK2",
+      "nm_mk": "KONSTRUKSI KAYU",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032KBE2",
+      "nm_mk": "KONSTRUKSI BETON",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "637TA3",
+      "nm_mk": "STRUKTUR KONSTRUKSI BANGUNAN V",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PKR2",
+      "nm_mk": "PENGKONDISIAN RUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032TKP2",
+      "nm_mk": "TEORI KOTA DAN PEMUKIMAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SKG3",
+      "nm_mk": "STUKTUR & KONSTRUKSI BANGUNAN III",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032MRM2",
+      "nm_mk": "MERANCANG MULTIMEDIA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PRD3",
+      "nm_mk": "PERANCANGAN RUANG DALAM",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AHU2",
+      "nm_mk": "ARSITEKTUR HIJAU",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SK43",
+      "nm_mk": "STRUKTUR & KONSTRUKSI BANGUNAN 04",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032MMA3",
+      "nm_mk": "MERANCANG MULTIMEDIA",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PPA3",
+      "nm_mk": "PERENCANAAN KOTA",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SP23",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR 02",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PPN3",
+      "nm_mk": "PENGUKURAN & PEMETAAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032ILL2",
+      "nm_mk": "ILMU LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032ATA2",
+      "nm_mk": "ARSITEKTUR TEPIAN AIR",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AHE2",
+      "nm_mk": "ARSITEKTUR HEMAT ENERGI",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PRR3",
+      "nm_mk": "PERANCANGAN RUANG DALAM",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SK53",
+      "nm_mk": "STRUKTUR KONSTRUKSI BANGUNAN 05",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PPP3",
+      "nm_mk": "PERANCANGAN LANSEKAP",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032MMI2",
+      "nm_mk": "MANAJEMEN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AHU2",
+      "nm_mk": "ARSITEKTUR HIJAU",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032EBK3",
+      "nm_mk": "ESTETIKA BENTUK",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SP23",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR 02",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032RJA2",
+      "nm_mk": "RENCANA JARINGAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PLB2",
+      "nm_mk": "PEMB. LINGKUNGAN BERKELANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032KKL3",
+      "nm_mk": "KKL (STUDI BANDING ARSITEKTUR)",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032HPR2",
+      "nm_mk": "HUKUM PRANATA PEMBANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SP33",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR 03",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032KBA2",
+      "nm_mk": "KONSTRUKSI BAJA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AKG2",
+      "nm_mk": "ARSITEKTUR KAMPUNG",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032TKN2",
+      "nm_mk": "TEORI KOTA & PEMUKIMAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AHU2",
+      "nm_mk": "ARSITEKTUR HIJAU",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PPP3",
+      "nm_mk": "PERANCANGAN LANSEKAP",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032ARK2",
+      "nm_mk": "ARSITEKTUR KOTA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SP43",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR 04",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AKG2",
+      "nm_mk": "ARSITEKTUR KAMPUNG",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20000PSE3",
+      "nm_mk": "ENTREPRENEURSHIP II",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032TKN2",
+      "nm_mk": "TEORI KOTA & PEMUKIMAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AHE2",
+      "nm_mk": "ARSITEKTUR HEMAT ENERGI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032MTK2",
+      "nm_mk": "MEKANIKA TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SP53",
+      "nm_mk": "STUDIO PERANCANAAN ARSITEKTUR 05",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SP64",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR 06",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032EBK3",
+      "nm_mk": "ESTETIKA BENTUK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032TTA3",
+      "nm_mk": "TATA TULIS KARYA ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032PGA2",
+      "nm_mk": "PENGANTAR ARSITEKTUR",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SP43",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR 04",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032AHE2",
+      "nm_mk": "ARSITEKTUR HEMAT ENERGI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20000KKN4",
+      "nm_mk": "KKN ENTREPRENEURSHIP",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032EPI3",
+      "nm_mk": "ETIKA PROFESI & KERJA PRAKTEK PROFESI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032KAR2",
+      "nm_mk": "KOLOKIUM ARSITEKTUR",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032SP64",
+      "nm_mk": "STUDIO PERANCANGAN ARSITEKTUR 06",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20000ESP3",
+      "nm_mk": "ENTREPRENEURSHIP III",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32032TAR6",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HERYANTO",
+    "jk": "L",
+    "nipd": "1320321012        ",
+    "namapt": "Universitas Fajar",
+    "namajenjang": "S1",
+    "namaprodi": "Arsitektur",
+    "reg_pd": "F09B3466-2A08-43F6-8CCF-3679F26F5318",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-08-29T00:00:00Z",
+    "no_seri_ijazah": "232012020000113",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Qjc5RjNDNDQtMkRENS00MDE0LThGNTEtOEZDMzk0NkMzNEM4",
+    "link_prodi": "/data_prodi/MUQzNjYwQjYtQzUxRS00QTI1LUFDNzgtNzQ0ODQ3N0NCNEU3"
+  }
+}

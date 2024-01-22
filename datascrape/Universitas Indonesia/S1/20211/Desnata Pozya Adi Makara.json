@@ -1,0 +1,435 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SCBI601112",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCCH601101",
+      "nm_mk": "Kimia umum",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMF600001",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIGE600004",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIGE600003",
+      "nm_mk": "MPK Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601101",
+      "nm_mk": "Geologi Dasar",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601103",
+      "nm_mk": "Praktikum Kristalografi & Mineralogi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601102",
+      "nm_mk": "Kristalografi & Mineralogi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601110",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMF600002",
+      "nm_mk": "Pengantar Sains Data",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601209",
+      "nm_mk": "Praktikum Geomorfologi",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601205",
+      "nm_mk": "Fisika Dasar II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601206",
+      "nm_mk": "Kimia Umum II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601207",
+      "nm_mk": "Geodinamika",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIGE600006",
+      "nm_mk": "MPK Terintegrasi",
+      "sks_mk": 5,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601211",
+      "nm_mk": "Praktikum Petrologi",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601208",
+      "nm_mk": "Geomorfologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601210",
+      "nm_mk": "Petrologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL601204",
+      "nm_mk": "Matematika Dasar II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602120",
+      "nm_mk": "Geostatistika",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602115",
+      "nm_mk": "Praktikum Sedimentologi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602124",
+      "nm_mk": "Geologi Fluida",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602113",
+      "nm_mk": "Praktikum Geologi Struktur",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602117",
+      "nm_mk": "Praktikum Paleontologi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602114",
+      "nm_mk": "Sedimentologi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602121",
+      "nm_mk": "Geokimia Umum",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602118",
+      "nm_mk": "Mineral Optik & Petrografi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602116",
+      "nm_mk": "Paleontologi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602122",
+      "nm_mk": "Komputasi Geologi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602112",
+      "nm_mk": "Geologi Struktur",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602119",
+      "nm_mk": "Praktikum Mineral Optik & Petrografi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602123",
+      "nm_mk": "Praktikum Komputasi Geologi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602233",
+      "nm_mk": "Geologi Lingkungan & Kebencanaan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL603253",
+      "nm_mk": "Praktikum Geologi Teknik Batuan & Tanah",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602225",
+      "nm_mk": "Penginderaan Jauh & SIG",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602229",
+      "nm_mk": "Prinsip Stratigrafi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602226",
+      "nm_mk": "Praktikum Penginderaan Jauh & SIG",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602234",
+      "nm_mk": "Geologi Batu Bara",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602231",
+      "nm_mk": "Vulkanologi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602227",
+      "nm_mk": "Mikropaleontologi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602235",
+      "nm_mk": "Geologi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602228",
+      "nm_mk": "Praktikum Mikropaleontologi",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602232",
+      "nm_mk": "Geologi Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL602230",
+      "nm_mk": "Metode Pemetaan Geologi",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL604165",
+      "nm_mk": "Sistem Informasi & Pemodelan Bencana Geolo",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL603137",
+      "nm_mk": "Geologi Minyak & Gas Bumi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL603249",
+      "nm_mk": "Hidrogeologi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL604162",
+      "nm_mk": "Geowisata",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL604164",
+      "nm_mk": "Analisis Dampak Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL603255",
+      "nm_mk": "Kapita Selekta Geologi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL603252",
+      "nm_mk": "Geologi Teknik Batuan & Tanah",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL603135",
+      "nm_mk": "Endapan Mineral Bijih & Hidrotermal",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL603136",
+      "nm_mk": "Geologi Panas Bumi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL604166",
+      "nm_mk": "Manajemen Risiko Bencana & Konservasi Ling",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGL603256",
+      "nm_mk": "Manajemen Riset Geologi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Desnata Pozya Adi Makara",
+    "jk": "L",
+    "nipd": "2106725816",
+    "namapt": "Universitas Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Geologi",
+    "reg_pd": "0173E0E6-62AD-4F47-9996-E81B7A3B575F",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEQxRTYzRTktQ0JGQi00NTQ2LUEyNDItODc1QzMxMDA4M0E1",
+    "link_prodi": "/data_prodi/MzMwREY3MDMtMzUzNC00NEExLThCRkMtODlBRkM1NkI2QTkw"
+  }
+}

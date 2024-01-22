@@ -1,0 +1,488 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20051",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20052",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20061",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "1130060",
+      "nm_mk": "SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120034",
+      "nm_mk": "LOGIKA DAN ALJABAR",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121014",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1130107",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN I",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120023",
+      "nm_mk": "FISIKA LISTRIK DAN MAGNET",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1130020",
+      "nm_mk": "BASIS DATA",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131031",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120147",
+      "nm_mk": "PAKET NIAGA II",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120145",
+      "nm_mk": "PAKET APLIKASI KOMPUTER II",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120005",
+      "nm_mk": "AKUNTANSI I",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1130058",
+      "nm_mk": "RANGKAIAN DIGITAL",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121009",
+      "nm_mk": "ALJABAR LINIER",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120032",
+      "nm_mk": "KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120043",
+      "nm_mk": "ORGANISASI METODE",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120121",
+      "nm_mk": "DESAIN GRAFIS",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120062",
+      "nm_mk": "STATISTIK I",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121149",
+      "nm_mk": "PEMROGRAMAN BASIS DATA I",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121006",
+      "nm_mk": "AKUNTANSI II",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121108",
+      "nm_mk": "ALGORITMA PEMROGRAMAN II",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121086",
+      "nm_mk": "KALKULUS III",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121053",
+      "nm_mk": "PENGANTAR PERANCANGAN SISTEM",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120061",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121119",
+      "nm_mk": "BAHASA RAKITAN",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121192",
+      "nm_mk": "PERILAKU BERORGANISASI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131150",
+      "nm_mk": "PEMROGRAMAN BASIS DATA II",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120056",
+      "nm_mk": "PERILAKU DALAM BERORGANISASI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120040",
+      "nm_mk": "Sistem Berkas",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131064",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120011",
+      "nm_mk": "ARSITEKTUR KOMPUTER I",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120035",
+      "nm_mk": "MANAJEMEN KEPEMINPINAN",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1130038",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1130025",
+      "nm_mk": "GRAF DAN ALGORITMA",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120027",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121086",
+      "nm_mk": "KALKULUS III",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121012",
+      "nm_mk": "ARSITEKTUR KOMPUTER II",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131010",
+      "nm_mk": "ANALISA PERANCANGAN SISTEM",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120028",
+      "nm_mk": "JARINGAN KOMPUTER I",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131151",
+      "nm_mk": "PEMROGRAMAN TERSTRUKTUR",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120036",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1130066",
+      "nm_mk": "TEORI BAHASA DAN OTOMATA",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121052",
+      "nm_mk": "Pengantar Intelegensia Buatan",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131065",
+      "nm_mk": "TEKNIK RISET OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1130041",
+      "nm_mk": "Metode Penulisan Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1130033",
+      "nm_mk": "KOMUNIKASI DATA",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120122",
+      "nm_mk": "DESAIN WEB I",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121129",
+      "nm_mk": "JARINGAN KOMPUTER II",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131063",
+      "nm_mk": "STATISTIK II",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121042",
+      "nm_mk": "MIKROKOMPUTER MIKROPROSESOR",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1120054",
+      "nm_mk": "PENGOLAHAN INSTALASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121171",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121194",
+      "nm_mk": "SISTEM INFORMASI GEOGRAFIS",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121183",
+      "nm_mk": "BASIS DATA TERDISTRIBUSI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121168",
+      "nm_mk": "DESAIN WEB II",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121195",
+      "nm_mk": "SISTEM PAKAR",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131139",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1131059",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1121091",
+      "nm_mk": "SISTEM PENDUKUNG KEPUTUSAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1161167",
+      "nm_mk": "TUGAS AKHIR SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1161167",
+      "nm_mk": "TUGAS AKHIR SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HARIANTO U KALA OPUNG",
+    "jk": "L",
+    "nipd": "05110086          ",
+    "namapt": "Sekolah Tinggi Manajemen Informatika Komputer Uyelindo Kupang",
+    "namajenjang": "S1",
+    "namaprodi": "Sistem Informasi",
+    "reg_pd": "C4DDD140-3805-4C59-8AF3-4FD3622F2C74",
+    "mulai_smt": "20051",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2010-03-20T00:00:00Z",
+    "no_seri_ijazah": "1011015/05",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDczMTc4RkUtMEE1QS00NTNFLUI2QzYtNEI1OEREQTQzNTg2",
+    "link_prodi": "/data_prodi/NDkzRTMwQTAtRDhFMS00N0MzLUJEMTQtOTM2MjRERTI1RkFD"
+  }
+}

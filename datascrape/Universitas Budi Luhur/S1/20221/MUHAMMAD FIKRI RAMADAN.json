@@ -1,0 +1,201 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UM021",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BA003",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM019",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MM115",
+      "nm_mk": "PENGANTAR MANAJEMEN DAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK074",
+      "nm_mk": "PENGANTAR AKUNTANSI",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BA001",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM031",
+      "nm_mk": "WAWASAN BUDI LUHUR",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MI054",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM016",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK121",
+      "nm_mk": "AKUNTANSI BIAYA & MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MI139",
+      "nm_mk": "STATISTIK BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MM014",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM046",
+      "nm_mk": "APLIKASI WAWASAN BUDI LUHUR",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK098",
+      "nm_mk": "PERPAJAKAN I",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK169",
+      "nm_mk": "EKONOMI MIKRO DAN MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK144",
+      "nm_mk": "Akuntansi Keuangan Menengah I",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK145",
+      "nm_mk": "Akuntansi Keuangan Menengah II",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK137",
+      "nm_mk": "APLIKASI EXCEL UNTUK BISNIS DAN AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK190",
+      "nm_mk": "PENGAUDITAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MM230",
+      "nm_mk": "TEORI DAN PERILAKU ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK099",
+      "nm_mk": "PERPAJAKAN II",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MM066",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK121",
+      "nm_mk": "AKUNTANSI BIAYA & MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUHAMMAD FIKRI RAMADAN",
+    "jk": "L",
+    "nipd": "2232510269",
+    "namapt": "Universitas Budi Luhur",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "F5892499-D1ED-405C-A60F-6DBA0B0CE715",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTdBOTVCQkItMjE0RS00NkM1LTkyNEEtQTNEMEVDMTc2Q0Qx",
+    "link_prodi": "/data_prodi/NDRFRDBENTctQ0I4Mi00ODlGLUFDQTYtMkE4OEFFMjAyMzlD"
+  }
+}

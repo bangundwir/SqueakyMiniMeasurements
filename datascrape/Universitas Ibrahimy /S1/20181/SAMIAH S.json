@@ -1,0 +1,555 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK202",
+      "nm_mk": "ILMU NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK001",
+      "nm_mk": "ASWAJA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK002",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK204",
+      "nm_mk": "PENGANTAR SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK004",
+      "nm_mk": "STUDI ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK201",
+      "nm_mk": "ANTROPOLOGI BUDAYA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK203",
+      "nm_mk": "PENGANTAR ILMU HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK006",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK005",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK003",
+      "nm_mk": "FILSAFAT UMUM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK212",
+      "nm_mk": "SISTEM HUKUM NASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK210",
+      "nm_mk": "HUKUM TATA NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK009",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK007",
+      "nm_mk": "IAD/IBD/ISD",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU001",
+      "nm_mk": "STUDI ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK206",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK211",
+      "nm_mk": "PENGANTAR FILSAFAT HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK208",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB001",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK209",
+      "nm_mk": "HUKUM PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK205",
+      "nm_mk": "HUKUM ADMINISTRASI NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK207",
+      "nm_mk": "SEJARAH HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4035",
+      "nm_mk": "Hukum Perikatan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4021",
+      "nm_mk": "HUKUM KELUARGA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4012",
+      "nm_mk": "Hukum Agraria",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4007",
+      "nm_mk": "Hukum Acara Perdata",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4062",
+      "nm_mk": "Hukum Acara Pengadilan Agama",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4014",
+      "nm_mk": "Hukum Dagang",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4008",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4019",
+      "nm_mk": "Hukum Islam I (Munakahah - Mawaris)",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4009",
+      "nm_mk": "Hukum Acara PTUN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4025",
+      "nm_mk": "Hukum Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4005",
+      "nm_mk": "Filsafat Hukum Islam",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4023",
+      "nm_mk": "Hukum Konstitusi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4038",
+      "nm_mk": "Hukum Perseroan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4026",
+      "nm_mk": "Hukum Pajak",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4017",
+      "nm_mk": "Hukum Internasional (Perdata / Pidana)",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4033",
+      "nm_mk": "Hukum Perbankan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4020",
+      "nm_mk": "Hukum Islam III (Zakat - Wakaf)",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4042",
+      "nm_mk": "Hukum Politik Tata Negara",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4037",
+      "nm_mk": "Hukum Persaingan Usaha",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4030",
+      "nm_mk": "Hukum Pemerintahan Daerah",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4022",
+      "nm_mk": "Hukum Ketenagakerjaan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4052",
+      "nm_mk": "Pidana Khusus",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4016",
+      "nm_mk": "Hukum Hak Kekayaan Intelektual",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4041",
+      "nm_mk": "Hukum Pidana Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4018",
+      "nm_mk": "Hukum Islam II (Jinayat - As-Siyasah)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4065",
+      "nm_mk": "Hukum ITE",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4039",
+      "nm_mk": "Hukum Pertanahan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4063",
+      "nm_mk": "Kriminologi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4044",
+      "nm_mk": "Hukum Tata Usaha Negara",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4028",
+      "nm_mk": "Hukum Pembiayaan (Konv / Syari'ah)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4064",
+      "nm_mk": "Viktimologi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4027",
+      "nm_mk": "Hukum Pasar Modal dan Investasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4066",
+      "nm_mk": "Hukum Pidana Militer",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4031",
+      "nm_mk": "Hukum Pemerintahan Desa",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4055",
+      "nm_mk": "Praktikum Peradilan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4054",
+      "nm_mk": "LEGAL DRAFTING",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4032",
+      "nm_mk": "Hukum Pengadaan Barang dan Jasa Pemerintah",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4047",
+      "nm_mk": "Metode Penelitian Hukum",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4057",
+      "nm_mk": "Teknik Penyusunan Perundang-Undangan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK4046",
+      "nm_mk": "Akhlaq dan Tasawwuf",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4053",
+      "nm_mk": "Praktek Dakwaan dan Penuntutan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4046",
+      "nm_mk": "KEADVOKATAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4051",
+      "nm_mk": "PENYELESAIAN SENGKETA ALTERNATIF",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4048",
+      "nm_mk": "METODE PENEMUAN HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IH4003",
+      "nm_mk": "Etika Profesi Hukum",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN4011",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN4016",
+      "nm_mk": "PRAKTEK PENGALAMAN LAPANGAN",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN4012",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SAMIAH S",
+    "jk": "P",
+    "nipd": "2018502044",
+    "namapt": "Universitas Ibrahimy ",
+    "namajenjang": "S1",
+    "namaprodi": "Hukum",
+    "reg_pd": "00C2E17D-8E63-4859-9721-BFA5EF40A3A2",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-10-18T00:00:00Z",
+    "no_seri_ijazah": "742012022000176",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Njg4ODRDRkEtQkE3Qi00OUE3LTgwNTUtNUYxOUZFQzMzNTU4",
+    "link_prodi": "/data_prodi/Mjc3QTk5NzktNDk0Ni00ODcxLUFBMUItNjkwQjg1QzEyNTg1"
+  }
+}

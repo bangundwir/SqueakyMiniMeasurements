@@ -1,0 +1,313 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20051",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20052",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20061",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": null,
+      "nm_stat_mhs": "Keluar"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "4203707030205",
+      "nm_mk": "Grafika Komputer",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203715780205",
+      "nm_mk": "Metode Numerik",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203710560205",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4203703720605",
+      "nm_mk": "Desain Database",
+      "sks_mk": 6,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103710010405",
+      "nm_mk": "Kalkulus dan Geometri",
+      "sks_mk": 4,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203708800305",
+      "nm_mk": "Ilmu Kealaman Dasar",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103709380305",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103718290405",
+      "nm_mk": "Pemrogaman Web",
+      "sks_mk": 4,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103713950205",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103725110605",
+      "nm_mk": "Rekayasa Perangkat Lunak",
+      "sks_mk": 6,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103709630205",
+      "nm_mk": "Interaksi Manusia dan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103713230205",
+      "nm_mk": "Manajemen dan Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103714380205",
+      "nm_mk": "Manajemen Proyek Perangkat Lunak",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103703730405",
+      "nm_mk": "Desain DB Terdistribusi",
+      "sks_mk": 4,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103700640205",
+      "nm_mk": "Analisa dan Desain Berorientasi Objek",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103721290405",
+      "nm_mk": "Perencanaan e-business",
+      "sks_mk": 4,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203728510205",
+      "nm_mk": "Technopreneurship",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3203703760205",
+      "nm_mk": "Desain Pattern",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103703620205",
+      "nm_mk": "Data Mining",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103703630205",
+      "nm_mk": "Data Warehouse",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4203725150205",
+      "nm_mk": "Rekayasa Ulang Sistem",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103722560405",
+      "nm_mk": "Praktek Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1103700460105",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan III",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103705400205",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4103724990405",
+      "nm_mk": "Rekayasa Berkomponen",
+      "sks_mk": 4,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103730430005",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1203700470105",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8103726660605",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8103726660605",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BAGAS GUNANTORO",
+    "jk": "L",
+    "nipd": "05560125          ",
+    "namapt": "Universitas Muhammadiyah Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Informatika",
+    "reg_pd": "5FE4F77C-4DFE-4481-921A-F1C748A67371",
+    "mulai_smt": "20051",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": "2013-09-09T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjM5OUQ3N0QtOEM1NS00REZBLTgwRjgtNzAwMjc1MjMwOTlF",
+    "link_prodi": "/data_prodi/ODBCQzhENUEtREE4RS00MzRCLTg3RDktNjg3QkY4MURCREE0"
+  }
+}

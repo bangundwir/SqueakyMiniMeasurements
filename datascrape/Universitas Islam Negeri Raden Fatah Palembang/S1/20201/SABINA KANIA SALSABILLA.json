@@ -1,0 +1,566 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": ".UIN1013.",
+      "nm_mk": "STUDI KEISLAMAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 1052",
+      "nm_mk": "PRAKTIKUM TAHSINUL QIRAAH",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": ".UIN 1042.",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 1032",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN1062",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": ".UIN1022.",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 1042",
+      "nm_mk": "PRAKTIKUM APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 1022",
+      "nm_mk": "FIQH IBADAH",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": ".UIN 1052..",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 1012",
+      "nm_mk": "ILMU HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2102",
+      "nm_mk": "ULUMUL QURAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2122",
+      "nm_mk": "ILMU FALAK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2112",
+      "nm_mk": "TARIKH TASYRI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2082",
+      "nm_mk": "USHUL FIQH",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2142",
+      "nm_mk": "HUKUM PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2072",
+      "nm_mk": "BAHASA INGGRIS LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN 2032",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 0,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN2072",
+      "nm_mk": "ISLAM DAN ILMU PENGETAHUAN",
+      "sks_mk": 0,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2092",
+      "nm_mk": "ULUMUL HADITS",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2062",
+      "nm_mk": "BAHASA ARAB LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 2132",
+      "nm_mk": "FIQH JINAYAH",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3202",
+      "nm_mk": "FIQH MAWARIS",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3222",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3162",
+      "nm_mk": "HADITS AHKAM",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3152",
+      "nm_mk": "USHUL FIQH LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3192",
+      "nm_mk": "FIQH SIYASAH",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3252",
+      "nm_mk": "FILSAFAT HUKUM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3232",
+      "nm_mk": "FIQH JINAYAH LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3172",
+      "nm_mk": "TAFSIR AHKAM",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3242",
+      "nm_mk": "ILMU FALAK LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3182",
+      "nm_mk": "FIQH MUNAKAHAT",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5392",
+      "nm_mk": "POLITIK HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 3212",
+      "nm_mk": "PERADILAN AGAMA DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4282",
+      "nm_mk": "HUKUM ACARA PERADILAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4272",
+      "nm_mk": "PENGANTAR PERBANDINGAN MAZHAB",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4332",
+      "nm_mk": "PRAKTEK IBADAH KEMASYARAKATAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4362",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HES 5362",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4262",
+      "nm_mk": "FIQH MUAMALAH",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4312",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4362",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4292",
+      "nm_mk": "HUKUM PERDATA ISLAM DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4332",
+      "nm_mk": "PRAKTEK IBADAH KEMASYARAKATAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4322",
+      "nm_mk": "HUKUM TATA NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4302",
+      "nm_mk": "HUKUM ACARA PERDATA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4342",
+      "nm_mk": "ADMINISTRASI PERADILAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 4352",
+      "nm_mk": "PRAKTEK FALAK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPP 6043",
+      "nm_mk": "VIKTIMOLOG",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5452",
+      "nm_mk": "MASAIL FIL JINAYAH",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5462",
+      "nm_mk": "SOSIOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5382",
+      "nm_mk": "HADITS AHKAM JINAYAH",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5452",
+      "nm_mk": "MASAIL FIL JINAYAH",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5412",
+      "nm_mk": "PRAKTEK MEMBAHAS KITAB",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN 5082",
+      "nm_mk": "ISLAM DAN PERADABAN MELAYU",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5412",
+      "nm_mk": "PRAKTEK MEMBAHAS KITAB",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5402",
+      "nm_mk": "KAPITA SELEKTA HUKUM PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5422",
+      "nm_mk": "FIQH KONTEMPORER",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5442",
+      "nm_mk": "AKHLAK TASAWUF",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 5372",
+      "nm_mk": "TAFSIR AHKAM JINAYAH",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6512",
+      "nm_mk": "BANTUAN HUKUM TERPIDANA DAN KORBAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6496",
+      "nm_mk": "PLKH",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6472",
+      "nm_mk": "METODOLOGI PENELITIAN HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6482",
+      "nm_mk": "HUKUM PIDANA KHUSUS",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPP 6063",
+      "nm_mk": "SISTEM PERADILAN PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6522",
+      "nm_mk": "HUKUM INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6502",
+      "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6512",
+      "nm_mk": "BANTUAN HUKUM TERPIDANA DAN KORBAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6502",
+      "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN 7094",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN 7106",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPP 6053",
+      "nm_mk": "PSIKOLOGI KRIMINAL",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6532",
+      "nm_mk": "KULIAH KERJA LAPANGAN (KKL)",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPI 6496",
+      "nm_mk": "PLKH",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SABINA KANIA SALSABILLA",
+    "jk": "P",
+    "nipd": "2020103111",
+    "namapt": "Universitas Islam Negeri Raden Fatah Palembang",
+    "namajenjang": "S1",
+    "namaprodi": "Hukum Pidana Islam (Jinayah)",
+    "reg_pd": "B5FEE4A3-3E6E-4946-93CB-EDF25EA2848F",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/M0I4QzUwM0UtRUIzOS00RTY3LUIyNTQtMjEyNjNBMTkzREZC",
+    "link_prodi": "/data_prodi/QTk0ODFDRUUtMDVDRC00MDJFLTlFRDYtQzhGQ0Y3NjAxREND"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20041",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20042",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20051",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20061",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Drop-Out/Putus Studi"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "HKU101",
+      "nm_mk": "PENGANTAR ILMU HUKUM (PIH)",
+      "sks_mk": 4,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU102",
+      "nm_mk": "PENGANTAR HUKUM INDONESIA (PHI)",
+      "sks_mk": 4,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF148",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU106",
+      "nm_mk": "ILMU NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF154",
+      "nm_mk": "PENGANTAR ANTROPOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF129",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF136",
+      "nm_mk": "FILSAFAT LOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU102",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF128",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU101",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU102",
+      "nm_mk": "PENGANTAR HUKUM INDONESIA (PHI)",
+      "sks_mk": 4,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF153",
+      "nm_mk": "PENGANTAR SOSIOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF136",
+      "nm_mk": "FILSAFAT LOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU107",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF149",
+      "nm_mk": "PENGANTAR MANAJEMEN DAN KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF151",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF101",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 4,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF103",
+      "nm_mk": "HUKUM TATA NEGARA",
+      "sks_mk": 4,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF130",
+      "nm_mk": "BAHASA BELANDA",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF102",
+      "nm_mk": "HUKUM PIDANA",
+      "sks_mk": 4,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF109",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKF110",
+      "nm_mk": "HUKUM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "WINDA WIJAYANTI B",
+    "jk": "P",
+    "nipd": "040710101071",
+    "namapt": "Universitas Jember",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Hukum",
+    "reg_pd": "F1C2FF35-995E-4003-8DF0-1E3419BD7C07",
+    "mulai_smt": "20041",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/Qjk1MDdGQUItMjg3NC00RENELTlDMzctNEM5MjFDMjMxMjEw",
+    "link_prodi": "/data_prodi/RTYzRUM3MjItNjM1My00NjA5LUIxNEYtNjIwMTBGNUQyQkQ2"
+  }
+}

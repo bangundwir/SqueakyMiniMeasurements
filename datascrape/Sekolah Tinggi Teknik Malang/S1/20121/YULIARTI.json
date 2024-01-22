@@ -18,9 +18,16 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "ESA103",
-      "nm_mk": "FALSAFAH ILMU PENGETAHUAN",
+      "kode_mk": "SSA106",
+      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
       "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISB18",
+      "nm_mk": "PENGANTAR TEKNIK INDUSTRI",
+      "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
     },
@@ -39,6 +46,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "ISB10",
+      "nm_mk": "PENGETAHUAN BAHAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "TKE102",
       "nm_mk": "FISIKA DASAR",
       "sks_mk": 2,
@@ -53,29 +67,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ISB10",
-      "nm_mk": "PENGETAHUAN BAHAN",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ISB18",
-      "nm_mk": "PENGANTAR TEKNIK INDUSTRI",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SSA106",
-      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "kode_mk": "ESA103",
+      "nm_mk": "FALSAFAH ILMU PENGETAHUAN",
       "sks_mk": 2,
       "id_smt": "20121",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ISB413",
-      "nm_mk": "PRAKTIK PROSES PRODUKSI",
+      "kode_mk": "ISB206",
+      "nm_mk": "PRAKTIKUM FISIKA",
       "sks_mk": 1,
       "id_smt": "20122",
       "nilai_huruf": null
@@ -88,37 +88,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ISB206",
-      "nm_mk": "PRAKTIKUM FISIKA",
-      "sks_mk": 1,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "ISB202",
       "nm_mk": "FISIKA II",
       "sks_mk": 3,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ISB415",
-      "nm_mk": "TEKNIK TENAGA LISTRIK",
-      "sks_mk": 2,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ISB209",
-      "nm_mk": "MEKANIKA TEKNIK",
-      "sks_mk": 3,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ISA404",
-      "nm_mk": "KEWIRAAN",
-      "sks_mk": 2,
       "id_smt": "20122",
       "nilai_huruf": null
     },
@@ -137,16 +109,37 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ISC02",
-      "nm_mk": "STATISTIK INDUSTRI II",
-      "sks_mk": 3,
-      "id_smt": "20131",
+      "kode_mk": "ISA404",
+      "nm_mk": "KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ISB22",
-      "nm_mk": "ELEKTRONIKA DASAR",
+      "kode_mk": "ISB415",
+      "nm_mk": "TEKNIK TENAGA LISTRIK",
       "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISB209",
+      "nm_mk": "MEKANIKA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISB413",
+      "nm_mk": "PRAKTIK PROSES PRODUKSI",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISB03",
+      "nm_mk": "KALKULUS III",
+      "sks_mk": 3,
       "id_smt": "20131",
       "nilai_huruf": null
     },
@@ -172,6 +165,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "ISC02",
+      "nm_mk": "STATISTIK INDUSTRI II",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "ISB19",
       "nm_mk": "PENGANTAR EKONOMI",
       "sks_mk": 2,
@@ -186,9 +186,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ISB03",
-      "nm_mk": "KALKULUS III",
-      "sks_mk": 3,
+      "kode_mk": "ISB22",
+      "nm_mk": "ELEKTRONIKA DASAR",
+      "sks_mk": 2,
       "id_smt": "20131",
       "nilai_huruf": null
     },

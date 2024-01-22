@@ -1,0 +1,419 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RME201004",
+      "nm_mk": "Fisika Terapan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201003",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201002",
+      "nm_mk": "Bahasa Inggris Teknik I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201005",
+      "nm_mk": "Matematika Terapan I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201010",
+      "nm_mk": "Praktik Kerja Las I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201006",
+      "nm_mk": "Statika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201009",
+      "nm_mk": "Praktik Kerja Bangku",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201007",
+      "nm_mk": "Teknologi Bahan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201008",
+      "nm_mk": "Gambar Teknik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME201001",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202004",
+      "nm_mk": "Kekuatan Bahan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202006",
+      "nm_mk": "Metrologi Industri",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202008",
+      "nm_mk": "Praktik Pengujian Bahan Teknik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202001",
+      "nm_mk": "Bahasa Inggris Teknik II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202007",
+      "nm_mk": "Gambar Mesin",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202010",
+      "nm_mk": "Praktik Fabrikasi Pelat",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202009",
+      "nm_mk": "Praktik Kerja Las II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202003",
+      "nm_mk": "Matematika Terapan II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202002",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME202005",
+      "nm_mk": "Mekanika Fluida",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203006",
+      "nm_mk": "Termodinamika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203009",
+      "nm_mk": "Praktik Perawatan Elemen Mesin",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203010",
+      "nm_mk": "Praktik Kerja Mesin Perkakas I",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203005",
+      "nm_mk": "Pneumatik Hidraulik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203008",
+      "nm_mk": "Praktik Pemrograman CNC",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203004",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203003",
+      "nm_mk": "Kimia Terapan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203002",
+      "nm_mk": "Elemen Mesin",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203007",
+      "nm_mk": "Desain Teknik Berbasis Komputer",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME203001",
+      "nm_mk": "Aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204203",
+      "nm_mk": "Kelistrikan Dasar",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204209",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204204",
+      "nm_mk": "Mesin Konversi Energi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204201",
+      "nm_mk": "Kinematika dan Dinamika",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204206",
+      "nm_mk": "Praktik Kerja Mesin Perkakas II",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204208",
+      "nm_mk": "Praktik Perawatan Mesin Perkakas",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204207",
+      "nm_mk": "Praktik Perlakuan Bahan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204202",
+      "nm_mk": "Kontrol Otomatis dan Mekatronika",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204210",
+      "nm_mk": "Sistem Manajemen Mutu",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME204205",
+      "nm_mk": "Perencanaan Tata Letak Pabrik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205207",
+      "nm_mk": "Hukum Perburuhan dan Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205201",
+      "nm_mk": "Manajemen Perawatan dan Perbaikan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205209",
+      "nm_mk": "Peralatan Pemindah Bahan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205208",
+      "nm_mk": "Kesehatan dan Keselamatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205202",
+      "nm_mk": "Perpindahan Panas",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205206",
+      "nm_mk": "Praktik Instalasi dan Perawatan Mesin",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205203",
+      "nm_mk": "Kelistrikan Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205205",
+      "nm_mk": "Desain Mesin",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205204",
+      "nm_mk": "Praktik Perawatan Mesin Konversi Energi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME205210",
+      "nm_mk": "Praktik Pengujian Mesin",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME206202",
+      "nm_mk": "Laporan Akhir",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME206201",
+      "nm_mk": "Praktik Kerja Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "YANWAR ARY CRISTIANTO MANULLANG",
+    "jk": "L",
+    "nipd": "2031210032",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D3",
+    "namaprodi": "Teknik Mesin",
+    "reg_pd": "2510AD5C-0B2C-4B7F-A598-3B28994A0D92",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-04T00:00:00Z",
+    "no_seri_ijazah": "214012023001006",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/MThBNjQyNEItOUJEQS00OTJBLThGRTUtMzM1NjNDMzI5NkFC"
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20031",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20032",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20041",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20051",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EC11013",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11053",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11024",
+      "nm_mk": "PENGANTAR AKUNTANSI",
+      "sks_mk": 4,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11043",
+      "nm_mk": "MATEMATIKA EKONOMI DAN BISNIS I",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA11012",
+      "nm_mk": "STUDI ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA11022",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11033",
+      "nm_mk": "PENGANTAR EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11073",
+      "nm_mk": "PENGANTAR EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11082",
+      "nm_mk": "STATISTIK I",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11092",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11063",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EG11013",
+      "nm_mk": "AKUTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA11032",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ED11013",
+      "nm_mk": "MATEMATIKA EKONOMI DAN BISNIS II",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11103",
+      "nm_mk": "STATISTIK II",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EE11013",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EG11043",
+      "nm_mk": "MANAJEMEN OPERASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EG11033",
+      "nm_mk": "MANAJEMEN PEMASARAN I",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EG11053",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EG11023",
+      "nm_mk": "MANAJEMEN KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EB11012",
+      "nm_mk": "STUDI ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EG11063",
+      "nm_mk": "MANAJEMEN KEUANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EH11012",
+      "nm_mk": "PENGANTAR EKONOMI PEMB.",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11113",
+      "nm_mk": "OPERATION RESEARCHMKPK",
+      "sks_mk": 3,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11123",
+      "nm_mk": "MANAJEMEN KOPERASI",
+      "sks_mk": 3,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EG11073",
+      "nm_mk": "MANAJEMEN PEMASARAN II",
+      "sks_mk": 3,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EG11083",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EE11023",
+      "nm_mk": "PERILAKU KEORGANISASIAN",
+      "sks_mk": 3,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11153",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EI11013",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EB11022",
+      "nm_mk": "STUDI ISLAM III",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11143",
+      "nm_mk": "PENGANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EF11013",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EC11133",
+      "nm_mk": "PENGANTAR HUKUM BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EH11193",
+      "nm_mk": "TEKNIK PROYEKSI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EE11033",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EJ11021",
+      "nm_mk": "KULIAH LAPANGAN",
+      "sks_mk": 1,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EJ11013",
+      "nm_mk": "ETIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EH11223",
+      "nm_mk": "BHS. INGGRIS PROFESIONAL",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EE11043",
+      "nm_mk": "MANAJEMEN STRATEGIK",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EH11043",
+      "nm_mk": "MANAJEMEN PEMASARAN INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EE11053",
+      "nm_mk": "BISNIS INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EH11033",
+      "nm_mk": "PERILAKU KONSUMEN",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EH11233",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EE11063",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EH11053",
+      "nm_mk": "SEMINAR MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EB11032",
+      "nm_mk": "STUDI ISLAM IV",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EH11063",
+      "nm_mk": "MANAJEMEN PERBANKAN",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EJ11034",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EJ11046",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HARSAYA",
+    "jk": "L",
+    "nipd": "03011211          ",
+    "namapt": "Universitas Ahmad Dahlan",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "39F519AB-24EB-495C-8F5B-BEC70135AB42",
+    "mulai_smt": "20031",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2008-02-19T00:00:00Z",
+    "no_seri_ijazah": "046/MANAJ/S1/II/2008",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RUY5ODMwNTItNDhBMC00QUZELUFBNEMtRkMxNDJCNTNGMEZG",
+    "link_prodi": "/data_prodi/NDIyNDdDMEItNTc2Ny00OUYwLUFFOUQtOEJFOUYwOUJDMTI1"
+  }
+}

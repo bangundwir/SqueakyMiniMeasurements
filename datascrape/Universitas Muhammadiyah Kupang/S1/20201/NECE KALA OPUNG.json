@@ -1,0 +1,473 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "024 - 11301",
+      "nm_mk": "Logika",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 11305",
+      "nm_mk": "Aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "001 - 11201",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "020-11201",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 11303",
+      "nm_mk": "Konsep Dasar Bahasa dan Sastra Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 11304",
+      "nm_mk": "Manajemen Pendidikan SD",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "002- 11201",
+      "nm_mk": "Al-Islam Kemuhammadiyaan I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "001 - 11206",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 11302",
+      "nm_mk": "Konsep Dasar IPA Biologi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 11306",
+      "nm_mk": "Konsep Dasar IPS SD",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 21306",
+      "nm_mk": "Perspektif Global",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "020 - 21201",
+      "nm_mk": "Profesi Kependidikan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "002- 21201",
+      "nm_mk": "Al-Islam Kemuhammadiyaan II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 21301",
+      "nm_mk": "Konsep Dasar IPA Fisika",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 21304",
+      "nm_mk": "Kemampuan Berbahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 21302",
+      "nm_mk": "Konsep Dasar PKn SD",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "002- 21202",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "002-21203",
+      "nm_mk": "Bahasa Arab",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 21303",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "020-21201",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "020 - 31201",
+      "nm_mk": "Statistika Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "020 - 31202",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-31301",
+      "nm_mk": "Geometri dan Pengukuran",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 31304",
+      "nm_mk": "Strategi Belajar Mengajar SD",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 31303",
+      "nm_mk": "Keterampilan Berbahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 31305",
+      "nm_mk": "Pembelajaran Tematik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 31302",
+      "nm_mk": "Pendidikan IPS SD",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 31306",
+      "nm_mk": "Pendidikan Inklusi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-41306",
+      "nm_mk": "Pendidikan Nilai Moral dan Karakter",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-41308",
+      "nm_mk": "Pembelajaran PKn SD",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-41301",
+      "nm_mk": "Pembelajaran IPA SD",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-41304",
+      "nm_mk": "Pendidikan Jasmani Kesehatan dan Rekreasi (PJKR) SD",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-41307",
+      "nm_mk": "Pendidikan Kepramukaan dan Hizbul Wathan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-41305",
+      "nm_mk": "Pembelajaran Matematika SD",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "020-41201",
+      "nm_mk": "Manajemen Berbasis Sekolah",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-41303",
+      "nm_mk": "Bimbingan dan Konseling SD",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-41302",
+      "nm_mk": "Pendidikan Multikultural",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-51303",
+      "nm_mk": "Pengembangan Pembelajaran IPA SD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "002-51201",
+      "nm_mk": "Al-Islam Kemuhammadiyaan III",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-51304",
+      "nm_mk": "Pengembangan Pembelajaran IPS SD",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024- 51305",
+      "nm_mk": "Pembelajaran Seni Musik SD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 51302",
+      "nm_mk": "Telaah Kurikulum & Perencanaan Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024 - 51301",
+      "nm_mk": "Pengembangan Pembelajaran PKn SD",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-51308",
+      "nm_mk": "Pengembangan Pembelajaran Matematika SD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-51307",
+      "nm_mk": "Pengembangan Pembelajaran Bahasa Indonesia SD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-61307",
+      "nm_mk": "Metodologi Penelitian Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-61310",
+      "nm_mk": "Sosiologi Pedesaan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-61304",
+      "nm_mk": "Problematika Pembelajaran SD",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-61304",
+      "nm_mk": "Pembelajaran  Bahasa Inggris SD",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-61306",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024- 61301",
+      "nm_mk": "Pembelajaran Microteaching",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024- 61302",
+      "nm_mk": "Evaluasi Pembelajaran SD",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024- 61307",
+      "nm_mk": "Pendidikan Konservasi dan PLH SD",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-71302",
+      "nm_mk": "Filsafat Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "020- 71201",
+      "nm_mk": "Pengalaman Lapangan Persekolahan (PLP)",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-71301",
+      "nm_mk": "Penelitian Tindakan Kelas (PTK) Di SD",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-71305",
+      "nm_mk": "Seminar Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "024-71303",
+      "nm_mk": "Bumi dan Antariksa",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "001-71201",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NECE KALA OPUNG",
+    "jk": "P",
+    "nipd": "2022411056",
+    "namapt": "Universitas Muhammadiyah Kupang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Guru Sekolah Dasar",
+    "reg_pd": "6ECF1142-C57B-468C-A9FA-2D5379AA3884",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/Mjg4MjQ5RDEtODMwQS00NkY4LUJGMTUtMzAxNTBGNjhCRkM3",
+    "link_prodi": "/data_prodi/M0VGMjhBNEMtRTYyOS00RTRGLThGREMtQzNGMUVENzFENjE1"
+  }
+}

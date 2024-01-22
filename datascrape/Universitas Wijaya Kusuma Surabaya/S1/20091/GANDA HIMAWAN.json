@@ -1,0 +1,631 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TSK103",
+      "nm_mk": "MEKANIKA REKAYASAI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK105",
+      "nm_mk": "KOMPUTER DASAR",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB106",
+      "nm_mk": "BAHASA INGGRIS TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK101",
+      "nm_mk": "MATEMATIKA REKAYASA I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK102",
+      "nm_mk": "FISIKA REKAYASA I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNO201",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNO110",
+      "nm_mk": "WAWASAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK209",
+      "nm_mk": "TEKNOLOGI DAN ILMU BAHAN BANG",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK210",
+      "nm_mk": "KIMIA REKAYASA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK207",
+      "nm_mk": "FISIKA REKAYASA II",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK208",
+      "nm_mk": "MEKANIKA BAHAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK211",
+      "nm_mk": "MENGGAMBAR BANGUNAN SIPIL",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNO202",
+      "nm_mk": "AGAMA ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK206",
+      "nm_mk": "MATEMATIKA REKAYASA  II",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB308",
+      "nm_mk": "ILMU UKUR TANAH",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK303",
+      "nm_mk": "MEKANIKA REKAYASAII",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB307",
+      "nm_mk": "TEKNOLOGI PERALATAN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK302",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK306",
+      "nm_mk": "MEKANIKA TANAH I",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB305",
+      "nm_mk": "PROGRAM RANCANG BANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK304",
+      "nm_mk": "HIDROLIKA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB405",
+      "nm_mk": "UTILITAS",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB406",
+      "nm_mk": "TEKNOLOGI BETON DAN MATERIAL",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK404",
+      "nm_mk": "MEKANIKA TANAH II",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK407",
+      "nm_mk": "REKAYASA DAN MANAJEMEN LINGKU",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB402",
+      "nm_mk": "REKAYASA PERKERASAN JALAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB401",
+      "nm_mk": "EKONOMI REKAYASA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK408",
+      "nm_mk": "REKAYASA HIDROLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK403",
+      "nm_mk": "MEKANIKA REKAYASAIII",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB502",
+      "nm_mk": "IRIGASI DAN BANGUNAN AIR",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK506",
+      "nm_mk": "SYSTEM TRANSPORTASI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK503",
+      "nm_mk": "MEKANIKA REKAYASAIV",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB505",
+      "nm_mk": "STRUKTUR BAJAI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB507",
+      "nm_mk": "REKAYASA PONDASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB509",
+      "nm_mk": "REKAYASA LALU LINTAS",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB405",
+      "nm_mk": "TEKNIK PELAKSANAAN PENGAWASAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB501",
+      "nm_mk": "DRAINASE PERKOTAAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB508",
+      "nm_mk": "ANALISA BIAYA BANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB608",
+      "nm_mk": "METODE PERBAIKAN TANAH",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB604",
+      "nm_mk": "MANAJEMEN KOSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB605",
+      "nm_mk": "STRUKTUR BAJAII",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB607",
+      "nm_mk": "BAHASA INGGRIS LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK601",
+      "nm_mk": "ANALISA DINAMIS",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK602",
+      "nm_mk": "ANALISA STRUKTUR METODE MATRIK",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB606",
+      "nm_mk": "STRUKTUR BETONI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB610",
+      "nm_mk": "STRUKTUR JEMBATAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB603",
+      "nm_mk": "PENGEMBANGAN SUMBER DAYA AIR",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK208",
+      "nm_mk": "MEKANIKA BAHAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB705",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNO112",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB711",
+      "nm_mk": "MANAJMSDM/KESELAMATAN PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB704",
+      "nm_mk": "PROGRAM MANAJEMEN PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB709",
+      "nm_mk": "BETON PRATEGANG",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB706",
+      "nm_mk": "STRUKTUR BETONII",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB702",
+      "nm_mk": "TOPIK KHUSUSTUGAS INDIVIDUAL",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK701",
+      "nm_mk": "BAHASA INDONESIA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB703",
+      "nm_mk": "GEMPA STATIK EKUIVALEN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK403",
+      "nm_mk": "MEKANIKA REKAYASAIII",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK209",
+      "nm_mk": "TEKNOLOGI DAN ILMU BAHAN BANG",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB803",
+      "nm_mk": "REKAYASA NILALI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB802",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB801",
+      "nm_mk": "PROFESIONAL SKILL",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB804",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK614",
+      "nm_mk": "PELABUHAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK718",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK306",
+      "nm_mk": "MEKANIKA TANAH I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK303",
+      "nm_mk": "MEKANIKA REKAYASAII",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK103",
+      "nm_mk": "MEKANIKA REKAYASAI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB502",
+      "nm_mk": "IRIGASI DAN BANGUNAN AIR",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB508",
+      "nm_mk": "ANALISA BIAYA BANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK105",
+      "nm_mk": "KOMPUTER DASAR",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSK101",
+      "nm_mk": "MATEMATIKA REKAYASA I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB804",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB804",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB610",
+      "nm_mk": "STRUKTUR JEMBATAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB401",
+      "nm_mk": "EKONOMI REKAYASA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB804",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSB804",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GANDA HIMAWAN",
+    "jk": "L",
+    "nipd": "09110031          ",
+    "namapt": "Universitas Wijaya Kusuma Surabaya",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Sipil",
+    "reg_pd": "9149F5FA-387E-4DA3-80FB-1A48362E2415",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-08-24T00:00:00Z",
+    "no_seri_ijazah": "11 0002",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDQzRTQ0N0ItM0I1Ri00QTE5LUI3RDItQkQyOTg1NTlERUYx",
+    "link_prodi": "/data_prodi/MzdGMTkzNjEtNzdBMy00NUQ4LUE3NzctRTY2OUU3QzNCNDA1"
+  }
+}

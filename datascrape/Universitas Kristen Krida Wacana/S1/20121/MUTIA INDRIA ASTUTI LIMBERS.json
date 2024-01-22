@@ -1,0 +1,752 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "092A081SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN FISIK JANTUNG NORM",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A072SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN TANDA VITAL",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A090SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN ABDOMEN NORMAL",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A082SKL",
+      "nm_mk": "SKILL LAB REKAM JANTUNG",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A050SKL",
+      "nm_mk": "SKILL LAB GERAKAN SENDI NORMAL",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A070INT",
+      "nm_mk": "RESPIRATORY SYSTEM 1",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A080INT",
+      "nm_mk": "CARDIOVASCULAR SYSTEM 1",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A071SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN FISIK PARU NORMAL",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A060INT",
+      "nm_mk": "NEUROSCIENCE",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A060SKL",
+      "nm_mk": "SKILL LAB REFLEKS FISIOLOGIS",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A050INT",
+      "nm_mk": "MUSCULOSCELETAL SYSTEM 1",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A090HIS",
+      "nm_mk": "HISTOLOGI",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A070HIS",
+      "nm_mk": "HISTOLOGI",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A060HIS",
+      "nm_mk": "HISTOLOGI",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A060BKM",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A080BKM",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A050BKM",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A090FIO",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A070FIO",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A050ANA",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A080ANA",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A070ANA",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A050FIO",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A060PBL",
+      "nm_mk": "PBL SARAF DAN FUNGSI LUHUR INTEGRATIF",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A060FIO",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A080HIS",
+      "nm_mk": "HISTOLOGI",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A070BKM",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A080PBL",
+      "nm_mk": "PBL KARDIOVASKULAR INTEGRATIF 1",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A080FIO",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A060ANA",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A090ANA",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A090BKM",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A070PBL",
+      "nm_mk": "PBL RESPIRASI INTEGRATIF I",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A050PBL",
+      "nm_mk": "PBL MUSKULOSKELETAL INTEGRATIF I",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A050HIS",
+      "nm_mk": "HISTOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "092A090PBL",
+      "nm_mk": "PBL DISGESTING INTEGRATIF I",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B120SKL",
+      "nm_mk": "SKILL LAB SEPSI-ANTISEPSIS",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142A110SKL",
+      "nm_mk": "SKILL LAB ANTROPOMETRIK DEWASA",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142A110INT",
+      "nm_mk": "METABOLIK DAN ENDOKRIN (Biokimia, Fisiologi, Ilmu Gizi, Histologi, Ilmu Penyakit Dalam, PBL Metabolik Endokrin Integratif)",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142A100SKL",
+      "nm_mk": "SKILL LAB ANAMNESIS LANJUT",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B120INT",
+      "nm_mk": "INFEKSI DAN IMUNITAS (Ilmu Bedah, Farmakologi, Ilmu Kesehatan Anak, Ilmu Penyakit Dalam, Mikrobiologi, Parasitologi ,PBL Infeksi dan Imunitas Integratif,,Patologi Anatomi, Patologi Klinik)",
+      "sks_mk": 7,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B130INT",
+      "nm_mk": "TUMBUH KEMBANG (Ilmu Bedah, Farmakologi, Ilmu Gizi, Ilmu Kesehatan Anak, Ilmu Kesehatan Jiwa, Ilmu Penyakit Dalam, Ilmu Penyakit Saraf, Mikrobiologi, Obgyn, PBL, Patologi Anatomi,Radiologi)",
+      "sks_mk": 6,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142A100INT",
+      "nm_mk": "TRAKTUS UROGENITALIS (Anatomi,Biokimia,Fisiologi,Histologi,Ilmu Penyakit Dalam, Obgyn,PBL Urogenital Integratif I)",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B132SKL",
+      "nm_mk": "SKILL LAB ALLOANAMNESIS-DENVER",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B131SKL",
+      "nm_mk": "SKILL LAB ANTROPOMETRIK ANAK-BAYI",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B170SKL",
+      "nm_mk": "SKILL LAB DIGITAL RECTAL EXAMINATION",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B160SKL",
+      "nm_mk": "SKILL LAB ABDOMEN PATOLOGIS",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B150INT",
+      "nm_mk": "SKIN AND INTEGUMENT (Ilmu Bedah, Farmakologi, Ilmu Penyakit Kulit & kelamin, Mikrobiologi, Parasitologi, PBL Kulit & Integument Integratif)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B180OSC",
+      "nm_mk": "OSCE",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B140INT",
+      "nm_mk": "MUSCULOSCELETAL SYSTEM 2 (Ilmu Bedah, Farmakologi, Ilmu Penyakit Dalam, PBL Muskuloskeletal Integratif II, Patologi Anatomi, Patologi Klinik, Radiologi)",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B170INT",
+      "nm_mk": "HEPATOBILIARY SYSTEM (Anatomi, I.Bedah, Farmakologi, I.Gizi, I.Kesehatan Anak, I.Penyakit Dalam, Mikrobiologi, Parasitologi, PBL Digesting Integratif I, Patologi Anatomi, Patologi Klinik, Radiologi)",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B160INT",
+      "nm_mk": "DIGESTIVE SYSTEM 2 (Anatomi, I.Bedah, Farmakologi, I.Gizi, I.Kesehatan Anak, I.Penyakit Dalam, Mikrobiologi, Parasitologi, PBL Digesting Integratif II, Patologi Anatomi, Patologi Klinik, Radiologi)",
+      "sks_mk": 5,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B180INT",
+      "nm_mk": "RESPIRATORY SYSTEM 2 (I.Bedah, Farmakologi, I.Kesehatan Anak, I.Penyakit Dalam, Mikrobiologi, Parasitologi, PBL Repipasi Integratif II, Patologi Anatomi, Patologi Klinik, Radiologi)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B180SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN PARU PATOLOGIS",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B150SKL",
+      "nm_mk": "SKILL LAB PEM. KULIT & INTEGUMEN",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B140SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN OTOT-SENDI",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B210INT",
+      "nm_mk": "METABOLIK DAN ENDOKRIN 2 (Ilmu Bedah, Farmakologi, Ilmu Gizi, Ilmu Kesehatan Anak, Ilmu Penyakit Dalam, Mikrobiologi, PBL Metabolik Endokrin Integratif II, Patologi Anatomi, Patologi Klinik, Radiolog)",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B200SKL",
+      "nm_mk": "SKILL LAB KETRAMPILAN KLINIK PEMASANGAN",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B220INT",
+      "nm_mk": "ILMU SARAF DAN PERILAKU",
+      "sks_mk": 7,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B222SKL",
+      "nm_mk": "SKILL LAB KETRAMPILAN KLINIK STATUS PSIK",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B210SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN FISIK TYROID DAN KAKI DIABETES",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B221SKL",
+      "nm_mk": "SKILL LAB KETRAMPILAN KLINIK PEMERIKSAAN",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B190INT",
+      "nm_mk": "SISTEM KARDIOVASKULER 2 (Ilmu Bedah, Farmakologi, Ilmu Gizi, Ilmu Kesehatan Anak, Ilmu Penyakit Dalam, PBL Kardiovaskular Integratif II, Patologi Anatomi, Patologi Klinik, Radiologi)",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B190SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN JANTUNG PATOLOGIS",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B200INT",
+      "nm_mk": "UROGENITAL 2 (Ilmu Bedah, Ilmu Gizi, Ilmu Kesehatan Anak, Ilmu Penyakit Dalam, Metodologi Penelitian, Mikrobiologi, PBL Urogenital Integratif II, Patologi Anatomi, Patologi Klinik, Radiologi)",
+      "sks_mk": 5,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B262SKL",
+      "nm_mk": "SKILL LAB SIRKUMSISI",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B252SKL",
+      "nm_mk": "SKILL LAB ANAMNESA & PEM. GINEKOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B253SKL",
+      "nm_mk": "SKILL LAB KONTRASEPSI",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B230INT",
+      "nm_mk": "SENSORIK KHUSUS (Anatomi, Ilmu Penyakit Mata, Ilmu Penyakit Dalam, PBL Sensorik Khusus Integratif, Radiologi, Ilmu Penyakit Telinga Hidung Tenggorok)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B242SKL",
+      "nm_mk": "SKILL LAB KETERAMPILAN BEDAH DASAR",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B231SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN FISIK THT",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B241SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN FISIK PAYUDARA",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B260INT",
+      "nm_mk": "ILMU KEDOKTERAN KOMUNITAS (Ilmu Kedokteran Komunitas, Ilmu Kesehatan Masyarakat, PBL Kedokteran Komunitas)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B251SKL",
+      "nm_mk": "SKILL LAB ANAMNESA & PEM. OBSTETRI",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B261SKL",
+      "nm_mk": "SKILL LAB MANAJ. KEDOKTERAN KELUARGA",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B240INT",
+      "nm_mk": "HEMATOLOGI DAN ONKOLOGI (Anestesiologi, Ilmu Bedah, Farmakologi, Ilmu Kesehatan Anak, Ilmu Penyakit Dalam, PBL Hematologi dan Onkologi, Patologi Anatomi, Patologi Klinik,Radiologi)",
+      "sks_mk": 6,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B232SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN FISIK MATA",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B250INT",
+      "nm_mk": "SISTEM REPRODUKSI (Anestesiologi, Ilmu Gizi, Ilmu Kesehatan Anak, Ilmu Kesehatan Jiwa, Ilmu Kebidanan dan Penyakit Kandungan, PBL Sistem Reproduksi, Patologi Anatomi, Patologi Klinik)",
+      "sks_mk": 7,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B292SKL",
+      "nm_mk": "SKILL LAB PEMBACAAN RADIOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B270INT",
+      "nm_mk": "GEN. KLIN. & GIZI MASYARAKAT",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B280INT",
+      "nm_mk": "I.KES KERJA & KED.LASER",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B291SKL",
+      "nm_mk": "SKILL LAB CPR & BASIC LIFE SUPPORT",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B300INT",
+      "nm_mk": "KEGAWATDARURATAN 2",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B280SKL",
+      "nm_mk": "SKILL LAB PEMBALUTAN",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B302OSC",
+      "nm_mk": "OSCE 2",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B300SKL",
+      "nm_mk": "SKILL LAB VISUM ET REPERTUM",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B270SKL",
+      "nm_mk": "SKILL LAB MENYUNTIK DAN PASANG INFUS",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B290INT",
+      "nm_mk": "KEGAWATDARURATAN 1 (Anestesiologi, Ilmu Bedah, Ilmu Kesehatan Anak, Ilmu Kesehatan Jiwa, Ilmu Penyakit Mata, Ilmu Penyakit Dalam, Ilmu Penyakit Saraf, Obgyn, PBL,Ilmu Penyakit THT)",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B160SKL",
+      "nm_mk": "SKILL LAB ABDOMEN PATOLOGIS",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B240INT",
+      "nm_mk": "HEMATOLOGI DAN ONKOLOGI (Anestesiologi, Ilmu Bedah, Farmakologi, Ilmu Kesehatan Anak, Ilmu Penyakit Dalam, PBL Hematologi dan Onkologi, Patologi Anatomi, Patologi Klinik,Radiologi)",
+      "sks_mk": 6,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B140SKL",
+      "nm_mk": "SKILL LAB PEMERIKSAAN OTOT-SENDI",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B180INT",
+      "nm_mk": "RESPIRATORY SYSTEM 2 (I.Bedah, Farmakologi, I.Kesehatan Anak, I.Penyakit Dalam, Mikrobiologi, Parasitologi, PBL Repipasi Integratif II, Patologi Anatomi, Patologi Klinik, Radiologi)",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B190INT",
+      "nm_mk": "SISTEM KARDIOVASKULER 2 (Ilmu Bedah, Farmakologi, Ilmu Gizi, Ilmu Kesehatan Anak, Ilmu Penyakit Dalam, PBL Kardiovaskular Integratif II, Patologi Anatomi, Patologi Klinik, Radiologi)",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B220INT",
+      "nm_mk": "ILMU SARAF DAN PERILAKU",
+      "sks_mk": 7,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B120INT",
+      "nm_mk": "INFEKSI DAN IMUNITAS (Ilmu Bedah, Farmakologi, Ilmu Kesehatan Anak, Ilmu Penyakit Dalam, Mikrobiologi, Parasitologi ,PBL Infeksi dan Imunitas Integratif,,Patologi Anatomi, Patologi Klinik)",
+      "sks_mk": 7,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "142B300SKR",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUTIA INDRIA ASTUTI LIMBERS",
+    "jk": "P",
+    "nipd": "102012422         ",
+    "namapt": "Universitas Kristen Krida Wacana",
+    "namajenjang": "S1",
+    "namaprodi": "Kedokteran",
+    "reg_pd": "537BA41A-A7B2-44C1-A3CD-E6A1F1CF2B30",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-04-10T00:00:00Z",
+    "no_seri_ijazah": "112012018000197",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MUQ1MUM0RjUtRTU4My00RTJGLUJERTUtMDRGRkNGOEQ2MzRB",
+    "link_prodi": "/data_prodi/QzU2QTVDQ0UtRTlDMy00MDlFLThFMEMtM0E3QUIxNTQ1NjdC"
+  }
+}

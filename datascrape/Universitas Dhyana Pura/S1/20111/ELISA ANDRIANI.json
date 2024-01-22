@@ -1,0 +1,83 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MAN1313",
+      "nm_mk": "Perekonomian Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN1501",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN OJT",
+      "sks_mk": 5,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN1503",
+      "nm_mk": "TUGAS AKHIR STUDI SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN1404",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ELISA ANDRIANI",
+    "jk": "P",
+    "nipd": "2010210002        ",
+    "namapt": "Universitas Dhyana Pura",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "E5B1B51A-3E06-4CBC-B310-29B76B759C63",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Pindahan",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-05-09T00:00:00Z",
+    "no_seri_ijazah": "147.06.61201.01.S1.2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QUY2NEMyREUtNzE1Ny00NEI4LThERTUtMjkwODY4NkZEQTY4",
+    "link_prodi": "/data_prodi/NTE1NzVEMTgtMjY1QS00NUY5LTkyRjgtNEE2N0I0QUNBMDhD"
+  }
+}

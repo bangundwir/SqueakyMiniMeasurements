@@ -1,0 +1,511 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 2,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "190401602W001",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU0000602W004",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU0000603W001",
+      "nm_mk": "AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W002",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W004",
+      "nm_mk": "KIMIA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W005",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU0000602W002",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU0000602W003",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W027",
+      "nm_mk": "PENGANTAR IPTEK KEHUTANAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU0000602W006",
+      "nm_mk": "ILMU SOSIAL DASAR (SALAH)",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W015",
+      "nm_mk": "ILMU PENYAKIT HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W013",
+      "nm_mk": "EKONOMI SUMBERDAYA HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W003",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W011",
+      "nm_mk": "DENDROLOGI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W010",
+      "nm_mk": "DASAR-DASAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W007",
+      "nm_mk": "AGROKLIMATOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W008",
+      "nm_mk": "ANATOMI TUMBUHAN BERKAYU",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W019",
+      "nm_mk": "ILMU UKUR KAYU",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W006",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W028",
+      "nm_mk": "PENGOLAHAN KIMIA HASIL HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W033",
+      "nm_mk": "SILVIKA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W022",
+      "nm_mk": "KEBIJAKAN DAN PERUNDANG-UNDANGAN KEHUTANAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W021",
+      "nm_mk": "INVENTARISASI HUTAN DAN LAHAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W012",
+      "nm_mk": "EKOLOGI HUTAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W018",
+      "nm_mk": "ILMU TANAH UMUM",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W016",
+      "nm_mk": "ILMU PERLINDUNGAN HUTAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W020",
+      "nm_mk": "INDUSTRI PENGOLAHAN KAYU",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W032",
+      "nm_mk": "SIFAT-SIFAT KAYU",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W030",
+      "nm_mk": "PERLINDUNGAN DAN PELESTARIAN ALAM",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W024",
+      "nm_mk": "KONSERVASI TANAH DAN AIR",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W009",
+      "nm_mk": "BIOLOGI DAN DETERIORASI KAYU",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W026",
+      "nm_mk": "PEMANENAN HUTAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W023",
+      "nm_mk": "KEWIRAUSAHAAN KEHUTANAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W017",
+      "nm_mk": "ILMU TANAH DAN NUTRISI HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602W029",
+      "nm_mk": "PERHUTANAN SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W014",
+      "nm_mk": "HASIL HUTAN BUKAN KAYU DAN PEMANFAATANNYA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401601W031",
+      "nm_mk": "PRAKTEK PENGENALAN KEHUTANAN",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P122",
+      "nm_mk": "USAHA KEHUTANAN KAWASAN PESISIR",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P055",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603P056",
+      "nm_mk": "ERGONOMIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401601P066",
+      "nm_mk": "KEBIJAKAN KONSERVASI",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P096",
+      "nm_mk": "PERENCANAAN PENGELOLAAN HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P042",
+      "nm_mk": "BIOMETRIKA HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603P048",
+      "nm_mk": "EKOFORESTRI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P077",
+      "nm_mk": "MESIN-MESIN KEHUTANAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P083",
+      "nm_mk": "PENGANTAR RISET OPERASI DAN ANALISIS KEPUTUSAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603P063",
+      "nm_mk": "ILMU UKUR TANAH DAN PEMETAAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P037",
+      "nm_mk": "ANALISIS EKONOMI DAN BIAYA USAHA KEHUTANAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P038",
+      "nm_mk": "ANALISIS PERTUMBUHAN DAN HASIL",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P076",
+      "nm_mk": "MANAJEMEN KONFLIK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603P109",
+      "nm_mk": "SOSIOLOGI PEDESAAN HUTAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P074",
+      "nm_mk": "MANAJEMEN HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P068",
+      "nm_mk": "KETEKNIKAN HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W025",
+      "nm_mk": "METODE ILMIAH DAN RANCANGAN PERCOBAAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W034",
+      "nm_mk": "SILVIKULTUR",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401602P054",
+      "nm_mk": "EKONOMI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603P107",
+      "nm_mk": "SISTEM INFORMASI GEOGRAFIS",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401601W124",
+      "nm_mk": "SEMINAR PROPOSAL PENELITIAN",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401603W123",
+      "nm_mk": "PKL",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401604W127",
+      "nm_mk": "KKN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401601W124",
+      "nm_mk": "SEMINAR PROPOSAL PENELITIAN",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401601W125",
+      "nm_mk": "SEMINAR HASIL PENELITIAN",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "190401604W126",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AYU ASTUTI",
+    "jk": "P",
+    "nipd": "1904016193",
+    "namapt": "Universitas Mulawarman",
+    "namajenjang": "S1",
+    "namaprodi": "Kehutanan",
+    "reg_pd": "1CDBDBE3-C9FD-4AAC-A740-D6C2489F9D3E",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RTg5MEVGRDYtRURDMy00NkI5LThERjYtRTlGMjRCRDhFMUEy",
+    "link_prodi": "/data_prodi/NDNCMzExN0MtOTUzMC00QkI1LUJGQkMtNkE4OUQwRDQ0OUEw"
+  }
+}

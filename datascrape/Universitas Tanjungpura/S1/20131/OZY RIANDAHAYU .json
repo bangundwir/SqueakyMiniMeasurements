@@ -1,0 +1,562 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KPM408",
+      "nm_mk": "Aljabar",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM415",
+      "nm_mk": "Geometri I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM402",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM410",
+      "nm_mk": "Logika Matematika & Himpunan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM401",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM200",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG107",
+      "nm_mk": "Ilmu Sosial Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG106",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM203",
+      "nm_mk": "PROFESI KEPENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM201",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG112",
+      "nm_mk": "Dasar-dasar Sains (Filsafat Ilmu)",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM303",
+      "nm_mk": "Telaah Kurikulum Matematika",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM403",
+      "nm_mk": "Kalkulus Diferensial",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG101",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM416",
+      "nm_mk": "Geometri II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM414",
+      "nm_mk": "TRIGONOMETRI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM300",
+      "nm_mk": "Strategi Belajar Mengajar Mat.",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM404",
+      "nm_mk": "Kalkulus Integral",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM304",
+      "nm_mk": "MATEMATIKA SEKOLAH MENENGAH",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM420",
+      "nm_mk": "Dasar-dasar Komputer",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM400",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMGI111",
+      "nm_mk": "English for Teaching",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM409",
+      "nm_mk": "Teori Bilangan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM417",
+      "nm_mk": "Statistik Elementer",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM406",
+      "nm_mk": "Analisis Real I",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM202",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM403",
+      "nm_mk": "Kalkulus Diferensial",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM302",
+      "nm_mk": "Eval. Proses dan Hsl. Belajar Mat.",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM411",
+      "nm_mk": "Aljabar Linear Elementer",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM305",
+      "nm_mk": "Workshop Matematika",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM422",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM423",
+      "nm_mk": "Persamaan Diferensial Biasa",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM407",
+      "nm_mk": "PENGETAHUAN LINGKUNGAN ",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM301",
+      "nm_mk": "Kemampuan Dasar Mengajar Mat.",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM407",
+      "nm_mk": "Analisis Real II",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM404",
+      "nm_mk": "Kalkulus Integral",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM404",
+      "nm_mk": "Kalkulus Integral",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM422",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM418",
+      "nm_mk": "Teori Peluang",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM418",
+      "nm_mk": "Teori Peluang",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM423",
+      "nm_mk": "Persamaan Diferensial Biasa",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM301",
+      "nm_mk": "Kemampuan Dasar Mengajar Mat",
+      "sks_mk": 0,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM307",
+      "nm_mk": "Pengajaran Mikro (PPL  I)",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM502",
+      "nm_mk": "Matematika Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM419",
+      "nm_mk": "Statistika Matematika",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM413",
+      "nm_mk": "Program Linear",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM306",
+      "nm_mk": "PENELITIAN PENDIDIKAN MATEMATIKA",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM424",
+      "nm_mk": "Analisa Data Statistika",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM412",
+      "nm_mk": "Struktur Aljabar",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM308",
+      "nm_mk": "Prog. Pengal. Lapangan (PPL  II)",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM405",
+      "nm_mk": "Kalkulus Lanjut",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM425",
+      "nm_mk": "Seminar Pendidikan Matematika",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM501",
+      "nm_mk": "Kapita Selekta Pend. Mat.",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM309",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM421",
+      "nm_mk": "Pemograman Komputer",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM411",
+      "nm_mk": "Aljabar Linear Elementer",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM302",
+      "nm_mk": "Eval. Proses dan Hsl. Belajar Mat.",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG113",
+      "nm_mk": "Ilmu Alamiah Dasar (Ilmu Kealaman Dasar)",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM413",
+      "nm_mk": "Program Linear",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM404",
+      "nm_mk": "Kalkulus Integral",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM423",
+      "nm_mk": "Persamaan Diferensial Biasa",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM407",
+      "nm_mk": "Analisis Real II",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM428",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 666",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM428",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "OZY RIANDAHAYU ",
+    "jk": "L",
+    "nipd": "F1041131074",
+    "namapt": "Universitas Tanjungpura",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Matematika",
+    "reg_pd": "802397FF-4C14-416A-8E0D-6A41876D855C",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-09-07T00:00:00Z",
+    "no_seri_ijazah": "2987/UN22/EP/S1/2020",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RUYyQTU1QjctMUNCOC00MEZDLThEMzctQjExMDQ0MEU0MjVF",
+    "link_prodi": "/data_prodi/NUNDMzQxRUEtMDNDNi00QzRCLUEwOUYtNUNFNkQxRjNDQkRE"
+  }
+}

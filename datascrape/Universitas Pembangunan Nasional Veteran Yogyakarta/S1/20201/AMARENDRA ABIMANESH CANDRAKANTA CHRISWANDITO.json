@@ -52,15 +52,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1000092",
-      "nm_mk": "Bela Negara &amp; Widya Mwat Yasa",
+      "kode_mk": "1000122",
+      "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1000122",
-      "nm_mk": "BAHASA INDONESIA",
+      "kode_mk": "1000092",
+      "nm_mk": "Bela Negara &amp; Widya Mwat Yasa",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -80,9 +80,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1000012",
-      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
-      "sks_mk": 2,
+      "kode_mk": "1500013",
+      "nm_mk": "Pengantar Ilmu Politik",
+      "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -94,29 +94,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1500013",
-      "nm_mk": "Pengantar Ilmu Politik",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1000082",
-      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "kode_mk": "1000012",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
       "sks_mk": 2,
-      "id_smt": "20202",
+      "id_smt": "20201",
       "nilai_huruf": null
     },
     {
       "kode_mk": "1510053",
       "nm_mk": "Sistem Ekonomi Indonesia",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1510073",
-      "nm_mk": "Politik Internasional",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -132,6 +118,20 @@
       "kode_mk": "1000111",
       "nm_mk": "Olahraga II",
       "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1510073",
+      "nm_mk": "Politik Internasional",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1000082",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -157,13 +157,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1510133",
-      "nm_mk": "Bahasa Inggris HI II",
-      "sks_mk": 3,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "1510173",
       "nm_mk": "Aktor Non Negara",
       "sks_mk": 3,
@@ -171,8 +164,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "1510133",
+      "nm_mk": "Bahasa Inggris HI II",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "1510183",
       "nm_mk": "ASEAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1510093",
+      "nm_mk": "Teori Perbandingan Politik",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -199,13 +206,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1510093",
-      "nm_mk": "Teori Perbandingan Politik",
-      "sks_mk": 3,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "1510143",
       "nm_mk": "Studi Keamanan",
       "sks_mk": 3,
@@ -213,15 +213,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1510263",
-      "nm_mk": "Pengantar Kebijakan Publik",
+      "kode_mk": "1510223",
+      "nm_mk": "Teori  Hubungan Internasional",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1510223",
-      "nm_mk": "Teori  Hubungan Internasional",
+      "kode_mk": "1510243",
+      "nm_mk": "Teori Negosiasi",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -234,8 +234,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1510243",
-      "nm_mk": "Teori Negosiasi",
+      "kode_mk": "1510253",
+      "nm_mk": "Teori Resolusi Konflik",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -262,8 +262,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1510253",
-      "nm_mk": "Teori Resolusi Konflik",
+      "kode_mk": "1510263",
+      "nm_mk": "Pengantar Kebijakan Publik",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -278,20 +278,6 @@
     {
       "kode_mk": "1510403",
       "nm_mk": "HI di Amerika Latin",
-      "sks_mk": 3,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1510343",
-      "nm_mk": "Ekonomi Politik Internasional",
-      "sks_mk": 3,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1510383",
-      "nm_mk": "Seminar HI",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -318,6 +304,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "1510343",
+      "nm_mk": "Ekonomi Politik Internasional",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1510383",
+      "nm_mk": "Seminar HI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "1510353",
       "nm_mk": "Keprotokoleran & Korespondensi Diplomatik",
       "sks_mk": 3,
@@ -339,6 +339,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "1510463",
+      "nm_mk": "Simulasi Negosiasi Internasional",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "1510263",
       "nm_mk": "Pengantar Kebijakan Publik",
       "sks_mk": 3,
@@ -348,13 +355,6 @@
     {
       "kode_mk": "1510503",
       "nm_mk": "Diplomasi RI Kontemporer",
-      "sks_mk": 3,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1510463",
-      "nm_mk": "Simulasi Negosiasi Internasional",
       "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
@@ -388,15 +388,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "151230603",
-      "nm_mk": "Diplomasi Energi",
+      "kode_mk": "151230613",
+      "nm_mk": "Dimensi Digital dalam Hubungan Internasional",
       "sks_mk": 3,
       "id_smt": "20231",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "151230613",
-      "nm_mk": "Dimensi Digital dalam Hubungan Internasional",
+      "kode_mk": "151230603",
+      "nm_mk": "Diplomasi Energi",
       "sks_mk": 3,
       "id_smt": "20231",
       "nilai_huruf": null

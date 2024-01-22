@@ -1,0 +1,657 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FTB0801",
+      "nm_mk": "MENGGAMBAR TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTB0101",
+      "nm_mk": "FISIKA DASAR 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATB0101",
+      "nm_mk": "KALKULUS 1",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTB0501",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPBA0501",
+      "nm_mk": "PENDIDIKAN PANCASILA &KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPBA0101",
+      "nm_mk": "PENDIDIKAN AGAMA 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPBE0201",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPBE0101",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB2301",
+      "nm_mk": "RANGKAIAN LOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTB0201",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR 1",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB0701",
+      "nm_mk": "PRAKTIKUM DASAR ELEKTRONIKA",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB1501",
+      "nm_mk": "PROBABILITAS STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB0801",
+      "nm_mk": "DASAR TELEKOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB1001",
+      "nm_mk": "DASAR TEKNIK ELEKTRO",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB0601",
+      "nm_mk": "DASAR ELEKTRONIKA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPBE0301",
+      "nm_mk": "BAHASA INGGRIS 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTB0401",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR 2",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB2501",
+      "nm_mk": "PRAKTIKUM RANGKAIAN LOGIKA",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTB0301",
+      "nm_mk": "FISIKA DASAR 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB2401",
+      "nm_mk": "PRAK. PENGUKURAN BESARAN LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB2001",
+      "nm_mk": "PENGUKURAN BESARAN LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB2701",
+      "nm_mk": "MEDAN ELEKTROMAGNETIK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB0401",
+      "nm_mk": "PRAK DASAR KOMPUTER DAN PEMOGRAMAN",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB2601",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN NUMERIK",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATB0201",
+      "nm_mk": "KALKULUS 2",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB0301",
+      "nm_mk": "DASAR KOMPUTER DAN PEMOGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB2201",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEB1801",
+      "nm_mk": "RANGKAIAN LISTRIK 1",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL03212",
+      "nm_mk": "ILMU BAHAN LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04124",
+      "nm_mk": "PRAKTIKUM ELEKTRONIKA DIGITAL",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04223",
+      "nm_mk": "ELEKTRONIKA DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04225",
+      "nm_mk": "FISIKA DEVAIS SEMIKONDUKTOR",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL03219",
+      "nm_mk": "BAHASA INGGRIS 3",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04327",
+      "nm_mk": "RANGKAIAN LISTRIK 2",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL03311",
+      "nm_mk": "MATEMATIKA TEKNIK 1",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04326",
+      "nm_mk": "SISTEM LINIER",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04229",
+      "nm_mk": "BAHASA INGGRIS 4",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL05134",
+      "nm_mk": "PRAKTIKUM PROGRAMMABLE LOGIC CONTROLLER (PLC)",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL05231",
+      "nm_mk": "DASAR SISTEM KONTROL",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04321",
+      "nm_mk": "MATEMATIKA TEKNIK 2",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL25372",
+      "nm_mk": "ELEKTRONIKA DAYA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL05132",
+      "nm_mk": "PRAKTIKUM DASAR SISTEM KONTROL",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04228",
+      "nm_mk": "KOMUNIKASI DATA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL04222",
+      "nm_mk": "DASAR KONVERSI ENERGI LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL05233",
+      "nm_mk": "PROGRAMMABLE LOGIC CONTROLLER (PLC)",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL25301",
+      "nm_mk": "TRANSFORMATOR",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL25102",
+      "nm_mk": "PRAKT. TRANSFORMATOR",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL25203",
+      "nm_mk": "TEKNIK TEGANGAN TINGGI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL06137",
+      "nm_mk": "PRAKTIKUM JARINGAN KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL05230",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL26304",
+      "nm_mk": "ANALISA SISTEM TENAGA",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL05235",
+      "nm_mk": "TEKNOLOGI SEMIKONDUKTOR",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL06236",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL06238",
+      "nm_mk": "PENGETAHUAN HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL27110",
+      "nm_mk": "PRAKTIKUM KOMPUTER DALAM SISTEM TENAGA LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL07239",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL26306",
+      "nm_mk": "MESIN-MESIN LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL26107",
+      "nm_mk": "PRAKT. MESIN-MESIN LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL26305",
+      "nm_mk": "SISTEM DISTRIBUSI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL27309",
+      "nm_mk": "KOMPUTER DALAM SISTEM TENAGA LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL07238",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL26373",
+      "nm_mk": "PERALATAN TEGANGAN TINGGI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL08641",
+      "nm_mk": "TUGAS AKHIR (SKRIPSI)",
+      "sks_mk": 6,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL0092",
+      "nm_mk": "PROBABILITAS DAN STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL27380",
+      "nm_mk": "STABILITAS SISTEM TENAGA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL27378",
+      "nm_mk": "PERENCANAAN MESIN LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL06240",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL27308",
+      "nm_mk": "PEMBANGKITAN ENERGI LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL27211",
+      "nm_mk": "PROTEKSI SISTEM TENAGA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL27112",
+      "nm_mk": "PRAKTIKUM KENDALI MESIN-MESIN LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL0112",
+      "nm_mk": "DASAR TEKNIK ELEKTRO",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK0013",
+      "nm_mk": "KALKULUS 1",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL0053",
+      "nm_mk": "MENGGAMBAR TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK0022",
+      "nm_mk": "FISIKA DASAR 1",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL0042",
+      "nm_mk": "DASAR TELEKOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL0211",
+      "nm_mk": "PRAKTIKUM METODE NUMERIK",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL08641",
+      "nm_mk": "TUGAS AKHIR (SKRIPSI)",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL27378",
+      "nm_mk": "PERENCANAAN MESIN LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL08641",
+      "nm_mk": "TUGAS AKHIR (SKRIPSI)",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL08641",
+      "nm_mk": "TUGAS AKHIR (SKRIPSI)",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEL08641",
+      "nm_mk": "TUGAS AKHIR (SKRIPSI)",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DWI PAHALA LAURENCIUS SIHOTANG",
+    "jk": "L",
+    "nipd": "2015010180",
+    "namapt": "Universitas Pamulang",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Elektro",
+    "reg_pd": "DFE2AAC5-1B56-4728-98E3-EC01A491E0E4",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": "",
+    "nm_prodi_asal": "",
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-12-18T00:00:00Z",
+    "no_seri_ijazah": "202012021002209",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MkU2MjlCMTUtOTBCMC00MDAxLTk1RDAtMDI2QTMwQzhEODE0",
+    "link_prodi": "/data_prodi/NTNGNEE2NUEtRDVGOC00OEY0LTlENjMtRDZGQTZFQzhCOTIz"
+  }
+}

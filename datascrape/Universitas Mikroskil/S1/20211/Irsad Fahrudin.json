@@ -1,0 +1,200 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Kampus Merdeka"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IF2105",
+      "nm_mk": "PERANCANGAN DAN PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2135",
+      "nm_mk": "PENGEMBANGAN WEB BACK-END",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2107",
+      "nm_mk": "STATISTIKA KOMPUTASI",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2106",
+      "nm_mk": "REKAYASA DATA",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2108",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2136",
+      "nm_mk": "PENGEMBANGAN PERANGKAT LUNAK TANGKAS",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2137",
+      "nm_mk": "PENGEMBANGAN APLIKASI MOBIL FRONT-END",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2110",
+      "nm_mk": "KECERDASAN ARTIFISIAL",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2109",
+      "nm_mk": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2138",
+      "nm_mk": "PENGEMBANGAN APLIKASI MOBIL BACK-END",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2118",
+      "nm_mk": "STARTUP DIGITAL",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM2102",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM2104",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM2103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2111",
+      "nm_mk": "KOMUNIKASI DATA DAN JARINGAN KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2122",
+      "nm_mk": "KOMPUTASI AWAN",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2118",
+      "nm_mk": "PENGEMBANGAN APLIKASI GIM",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2117",
+      "nm_mk": "KRIPTOGRAFI DAN KEAMANAN INFORMASI",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM2105",
+      "nm_mk": "PENGEMBANGAN KARAKTER: PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2112",
+      "nm_mk": "VISI KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Irsad Fahrudin",
+    "jk": "L",
+    "nipd": "201110566",
+    "namapt": "Universitas Mikroskil",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "9610409C-E6BB-4BF8-B01D-6A7EC8ED64DA",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Pindahan Alih Bentuk",
+    "nm_pt_asal": "STMIK Mikroskil",
+    "nm_prodi_asal": "Teknik Informatika",
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NDBBMzFCNTYtQjc5Mi00REM2LUJFRUYtMTMwREYzRjBGNjc2",
+    "link_prodi": "/data_prodi/RTlGNjVFRjYtREIyQS00NTMwLTlBRTYtOUE3RDkyREExNTlD"
+  }
+}

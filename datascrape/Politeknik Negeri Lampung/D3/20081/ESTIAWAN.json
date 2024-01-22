@@ -1,0 +1,281 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20081",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": null,
+      "nm_stat_mhs": "Drop-Out/Putus Studi"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PKD0105",
+      "nm_mk": "APRESIASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKD0101",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK0102",
+      "nm_mk": "PENDIDIKAN KWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK0101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK0103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKD0102",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKD0104",
+      "nm_mk": "PENGANTAR KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1101",
+      "nm_mk": "DASAR-DASAR HORTIKULTURA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1203",
+      "nm_mk": "FISIOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1206",
+      "nm_mk": "DASAR PERLINDUNGAN TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1201",
+      "nm_mk": "DASAR ILMU TANAH",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1202",
+      "nm_mk": "PERBANYAKAN VEGETATIF",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1208",
+      "nm_mk": "PENYULUHAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1207",
+      "nm_mk": "BUDIDAYA TANAMAN BUAH SEMUSIM",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKD1201",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1204",
+      "nm_mk": "BUDIDAYA TANAMAN OBAT",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1205",
+      "nm_mk": "ALAT DAN MESIN PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1303",
+      "nm_mk": "SISTIM IRIGASI PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKD1301",
+      "nm_mk": "BAHASA INGGRIS III",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1305",
+      "nm_mk": "TEKNOLOGI BENIH",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1304",
+      "nm_mk": "BUDIDAYA TANAMAN SAYURAN",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1306",
+      "nm_mk": "TEKNIK PERTANAMAN GANDA (MULTIPLE CROPI)",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1301",
+      "nm_mk": "BUDIDAYA TANAMAN HIAS I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1302",
+      "nm_mk": "HAMA DAN PENYAKIT TANAMAN HORTIKULTURA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1307",
+      "nm_mk": "KELESTARIAN LAHAN DAN PEMUPUKAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1403",
+      "nm_mk": "PASCAPANEN TANAMAN HORTIKULTURA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1402",
+      "nm_mk": "BUDIDAYA TANAMAN HIAS II",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1406",
+      "nm_mk": "BUDIDAYA JAMUR",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1401",
+      "nm_mk": "RANCANGAN PERCOBAAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1408",
+      "nm_mk": "PERTANIAN ORGANIK",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1407",
+      "nm_mk": "BUDIDAYA SISTIM HIDROPONIK",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1404",
+      "nm_mk": "PERENCANAAN TEKNIS AGRIBISNIS HORTIKULTA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTH1405",
+      "nm_mk": "KULTUR JARINGAN I",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ESTIAWAN",
+    "jk": "L",
+    "nipd": "08712013          ",
+    "namapt": "Politeknik Negeri Lampung",
+    "namajenjang": "D3",
+    "namaprodi": "Hortikultura",
+    "reg_pd": "46BD2BA7-86F6-48EB-980B-ACE0D271FD7A",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": null,
+    "no_seri_ijazah": "",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjQyMjlFNDAtMjA3Qi00ODBGLTlGOEYtQzEzQUM3MENCRUVF",
+    "link_prodi": "/data_prodi/QkNGMzBFOUUtRDRDMC00RTczLUI4QzgtQjkxN0QzNjE5QkQ0"
+  }
+}

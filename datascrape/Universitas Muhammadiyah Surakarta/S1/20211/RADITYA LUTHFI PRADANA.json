@@ -1,0 +1,393 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UMS10112",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF10434",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS10322",
+      "nm_mk": "Filsafat Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS10212",
+      "nm_mk": "English for Academic Purpose",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF10733",
+      "nm_mk": "Kalkulus",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF10831",
+      "nm_mk": "Praktikum Algoritma dan Pemrograman",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF10633",
+      "nm_mk": "Aljabar Linear",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF10533",
+      "nm_mk": "Pengantar Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF20833",
+      "nm_mk": "Struktur Data",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS20422",
+      "nm_mk": "Kurikulum dan Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF20931",
+      "nm_mk": "Praktikum  Struktur Data",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS20322",
+      "nm_mk": "Manajemen Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF20632",
+      "nm_mk": "Komunikasi Data",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF20733",
+      "nm_mk": "Logika dan Himpunan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIF20532",
+      "nm_mk": "Sistem Digital",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS20112",
+      "nm_mk": "Ibadah Muamalah",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS20212",
+      "nm_mk": "Standardized Test Preparation",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221326",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221144",
+      "nm_mk": "Praktikum Pemrograman Web",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221127",
+      "nm_mk": "Praktikum Sistem Operasi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221343",
+      "nm_mk": "Pemrograman Web",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221228",
+      "nm_mk": "Statistik & Probabilitas",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221221",
+      "nm_mk": "Perencanaan Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221324",
+      "nm_mk": "Transformasi Digital",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221225",
+      "nm_mk": "Multimedia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221223",
+      "nm_mk": "Struktur Diskret",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE1221219",
+      "nm_mk": "Islam & Iptek",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE2221220",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221137",
+      "nm_mk": "Praktikum Sistem Basis Data",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221338",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE1221229",
+      "nm_mk": "Kemuhammadiyahan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221316",
+      "nm_mk": "Pemrograman Berorientasi Objek",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221336",
+      "nm_mk": "Sistem Basis Data",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE1221230",
+      "nm_mk": "Bahasa Indonesia dan PKTI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221233",
+      "nm_mk": "Strategi Pembelajaran Informatika",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221235",
+      "nm_mk": "Rekayasa Perangkat Lunak",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221234",
+      "nm_mk": "Interaksi Manusia dan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE2221131",
+      "nm_mk": "Pengenalan Lapangan Persekolahan I (PLP I)",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE2221232",
+      "nm_mk": "Bimbingan dan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221139",
+      "nm_mk": "Praktikum Jaringan Komputer",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221382",
+      "nm_mk": "Literasi Digital",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221347",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221146",
+      "nm_mk": "Praktikum Komputer Grafik & Animasi",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221223",
+      "nm_mk": "Struktur Diskret",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221258",
+      "nm_mk": "Praktik Industri",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221345",
+      "nm_mk": "Komputer Grafik & Animasi",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE2221457",
+      "nm_mk": "Keterampilan Berkehidupan/KKN Pendidikan",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221241",
+      "nm_mk": "Penilaian Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFE3221242",
+      "nm_mk": "Teknologi dan Inovasi Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RADITYA LUTHFI PRADANA",
+    "jk": "L",
+    "nipd": "A710219073",
+    "namapt": "Universitas Muhammadiyah Surakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Teknik Informatika",
+    "reg_pd": "CFE900E3-CDD7-499E-A7F9-6AE5C71B91AD",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkQxMjQxNDItRTc5OC00RjYyLTg3NEItQ0U0MzVCNTQwOUYx",
+    "link_prodi": "/data_prodi/RTBFNDUzRkUtNkUzRi00QkQ4LTg5QTQtRjlDQjAyNjAyQUMw"
+  }
+}

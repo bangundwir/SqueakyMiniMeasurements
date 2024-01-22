@@ -1,0 +1,541 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK11207",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11208",
+      "nm_mk": "FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11209",
+      "nm_mk": "KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11210",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11202",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK11325",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11201",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11203",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK11202",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD12322",
+      "nm_mk": "SOSIO ANTRO KESEHATAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD12228",
+      "nm_mk": "ILMU KEPENDUDUKAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD12216",
+      "nm_mk": "PENGANTAR ILMU KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ31204",
+      "nm_mk": "EKOLOGI PANGAN DAN GIZI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD12203",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM12214",
+      "nm_mk": "ORGANISASI DAN MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD12204",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU12205",
+      "nm_mk": "FILSAFAT LOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD12223",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD12224",
+      "nm_mk": "PARASITOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21326",
+      "nm_mk": "KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ21202",
+      "nm_mk": "ILMU GIZI DASAR",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSK21202",
+      "nm_mk": "DASAR KESEHATAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI21202",
+      "nm_mk": "DASAR EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO21201",
+      "nm_mk": "BIOSTATISTIK I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21205",
+      "nm_mk": "PATOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21206",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM22201",
+      "nm_mk": "DASAR PENDIDIKAN KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLK21201",
+      "nm_mk": "DASAR KESEHATAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLK31202",
+      "nm_mk": "KESH. LINGK.PEMUKIMAN & PERKOTAAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLK22204",
+      "nm_mk": "TEKNOLOGI TEPAT GUNA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO22203",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI31205",
+      "nm_mk": "PEMBERANTASAN PENYAKIT MENULAR",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31301",
+      "nm_mk": "METODOLOGI PENENLITIAN",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI22204",
+      "nm_mk": "DASAR PEMBERANTASAN PENYAKIT",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKP22204",
+      "nm_mk": "PEMBERDAYAAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO22204",
+      "nm_mk": "SISTEM INFORMASI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ22202",
+      "nm_mk": "GIZI KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM22206",
+      "nm_mk": "KEBIJAKAN KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO22205",
+      "nm_mk": "BIOSTATISTIK II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLK22205",
+      "nm_mk": "HIGIENE LINGKUNGAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKP31211",
+      "nm_mk": "KEWIRAUSAHAAN DAN PEMASARAN KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO41213",
+      "nm_mk": "STATISTIK NON PARAMETRIK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI32212",
+      "nm_mk": "PENGENDALIAN VEKTOR PENYAKIT",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31301",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM32203",
+      "nm_mk": "RENVAL KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ31204",
+      "nm_mk": "EKOLOGI PANGAN DAN GIZI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI32206",
+      "nm_mk": "EPID PEMBRANTASAN PENY NON MENULAR",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKP32203",
+      "nm_mk": "RENVAL PKM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSK31211",
+      "nm_mk": "PENYAKIT AKIBAT KERJA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI32208",
+      "nm_mk": "PENYAKIT TROPIK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLK31213",
+      "nm_mk": "ANALISIS MENGENAI DAMPAK LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKP41205",
+      "nm_mk": "TEKNOLOGI PENGEMBANGAN MEDIA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD41228",
+      "nm_mk": "LABORATORIUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM101",
+      "nm_mk": "MANAJEMEN DATA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI32211",
+      "nm_mk": "KESMAVET",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI32203",
+      "nm_mk": "SURVEILLANS EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ32203",
+      "nm_mk": "PENENTUAN STATUS GIZI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLK32208",
+      "nm_mk": "EPIDEMIOLOGI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSK32202",
+      "nm_mk": "PROGRAM KESEHATAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKP41210",
+      "nm_mk": "PENGEMBANGAN INSTRUMEN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM41207",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI41209",
+      "nm_mk": "METODE EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKP41209",
+      "nm_mk": "STUDI KWALITATIF",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIZ41210",
+      "nm_mk": "GIZI DAUR HIDUP",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPI41210",
+      "nm_mk": "SURVEI EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM1069",
+      "nm_mk": "KESEHATAN INDUSTRI PARIWISATA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM998",
+      "nm_mk": "PROPOSAL",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD42420",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DENI OKTA VIANTI",
+    "jk": "P",
+    "nipd": "020110A008        ",
+    "namapt": "Sekolah Tinggi Ilmu Kesehatan Ngudi Waluyo",
+    "namajenjang": "S1",
+    "namaprodi": "Kesehatan Masyarakat",
+    "reg_pd": "8A0B1298-947F-418B-80B7-54E43D07679E",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-08-29T00:00:00Z",
+    "no_seri_ijazah": "NW-03837",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RTkxNTM2NTQtRkFEMi00MDAzLTgzQUUtQzUyQUYwQTg2Q0I1",
+    "link_prodi": "/data_prodi/REU2NjRBQTAtMkU0Ny00RDAyLUEyQjAtREQ5MEUzMkZDNkYw"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "60277",
+      "nm_mk": "MANAJEMEN PEMASARAN LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "60278",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "60275",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "60276",
+      "nm_mk": "MANAJEMEN KEUANGAN LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "60279",
+      "nm_mk": "MANAJEMEN OPERASIONAL LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102816140314",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102827380314",
+      "nm_mk": "Statistik Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102841830514",
+      "nm_mk": "Seminar I ( Mata Kuliah Penunjang Tesis)",
+      "sks_mk": 5,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102841640514",
+      "nm_mk": "Proposal Tesis",
+      "sks_mk": 5,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4102841591014",
+      "nm_mk": "Karya Ilmiah",
+      "sks_mk": 10,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4102814530314",
+      "nm_mk": "Manajemen Strategik",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102841850514",
+      "nm_mk": "Seminar II (Seminar Hasil)",
+      "sks_mk": 5,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4102831120314",
+      "nm_mk": "Etika Bisnis dan Corporate Social Responsibility",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102833082014",
+      "nm_mk": "Tesis",
+      "sks_mk": 20,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102833082014",
+      "nm_mk": "Tesis",
+      "sks_mk": 20,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102833082014",
+      "nm_mk": "Tesis",
+      "sks_mk": 20,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102833082014",
+      "nm_mk": "Tesis",
+      "sks_mk": 20,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102833082014",
+      "nm_mk": "Tesis",
+      "sks_mk": 20,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TIA MAIMUNAH",
+    "jk": "P",
+    "nipd": "201410280211004   ",
+    "namapt": "Universitas Muhammadiyah Malang",
+    "namajenjang": "S2",
+    "namaprodi": "Manajemen",
+    "reg_pd": "4E85C3CC-A3E8-4D07-BA2F-615B2C3F71FB",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-11-02T00:00:00Z",
+    "no_seri_ijazah": "611012018000075",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjM5OUQ3N0QtOEM1NS00REZBLTgwRjgtNzAwMjc1MjMwOTlF",
+    "link_prodi": "/data_prodi/Njg0OUJFMUMtRjE4NC00MzM1LUE2OEUtMUMyOUNBMzY4QUQ2"
+  }
+}

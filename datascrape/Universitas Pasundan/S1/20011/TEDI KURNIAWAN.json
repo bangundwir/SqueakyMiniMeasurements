@@ -1,0 +1,193 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20021",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20031",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20032",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20041",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20042",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20052",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ESP318",
+      "nm_mk": "Perekonomian Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK207",
+      "nm_mk": "Aspek Hukum dlm Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP208XX",
+      "nm_mk": "Teori Ekonomi II / Teori Ekonomi Makro",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP208",
+      "nm_mk": "Teori Ekonomi II / Teori Ekonomi Makro",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK203",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP209",
+      "nm_mk": "Teori Ekonomi I / Teori Ekonomi Mikro",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP307",
+      "nm_mk": "Teori Perdagangan Internasional",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESP205",
+      "nm_mk": "Riset Operasi",
+      "sks_mk": 5,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ317",
+      "nm_mk": "Perilaku Keorganisasian",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ305X",
+      "nm_mk": "MANAJEMEN KEUANGAN (T)",
+      "sks_mk": 5,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ402",
+      "nm_mk": "Kewirausahaan dan Rencana Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ315",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ313XX",
+      "nm_mk": "Ekonomi Manajerial",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ424",
+      "nm_mk": "Manajemen Kualitas",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK401XX",
+      "nm_mk": "K P K/ K K N",
+      "sks_mk": 4,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ318",
+      "nm_mk": "Teknik Proyeksi Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ407",
+      "nm_mk": "Seminar Manajemen Operasi",
+      "sks_mk": 3,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMJ402",
+      "nm_mk": "Kewirausahaan dan Rencana Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ETA501",
+      "nm_mk": "S K R I P S I",
+      "sks_mk": 6,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TEDI KURNIAWAN",
+    "jk": "L",
+    "nipd": "014010014",
+    "namapt": "Universitas Pasundan",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "DF7E1265-7DB5-45EC-87DA-D9D609783FC1",
+    "mulai_smt": "20011",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2006-06-22T00:00:00Z",
+    "no_seri_ijazah": "06/04/1395",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEFBMzk4QTItNkM2OC00RUUwLTg2RkEtM0VBNjVCNTREQzk3",
+    "link_prodi": "/data_prodi/M0UzNDREMDMtOTc1MS00NzdDLUFBNUYtNjZFQUFFMTNGNzE4"
+  }
+}

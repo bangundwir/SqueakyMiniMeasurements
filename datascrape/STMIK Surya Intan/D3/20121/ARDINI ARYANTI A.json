@@ -1,0 +1,363 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": null,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKB11301",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11301",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB11303",
+      "nm_mk": "SISTEM BASIS DATA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK21308",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB11302",
+      "nm_mk": "ALGORITMA PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21310",
+      "nm_mk": "KOMPUTER APLIKASI IT 1",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11306",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21309",
+      "nm_mk": "PAKET PROGRAM NIAGA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK12307",
+      "nm_mk": "MANAJEMEN UMUM",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB22301",
+      "nm_mk": "KORESPONDEN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK12308",
+      "nm_mk": "DASAR AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK22317",
+      "nm_mk": "PEMROGRAMAN VISUAL 1",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK22312",
+      "nm_mk": "KOMPUTER APLIKASI IT 2",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB22308",
+      "nm_mk": "BAHASA INGGRIS INFORMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK12301",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK22311",
+      "nm_mk": "PAKET PROGRAM NIAGA 2",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK22313",
+      "nm_mk": "DESAIN GRAFIS 1",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK13304",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK13302",
+      "nm_mk": "PENGANTAR ORGANISASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB13306",
+      "nm_mk": "SISTEM DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB23316",
+      "nm_mk": "PEMROGRAMAN VISUAL MI 2",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB13305",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK13303",
+      "nm_mk": "STATISTIK DESKRIFTIP",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB13304",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB23309",
+      "nm_mk": "DESAIN GRAFIS 2",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB23318",
+      "nm_mk": "APLIKASI INFORMASI AKUTANSI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK24315",
+      "nm_mk": "DESAIN WEB 1",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB25312",
+      "nm_mk": "JARINGAN KOMPUTER 2",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB14301",
+      "nm_mk": "INOVASI DAN KEWIRAUSAHAWAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK24309",
+      "nm_mk": "ILMU BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK24316",
+      "nm_mk": "PEMROGRAMAN WEB 1",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK14306",
+      "nm_mk": "METODOLOGI RISET",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK14305",
+      "nm_mk": "SISTEM BERKAS",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB24317",
+      "nm_mk": "PEMROGRAMAN VISUAL MI 3",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB24310",
+      "nm_mk": "PEMROGRAMAN VISUAL BASIC",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB25312",
+      "nm_mk": "JARINGAN KOMPUTER 2",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK15307",
+      "nm_mk": "KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB25315",
+      "nm_mk": "APLIKASI PEMROGRAMAN VISUAL",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB25314",
+      "nm_mk": "PEMROGRAMAN WEB 2",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB25313",
+      "nm_mk": "DESAIN WEB 2",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB15307",
+      "nm_mk": "PERANCANGAN SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB25311",
+      "nm_mk": "DATABASE PROFESIONAL",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB26302",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB26303",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ARDINI ARYANTI A",
+    "jk": "P",
+    "nipd": "1221020           ",
+    "namapt": "STMIK Surya Intan",
+    "namajenjang": "D3",
+    "namaprodi": "Manajemen Informatika",
+    "reg_pd": "17EA504F-68D9-46A7-9474-B1FD57576BCB",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-09-21T00:00:00Z",
+    "no_seri_ijazah": "366/XIII/DIII/MI/STMIK-SI/IX/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkRCODQyMkYtMTI2RS00MkZFLUFFQkQtN0JDMTU1QkQyREZC",
+    "link_prodi": "/data_prodi/OUFDMjZEMjAtNTA5MS00QkI0LUIwODAtNjUzRTMzNDlBMDdD"
+  }
+}

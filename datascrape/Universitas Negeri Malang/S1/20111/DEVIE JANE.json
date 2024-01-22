@@ -1,0 +1,406 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK401-88207-10",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK401-88207-10",
+      "nm_mk": "Deutsch I",
+      "sks_mk": 8,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK432-88207-10",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS407-88207-10",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK410-88207-10",
+      "nm_mk": "Pengantar Linguistik Umum",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK428-88207-10",
+      "nm_mk": "Bahasa Inggris Profesi",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK405-88207-10",
+      "nm_mk": "Telaah Pranata Masyarakat Jerman I",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK417-88207-10",
+      "nm_mk": "Struktur und Wortschatz I",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK421-88207-10",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK402-88207-10",
+      "nm_mk": "Deutsch II",
+      "sks_mk": 8,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK433-88207-10",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK402-88207-10",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK406-88207-10",
+      "nm_mk": "Telaah Pranata Masyarakat Jerman II",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK427-88207-10",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK403-88207-10",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK443-88207-10",
+      "nm_mk": "Deutsch Geschichte",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK419-88207-10",
+      "nm_mk": "Aufsatz I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK403-88207-10",
+      "nm_mk": "Deutsch III",
+      "sks_mk": 6,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK411-88207-10",
+      "nm_mk": "Deutsch Phonologie",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK444-88207-10",
+      "nm_mk": "Arbeit am Text",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK408-88207-10",
+      "nm_mk": "Konversation I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK404-88207-10",
+      "nm_mk": "Deutsch IV",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK412-88207-10",
+      "nm_mk": "Deutsch Morphologie",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK426-88207-10",
+      "nm_mk": "ZIDZ-Vorbereitung",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK439-88207-09",
+      "nm_mk": "Analisis Bahan Ajar",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK418-88207-09",
+      "nm_mk": "Struktur und Wortschatz II",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK409-88207-09",
+      "nm_mk": "Konversation II",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK441-88207-09",
+      "nm_mk": "Media Pembelajaran Bahasa Jerman",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK413-88207-09",
+      "nm_mk": "Deutsche Syntax",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK427-88207-09",
+      "nm_mk": "Pengantar Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK445-88207-11",
+      "nm_mk": "Struktur und Wortschatz III",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK414-88207-11",
+      "nm_mk": "Deutsche Semantik",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK430-88207-11",
+      "nm_mk": "Statistika Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK424-88207-11",
+      "nm_mk": "Tourismus",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK433-88207-11",
+      "nm_mk": "Seminar Proposal",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK442-88207-11",
+      "nm_mk": "Perencanaan Pengajaran Bahasa Jerman",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK440-88207-11",
+      "nm_mk": "Evaluasi Pengajaran Bahasa Jerman",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK429-88207-11",
+      "nm_mk": "Deutsche Literatur",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK425-88207-11",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK421-88207-11",
+      "nm_mk": "Teori Terjemahan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK428-88207-11",
+      "nm_mk": "Literaturgeschichte",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK438-88207-11",
+      "nm_mk": "Praktek Kerja Lapangan (PKL)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK407-88207-11",
+      "nm_mk": "Deutsch auf B2-Niveau",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK446-88207-11",
+      "nm_mk": "Ubersetzung",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PJNK620-88207-13",
+      "nm_mk": "Aufsatz II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK435-88207-11",
+      "nm_mk": "Freier Vortrag",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JNK490-88207-11",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPL490-88208-12",
+      "nm_mk": "Praktik Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DEVIE JANE",
+    "jk": "P",
+    "nipd": "110241406231      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Bahasa Jerman",
+    "reg_pd": "7F7ED411-E8EB-4ECA-B976-D4A257F83086",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-12-31T00:00:00Z",
+    "no_seri_ijazah": "33032/UN32/2/S1/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/Q0JFOTYzMkYtRjFCRS00QzM5LUJBOEMtNTZDRjdBNDUyMzhE"
+  }
+}

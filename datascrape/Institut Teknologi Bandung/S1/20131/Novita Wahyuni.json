@@ -1,0 +1,420 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20132",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KU1021",
+      "nm_mk": "Pemahaman Teks Akademik",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA1201",
+      "nm_mk": "Kalkulus IIA",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1072",
+      "nm_mk": "Pengenalan Teknologi Informasi B",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI1201-13",
+      "nm_mk": "Fisika Dasar IIA",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1001",
+      "nm_mk": "Olah Raga",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1201",
+      "nm_mk": "Pengantar Rekayasa & Desain II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KI1201-08",
+      "nm_mk": "Kimia Dasar II A",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2102-13",
+      "nm_mk": "Mekanika",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU2061-13",
+      "nm_mk": "Agama dan Etika Islam",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2103-13",
+      "nm_mk": "Elektronika",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AS2005-13",
+      "nm_mk": "Astronomi dan Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AS2101-13",
+      "nm_mk": "Astrofisika",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2101-13",
+      "nm_mk": "Fisika Matematik IA",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU2071-13",
+      "nm_mk": "Pancasila dan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2203-13",
+      "nm_mk": "Metode Pengukuran dan Pengolahan Data",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2204-13",
+      "nm_mk": "Fisika Modern",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2251-13",
+      "nm_mk": "Fisika Radiologi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2202-13",
+      "nm_mk": "Listrik Magnet",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2201-13",
+      "nm_mk": "Fisika Matematik IIA",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3103-13",
+      "nm_mk": "Fisika Kuantum",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3151-13",
+      "nm_mk": "Dosimetri dan Proteksi radiasi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3102-13",
+      "nm_mk": "Fisika Termal",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3104-13",
+      "nm_mk": "Eksperimen Fisika I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3101-13",
+      "nm_mk": "Gelombang",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3152-13",
+      "nm_mk": "Fisika Radiodiagnostik",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3176-13",
+      "nm_mk": "Instrumentasi Medis",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3265-13",
+      "nm_mk": "Fisika Sistem Panas Bumi",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3202-13",
+      "nm_mk": "Fisika Komputasi",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3201-13",
+      "nm_mk": "Eksperimen Fisika II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4231-13",
+      "nm_mk": "Fisika dan Teknologi Semikonduktor",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4232-13",
+      "nm_mk": "Pemrosesan Material Elektronik",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3266-13",
+      "nm_mk": "Ekonofisika",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3231-13",
+      "nm_mk": "Fisika Fluida",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3252-13",
+      "nm_mk": "Fisika Radioterapi",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI2161-13",
+      "nm_mk": "Fisika Bumi dan Sistem Kompleks",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3101-13",
+      "nm_mk": "Gelombang",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI4004-13",
+      "nm_mk": "Managemen Industri B",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4096-13",
+      "nm_mk": "Studi Mandiri Terpantau",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4101-13",
+      "nm_mk": "Fisika Inti",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4133-13",
+      "nm_mk": "Fisika Material Energi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3182-13",
+      "nm_mk": "Komunikasi Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU4078-13",
+      "nm_mk": "Studium Generale",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4093-13",
+      "nm_mk": "Seminar dan Sidang Tugas Akhir",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU4294-13",
+      "nm_mk": "Motivasi Berprestasi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4221-13",
+      "nm_mk": "Sifat Fisis Materi dan Fungsionalisasinya",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TL4002-13",
+      "nm_mk": "Rekayasa Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4201-13",
+      "nm_mk": "Fisika Zat Padat",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI3281-13",
+      "nm_mk": "Fisika Statistik",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4091-13",
+      "nm_mk": "Tugas Akhir I",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI4092-13",
+      "nm_mk": "Tugas Akhir II",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Novita Wahyuni",
+    "jk": "P",
+    "nipd": "10213031",
+    "namapt": "Institut Teknologi Bandung",
+    "namajenjang": "S1",
+    "namaprodi": "Fisika",
+    "reg_pd": "9896C1A0-90CD-4F5F-8F13-CF7C8B81B70B",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-02-20T00:00:00Z",
+    "no_seri_ijazah": "102008/I1.A/PP/IV/IJZ/1/2018",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTFFOEMzNTYtNDhFRi00ODcxLUFGM0UtODUwNzk0NDNGOTUy",
+    "link_prodi": "/data_prodi/QjdFQURCRUYtM0I0My00MzA0LTkzNTMtNUMwMjcxNkU1ODA5"
+  }
+}

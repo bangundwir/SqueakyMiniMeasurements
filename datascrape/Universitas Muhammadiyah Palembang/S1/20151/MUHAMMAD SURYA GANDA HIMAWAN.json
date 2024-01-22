@@ -1,0 +1,711 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MFP103",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP109",
+      "nm_mk": "SOSIOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP101",
+      "nm_mk": "AL-ISLAM KEMUHAMMADIYAHAN I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP1003",
+      "nm_mk": "PRAKTEK BIOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP005",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP001",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP1001",
+      "nm_mk": "PRAKTEK KIMIA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP1002",
+      "nm_mk": "PRAKTEK FISIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP101",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP102",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP105",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH2005",
+      "nm_mk": "PRAK PEMBIAKAN GENERATIF & VEGETATIF",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH2022",
+      "nm_mk": "PRAKTEK EKOLOGI HUTAN",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP207",
+      "nm_mk": "DASAR-DASAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP003",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH202A",
+      "nm_mk": "ILMU TANAH HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH205",
+      "nm_mk": "PEMBIAKAN GENERATI&VEG TNM HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG203",
+      "nm_mk": "KLIMATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH425",
+      "nm_mk": "EKOLOGI LAHAN BASAH",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH222",
+      "nm_mk": "EKOLOGI HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH211A",
+      "nm_mk": "KONSRVASI SDA HAYATI",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH2002A",
+      "nm_mk": "Prak. Ilmu Tanah Hutan",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP202",
+      "nm_mk": "AL-ISLAM KEMUHAMMADIYAHAN II",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP206",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH313",
+      "nm_mk": "METODE KOMUNIKASI DAN PENDIDIKAN KONSERVASI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH3004",
+      "nm_mk": "PRAK. SILVIKULTUR",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH3003",
+      "nm_mk": "PRAKTEK PERLINDUNGAN HUTAN",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH323",
+      "nm_mk": "EKOLOGI SATWA LIAR",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH3001",
+      "nm_mk": "PRAKTEK DENDROLOGI",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP 308",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH3034",
+      "nm_mk": "PRAK.ILMU UKUR TANAH & PERPETAAN WILAYA",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH334",
+      "nm_mk": "ILMU UKUR TANAH DAN PERPETAAN WILAYAH",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH303",
+      "nm_mk": "PERLINDUNGAN HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH3023",
+      "nm_mk": "PRAKTEK EKOLOGI SATWA LIAR",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH304",
+      "nm_mk": "SILVIKULTUR",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP 103",
+      "nm_mk": "AIK-III",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH301",
+      "nm_mk": "DENDROLOGI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH643A",
+      "nm_mk": "PENGL.PRILAKU SATWA LIAR",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP204",
+      "nm_mk": "AL-ISLAM DAN KEMUHAMMADIYAHAN IV",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAG408",
+      "nm_mk": "PERANCANG PERCOBAAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH436A",
+      "nm_mk": "INVENTARISASI HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH6033",
+      "nm_mk": "PRAKTEK EKOWISATA",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH4036A",
+      "nm_mk": "PRAKTEK INVENTARISASI HUTAN",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP410",
+      "nm_mk": "METODE ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH4012",
+      "nm_mk": "PRAK. KONSERVASI TANAH & AIR",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH6043A",
+      "nm_mk": "PRAKT.PENGL.PRILAKU SATWA LIAR",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH412",
+      "nm_mk": "KONSERVASI TANAH DAN AIR",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH633",
+      "nm_mk": "EKOWISATA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH4025",
+      "nm_mk": "PRAK. EKOLOGI LAHAN BASAH",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH541",
+      "nm_mk": "PEMANENAN HASIL HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH 313",
+      "nm_mk": "MANAJEMEN HUTAN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH5007",
+      "nm_mk": "PRAK.STRUKTUR DAN SIFAT KAYU",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH531",
+      "nm_mk": "EKONOMI SUMBERDAYA HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH537",
+      "nm_mk": "KEBIJAKAN DAN PERUNDANG-UNDANGAN KEHUTANAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH5045",
+      "nm_mk": "PRAKTEK DASAR-DASAR PENGINDRAAN JAUH",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH3013",
+      "nm_mk": "PRAKTEK METODE KOMUNIKASI DAN PENDIDIKAN KONSERVASI",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH507",
+      "nm_mk": "STRUKTUR DAN SIFAT KAYU",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH5042",
+      "nm_mk": "PRAKTEK PENGELOLAAN DAERAH ALIRAN SUNGAI",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH542",
+      "nm_mk": "PENGELOLAAN DAERAH ALIRAN SUNGAI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP511",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH5041",
+      "nm_mk": "PRAKTEK PEMANENAN HASIL HUTAN",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH545",
+      "nm_mk": "DASAR-DASAR PENGINDERAAN JAUH",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP105",
+      "nm_mk": "AL-ISLAM DAN KEMUHAMMADIYAHAN V",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH739",
+      "nm_mk": "MANAJEMEN KAWASAN HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP206",
+      "nm_mk": "AL-ISLAM DAN KEMUHAMMADIYAHAN VI",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH608A",
+      "nm_mk": "AGROFORESTRY",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WFP207-45",
+      "nm_mk": "DASAR-DASAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH426",
+      "nm_mk": "PRAKTEK EKOSISTEM HUTAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP206",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH644A",
+      "nm_mk": "DESAIN RISET KEHUTANAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH616A",
+      "nm_mk": "PERHUTANAN KOTA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH6024",
+      "nm_mk": "PRAK. PENCEMARAN LINGKUNGAN",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH638A",
+      "nm_mk": "MANAJ.JASA LINGK.&PENGEND.DAMPAK",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH6038A",
+      "nm_mk": "PRAKT.MANAJ.JASA LINGK.&PENGEND.DAMPAK",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH624",
+      "nm_mk": "PENCEMARAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP 103",
+      "nm_mk": "AIK-III",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH7014",
+      "nm_mk": "PRAKTEK RESTORASI LAHAN BASAH",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP103",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH714",
+      "nm_mk": "RESTORASI LAHAN BASAH",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH747",
+      "nm_mk": "PRAKTEK UMUM PENGELOLAAN HUTAN",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH531",
+      "nm_mk": "EKONOMI SUMBERDAYA HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH715",
+      "nm_mk": "DINAMIKA POPULASI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH7046",
+      "nm_mk": "PRAKTEK DASAR-DASAR PENGELOLAAN HASIL HUTAN",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH746",
+      "nm_mk": "DASAR-DASAR PENGELOLAAN HASIL HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH732",
+      "nm_mk": "KEHUTANAN SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH222",
+      "nm_mk": "EKOLOGI HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH426",
+      "nm_mk": "PRAKTEK EKOSISTEM HUTAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP206",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMP006",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH 425",
+      "nm_mk": "EKOLOGI LAHAN BASAH",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP813",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP812",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH 772",
+      "nm_mk": "PRAKTEK KERJA KEHUTANAN",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUHAMMAD SURYA GANDA HIMAWAN",
+    "jk": "L",
+    "nipd": "452015013",
+    "namapt": "Universitas Muhammadiyah Palembang",
+    "namajenjang": "S1",
+    "namaprodi": "Kehutanan",
+    "reg_pd": "CCCE40CD-7792-4800-8AE7-5C5AC04B1DB5",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-03-10T00:00:00Z",
+    "no_seri_ijazah": "542512020000126",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkRFOEI0OTgtNUQyQS00RTY1LTlCODItQThEOUMzMzU2OUUy",
+    "link_prodi": "/data_prodi/MENGMTlFMTktQjAyMi00RUY5LUJCM0ItMDdERDU3MzJCRjFF"
+  }
+}

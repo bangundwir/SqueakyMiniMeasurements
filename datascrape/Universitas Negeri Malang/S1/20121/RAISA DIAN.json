@@ -48,6 +48,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "MFE404-60201-10",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MFE410-60201-10",
       "nm_mk": "Matematika Ekonomi dan Bisnis",
       "sks_mk": 3,
@@ -92,13 +99,6 @@
     {
       "kode_mk": "MFE405-60201-10",
       "nm_mk": "Pengantar Akuntansi I",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MFE404-60201-10",
-      "nm_mk": "Pengantar Manajemen",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -167,6 +167,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MEP402-60201-11",
+      "nm_mk": "Ekonomi Mikro Menengah",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MFE416-60201-11",
       "nm_mk": "Speaking",
       "sks_mk": 1,
@@ -202,15 +209,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MFE414-60201-11",
-      "nm_mk": "Listening",
-      "sks_mk": 1,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MEP402-60201-11",
-      "nm_mk": "Ekonomi Mikro Menengah",
+      "kode_mk": "MEP419-60201-11",
+      "nm_mk": "Bank dan Lembaga Keuangan Bukan Bank",
       "sks_mk": 3,
       "id_smt": "20131",
       "nilai_huruf": null
@@ -223,22 +223,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MEP419-60201-11",
-      "nm_mk": "Bank dan Lembaga Keuangan Bukan Bank",
-      "sks_mk": 3,
+      "kode_mk": "MFE414-60201-11",
+      "nm_mk": "Listening",
+      "sks_mk": 1,
       "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MEP417-60201-11",
-      "nm_mk": "Matematika Ekonomi Lanjut",
-      "sks_mk": 3,
-      "id_smt": "20132",
       "nilai_huruf": null
     },
     {
       "kode_mk": "MEP409-60201-11",
       "nm_mk": "Ekonomi Publik",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MEP410-60201-11",
+      "nm_mk": "Ekonomi Moneter",
       "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
@@ -258,13 +258,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MEP410-60201-11",
-      "nm_mk": "Ekonomi Moneter",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MEP406-60201-11",
       "nm_mk": "Ekonomi Makro Lanjut",
       "sks_mk": 3,
@@ -274,6 +267,13 @@
     {
       "kode_mk": "MEP436-60201-11",
       "nm_mk": "Ekonomi Politik",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MEP417-60201-11",
+      "nm_mk": "Matematika Ekonomi Lanjut",
       "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
@@ -307,13 +307,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MEP443-60201-11",
-      "nm_mk": "Ekonomi Keuangan dan Perbankan",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MEP490-60201-10",
       "nm_mk": "Kuliah Kerja Lapangan (KKL)",
       "sks_mk": 1,
@@ -321,8 +314,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MEP412-60201-11",
-      "nm_mk": "Statistika Inferensial",
+      "kode_mk": "MEP443-60201-11",
+      "nm_mk": "Ekonomi Keuangan dan Perbankan",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -335,6 +328,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MEP421-60201-11",
+      "nm_mk": "Studi Kelayakan dan Evaluasi Proyek",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MEP412-60201-11",
+      "nm_mk": "Statistika Inferensial",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MEP444-60201-11",
       "nm_mk": "Manajemen Keuangan dan Perbankan",
       "sks_mk": 3,
@@ -342,10 +349,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MEP421-60201-11",
-      "nm_mk": "Studi Kelayakan dan Evaluasi Proyek",
+      "kode_mk": "MEP415-60201-11",
+      "nm_mk": "Ekonomi Sumberdaya Alam",
       "sks_mk": 3,
-      "id_smt": "20141",
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MEP445-60201-11",
+      "nm_mk": "Analisis Investasi Perbankan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MEP414-60201-11",
+      "nm_mk": "Ekonomi Sumberdaya Manusia",
+      "sks_mk": 3,
+      "id_smt": "20142",
       "nilai_huruf": null
     },
     {
@@ -363,29 +384,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MEP445-60201-11",
-      "nm_mk": "Analisis Investasi Perbankan",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MEP415-60201-11",
-      "nm_mk": "Ekonomi Sumberdaya Alam",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MEP413-60201-11",
       "nm_mk": "Ekonometrika",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MEP414-60201-11",
-      "nm_mk": "Ekonomi Sumberdaya Manusia",
       "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
@@ -405,16 +405,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MEP491-60201-11",
-      "nm_mk": "Pendadaran dan Skripsi",
-      "sks_mk": 6,
+      "kode_mk": "MEP442-60201-11",
+      "nm_mk": "Ekonomi Kuantitatif",
+      "sks_mk": 3,
       "id_smt": "20151",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MEP442-60201-11",
-      "nm_mk": "Ekonomi Kuantitatif",
-      "sks_mk": 3,
+      "kode_mk": "MEP491-60201-11",
+      "nm_mk": "Pendadaran dan Skripsi",
+      "sks_mk": 6,
       "id_smt": "20151",
       "nilai_huruf": null
     },

@@ -1,0 +1,373 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PTI15001",
+      "nm_mk": "Pemrograman Dasar",
+      "sks_mk": 5,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM15002",
+      "nm_mk": "SISTEM DIGITAL",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG4008",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15004",
+      "nm_mk": "Matematika Komputasi",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15002",
+      "nm_mk": "Pengantar Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM15003",
+      "nm_mk": "ARSITEKTUR ORGANISASI KOMPUT",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFK15002",
+      "nm_mk": "PEMROGRAMAN LANJUT",
+      "sks_mk": 5,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15003",
+      "nm_mk": "ALGORITMA & STRUKTUR DATA",
+      "sks_mk": 5,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU0008",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFK15001",
+      "nm_mk": "MATEMATIKA KOMPUTASI LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15005",
+      "nm_mk": "INTERAKSI MANUSIA KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG4001",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15008",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15006",
+      "nm_mk": "PROBABILITAS STATISTIKA",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15007",
+      "nm_mk": "SISTEM BASIS DATA",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFK15101",
+      "nm_mk": "PEMODELAN BERORIENTASI OBJEK",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM15036",
+      "nm_mk": "PERANCANGAN DAN ANALISA JARKOM",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15009",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFK15201",
+      "nm_mk": "Analisis dan Perancangan Sistem",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTI24908",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 0,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG4007",
+      "nm_mk": "Pendidikan Pancasila dan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFK15003",
+      "nm_mk": "Pengenalan Pola",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKL4013",
+      "nm_mk": "TELEKOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFK15042",
+      "nm_mk": "MANAJEMEN PROYEK PERANGKAT LUN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFK15004",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM15034",
+      "nm_mk": "JARINGAN NIRKABEL",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15011",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM15008",
+      "nm_mk": "KEAMANAN JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM15007",
+      "nm_mk": "JARINGAN KOMPUTER LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4005",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM15033",
+      "nm_mk": "Jaringan Multimedia",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IFK15037",
+      "nm_mk": "Sistem Pakar",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM15032",
+      "nm_mk": "Arsitektur Jaringan Terkini",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15013",
+      "nm_mk": "Manajemen Industri Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIF15022",
+      "nm_mk": "Perencanaan Sumberdaya Perusahaan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI15012",
+      "nm_mk": "Metodologi Penelitian Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIF15012",
+      "nm_mk": "Basis Data Terdistribusi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIF61455",
+      "nm_mk": "Sistem Pendukung Keputusan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4002",
+      "nm_mk": "Praktik Kerja Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIF61454",
+      "nm_mk": "Logika Fuzzy",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIF61452",
+      "nm_mk": "Algoritma Evolusi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COM60062",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4001",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4001",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Taufan Nugraha",
+    "jk": "L",
+    "nipd": "135150201111149   ",
+    "namapt": "Universitas Brawijaya",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "385C60F2-3A9C-47B5-A0FC-81E9F547ABF2",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-08-18T00:00:00Z",
+    "no_seri_ijazah": "124104/UB/S1/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTlBM0I3QUYtNjQ3MC00RDE4LThCMDYtMDk5NDFFNjYzQjA3",
+    "link_prodi": "/data_prodi/Q0JCQzI3NTctNTlFQi00MDg5LUIyMTMtOTU5MEQ3MTdDMDky"
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "INF003",
+      "nm_mk": "Pengantar Informatika Medis dan Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF005",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF001",
+      "nm_mk": "Struktur Data",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF006",
+      "nm_mk": "Kalkulus",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF002",
+      "nm_mk": "Komputer dan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKOM002",
+      "nm_mk": "Komunikasi Interpersonal",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAA004",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAA001",
+      "nm_mk": "STUDI AGAMA ISLAM 1",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF004",
+      "nm_mk": "Logika Informatika",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF012",
+      "nm_mk": "Interaksi Manusia dan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAA005",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAA007",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF007",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF010",
+      "nm_mk": "Sistem Informasi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF009",
+      "nm_mk": "Arsitektur dan Organisasi Komputer",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF008",
+      "nm_mk": "Basis Data",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF011",
+      "nm_mk": "Analisa Algoritma",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAA002",
+      "nm_mk": "STUDI AGAMA ISLAM 2",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKOM007",
+      "nm_mk": "Bahasa Inggris 2",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF013",
+      "nm_mk": "Dasar Pemrograman Web",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF016",
+      "nm_mk": "Sistem Manajemen Basis Data",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF017",
+      "nm_mk": "Sistem Informasi Rumah Sakit",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF015",
+      "nm_mk": "Aljabar Linier dan Matrik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKOM005",
+      "nm_mk": "Statistika dan Probabilitas",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAA006",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF014",
+      "nm_mk": "Analisa dan Perancangan Sistem Terstruktur",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF027",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAA008",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF022",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF018",
+      "nm_mk": "Analisa Numerik",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF028",
+      "nm_mk": "Penambangan Data",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF019",
+      "nm_mk": "Teori Bahasa dan Otomata",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKOM006",
+      "nm_mk": "Pemrograman Web",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKOM001",
+      "nm_mk": "Rekayasa Perangkat Lunak",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF020",
+      "nm_mk": "Pemrograman Berorientasi Objek",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF021",
+      "nm_mk": "Sistem Pendukung Keputusan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKOM008",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF036",
+      "nm_mk": "Uji Kualitas Perangkat Lunak",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF057",
+      "nm_mk": "Web Semantic",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF054",
+      "nm_mk": "Teknologi AR/VR",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF029",
+      "nm_mk": "Manajemen Proyek",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF024",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF053",
+      "nm_mk": "Analisis dan Desain Perangkat Lunak",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF055",
+      "nm_mk": "Sistem Media Interaktif",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INF023",
+      "nm_mk": "Teknologi Gawai",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ICHA PUSPITA SARI",
+    "jk": "P",
+    "nipd": "213200211",
+    "namapt": "Universitas Alma Ata",
+    "namajenjang": "S1",
+    "namaprodi": "Informatika",
+    "reg_pd": "B69919B3-0A31-4439-BA87-CD24F169A694",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0VBQUMxQzktRDc0Ny00ODMzLTk0NEItNEMyNjJGMUUxMzI2",
+    "link_prodi": "/data_prodi/NkEzMzcxMUEtQ0ZDQi00RTZDLUE1NTQtMjk4NDVEQkRGNUMx"
+  }
+}

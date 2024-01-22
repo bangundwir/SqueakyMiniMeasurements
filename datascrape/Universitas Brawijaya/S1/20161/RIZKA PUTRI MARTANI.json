@@ -1,0 +1,494 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UNG4008",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAB111",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PES4002",
+      "nm_mk": "Dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG4007",
+      "nm_mk": "Kewarganegaraan dan Pancasila",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAK144",
+      "nm_mk": "Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG170",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG4001",
+      "nm_mk": "AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PES4001",
+      "nm_mk": "Sosiologi Pedesaan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4016",
+      "nm_mk": "PERUNDANGAN & PERATURAN PETERN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4015",
+      "nm_mk": "ANATOMI & FISIOLOGI TERNAK",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PET4001",
+      "nm_mk": "Mikrobiologi",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4017",
+      "nm_mk": "TINGKAH LAKU TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4002",
+      "nm_mk": "Peralatan Dan Teknik Analisis Lab.",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4006",
+      "nm_mk": "GENETIKA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEM4002",
+      "nm_mk": "Ilmu Tanaman Pakan Ternak",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEM4001",
+      "nm_mk": "Dasar Nutrisi Ternak Dan B.M.T",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4004",
+      "nm_mk": "ILMU PRODUKSI TERNAK UNGGAS",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4002",
+      "nm_mk": "ILMU PRODUKSI TERNAK POTONG",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEM4003",
+      "nm_mk": "Ilmu Nutrisi Ternak Ruminansia",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4007",
+      "nm_mk": "Ilmu Reproduksi Ternak",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PET4012",
+      "nm_mk": "DASAR TEKNOLOGI HASIL TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4005",
+      "nm_mk": "Ilmu Produksi Aneka Ternak",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEM4004",
+      "nm_mk": "Ilmu Nutrisi Ternak Non Ruminansia",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4003",
+      "nm_mk": "Ilmu Produksi Ternak Perah",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PES4005",
+      "nm_mk": "Penyuluhan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PES4003",
+      "nm_mk": "Ekonomi Produksi Peternakan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4003",
+      "nm_mk": "Statistik Terapan Dan Rancob",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEM4006",
+      "nm_mk": "Sistem Pertanian Terpadu",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4016",
+      "nm_mk": "MANAJ. REPROD. & INSEMINASI BU",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEM4005",
+      "nm_mk": "Iptek Pengolahan Bahan Pakan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PET4013",
+      "nm_mk": "PENANGANAN HASIL TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4005",
+      "nm_mk": "Metode Penel. Dan Penul. Karya Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PES4012",
+      "nm_mk": "PEMASARAN HASIL TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PET4011",
+      "nm_mk": "Pengendalian Mutu",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PET4014",
+      "nm_mk": "TEKNOLOGI HASIL TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4018",
+      "nm_mk": "MANAJEMEN PROD. TER. NON RUMIN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4008",
+      "nm_mk": "Pemuliaan Ternak",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4015",
+      "nm_mk": "MANAJEMEN PROD. TERNAK RUMINAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PES4008",
+      "nm_mk": "Manajemen Agribisnis Peternakan",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4005",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PES4009",
+      "nm_mk": "Perenc.Dan Eval. Usaha Peternakan",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PET4017",
+      "nm_mk": "Industri Pengolahan Daging",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEM4010",
+      "nm_mk": "Pemprograman Pakan Ternak",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4019",
+      "nm_mk": "PENGELOLAAN LIMBAH PETERNAKAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4020",
+      "nm_mk": "TEKNOLOGI REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEM4011",
+      "nm_mk": "INDUSTRI PAKAN TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEP4014",
+      "nm_mk": "Manajemen Pemuliaan Ternak",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4006",
+      "nm_mk": "Epidemiologi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4014",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4013",
+      "nm_mk": "Praktek Kerja Lapang",
+      "sks_mk": 5,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEF4014",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU60001",
+      "nm_mk": "Tugas Akhir/ Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU60001",
+      "nm_mk": "Tugas Akhir/ Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU60001",
+      "nm_mk": "Tugas Akhir/ Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU60001",
+      "nm_mk": "Tugas Akhir/ Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU60001",
+      "nm_mk": "Tugas Akhir/ Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU60001",
+      "nm_mk": "Tugas Akhir/ Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RIZKA PUTRI MARTANI",
+    "jk": "P",
+    "nipd": "165050100111190",
+    "namapt": "Universitas Brawijaya",
+    "namajenjang": "S1",
+    "namaprodi": "Peternakan",
+    "reg_pd": "10A4CFBB-F96E-43A4-99C0-05DC3CE093DE",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-07-28T00:00:00Z",
+    "no_seri_ijazah": "542312023003930",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTlBM0I3QUYtNjQ3MC00RDE4LThCMDYtMDk5NDFFNjYzQjA3",
+    "link_prodi": "/data_prodi/N0Y5RTdDQUItM0JBRi00MTJFLUExNDgtM0MzODMzREQ2NjE5"
+  }
+}

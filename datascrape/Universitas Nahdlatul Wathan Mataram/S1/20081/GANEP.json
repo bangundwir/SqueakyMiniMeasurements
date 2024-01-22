@@ -1,0 +1,335 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20081",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": null,
+      "nm_stat_mhs": "Keluar"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK043",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK041",
+      "nm_mk": "KEMAHIRAN BAHASA ARAB I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB082",
+      "nm_mk": "ILMU KEALAMIAHAN DASAR",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB041",
+      "nm_mk": "PENGANTAR LINGUISTIK UMUM",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK044",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK041",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK045",
+      "nm_mk": "BAHASA INDOENSIA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK042",
+      "nm_mk": "PENDIDIKAN PNCASILA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB042",
+      "nm_mk": "FONOLOGI BAHASA INDONESIA I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK042",
+      "nm_mk": "KEMAHIRAN BAHASA ARAB II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB060",
+      "nm_mk": "PENGANTAR TEORI SASTRA UMUM",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB067",
+      "nm_mk": "APRESIASI PUISI I",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB061",
+      "nm_mk": "TEORI PUISI I",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB083",
+      "nm_mk": "KE-NW-AN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB081",
+      "nm_mk": "SOSIOLOGI-ANTROFOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB043",
+      "nm_mk": "FONOLOGI BAHASA INDONESIA II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB044",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB073",
+      "nm_mk": "SEJARAH SASTRA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK043",
+      "nm_mk": "AKSARA BAHASA SASAK",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB068",
+      "nm_mk": "APRESIASI PUISI II",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB059",
+      "nm_mk": "MANUSIA DAN KEBUDAYAAN INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB074",
+      "nm_mk": "SOSIOLOGI SASTRA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB062",
+      "nm_mk": "TEORI PUISI II",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB058",
+      "nm_mk": "MASYARAKAT & KESENIAN INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB057",
+      "nm_mk": "FILSAFAT ILMU",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB046",
+      "nm_mk": "SINTAKSIS BAHASA INDONESIA I",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB063",
+      "nm_mk": "TEORI PROSA I",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB069",
+      "nm_mk": "APRESIASI PROSA I",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB045",
+      "nm_mk": "MORFOLOGI BAHASA INDONESIA II",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB080",
+      "nm_mk": "SASTRA LISAN NUSANTARA/FOKLOR",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK044",
+      "nm_mk": "KEMAHIRAN BAHASA SASAK I",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB075",
+      "nm_mk": "PSIKOLOGI SASTRA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB065",
+      "nm_mk": "TEORI DRAMA DAN TEATER I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB082",
+      "nm_mk": "METODE PENELITIAN SASTRA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK045",
+      "nm_mk": "KEMAHIRAN BAHASA SASAK II",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB047",
+      "nm_mk": "SINTAKSIS BAHASA INDONESIA II",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB076",
+      "nm_mk": "PENGANTAR KAJIAN SASTRA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB070",
+      "nm_mk": "APRESIASI PROSA II",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB064",
+      "nm_mk": "TEORI PROSA II",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB081",
+      "nm_mk": "METODE PENELITIAN BAHASA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GANEP",
+    "jk": "L",
+    "nipd": "0841447           ",
+    "namapt": "Universitas Nahdlatul Wathan Mataram",
+    "namajenjang": "S1",
+    "namaprodi": "Sastra Indonesia",
+    "reg_pd": "02EF1C83-E73F-41EA-8691-7D48F80F3D5C",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lainnya",
+    "tgl_keluar": "2014-06-30T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTFCMEE4MTctN0RGRC00QTE5LThDQTYtQjI5MjRBOUI5QzE1",
+    "link_prodi": "/data_prodi/NUY1ODNFN0UtMkVDNi00RUUzLTk1NDItMUVEQUM5RDQzN0Yx"
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20072",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SS251",
+      "nm_mk": "LAB HIDROULIKA",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS265",
+      "nm_mk": "BHS INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS258",
+      "nm_mk": "OBJECT ORIENTED PROGRAMMING",
+      "sks_mk": 4,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS253",
+      "nm_mk": "MEKANIKA TANAH II",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS257",
+      "nm_mk": "S.INFORMASI PENJUALAN (SAP)",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS256",
+      "nm_mk": "OBJECT ORIENTED THEORY AND DESIGN",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS254",
+      "nm_mk": "LAB MEKANIKA TANAH",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS250",
+      "nm_mk": "HIDROULIKA",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS255",
+      "nm_mk": "ANALISIS STRUKTUR",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS252",
+      "nm_mk": "DASAR-DASAR REKAYASA TRANSPORTASI",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS377",
+      "nm_mk": "METONOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS401",
+      "nm_mk": "REKAYASA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS374",
+      "nm_mk": "TEKNIK PENULISAN DAN PRESENTASI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS372",
+      "nm_mk": "REKAYASA FONDASI I",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS371",
+      "nm_mk": "STRUKTUR BAJA I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS373",
+      "nm_mk": "PERANCANGAN GEOMETRIK JALAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS376",
+      "nm_mk": "DATA WAREHOUSE DAN DATA MAINNING",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS375",
+      "nm_mk": "PEMROGRAMAN WEB LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS370",
+      "nm_mk": "STRUKTUR BET0N I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS388",
+      "nm_mk": "OPP LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS387",
+      "nm_mk": "ANALISIS DAN PERANCANGAN SISTEM INFORMAS",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS380",
+      "nm_mk": "STRUKTUR BETON II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS403",
+      "nm_mk": "KONTROL DAN AUDIT SISTEM INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS384",
+      "nm_mk": "REKAYASA PELAKSANAAN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS382",
+      "nm_mk": "DINAMIKA STRUKTUR",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS385",
+      "nm_mk": "CORPORATE NETWORK MANAGEMENT AND IMPLEME",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS402",
+      "nm_mk": "SUPPLY CHAIN MANAGEMENT SYSTEM (SAP MM)",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS376",
+      "nm_mk": "DATA WAREHOUSE DAN DATA MAINNING",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS241",
+      "nm_mk": "STATISTIKA DAN MEKANIKA BAHAN III",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS371",
+      "nm_mk": "STRUKTUR BAJA I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS401",
+      "nm_mk": "REKAYASA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS400",
+      "nm_mk": "REKAYASA GEMPA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK060",
+      "nm_mk": "PHENOMENOLOGI AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS373",
+      "nm_mk": "PERANCANGAN GEOMETRIK JALAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS370",
+      "nm_mk": "STRUKTUR BET0N I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS253",
+      "nm_mk": "MEKANIKA TANAH II",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS254",
+      "nm_mk": "LAB MEKANIKA TANAH",
+      "sks_mk": 1,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS384",
+      "nm_mk": "REKAYASA PELAKSANAAN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS383",
+      "nm_mk": "METODE ELEMEN HINGGA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS257",
+      "nm_mk": "S.INFORMASI PENJUALAN (SAP)",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS388",
+      "nm_mk": "OPP LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS259",
+      "nm_mk": "USER INTERFACE DESIGN",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS258",
+      "nm_mk": "OBJECT ORIENTED PROGRAMMING",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS250",
+      "nm_mk": "HIDROULIKA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS371",
+      "nm_mk": "STRUKTUR BAJA I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS376",
+      "nm_mk": "DATA WAREHOUSE DAN DATA MAINNING",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS370",
+      "nm_mk": "STRUKTUR BET0N I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS242",
+      "nm_mk": "MEKANIKA TANAH I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS247",
+      "nm_mk": "MATEMATIKA IV",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS373",
+      "nm_mk": "PERANCANGAN GEOMETRIK JALAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS258",
+      "nm_mk": "OBJECT ORIENTED PROGRAMMING",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS388",
+      "nm_mk": "OPP LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS382",
+      "nm_mk": "DINAMIKA STRUKTUR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS259",
+      "nm_mk": "USER INTERFACE DESIGN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS383",
+      "nm_mk": "METODE ELEMEN HINGGA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS253",
+      "nm_mk": "MEKANIKA TANAH II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS381",
+      "nm_mk": "STRUKTUR BAJA II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS387",
+      "nm_mk": "ANALISIS DAN PERANCANGAN SISTEM INFORMAS",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS254",
+      "nm_mk": "LAB MEKANIKA TANAH",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS380",
+      "nm_mk": "STRUKTUR BETON II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS253",
+      "nm_mk": "MEKANIKA TANAH II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS259",
+      "nm_mk": "USER INTERFACE DESIGN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS383",
+      "nm_mk": "METODE ELEMEN HINGGA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS258",
+      "nm_mk": "OBJECT ORIENTED PROGRAMMING",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS384",
+      "nm_mk": "REKAYASA PELAKSANAAN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS388",
+      "nm_mk": "OPP LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS376",
+      "nm_mk": "DATA WAREHOUSE DAN DATA MAINNING",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS373",
+      "nm_mk": "PERANCANGAN GEOMETRIK JALAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS392",
+      "nm_mk": "PERANCANGAN BANGUNAN BAJA",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS403",
+      "nm_mk": "KONTROL DAN AUDIT SISTEM INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS252",
+      "nm_mk": "DASAR-DASAR REKAYASA TRANSPORTASI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS384",
+      "nm_mk": "REKAYASA PELAKSANAAN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS258",
+      "nm_mk": "OBJECT ORIENTED PROGRAMMING",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS400",
+      "nm_mk": "REKAYASA GEMPA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS388",
+      "nm_mk": "OPP LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ODI MARWATA ARSAMANGGALA",
+    "jk": "L",
+    "nipd": "0626009           ",
+    "namapt": "Universitas Kristen Maranatha",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Sipil",
+    "reg_pd": "84B780AE-1EAB-4F93-BC6C-3797DF8A4F52",
+    "mulai_smt": "20061",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": "2015-04-29T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTQzMjY1QjMtMkY0Ri00Q0EwLUEwQTUtOEQwNTM3QjQ0QjYy",
+    "link_prodi": "/data_prodi/QTYzNDdFREYtRDMwNy00RjY3LTk5NEItOTgyMzY3MDhEM0U5"
+  }
+}

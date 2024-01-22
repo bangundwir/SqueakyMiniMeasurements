@@ -1,0 +1,82 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20122",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MI101",
+      "nm_mk": "MANAJEMEN KUALITAS",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MI110",
+      "nm_mk": "MANAJEMEN STRATEGI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MI102",
+      "nm_mk": "RISET OPERASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MI106",
+      "nm_mk": "SISTEM PRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MI105",
+      "nm_mk": "STRATEGI PERUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MI420",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "YETTY EVI BR TARIHORAN",
+    "jk": "P",
+    "nipd": "12111025          ",
+    "namapt": "Institut Teknologi Nasional Malang",
+    "namajenjang": "S2",
+    "namaprodi": "Teknik Industri",
+    "reg_pd": "EAA75AC3-9973-4A18-B1CE-3800290FB133",
+    "mulai_smt": "20122",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-08-23T00:00:00Z",
+    "no_seri_ijazah": "ITN-006/TI-MI/S.2/II'14",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDE2MTAzNkQtQ0Y4QS00MDhFLUIxNEYtRDlGNUI0QkE4RkIy",
+    "link_prodi": "/data_prodi/NjkxODA0QzMtRTU2Qy00QkEyLUJFQzUtNzU2OTEyN0JCOUYx"
+  }
+}

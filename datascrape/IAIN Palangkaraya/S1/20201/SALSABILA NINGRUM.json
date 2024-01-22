@@ -1,0 +1,571 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "04.00.1.03",
+      "nm_mk": "Sejarah dan Peradaban Islam",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.05",
+      "nm_mk": "Ulumul Hadits",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEBI.17.06",
+      "nm_mk": "Fikih",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.04",
+      "nm_mk": "Ulumul Qur'an",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.02",
+      "nm_mk": "Studi Agama Kontemporer",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.19",
+      "nm_mk": "Pengantar Ekonomi Islam",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.08",
+      "nm_mk": "Fikih",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.01",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.02",
+      "nm_mk": "Metodologi Studi Islam",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.13",
+      "nm_mk": "Teologi Islam",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.20",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.14",
+      "nm_mk": "Akhlak Tasawuf",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00.00.0.3",
+      "nm_mk": "Kewarganegaraan dan Moderasi Beragama",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.15",
+      "nm_mk": "Bahasa Arab Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.21",
+      "nm_mk": "Sejarah Pemikiran Ekonomi Islam",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00.00.0.04",
+      "nm_mk": "Studi Agama Kontemporer",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00.00.0.02",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00.00.0.02",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.09",
+      "nm_mk": "Fikih Muamalah",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.06",
+      "nm_mk": "Tafsir Ayat Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.07",
+      "nm_mk": "Hadist Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00.00.0.01",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00.00.0.04",
+      "nm_mk": "Studi Agama Kontemporer",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.09",
+      "nm_mk": "Fikih Muamalah",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00.00.0.01",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.17.02",
+      "nm_mk": "Pendidikan Kewarganeraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.21",
+      "nm_mk": "Sejarah Pemikiran Ekonomi Islam",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.10",
+      "nm_mk": "Metodologi Studi Islam",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.01",
+      "nm_mk": "Pengantar Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.12",
+      "nm_mk": "Qawaidul Fiqhiyah",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.23",
+      "nm_mk": "Manajemen Sumber Daya Insani",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.09",
+      "nm_mk": "Etika Bisnis Islam",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.27",
+      "nm_mk": "Teknologi Informasi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.13",
+      "nm_mk": "Ekonomi Mikro Islam",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.05",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKWPS09.1X",
+      "nm_mk": "FIKIH MUAMALAH KONTEMPORER",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.16",
+      "nm_mk": "Bahasa Inggris Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.26",
+      "nm_mk": "Hukum Perikatan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.08",
+      "nm_mk": "Studi Kelayakan Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.26",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.22",
+      "nm_mk": "Lembaga Keuangan Syariah",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.24",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.25",
+      "nm_mk": "Hukum Perdata Islam di Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.11",
+      "nm_mk": "Ushul Fiqh Ekonomi dan Keuangan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.04",
+      "nm_mk": "Aplikasi Komputer Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.18",
+      "nm_mk": "Praktik Pengamalan Ibadah",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.14",
+      "nm_mk": "Ekonomi Makro Islam",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.33",
+      "nm_mk": "Ekonomi Sumber Daya Manusia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.02",
+      "nm_mk": "Akuntansi Syariah",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.06",
+      "nm_mk": "Manajemen Resiko",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.11",
+      "nm_mk": "Arbitrase Syariah",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.18",
+      "nm_mk": "Matematika Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.16",
+      "nm_mk": "Ekonomi Bisnis Digital",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.10",
+      "nm_mk": "Fatwa Bisnis Syariah",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.03",
+      "nm_mk": "Akuntansi Lembaga Keuangan Syariah",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.25",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.07",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.15",
+      "nm_mk": "Ekonomi Kreatif dan Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.12",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.22",
+      "nm_mk": "Statistik 1",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.34",
+      "nm_mk": "Ekonomi Pariwisata",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.28",
+      "nm_mk": "Praktikum I",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.24",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.20",
+      "nm_mk": "Auditing",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.35",
+      "nm_mk": "Ekonomi Sumber Daya Alam dan Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.23",
+      "nm_mk": "Statistik 2",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.2.18",
+      "nm_mk": "Praktik Pengamalan Ibadah",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.21",
+      "nm_mk": "Analisis Laporan Keuangan Syariah",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.17",
+      "nm_mk": "Ekonomi Internasional",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.19",
+      "nm_mk": "Ekonometrika",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.2.27",
+      "nm_mk": "Metodologi Penelitian Ekonomi Syariah",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.00.1.28",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "04.02.1.29",
+      "nm_mk": "Praktikum II",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SALSABILA NINGRUM",
+    "jk": "P",
+    "nipd": "2014120374",
+    "namapt": "IAIN Palangkaraya",
+    "namajenjang": "S1",
+    "namaprodi": "Ekonomi Syariah",
+    "reg_pd": "E43AE532-0B51-4A45-9E7B-B08D7B16E438",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OUMwREREMjgtQkNDNi00RTU2LUFFNzgtQjEwRTY3MUI2QzE3",
+    "link_prodi": "/data_prodi/ODY2NTQ4NUYtQTk0My00RjdCLTg2ODUtNTZBMzhFODQxMDlC"
+  }
+}

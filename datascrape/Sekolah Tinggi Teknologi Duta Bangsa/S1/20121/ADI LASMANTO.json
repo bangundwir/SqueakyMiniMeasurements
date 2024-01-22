@@ -1,0 +1,513 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 2,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK3404",
+      "nm_mk": "INSTALASI LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1404",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1502",
+      "nm_mk": "DASAR KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1603",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2404",
+      "nm_mk": "PENGUKURAN BESARAN LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4203",
+      "nm_mk": "TEKNIK DIGITAL",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB7001",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2503",
+      "nm_mk": "RANGKAIAN LISTRIK I",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1291",
+      "nm_mk": "PRAKTEK FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2505",
+      "nm_mk": "SISTEM OPERASI KOMPUTER",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2404",
+      "nm_mk": "PENGUKURAN BESARAN LISTRIK",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2104",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2203",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2403",
+      "nm_mk": "DASAR ELEKTRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB1302",
+      "nm_mk": "K3 PERBURUHAN",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6502",
+      "nm_mk": "MANAJEMEN INDUSTRI",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3303",
+      "nm_mk": "RANGKAIAN LISTRIK 2",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1703",
+      "nm_mk": "MATEMATIKA TEKNIK 1",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1802",
+      "nm_mk": "GAMBAR LISTRIK",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6103",
+      "nm_mk": "INSTALASI MESIN LISTRIK",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4104",
+      "nm_mk": "MEDAN ELEKTROMAGNETIK",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5203",
+      "nm_mk": "MESIN-MESIN LISTRIK 1",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2303",
+      "nm_mk": "MATEMATIKA TEKNIK 2",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6403",
+      "nm_mk": "DASAR KONVERSI",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3102",
+      "nm_mk": "ILMU BAHAN LISTRIK",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB5002",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3703",
+      "nm_mk": "DASAR TELEKOMUNIKASI",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5503",
+      "nm_mk": "MIKROPROSESSOR",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7302",
+      "nm_mk": "PEMBANGKIT TENAGA LISTRIK",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4103",
+      "nm_mk": "PRAKTEK INSTALASI LISTRIK",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK3001",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4501",
+      "nm_mk": "PRAKTIKUM TEKNIK DIGITAL",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3403",
+      "nm_mk": "TEKNIK TENAGA LISTRIK",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6703",
+      "nm_mk": "MESIN - MESIN LISTRIK 2",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5702",
+      "nm_mk": "SISTEM KONTROL",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5403",
+      "nm_mk": "P L C",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3102",
+      "nm_mk": "ILMU BAHAN LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4402",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7503",
+      "nm_mk": "KOMPONEN SISTEM KONTROL",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7103",
+      "nm_mk": "SISTEM PROTEKSI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB5002",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5803",
+      "nm_mk": "ELEKTRONIKA DAYA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6603",
+      "nm_mk": "ANALISA SISTEM TENAGA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2505",
+      "nm_mk": "SISTEM OPERASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK7203",
+      "nm_mk": "TRANSMISI DAYA LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK8102",
+      "nm_mk": "PERALATAN TEGANGAN TINGGI",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4602",
+      "nm_mk": "SISTEM LINIER AKTIF",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6202",
+      "nm_mk": "PENGETAHUAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5803",
+      "nm_mk": "ELEKTRONIKA DAYA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6801",
+      "nm_mk": "PRAKTEK P L C",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB8202",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB1202",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK8101",
+      "nm_mk": "PERANCANGAN MESIN LISTRIK",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3601",
+      "nm_mk": "PRAK. PENGUK & RANG. LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5601",
+      "nm_mk": "PRAKTEK MIKROPROSESOR",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK6902",
+      "nm_mk": "PENULISAN KARYA ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2801",
+      "nm_mk": "PRAKTEK ANALOG & ELEKTRONIKA",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3405",
+      "nm_mk": "PRAKTIKUM TEKNIK TENAGA LISTRIK",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB8302",
+      "nm_mk": "PRAKTEK KERJA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5302",
+      "nm_mk": "SISTEM DISTRIBUSI",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB8504",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB1002",
+      "nm_mk": "BAHASA INGGRIS TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5103",
+      "nm_mk": "STATISTIKA & PROBABILITAS",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3202",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ADI LASMANTO",
+    "jk": "L",
+    "nipd": "12157266",
+    "namapt": "Sekolah Tinggi Teknologi Duta Bangsa",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Elektro",
+    "reg_pd": "7B93FCD2-F022-4501-96E2-E4C32AB3ED43",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-10-01T00:00:00Z",
+    "no_seri_ijazah": "87/S1-TE/STTDB/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzhFODVFNzEtODExNC00RjAyLTlGQjUtNURBQUEyRjM1Nzk5",
+    "link_prodi": "/data_prodi/NkMzNTdDMEItQ0EzNy00OUM1LUFCNDEtRjZDREMxRTQ2QjQz"
+  }
+}

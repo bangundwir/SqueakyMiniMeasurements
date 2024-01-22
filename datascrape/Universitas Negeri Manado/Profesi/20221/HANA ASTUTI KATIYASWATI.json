@@ -1,0 +1,49 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PPL301",
+      "nm_mk": "Praktik Pembelajaran Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPP301",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HANA ASTUTI KATIYASWATI",
+    "jk": "P",
+    "nipd": "22906299",
+    "namapt": "Universitas Negeri Manado",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "D6F5828E-2F9C-47E5-93D4-1C4759342B45",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-15T00:00:00Z",
+    "no_seri_ijazah": "0010352321020304",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RTM0NzU2MjItRDk2NS00NkJBLTg2QTYtM0I4RjhGOEM1MkU3",
+    "link_prodi": "/data_prodi/N0RCRTc1RTEtNjM3My00NEJDLUE4QjgtMjNGRjUxMTY1NDhE"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Drop-Out/Putus Studi"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK11501",
+      "nm_mk": "AGAMA ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31506",
+      "nm_mk": "PENGANTAR AKUNTANSI I & PRATIKUM",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31502",
+      "nm_mk": "EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31510",
+      "nm_mk": "MATEMATIKA EKONOMI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11507",
+      "nm_mk": "PENDPANCASILA KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31505",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31501",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB31503",
+      "nm_mk": "AHDE DAN LINGKUNGAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31504",
+      "nm_mk": "TEORI EKONOMI MAKRO",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11502",
+      "nm_mk": "AGAMA ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31508",
+      "nm_mk": "PENGANTAR AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31503",
+      "nm_mk": "TEORI EKONOMI MIKRO",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31511",
+      "nm_mk": "STATISTIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB31502",
+      "nm_mk": "SOSIOLOGI EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB31502",
+      "nm_mk": "EKONOMI KOPERASI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31507",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK31512",
+      "nm_mk": "STATISTIKA PARAMETRIK NON PARAMETRIK",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB41508",
+      "nm_mk": "MANAJEMEN PEMASARAN I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11503",
+      "nm_mk": "AGAMA ISLAM III",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NUR HALIMAH",
+    "jk": "P",
+    "nipd": "2130810017        ",
+    "namapt": "Universitas Islam Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "3914BE66-1C0F-4F8E-9E93-255EC2931269",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Putus Studi",
+    "tgl_keluar": "2017-09-27T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjVDODhGREUtRTlGRS00MTY2LTg2MjktOUFEREZFQUJEQzJF",
+    "link_prodi": "/data_prodi/MTREQTcwQzUtNDk2NC00QkYzLUFDRjYtRDhDQjc5OUQyNEZG"
+  }
+}

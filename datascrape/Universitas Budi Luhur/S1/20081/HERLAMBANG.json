@@ -1,0 +1,464 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20081",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PL009",
+      "nm_mk": "PENGANTAR ILMU POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM033",
+      "nm_mk": "PENGANTAR ILMU KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MI081",
+      "nm_mk": "PENGSTATISTIK SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BA001",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM040",
+      "nm_mk": "DASAR-DASARLOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BA005",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM031",
+      "nm_mk": "WAWASAN BUDI LUHUR",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM039",
+      "nm_mk": "PENDIDIKAN PANCASILA KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SO012",
+      "nm_mk": "SOSIOLOGI DAN ANTROPOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM018",
+      "nm_mk": "PENDIDIKAN AGAMA PROTESTAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM051",
+      "nm_mk": "TEORI KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM015",
+      "nm_mk": "KOMUNIKASI ANTAR PRIBADI DAN KELOMPOK",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM125",
+      "nm_mk": "PENGANTAR KOMUNIKASI VISUAL",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BA075",
+      "nm_mk": "ENGLISH FOR VISUAL COMMUNICATION",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK001",
+      "nm_mk": "ASAS-ASAS MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KP004",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SO004",
+      "nm_mk": "SISTEM SOSIAL BUDAYA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM027",
+      "nm_mk": "PSIKOLOGI KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM046",
+      "nm_mk": "SISTEM KOMUNIKASI INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM130",
+      "nm_mk": "ILUSTRASI DAN DESAIN LAYOUT",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM019",
+      "nm_mk": "KOMUNIKASI MASSA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM014",
+      "nm_mk": "HUKUM DAN KODE ETIK KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM135",
+      "nm_mk": "COPY WRITING",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SO002",
+      "nm_mk": "METODOLOGI PENELITIAN SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SO008",
+      "nm_mk": "SOSIOLOGI KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM160",
+      "nm_mk": "DESAIN GRAFIS",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM023",
+      "nm_mk": "KOMUNIKASI SOSIAL PEMB",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM018",
+      "nm_mk": "KOMUNIKASI LINTAS BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM129",
+      "nm_mk": "FOTOGRAFI DESAIN OPTIS",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM127",
+      "nm_mk": "ANIMASI MULTI MEDIA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM147",
+      "nm_mk": "PRAKTIK KOMUNIKASI VISUAL",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM009",
+      "nm_mk": "ETIKA DAN FILSAFAT KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM032",
+      "nm_mk": "METODOLOGI PENELITIAN KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM012",
+      "nm_mk": "HUBUNGAN MANUSIAWI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM050",
+      "nm_mk": "TEKNIK SINEMATOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM011",
+      "nm_mk": "FOTOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM133",
+      "nm_mk": "DESKTOP PUBLISING",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM011",
+      "nm_mk": "FOTOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM128",
+      "nm_mk": "WEB DESAIN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM098",
+      "nm_mk": "TV ADVERTISING",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM128",
+      "nm_mk": "WEB DESAIN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM037",
+      "nm_mk": "PERKTEKKOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM012",
+      "nm_mk": "HUBUNGAN MANUSIAWI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM098",
+      "nm_mk": "TV ADVERTISING",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM145",
+      "nm_mk": "KREATIF VISUAL COMUNICATION",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM401",
+      "nm_mk": "PRODUCT BRAND VISUALIZATION",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM179",
+      "nm_mk": "VECTOR COLOUR ART",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM125",
+      "nm_mk": "PENGANTAR KOMUNIKASI VISUAL",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM405",
+      "nm_mk": "PRE PRESS PRODUCTION",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM184",
+      "nm_mk": "ILUSTRASI DAN KOMIK",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TA012",
+      "nm_mk": "KULIAH KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM404",
+      "nm_mk": "VISUAL WARDROBE",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM178",
+      "nm_mk": "ANIMASI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM134",
+      "nm_mk": "SEMINAR VISUAL COMUNICATION",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM403",
+      "nm_mk": "DESAIN KEMASAN PRODUK",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM400",
+      "nm_mk": "VISUALIASI KONSEP",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TA004",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HERLAMBANG",
+    "jk": "L",
+    "nipd": "0871500021        ",
+    "namapt": "Universitas Budi Luhur",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Komunikasi",
+    "reg_pd": "496D2D7F-9950-4EEE-82D4-D71894C97D89",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-07-23T00:00:00Z",
+    "no_seri_ijazah": "1262109596",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTdBOTVCQkItMjE0RS00NkM1LTkyNEEtQTNEMEVDMTc2Q0Qx",
+    "link_prodi": "/data_prodi/MDlCNDAxNDMtNUM1Qy00MDVDLUFDRTktNzAyMEY2MkREMjVG"
+  }
+}

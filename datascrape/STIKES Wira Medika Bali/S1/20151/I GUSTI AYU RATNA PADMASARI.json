@@ -1,0 +1,192 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "01SMUS4S1T",
+      "nm_mk": "Sistem Muskuloskeletal",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01SRES3S1T",
+      "nm_mk": "Sistem Respirasi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01IKDS4S1T",
+      "nm_mk": "Ilmu Keperawatan Dasar I",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01MRDB4S1T",
+      "nm_mk": "Metode Riset Dan Biostatistik Dan Filsafat Ilmu",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01SPEN3S1T",
+      "nm_mk": "Sistem Pencernaan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01SKAR4S1T",
+      "nm_mk": "Sistem Kardiovaskuler",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01SINT2S1T",
+      "nm_mk": "Sistem Integumen",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "02HOME3S1T",
+      "nm_mk": "Home Care",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "02TRAN2S1T",
+      "nm_mk": "Transcultural Nursing",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "02SPER2S1T",
+      "nm_mk": "Sistem Perkemihan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "02SNEU5S1T",
+      "nm_mk": "Sistem Neurobehaviour",
+      "sks_mk": 5,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "02SSDP2S1T",
+      "nm_mk": "Sistem Sensori Dan Persepsi",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "02KOMU3S1T",
+      "nm_mk": "Komunitas I",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "02RKEP2S1T",
+      "nm_mk": "Riset Keperawatan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "02SEND3S1T",
+      "nm_mk": "Sistem Endokrin",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "03SREP3S1T",
+      "nm_mk": "Sistem Reproduksi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "03SKRI4S1T",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "03KOMP3S1T",
+      "nm_mk": "Komprehensif",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "03SIDH4S1T",
+      "nm_mk": "Sistem Imun Dan Hematologi",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "03KOMU3S1T",
+      "nm_mk": "Komunitas II",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "03MKEP3S1T",
+      "nm_mk": "Manajemen Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "I GUSTI AYU RATNA PADMASARI",
+    "jk": "P",
+    "nipd": "15.322.2141",
+    "namapt": "STIKES Wira Medika Bali",
+    "namajenjang": "S1",
+    "namaprodi": "Keperawatan",
+    "reg_pd": "F85203AF-7C98-4A60-8AFE-60430B7A6930",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-08-07T00:00:00Z",
+    "no_seri_ijazah": "3082/2015/083054-14201/VIII/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NzNCMUYyQjgtQ0U4OC00MDVCLUI5MDQtODY2ODBERDVFQjQ2",
+    "link_prodi": "/data_prodi/MDMyNjFEQjctNUYwMy00RDYyLTg5NjAtODVFMjk0MTVDRTMx"
+  }
+}

@@ -47,16 +47,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESB203",
-      "nm_mk": "PENGETAHUAN BAHAN LISTRIK",
+      "kode_mk": "ESB202",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESF204",
+      "nm_mk": "RANGKAIAN LISTRIK II",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESB202",
-      "nm_mk": "KALKULUS II",
-      "sks_mk": 4,
+      "kode_mk": "ESB203",
+      "nm_mk": "PENGETAHUAN BAHAN LISTRIK",
+      "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
@@ -82,20 +89,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESF204",
-      "nm_mk": "RANGKAIAN LISTRIK II",
-      "sks_mk": 2,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ESB521",
-      "nm_mk": "SISTEM LINIER",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "ESB303",
       "nm_mk": "MATEMATIKA TEKNIK I",
       "sks_mk": 3,
@@ -105,6 +98,27 @@
     {
       "kode_mk": "ESC405",
       "nm_mk": "PERANCSISTEM ELEKTRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESB513",
+      "nm_mk": "PROSES STOKASTIK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESB319",
+      "nm_mk": "MEDAN ELEKTROMAKNETIK",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESB521",
+      "nm_mk": "SISTEM LINIER",
       "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -124,20 +138,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESB513",
-      "nm_mk": "PROSES STOKASTIK",
-      "sks_mk": 2,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ESB319",
-      "nm_mk": "MEDAN ELEKTROMAKNETIK",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "ESC302",
       "nm_mk": "ELEKTRONIKA ANALOG",
       "sks_mk": 3,
@@ -152,9 +152,37 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "TKE412",
+      "nm_mk": "ELEKTRONIKA ANALOG",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "ESC407",
       "nm_mk": "SISTEM MIKROPROSESOR",
       "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EDE603",
+      "nm_mk": "ARSITEKTUR SISTEM KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESD603",
+      "nm_mk": "RISET OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESF401",
+      "nm_mk": "PRAKTIKUM FISIKA",
+      "sks_mk": 1,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -180,31 +208,45 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESF401",
-      "nm_mk": "PRAKTIKUM FISIKA",
-      "sks_mk": 1,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EDE603",
-      "nm_mk": "ARSITEKTUR SISTEM KOMPUTER",
+      "kode_mk": "EDD502",
+      "nm_mk": "MANAJEMEN INDUSTRI",
       "sks_mk": 2,
-      "id_smt": "20172",
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESD603",
-      "nm_mk": "RISET OPERASI",
+      "kode_mk": "ESF706",
+      "nm_mk": "JARINGAN KOMPUTER",
       "sks_mk": 2,
-      "id_smt": "20172",
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKE412",
-      "nm_mk": "ELEKTRONIKA ANALOG",
+      "kode_mk": "TKE506",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESC603",
+      "nm_mk": "DEVAIS MIKROELEKTRONIKA",
       "sks_mk": 3,
-      "id_smt": "20172",
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESC707",
+      "nm_mk": "PERANCANGAN VSLI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESC511",
+      "nm_mk": "PEMROSESAN SINYAL DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
@@ -222,51 +264,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESF706",
-      "nm_mk": "JARINGAN KOMPUTER",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ESC603",
-      "nm_mk": "DEVAIS MIKROELEKTRONIKA",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EDD502",
-      "nm_mk": "MANAJEMEN INDUSTRI",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "ESC507",
       "nm_mk": "LOGIKA ALGORITMA",
       "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKE506",
-      "nm_mk": "METODE PENELITIAN",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ESC511",
-      "nm_mk": "PEMROSESAN SINYAL DIGITAL",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ESC707",
-      "nm_mk": "PERANCANGAN VSLI",
-      "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -285,13 +285,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESB423",
-      "nm_mk": "MEDAN ELEKTROMAKNETIK II",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "ESC615",
       "nm_mk": "SISTEM PEMROSESAN SINYAL",
       "sks_mk": 3,
@@ -299,23 +292,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESB504",
-      "nm_mk": "ELEKTRONIKA DAYA",
-      "sks_mk": 3,
-      "id_smt": "20191",
+      "kode_mk": "ESB423",
+      "nm_mk": "MEDAN ELEKTROMAKNETIK II",
+      "sks_mk": 2,
+      "id_smt": "20182",
       "nilai_huruf": null
     },
     {
       "kode_mk": "ESC710",
       "nm_mk": "PROTEKSI SISTEM ELEKTRONIKA",
       "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "ESF503",
-      "nm_mk": "PRAK.PENGUKURAN BESARAN LISTRIK",
-      "sks_mk": 1,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -334,9 +320,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESF711",
-      "nm_mk": "REKAYASA PERANGKAT LUNAK",
-      "sks_mk": 2,
+      "kode_mk": "ESF503",
+      "nm_mk": "PRAK.PENGUKURAN BESARAN LISTRIK",
+      "sks_mk": 1,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -348,8 +334,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ESF706",
-      "nm_mk": "JARINGAN KOMPUTER",
+      "kode_mk": "ESB504",
+      "nm_mk": "ELEKTRONIKA DAYA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESF711",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
       "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -358,6 +351,13 @@
       "kode_mk": "ESB715",
       "nm_mk": "MEKATRONIKA",
       "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESF706",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
     },

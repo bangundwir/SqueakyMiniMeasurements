@@ -1,0 +1,965 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 77,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKDU4110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4130",
+      "nm_mk": "Pengantar Ilmu Administrasi Negara",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4109",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4433",
+      "nm_mk": "Perencanaan Kota",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4212",
+      "nm_mk": "Pengantar Ilmu Politik",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4440",
+      "nm_mk": "Administrasi Pemerintahan Daerah",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4410",
+      "nm_mk": "Kebijakan Publik",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4510",
+      "nm_mk": "Perbandingan Administrasi Negara",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4531",
+      "nm_mk": "Filsafat Administrasi",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4221",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4340",
+      "nm_mk": "Administrasi Pemerintahan Desa",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4130",
+      "nm_mk": "Pengantar Ilmu Hukum/ PTHI",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4213",
+      "nm_mk": "Sistem Politik Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4341",
+      "nm_mk": "Teori Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPEM4429",
+      "nm_mk": "Manajemen Pelayanan Umum",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4211",
+      "nm_mk": "Logika",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4217",
+      "nm_mk": "Organisasi dan Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4330",
+      "nm_mk": "Perkoperasian",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4218",
+      "nm_mk": "Psikologi Sosial",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4110",
+      "nm_mk": "Pengantar Sosiologi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4332",
+      "nm_mk": "Hukum Administrasi Negara",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4210",
+      "nm_mk": "Pengantar Antropologi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4441",
+      "nm_mk": "Pengembangan Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADBI4438",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4442",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4310",
+      "nm_mk": "Sistem Ekonomi Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4337",
+      "nm_mk": "Usaha - usaha Milik Negara & Daerah",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4111",
+      "nm_mk": "Asas-asas Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4230",
+      "nm_mk": "Sistem Adm. Negara Kesatuan RI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4335",
+      "nm_mk": "Administrasi Pertanahan",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4334",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4131",
+      "nm_mk": "Sistem Hukum Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4111",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4215",
+      "nm_mk": "Pengantar Statistik Sosial",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4221",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4333",
+      "nm_mk": "Administrasi Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4112",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4534",
+      "nm_mk": "Manaj. Logistik Organisasi Publik",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4533",
+      "nm_mk": "Etika Administrasi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4214",
+      "nm_mk": "Sistem Sosial Budaya Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4430",
+      "nm_mk": "Administrasi Kepegawaian",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4331",
+      "nm_mk": "Administrasi Perkantoran",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4214",
+      "nm_mk": "Sistem Sosial Budaya Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4340",
+      "nm_mk": "Administrasi Pemerintahan Desa",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADBI4330",
+      "nm_mk": "Administrasi Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4533",
+      "nm_mk": "Etika Administrasi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4430",
+      "nm_mk": "Administrasi Kepegawaian",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4331",
+      "nm_mk": "Administrasi Perkantoran",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4338",
+      "nm_mk": "Manajemen Proyek",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4214",
+      "nm_mk": "Sistem Sosial Budaya Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4211",
+      "nm_mk": "Logika",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4107",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4211",
+      "nm_mk": "Logika",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4112",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4431",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4440",
+      "nm_mk": "Administrasi Pemerintahan Daerah",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4431",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4433",
+      "nm_mk": "Perencanaan Kota",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4112",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4334",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4107",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4112",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4442",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4442",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4107",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4211",
+      "nm_mk": "Logika",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4440",
+      "nm_mk": "Administrasi Pemerintahan Daerah",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4433",
+      "nm_mk": "Perencanaan Kota",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4334",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPEM4425",
+      "nm_mk": "Hubungan Pusat Dan Daerah",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4333",
+      "nm_mk": "Administrasi Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4333",
+      "nm_mk": "Administrasi Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4111",
+      "nm_mk": "Asas-asas Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4441",
+      "nm_mk": "Pengembangan Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPEM4425",
+      "nm_mk": "Hubungan Pusat Dan Daerah",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4341",
+      "nm_mk": "Teori Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4340",
+      "nm_mk": "Administrasi Pemerintahan Desa",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4218",
+      "nm_mk": "Psikologi Sosial",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4210",
+      "nm_mk": "Pengantar Antropologi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4337",
+      "nm_mk": "Usaha - usaha Milik Negara & Daerah",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4510",
+      "nm_mk": "Perbandingan Administrasi Negara",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4510",
+      "nm_mk": "Perbandingan Administrasi Negara",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4531",
+      "nm_mk": "Filsafat Administrasi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4110",
+      "nm_mk": "Pengantar Sosiologi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4218",
+      "nm_mk": "Psikologi Sosial",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4110",
+      "nm_mk": "Pengantar Sosiologi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4410",
+      "nm_mk": "Kebijakan Publik",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4410",
+      "nm_mk": "Kebijakan Publik",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4210",
+      "nm_mk": "Pengantar Antropologi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4531",
+      "nm_mk": "Filsafat Administrasi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4214",
+      "nm_mk": "Sistem Sosial Budaya Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4130",
+      "nm_mk": "Pengantar Ilmu Administrasi Negara",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4430",
+      "nm_mk": "Administrasi Kepegawaian",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4334",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4533",
+      "nm_mk": "Etika Administrasi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4310",
+      "nm_mk": "Sistem Ekonomi Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4212",
+      "nm_mk": "Pengantar Ilmu Politik",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4334",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPEM4425",
+      "nm_mk": "Hubungan Pusat Dan Daerah",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4333",
+      "nm_mk": "Administrasi Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4533",
+      "nm_mk": "Etika Administrasi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4213",
+      "nm_mk": "Sistem Politik Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4510",
+      "nm_mk": "Perbandingan Administrasi Negara",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4214",
+      "nm_mk": "Sistem Sosial Budaya Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4441",
+      "nm_mk": "Pengembangan Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4430",
+      "nm_mk": "Administrasi Kepegawaian",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4410",
+      "nm_mk": "Kebijakan Publik",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4410",
+      "nm_mk": "Kebijakan Publik",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4335",
+      "nm_mk": "Administrasi Pertanahan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4430",
+      "nm_mk": "Administrasi Kepegawaian",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4218",
+      "nm_mk": "Psikologi Sosial",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4111",
+      "nm_mk": "Asas-asas Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4111",
+      "nm_mk": "Asas-asas Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4218",
+      "nm_mk": "Psikologi Sosial",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4340",
+      "nm_mk": "Administrasi Pemerintahan Desa",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4340",
+      "nm_mk": "Administrasi Pemerintahan Desa",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4335",
+      "nm_mk": "Administrasi Pertanahan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4441",
+      "nm_mk": "Pengembangan Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4500",
+      "nm_mk": "Tugas Akhir Program (TAP)",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4341",
+      "nm_mk": "Teori Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4310",
+      "nm_mk": "Sistem Ekonomi Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADPU4130",
+      "nm_mk": "Pengantar Ilmu Administrasi Negara",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DALIMA",
+    "jk": "P",
+    "nipd": "018123027",
+    "namapt": "Universitas Terbuka",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Administrasi Negara",
+    "reg_pd": "616A853C-438E-4B7F-B873-7A4600F17CF9",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-01-26T00:00:00Z",
+    "no_seri_ijazah": "CA026868/32018101432",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEY0NjBGOTctNkQ0Ny00RDk2LThBMkEtNDM2MUVBMDRGM0U4",
+    "link_prodi": "/data_prodi/NUExODc1QjAtNUExQS00MTI5LThGRDItOTk3QjFGNTg0RUFC"
+  }
+}

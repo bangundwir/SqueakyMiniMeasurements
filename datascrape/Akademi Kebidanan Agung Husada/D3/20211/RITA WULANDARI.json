@@ -1,0 +1,187 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MULOKI",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD401",
+      "nm_mk": "KONSEP KEBIDANAN",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD103A",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD203A",
+      "nm_mk": "BIOLOGI DASAR DAN BIOLOGI PERKEMBANGAN",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD208A",
+      "nm_mk": "KETERAMPILAN DASAR KEBIDANAN I (KDK I)",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD102A",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD502A",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD205A",
+      "nm_mk": "KESEHATAN REPRODUKSI DAN KELUARGA BERENCANA (KB)",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD208B",
+      "nm_mk": "KETERAMPILAN DASAR KEBIDANAN II (KDK II)",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD104",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD403A",
+      "nm_mk": "KOMUNIKASI DALAM PRAKTIK KEBIDANAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD402A",
+      "nm_mk": "ETIKOLEGAL DALAM PRAKTIK KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD201A",
+      "nm_mk": "ANATOMI FISIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD404A",
+      "nm_mk": "MUTU LAYANAN KEBIDANAN DAN KEBIJAKAN KESEHATAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD501A",
+      "nm_mk": "KESEHATAN MASYARAKAT",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD310A",
+      "nm_mk": "PRAKTIK KEBIDANAN DASAR",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD306A",
+      "nm_mk": "ASKEB NEONATUS BAYI BALITA &amp;amp; ANAK PRA SEKOLAH",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD302A",
+      "nm_mk": "ASKEB PERSALINAN &amp;amp; BAYI BARU LAHIR",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD209A",
+      "nm_mk": "OBSTETRI DAN GINEKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD303A",
+      "nm_mk": "ASKEB NIFAS &amp;amp; MENYUSUI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD301A",
+      "nm_mk": "ASKEB KEHAMILAN",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RITA WULANDARI",
+    "jk": "P",
+    "nipd": "01210135",
+    "namapt": "Akademi Kebidanan Agung Husada",
+    "namajenjang": "D3",
+    "namaprodi": "Kebidanan",
+    "reg_pd": "4327ADB7-63CF-46CE-AFC7-0BEEDBFB196D",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTNBNDE1MzctOEE5Qi00N0FGLUIwNTAtMzFFMEYzMzZCRTQ0",
+    "link_prodi": "/data_prodi/QjIwQkNCMjYtOUZDOC00NUUyLThEQUUtNTVBRjM1QjMxNEJD"
+  }
+}

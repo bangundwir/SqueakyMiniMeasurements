@@ -1,0 +1,558 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20213",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "AGB100",
+      "nm_mk": "Pengantar Kewirausahaan",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM102",
+      "nm_mk": "Kimia Dasar 1",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS100",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM130",
+      "nm_mk": "SOSIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB108",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB107",
+      "nm_mk": "PIP",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB112",
+      "nm_mk": "Olahraga dan Seni",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT100",
+      "nm_mk": "PENGANTAR MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM103",
+      "nm_mk": "Kimia Dasar II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO100",
+      "nm_mk": "Ekonomi Umum",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB100",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO100",
+      "nm_mk": "Biologi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB111",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT103",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB106",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN111",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STK211",
+      "nm_mk": "METODE STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM201",
+      "nm_mk": "PENERAPAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO210",
+      "nm_mk": "Mikrobiologi Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM220",
+      "nm_mk": "KIMIA ORGANIK",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK204",
+      "nm_mk": "Landasan Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK230",
+      "nm_mk": "Teknik Dasar dan Keselamatan Laboratorium Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM230",
+      "nm_mk": "KIMIA ANALITIK",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK210",
+      "nm_mk": "Biokimia Fisik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT103",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK240",
+      "nm_mk": "Biokimia Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK203",
+      "nm_mk": "Biokimia Seluler",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SVK213",
+      "nm_mk": "Ilmu Tanah Hutan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKK233",
+      "nm_mk": "PERILAKU KONSUMEN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK241",
+      "nm_mk": "Biokimia Mikroba",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK202",
+      "nm_mk": "Biomolekul",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK304",
+      "nm_mk": "Teknik Penulisan Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK311",
+      "nm_mk": "Bioenergetika",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK331",
+      "nm_mk": "Teknik Analisis Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK321",
+      "nm_mk": "Enzimologi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK321",
+      "nm_mk": "Enzimologi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK342",
+      "nm_mk": "Biokimia Pertanian dan Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSH332",
+      "nm_mk": "ETNOBIOLOGI HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK304",
+      "nm_mk": "Teknik Penulisan Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP231",
+      "nm_mk": "PRINSIP PROSES PENGOLAHAN PANGAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK342",
+      "nm_mk": "Biokimia Pertanian dan Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK331",
+      "nm_mk": "Teknik Analisis Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK312",
+      "nm_mk": "Metabolisme",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK304",
+      "nm_mk": "Teknik Penulisan Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK351",
+      "nm_mk": "Biokimia Toksikologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK313",
+      "nm_mk": "Integrasi dan Regulasi Metabolisme",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSH341",
+      "nm_mk": "PENCEMARAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK343",
+      "nm_mk": "Biokimia Nutrisi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK333",
+      "nm_mk": "Imunokimia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK220",
+      "nm_mk": "Genetika dan Biologi Molekuler",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK344",
+      "nm_mk": "Biokimia Industri",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK344",
+      "nm_mk": "Biokimia Industri",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB400",
+      "nm_mk": "Kuliah Kerja Nyata Tematik",
+      "sks_mk": 4,
+      "id_smt": "20213",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB400",
+      "nm_mk": "Kuliah Kerja Nyata Tematik",
+      "sks_mk": 4,
+      "id_smt": "20213",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK403",
+      "nm_mk": "BIOINFORMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK405",
+      "nm_mk": "Pengantar Penelitian Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK405",
+      "nm_mk": "Pengantar Penelitian Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK403",
+      "nm_mk": "BIOINFORMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK422",
+      "nm_mk": "Biosinyal",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK350",
+      "nm_mk": "Biokimia Medis",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK407",
+      "nm_mk": "Kolokium",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK131A",
+      "nm_mk": "Biokimia Klinis",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK408",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK409",
+      "nm_mk": "Karya Ilmiah",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK131A",
+      "nm_mk": "Biokimia Klinis",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK409",
+      "nm_mk": "Karya Ilmiah",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK408",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK1320",
+      "nm_mk": "Keteknikan Asam Nukleat dan Protein",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK1320",
+      "nm_mk": "Keteknikan Asam Nukleat dan Protein",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Gendhis Mahestri Handiani",
+    "jk": "P",
+    "nipd": "G84190087",
+    "namapt": "Institut Pertanian Bogor",
+    "namajenjang": "S1",
+    "namaprodi": "Biokimia",
+    "reg_pd": "99341756-FB82-4CBD-AB8E-2DB7D92B2972",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODI4RkI5NjYtMzczMy00MzBFLTg2RkYtOTA5Qjc2NEUyNTIz",
+    "link_prodi": "/data_prodi/RTY4MDc4OUEtNkNEMy00MTdELTlERjEtQzFCRDE5RUUzODgz"
+  }
+}

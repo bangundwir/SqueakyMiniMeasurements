@@ -1,0 +1,520 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK11208",
+      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK11203",
+      "nm_mk": "MATEMATIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11207",
+      "nm_mk": "ISD/IBD/IAD",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11209",
+      "nm_mk": "SEJARAH PERADABAN ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK11202",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK11201",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK11205",
+      "nm_mk": "ULUMUL QURAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11206",
+      "nm_mk": "ILMU FIQIH",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK11204",
+      "nm_mk": "ULUMUL HADITS",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21215",
+      "nm_mk": "LOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21216",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21212",
+      "nm_mk": "BAHASA INGGRIS EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK21218",
+      "nm_mk": "AKHLAK",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK41238",
+      "nm_mk": "USHUL FIQIH I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21217",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK21219",
+      "nm_mk": "TAUHID/AKIDAH",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21214",
+      "nm_mk": "FIQIH MUAMALAH I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK41235",
+      "nm_mk": "HADIST EKONOMI II",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21213",
+      "nm_mk": "FIQIH IBADAH",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB21210",
+      "nm_mk": "BAHASA INDONESIA (MET.PENULISAN KARYA ILMIAH)",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK21211",
+      "nm_mk": "BAHASA ARAB EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB51241",
+      "nm_mk": "HUKUM PERIKATAN ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31224",
+      "nm_mk": "HADIST EKONOMI I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31228",
+      "nm_mk": "STATISTIK I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31229",
+      "nm_mk": "TARSIR AYAT2 EKONOMI I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31225",
+      "nm_mk": "METODOLOGI STUDI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31226",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31222",
+      "nm_mk": "FILSAFAT ILMU",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31223",
+      "nm_mk": "FIQIH MUAMALAH II",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31220",
+      "nm_mk": "AKUNTASI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB51246",
+      "nm_mk": "ETIKA BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31221",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31227",
+      "nm_mk": "PENGANTAR PERBANKAN SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK41237",
+      "nm_mk": "TAFSIR AYAT2 EKONOMI II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB61255",
+      "nm_mk": "MANAJEMEN PEMBIAYAAN BANK SYARIAH",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK41236",
+      "nm_mk": "STATISTIK II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB41230",
+      "nm_mk": "AKUNTANSI PERBANKAN SYARIAH I",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB61248",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB61249",
+      "nm_mk": "HUKUM PERBANKAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK41234",
+      "nm_mk": "FILSAFAT EKONOMI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB41231",
+      "nm_mk": "EKONOMI MONETER",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB61250",
+      "nm_mk": "LEMBAGA KEUANGAN SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB41232",
+      "nm_mk": "PERBANDINGAN SISTEM EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK41233",
+      "nm_mk": "EKONOMI MAKRO",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK51243",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK51242",
+      "nm_mk": "EKONOMI MIKRO ISLAMI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB51247",
+      "nm_mk": "MANAJEMEN DANA BANK SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB71257",
+      "nm_mk": "PRAKTEK MICRO BANK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK51244",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB71259",
+      "nm_mk": "STUDI NASKAH EKONOMI (QIRAATUL KUTUB)",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB71258",
+      "nm_mk": "ANALISA INVESTASI SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB71265",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK51245",
+      "nm_mk": "USHUL FIQIH II",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB51239",
+      "nm_mk": "AKUNTANSI PERBANKAN SYARIAH II",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB51240",
+      "nm_mk": "FIKIH EKONOMI KONTEMPORER",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK61251",
+      "nm_mk": "EKONOMI MAKRO ISLAMI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB61254",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB61253",
+      "nm_mk": "INVESTASI SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK61252",
+      "nm_mk": "METODOLOGI PENELITIAN EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB71267",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB71266",
+      "nm_mk": "SEMINAR EKONOMI SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB71260",
+      "nm_mk": "ANALISA LAPORAN KEUANGAN PERB. SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB81270",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKP81202",
+      "nm_mk": "ON THE JOB TRAINING",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB81268",
+      "nm_mk": "KPM",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Mutia Astuti",
+    "jk": "P",
+    "nipd": "161209364",
+    "namapt": "Institut Agama Islam Negeri Lhokseumawe",
+    "namajenjang": "S1",
+    "namaprodi": "Ekonomi Syariah",
+    "reg_pd": "426247DD-7789-4ABB-9EDC-45BB9520998F",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Pindahan Alih Bentuk",
+    "nm_pt_asal": "STAIN Malikussaleh ",
+    "nm_prodi_asal": "Ekonomi Syariah",
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-11-19T00:00:00Z",
+    "no_seri_ijazah": "498/In.29/S1.4.1/R/PP.01.1/2020",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODBBQjQxMTgtQzBCMS00RUMzLTg4QkYtOTU1RUVDMEUzRTRF",
+    "link_prodi": "/data_prodi/NjI1MkNFQjgtRjQwNi00NEU4LTg5MDYtRDY5RkQwMzE0NkEz"
+  }
+}

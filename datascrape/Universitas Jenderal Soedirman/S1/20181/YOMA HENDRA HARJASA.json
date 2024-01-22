@@ -43,6 +43,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "EK1030",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "UN102",
       "nm_mk": "AGAMA ISLAM",
       "sks_mk": 2,
@@ -50,9 +57,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EK1030",
-      "nm_mk": "Pengantar Manajemen",
-      "sks_mk": 3,
+      "kode_mk": "UN101",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -99,15 +106,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UN101",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK1070",
-      "nm_mk": "Indonesian Language",
+      "kode_mk": "EK1011",
+      "nm_mk": "Pengantar Ekonomi Mikro",
       "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -123,27 +123,6 @@
       "kode_mk": "EA2061",
       "nm_mk": "PERPAJAKAN I",
       "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK1011",
-      "nm_mk": "Pengantar Ekonomi Mikro",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EM2030",
-      "nm_mk": "MANAJEMEN KEUANGAN",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK1080",
-      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
-      "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -169,8 +148,43 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM2100",
-      "nm_mk": "Entrepreneurship",
+      "kode_mk": "EM2030",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1070",
+      "nm_mk": "Indonesian Language",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1080",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA2050",
+      "nm_mk": "Sistem Informasi Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK2100",
+      "nm_mk": "Perekonomian Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA2031",
+      "nm_mk": "Akuntansi Biaya",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -190,22 +204,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA2050",
-      "nm_mk": "Sistem Informasi Akuntansi",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK2100",
-      "nm_mk": "Perekonomian Indonesia",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EM2290",
-      "nm_mk": "Business Communcation",
+      "kode_mk": "EM2100",
+      "nm_mk": "Entrepreneurship",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -218,31 +218,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA2031",
-      "nm_mk": "Akuntansi Biaya",
+      "kode_mk": "EM2290",
+      "nm_mk": "Business Communcation",
       "sks_mk": 3,
       "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA3230",
-      "nm_mk": "Tax Planning",
-      "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA3150",
-      "nm_mk": "CSME Accounting",
-      "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA4240",
-      "nm_mk": "System Analysis & Design",
-      "sks_mk": 3,
-      "id_smt": "20192",
       "nilai_huruf": null
     },
     {
@@ -253,8 +232,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM4160",
-      "nm_mk": "Perilaku Organisasi",
+      "kode_mk": "EA3150",
+      "nm_mk": "CSME Accounting",
       "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -281,6 +260,48 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EM4160",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA3230",
+      "nm_mk": "Tax Planning",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA4240",
+      "nm_mk": "System Analysis & Design",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA3111",
+      "nm_mk": "Auditing I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA3130",
+      "nm_mk": "Public Sector Accounting",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA3080",
+      "nm_mk": "SISTEM PENGENDALIAN MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EA3190",
       "nm_mk": "Behavioural Acounting",
       "sks_mk": 3,
@@ -302,20 +323,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA3111",
-      "nm_mk": "Auditing I",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA3080",
-      "nm_mk": "SISTEM PENGENDALIAN MANAJEMEN",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EK2130",
       "nm_mk": "SISTEM EKONOMI ISLAM",
       "sks_mk": 3,
@@ -330,27 +337,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA3130",
-      "nm_mk": "Public Sector Accounting",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA3112",
-      "nm_mk": "Auditing II",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA4200",
-      "nm_mk": "PEMERIKSAAN INTERNAL",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EK3110",
       "nm_mk": "Metodologi Penelitian",
       "sks_mk": 3,
@@ -358,8 +344,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA3090",
-      "nm_mk": "TEORI AKUNTANSI",
+      "kode_mk": "EA3113",
+      "nm_mk": "Akuntansi Forensik dan Audit Investigasi",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -386,17 +372,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EA3113",
-      "nm_mk": "Akuntansi Forensik dan Audit Investigasi",
+      "kode_mk": "EA4200",
+      "nm_mk": "PEMERIKSAAN INTERNAL",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UN115",
-      "nm_mk": "Student Social Service",
+      "kode_mk": "EA3112",
+      "nm_mk": "Auditing II",
       "sks_mk": 3,
-      "id_smt": "20211",
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EA3090",
+      "nm_mk": "TEORI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -407,16 +400,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EK4990",
-      "nm_mk": "Tugas Akhir",
-      "sks_mk": 6,
-      "id_smt": "20212",
+      "kode_mk": "UN115",
+      "nm_mk": "Student Social Service",
+      "sks_mk": 3,
+      "id_smt": "20211",
       "nilai_huruf": null
     },
     {
       "kode_mk": "EA1042",
       "nm_mk": "Pengantar Akuntansi II",
       "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK4990",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 6,
       "id_smt": "20212",
       "nilai_huruf": null
     }

@@ -1,0 +1,545 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FU101T",
+      "nm_mk": "Anatomi dan Fisiologi Manusia",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU105T",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU102T",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU103T",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU102P",
+      "nm_mk": "Praktikum Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU103P",
+      "nm_mk": "Praktikum Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI101T",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI102T",
+      "nm_mk": "Mikrobiologi dan Parasitologi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI101P",
+      "nm_mk": "Praktikum Kimia Dasar",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK101P",
+      "nm_mk": "Praktikum Farmasetika I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU104T",
+      "nm_mk": "Pancasila dan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU106T",
+      "nm_mk": "Pendidikan Budaya Anti Korupsi (PBAK)",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI102P",
+      "nm_mk": "Praktikum Mikrobiologi dan Parasitologi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU101P",
+      "nm_mk": "Praktikum Anatomi dan Fisiologi Manusia",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK101T",
+      "nm_mk": "FARMASETIKA I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI202P",
+      "nm_mk": "Praktikum Kimia Organik",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK202T",
+      "nm_mk": "Komunikasi Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK201T",
+      "nm_mk": "Farmasetika II",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU201T",
+      "nm_mk": "Biokimia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK201P",
+      "nm_mk": "Praktikum Farmasetika II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK203T",
+      "nm_mk": "Farmakologi I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201T",
+      "nm_mk": "Farmasi Fisika",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI202T",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK202P",
+      "nm_mk": "Praktikum Komunikasi Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI201P",
+      "nm_mk": "Praktikum Farmasi Fisika",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FB201P",
+      "nm_mk": "Praktikum Farmakognosi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK203P",
+      "nm_mk": "Praktikum Farmakologi I",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FB201T",
+      "nm_mk": "Farmakognosi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU202T",
+      "nm_mk": "Pancasila dan Kewarganegaraan Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU301P",
+      "nm_mk": "Teknologi Informatika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK301.AP",
+      "nm_mk": "Praktikum Farmakologi II",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FB301T",
+      "nm_mk": "Fitokimia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI302P",
+      "nm_mk": "Praktikum Teknologi Sediaan Likuida dan Semi Solida",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK302.AT",
+      "nm_mk": "Ilmu Kesehatan Masyarakat (IKM) dan Promosi Kesehatan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK303T",
+      "nm_mk": "Manajemen Farmasi dan Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK303P",
+      "nm_mk": "Praktikum Manajemen Farmasi dan Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI301T",
+      "nm_mk": "Kimia Farmasi I",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FB301P",
+      "nm_mk": "Praktikum Fitokimia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK301.AT",
+      "nm_mk": "Farmakologi II",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI302T",
+      "nm_mk": "Teknologi Sediaan Likuida dan Semi Solida",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI301P",
+      "nm_mk": "Praktikum Kimia Farmasi I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI401T",
+      "nm_mk": "Kimia Farmasi II",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI403P",
+      "nm_mk": "Praktikum Teknologi Sediaan Steril",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU402T",
+      "nm_mk": "Biostatistik dan Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FB401T",
+      "nm_mk": "Sediaan Bahan Alam",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FB401P",
+      "nm_mk": "Praktikum Sediaan Bahan Alam",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK402P",
+      "nm_mk": "Praktikum Spesialite dan Terminologi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU402P",
+      "nm_mk": "Praktikum Biostatistik dan Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU401P",
+      "nm_mk": "Praktikum Bahasa Indonesia",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI402T",
+      "nm_mk": "Pemasaran Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU401T",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI403T",
+      "nm_mk": "Teknologi Sediaan Steril",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK401T",
+      "nm_mk": "Prilaku Dan Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI402P",
+      "nm_mk": "Praktikum Pemasaran Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK402T",
+      "nm_mk": "Spesialite dan Terminologi Kesehatan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI401P",
+      "nm_mk": "Praktikum Kimia Farmasi II",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK501P",
+      "nm_mk": "Praktikum Farmasi Rumah Sakit",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK504P",
+      "nm_mk": "Praktek Kerja Lapangan di Dinas Kesehatan",
+      "sks_mk": 5,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU501P",
+      "nm_mk": "Proposal Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK502T",
+      "nm_mk": "Pengantar Farmasi Klinik",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK505P",
+      "nm_mk": "Praktikum Pelayanan Informasi Obat",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK503T",
+      "nm_mk": "Perundang-undangan Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI502P",
+      "nm_mk": "Praktikum Teknologi Sediaan Solida",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK501T",
+      "nm_mk": "Farmasi Rumah Sakit",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK301T",
+      "nm_mk": "Farmakologi II",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI502T",
+      "nm_mk": "Teknologi Sediaan Solida",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK602P",
+      "nm_mk": "Praktek Kerja Lapangan Rumah Sakit",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU501P",
+      "nm_mk": "Proposal Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK601P",
+      "nm_mk": "Praktek Kerja Lapangan di Apotek",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FU601P",
+      "nm_mk": "Laporan Tugas Akhir",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "FITRI MAULIDA NURDIYANTI",
+    "jk": "P",
+    "nipd": "201905015",
+    "namapt": "STIKES Banyuwangi",
+    "namajenjang": "D3",
+    "namaprodi": "Farmasi",
+    "reg_pd": "81FB353B-5A15-48D8-9B9F-6BEF2CAC617B",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-09-30T00:00:00Z",
+    "no_seri_ijazah": "484012022000118",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OUFDODlCMkUtQzAxQy00NTMxLUJEN0ItRjgzNTdGNDFGNzVC",
+    "link_prodi": "/data_prodi/Q0JGODA5RDQtNUI5My00RjFBLUJEOTUtQUU0ODEwMzMyNjhF"
+  }
+}

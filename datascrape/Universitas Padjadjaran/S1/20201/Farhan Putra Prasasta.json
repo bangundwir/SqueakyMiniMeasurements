@@ -1,0 +1,410 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UNX10.1015",
+      "nm_mk": "Pengantar Agrosains",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1018",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1011",
+      "nm_mk": "Dasar Ilmu Tanaman",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX017",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-001",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G1F103",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1010",
+      "nm_mk": "Agroekologi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-003",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-002",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX01-006",
+      "nm_mk": "Olah Kreativitas dan Kewirausahaan (OKK)",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.2007",
+      "nm_mk": "Dasar Teknologi Produksi Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.258",
+      "nm_mk": "Matematika Statistika",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.2011",
+      "nm_mk": "Dasar Genetika",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.2009",
+      "nm_mk": "Biologi Sel dan Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N10A181301",
+      "nm_mk": "Pengantar Mekanisasi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.2001",
+      "nm_mk": "Dasar Teknologi Benih",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.285",
+      "nm_mk": "Mikrobiologi Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.2006",
+      "nm_mk": "Dasar Ilmu Tanah",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1027",
+      "nm_mk": "Keterampilan Belajar dan Literasi Informasi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1012",
+      "nm_mk": "Rancangan Percobaan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1023",
+      "nm_mk": "Rekayasa Teknologi Produksi Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1024",
+      "nm_mk": "Bioteknologi Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.166",
+      "nm_mk": "Metode Pemuliaan Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.156",
+      "nm_mk": "Produksi dan Pengolahan Benih",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1022",
+      "nm_mk": "Organisme Pengganggu Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.176",
+      "nm_mk": "Kesuburan Tanah dan Nutrisi Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.215",
+      "nm_mk": "Toksikologi Lingkungan dan Produk Pertanian",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.240",
+      "nm_mk": "Evaluasi Teknologi Produksi Tanaman",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.2005",
+      "nm_mk": "Evaluasi Lahan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.186",
+      "nm_mk": "Produksi Tanaman Perkebunan Penghasil Gula dan Obat",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1028",
+      "nm_mk": "Teknologi Terkini Bidang Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1033",
+      "nm_mk": "Konservasi Tanah dan Air",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX10.108",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.187.A",
+      "nm_mk": "Teknologi Pupuk dan Pemupukan",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.167.A",
+      "nm_mk": "Produksi Tanaman Perkebunan Penyegar",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.179",
+      "nm_mk": "Metode Ilmiah dan Pelaporan Karya Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.190",
+      "nm_mk": "Sistem Pertanian Berkelanjutan (Organik)",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.2021",
+      "nm_mk": "Sistem Tanaman Ganda",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.275",
+      "nm_mk": "Biofertilisasi",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.269",
+      "nm_mk": "Manajemen Produksi Tanaman Perkebunan",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.270",
+      "nm_mk": "Pembiakan Vegetatif",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10F.279",
+      "nm_mk": "Manajemen Agribisnis",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.256",
+      "nm_mk": "Produksi Tanaman Perkebunan Penghasil Getah dan Minyak",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10F.280",
+      "nm_mk": "Sosiologi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.274",
+      "nm_mk": "Teknologi Media Tanam",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10F.181",
+      "nm_mk": "Metode Pemberdayaan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10F.180",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNX10.112",
+      "nm_mk": "Skripsi",
+      "sks_mk": 5,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1026",
+      "nm_mk": "Magang",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E10E.1036",
+      "nm_mk": "Persiapan Pengembangan Karir",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Farhan Putra Prasasta",
+    "jk": "L",
+    "nipd": "150510200053",
+    "namapt": "Universitas Padjadjaran",
+    "namajenjang": "S1",
+    "namaprodi": "Agroteknologi",
+    "reg_pd": "5022FB27-8A4D-461B-88C1-C9296A30F7AC",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QjVGREYzNDctOTMxRC00NkM4LUJCOTUtMjBCN0IxQzhCNUJB",
+    "link_prodi": "/data_prodi/NUZCNkVENjUtMUZDRS00NTJELUJFQkEtMDExQThFQTFCQTFC"
+  }
+}

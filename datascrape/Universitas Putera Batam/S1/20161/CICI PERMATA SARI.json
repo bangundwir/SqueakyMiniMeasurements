@@ -1,0 +1,429 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SI001",
+      "nm_mk": "KOMPUTER APLIKASI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN002",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LW111",
+      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA112",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF111",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN048",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AC001",
+      "nm_mk": "PENGANTAR AKUNTANSI",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM411",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LW040",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN047",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN010",
+      "nm_mk": "EKONOMI MAKRO",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN029",
+      "nm_mk": "PRODUK DAN JASA BANK",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL081",
+      "nm_mk": "TOEIC PREPARATION",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM311",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AC002",
+      "nm_mk": "AKUNTANSI KEUANGAN DASAR",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN009",
+      "nm_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI611",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA111",
+      "nm_mk": "STATISTIK DESKRIPTIF",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK311",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN019",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN027",
+      "nm_mk": "MANAJEMEN PERBANKAN",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN044",
+      "nm_mk": "MANAJEMEN PEMASARAN BANK",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM411",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AC006",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN050",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN055",
+      "nm_mk": "AUDIT BANK",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN031",
+      "nm_mk": "MANAJEMEN PERKREDITAN",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN046",
+      "nm_mk": "PASAR UANG DAN PASAR MODAL",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN038",
+      "nm_mk": "KEBANKSENTRALAN DAN KEBIJAKAN MONETER",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN021",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IG711",
+      "nm_mk": "TOEFL PREPARATION",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN016",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN033",
+      "nm_mk": "MANAJEMEN KEUANGAN LANJUTAN",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TK112",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN042",
+      "nm_mk": "MANAJEMEN INVESTASI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN045",
+      "nm_mk": "METODE PENELITIAN MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LW025",
+      "nm_mk": "HUKUM PERBANKAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN059",
+      "nm_mk": "ADMINISTRASI BANK",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AC016",
+      "nm_mk": "AKUNTANSI PERBANKAN",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN057",
+      "nm_mk": "EKONOMI KEUANGAN DAN PERBANKAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK412",
+      "nm_mk": "KEPEMIMPINAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI622",
+      "nm_mk": "SISTEM INFORMASI AKUNTANSI",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN058",
+      "nm_mk": "ANALISIS KREDIT",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN054",
+      "nm_mk": "SISTEM PENGENDALIAN MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SI001",
+      "nm_mk": "KOMPUTER APLIKASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN028",
+      "nm_mk": "TECHNOPRENEURSHIP DAN INDUSTRI KREATIF",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN060",
+      "nm_mk": "TEKNIK PENULISAN KARYA ILMIAH MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK522",
+      "nm_mk": "MANAJEMEN PERUBAHAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MN049",
+      "nm_mk": "PERBANKAN SYARIAH DAN BPR",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM333",
+      "nm_mk": "PENULISAN JURNAL PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SK222",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EL081",
+      "nm_mk": "TOEIC PREPARATION",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "CICI PERMATA SARI",
+    "jk": "P",
+    "nipd": "160610024",
+    "namapt": "Universitas Putera Batam",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "2C59D1B8-A3C5-44C6-8E09-124C831B41F5",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-09-05T00:00:00Z",
+    "no_seri_ijazah": "612012020003489",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjRDQkU0NzEtNjhDMC00M0NGLTk2MTctQzBEODIxMDg1NEJF",
+    "link_prodi": "/data_prodi/N0MxQkQ4MEMtMkQ0NC00MENELTk5RjQtRDgwRjhGMEMyMDND"
+  }
+}

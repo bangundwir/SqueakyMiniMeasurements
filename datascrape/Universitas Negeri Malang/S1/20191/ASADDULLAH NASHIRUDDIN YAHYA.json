@@ -58,6 +58,20 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "PPTO6019-83204-2018",
+      "nm_mk": "Peralatan Otomotif",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPTO6003-83204-2018",
+      "nm_mk": "Fisika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "UNIV6012-83204-2018",
       "nm_mk": "Perkembangan Peserta Didik",
       "sks_mk": 3,
@@ -107,43 +121,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PPTO6003-83204-2018",
-      "nm_mk": "Fisika Teknik",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPTO6019-83204-2018",
-      "nm_mk": "Peralatan Otomotif",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPTO6007-83204-2018",
-      "nm_mk": "Perpindahan Panas",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "UNIV6007-83204-2018",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PPTO6005-83204-2018",
       "nm_mk": "Statika",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPTO6020-83204-2018",
-      "nm_mk": "Teknologi Motor Bensin",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -156,22 +135,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PPTO6002-83204-2018",
-      "nm_mk": "Matematika Teknik II",
+      "kode_mk": "PPTO6007-83204-2018",
+      "nm_mk": "Perpindahan Panas",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNIV6011-83207-2018",
-      "nm_mk": "Pengantar Pendidikan",
-      "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPTO6015-83204-2018",
-      "nm_mk": "Praktikum Elektronika Dasar",
+      "kode_mk": "PPTO6020-83204-2018",
+      "nm_mk": "Teknologi Motor Bensin",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -184,8 +156,36 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PPTO6024-2018",
-      "nm_mk": "Ototronik",
+      "kode_mk": "UNIV6011-83207-2018",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6007-83204-2018",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPTO6015-83204-2018",
+      "nm_mk": "Praktikum Elektronika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPTO6002-83204-2018",
+      "nm_mk": "Matematika Teknik II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK6006-2018",
+      "nm_mk": "Pengembangan Sumber  Belajar",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -198,9 +198,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FTEK6006-2018",
-      "nm_mk": "Pengembangan Sumber  Belajar",
+      "kode_mk": "PPTO6016-2018",
+      "nm_mk": "Pengukuran Otomotif",
       "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6013-2018",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -212,8 +219,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PPTO6016-2018",
-      "nm_mk": "Pengukuran Otomotif",
+      "kode_mk": "PPTO6024-2018",
+      "nm_mk": "Ototronik",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -233,9 +240,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNIV6013-2018",
-      "nm_mk": "Belajar dan Pembelajaran",
-      "sks_mk": 3,
+      "kode_mk": "PPTO6013-2018",
+      "nm_mk": "Praktek Kerja Bengkel",
+      "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -244,27 +251,6 @@
       "nm_mk": "Teknologi Motor Diesel",
       "sks_mk": 2,
       "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPTO6013-2018",
-      "nm_mk": "Praktek Kerja Bengkel",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPTO6037-2018",
-      "nm_mk": "Sistem Kontrol Dasar",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPTO6029-2018",
-      "nm_mk": "Praktikum Sepeda Motor",
-      "sks_mk": 2,
-      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -278,6 +264,13 @@
       "kode_mk": "PPTO6011-2018",
       "nm_mk": "Mesin Konversi Energi (MKE)",
       "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPTO6037-2018",
+      "nm_mk": "Sistem Kontrol Dasar",
+      "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -317,13 +310,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FTEK6003-2018",
-      "nm_mk": "Keselamatan dan Kesehatan Kerja",
-      "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "FTEK6005-2018",
       "nm_mk": "Kurikulum dan Design Pendidikan Kejuruan",
       "sks_mk": 2,
@@ -331,22 +317,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PPTO6032-83204-2018",
-      "nm_mk": "Praktik Sistem Chasis",
+      "kode_mk": "PPTO6029-2018",
+      "nm_mk": "Praktikum Sepeda Motor",
       "sks_mk": 2,
-      "id_smt": "20211",
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FTEK6007-83204-2018",
-      "nm_mk": "Perencanaan  Pembelajaran",
+      "kode_mk": "FTEK6003-2018",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
       "sks_mk": 2,
-      "id_smt": "20211",
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
       "kode_mk": "PPTO6043-83204-2018",
       "nm_mk": "Teknologi Alat Berat",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPTO6032-83204-2018",
+      "nm_mk": "Praktik Sistem Chasis",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -361,6 +354,20 @@
     {
       "kode_mk": "PPTO6028-83204-2018",
       "nm_mk": "Praktikum Motor Diesel",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK6007-83204-2018",
+      "nm_mk": "Perencanaan  Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK6001-83204-2018",
+      "nm_mk": "Bahasa Inggris Profesi",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -387,13 +394,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FTEK6001-83204-2018",
-      "nm_mk": "Bahasa Inggris Profesi",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PPTO6018-83204-2018",
       "nm_mk": "CAD Otomotif",
       "sks_mk": 2,
@@ -415,13 +415,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PPTO6039-83204-2018",
-      "nm_mk": "Praktikum Sistem Kontrol Chasis",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "UNIV6010-83204-2018",
       "nm_mk": "Manajemen Inovasi",
       "sks_mk": 3,
@@ -436,9 +429,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PPTO6039-83204-2018",
+      "nm_mk": "Praktikum Sistem Kontrol Chasis",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PPTO6048-83204-2018",
       "nm_mk": "Teknologi Kendaraan Hybrid",
       "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPTO6033-83204-2018",
+      "nm_mk": "Praktik Perbaikan Bodi dan Pengecatan",
+      "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
     },
@@ -450,9 +457,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PPTO6033-83204-2018",
-      "nm_mk": "Praktik Perbaikan Bodi dan Pengecatan",
-      "sks_mk": 3,
+      "kode_mk": "FTEK6002-83204-2018",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null
     },
@@ -466,13 +473,6 @@
     {
       "kode_mk": "PPTO6025-83204-2018",
       "nm_mk": "Praktikum Sistem kontrol Mesin",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FTEK6002-83204-2018",
-      "nm_mk": "Metodologi Penelitian",
       "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null

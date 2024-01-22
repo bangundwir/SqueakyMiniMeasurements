@@ -1,0 +1,455 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IS300",
+      "nm_mk": "PENGANTAR ILMU SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS300",
+      "nm_mk": "STRUKTUR ILMU-ILMU SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS301",
+      "nm_mk": "PERKEMBANGAN MASYARAKAT INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS100",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KD300",
+      "nm_mk": "LANDASAN PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS302",
+      "nm_mk": "PRODUKSI, DISTRIBUSI DAN KONSUMSI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KD301",
+      "nm_mk": "PSIKOLOGI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU105",
+      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU100",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS304",
+      "nm_mk": "MANUSIA, TEMPAT, DAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KD302",
+      "nm_mk": "BIMBINGAN DAN KONSELING",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS301",
+      "nm_mk": "PENDIDIKAN ILMU PENGETAHUAN SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU106",
+      "nm_mk": "PENDIDIKAN BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS409",
+      "nm_mk": "SUMBER BELAJAR",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS305",
+      "nm_mk": "INDIVIDU DAN MASYARAKAT",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS303",
+      "nm_mk": "KEBUDAYAAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IS303",
+      "nm_mk": "STUDI MASYARAKAT INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS314",
+      "nm_mk": "ECOPEDAGOGY DALAM PEMBELAJARAN IPS",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS310",
+      "nm_mk": "PENDIDIKAN LINGKUNGAN HIDUP",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DK303",
+      "nm_mk": "KURIKULUM DAN PEMBELAJARAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS207",
+      "nm_mk": "PERKOPERASIAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS304",
+      "nm_mk": "ILMU, TEKNOLOGI, DAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS302",
+      "nm_mk": "PERUBAHAN SOSIAL BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DK304",
+      "nm_mk": "PENGELOLAAN PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS202",
+      "nm_mk": "PERKEMBANGAN MASYARAKAT GLOBAL",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS401",
+      "nm_mk": "KAJIAN BUKU TEKS IPS",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS312",
+      "nm_mk": "SUMBER DAYA DAN KEBENCANAAN DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS306",
+      "nm_mk": "ISU SOSIAL KONTEMPORER",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS311",
+      "nm_mk": "PENDIDIKAN KEPENDUDUKAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS500",
+      "nm_mk": "STRATEGI PEMBELAJARAN IPS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU108",
+      "nm_mk": "PENDIDIKAN JASMANI DAN OLAHRAGA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS205",
+      "nm_mk": "SISTEM POLITIK INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS402",
+      "nm_mk": "PEMBELAJARAN TERPADU IPS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS206",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS501",
+      "nm_mk": "LITERASI ICT DAN MEDIA PEMBELAJARAN IPS",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS313",
+      "nm_mk": "KAJIAN ISU-ISU GLOBAL",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS404",
+      "nm_mk": "PENELITIAN PENDIDIKAN IPS",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS408",
+      "nm_mk": "PEMBELAJARAN BERBASIS LINGKUNGAN HIDUP",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS405",
+      "nm_mk": "METODE PENELITIAN SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS305",
+      "nm_mk": "KAJIAN KONFLIK DALAM MASYARAKAT MULTIBUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS308",
+      "nm_mk": "LITERASI PETA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS403",
+      "nm_mk": "KAJIAN MODAL SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS407",
+      "nm_mk": "SEMINAR PIPS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS503",
+      "nm_mk": "PERENCANAAN PEMBELAJARAN IPS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU300",
+      "nm_mk": "SEMINAR PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS502",
+      "nm_mk": "EVALUASI PEMBELAJARAN IPS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU400",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS504",
+      "nm_mk": "SIMULASI PEMBELAJARAN IPS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS406",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS307",
+      "nm_mk": "PENGEMBANGAN KETERAMPILAN SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS400",
+      "nm_mk": "PARADIGMA IPS",
+      "sks_mk": 2,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS598",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS505",
+      "nm_mk": "KULIAH KERJA LAPANGAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS590",
+      "nm_mk": "PENGENALAN LAPANGAN SATUAN PENDIDIKAN",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SS598",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ICHA PUSPITA",
+    "jk": "P",
+    "nipd": "1805413",
+    "namapt": "Universitas Pendidikan Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan IPS",
+    "reg_pd": "4ADD6C76-1555-4C46-8A42-FE1682880BCE",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-06-28T00:00:00Z",
+    "no_seri_ijazah": "872202022000584",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QkNGNjNCMDctRTcwMi00OTA3LTk2MjEtMjFERDdBRUY3NEI0",
+    "link_prodi": "/data_prodi/RURDNUMxOEMtRjZFMC00NjM1LTk3OTYtODQxMjIyQzI0QkY0"
+  }
+}

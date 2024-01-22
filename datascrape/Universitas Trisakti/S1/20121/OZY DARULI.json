@@ -1,0 +1,555 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPE415",
+      "nm_mk": "MODUL ASUPAN ELIMINASI DAN REPRODUKSI",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBA201",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE413",
+      "nm_mk": "MODUL SEL DAN JARINGAN",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE402",
+      "nm_mk": "PENG.KOMUNIKASI MEDIK & BIO ETIKA",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE401",
+      "nm_mk": "PENG.MET.PEMBELAJARAN & PENELITIAN",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE414",
+      "nm_mk": "MODUL SIRKULASI DAN KOMUNIKASI INTERNAL",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE409",
+      "nm_mk": "PENGANTAR KESEHATAN KELUARGA & MASYARAKAT",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBA202",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE407",
+      "nm_mk": "PENGANTAR KLINIK MEDIK",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE410",
+      "nm_mk": "PENGANTAR ALAT PENUNJANG MEDIK",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE408",
+      "nm_mk": "PENGANTAR KLINIK BEDAH",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE406",
+      "nm_mk": "PENGANTAR DIAGNOSTIK LAB. & TERAPI FARMAKO",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS412",
+      "nm_mk": "SALURAN PERNAPASAN (PUL)",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS420",
+      "nm_mk": "SUSUNAN SARAF (SS)",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE415",
+      "nm_mk": "MODUL ASUPAN ELIMINASI DAN REPRODUKSI",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE414",
+      "nm_mk": "MODUL SIRKULASI DAN KOMUNIKASI INTERNAL",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS421",
+      "nm_mk": "TUMBUH KEMBANG (TK)",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS412",
+      "nm_mk": "SALURAN PERNAPASAN (PUL)",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE414",
+      "nm_mk": "MODUL SIRKULASI DAN KOMUNIKASI INTERNAL",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS421",
+      "nm_mk": "TUMBUH KEMBANG (TK)",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS420",
+      "nm_mk": "SUSUNAN SARAF (SS)",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPE415",
+      "nm_mk": "MODUL ASUPAN ELIMINASI DAN REPRODUKSI",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS411",
+      "nm_mk": "JANTUNG DAN PEMBULUH DARAH (KV)",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS422",
+      "nm_mk": "TULANG DAN OTOT (RM)",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS419",
+      "nm_mk": "ALERGI-IMUNOLOGI-INTOKSIKASI (AI)",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS418",
+      "nm_mk": "TROPIK - INFEKSI (TI)",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS413",
+      "nm_mk": "SALURAN CERNA HATI (GEH)",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS413",
+      "nm_mk": "SALURAN CERNA HATI (GEH)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS430",
+      "nm_mk": "HUKUM DAN MORAL KEDOKTERAN (HAM)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS420",
+      "nm_mk": "SUSUNAN SARAF (SS)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS428",
+      "nm_mk": "MANAJEMEN KED.KELUARGA & KOMUNITAS (MKK)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS423",
+      "nm_mk": "PENGLIHATAN DAN PENDENGARAN (PP)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS420",
+      "nm_mk": "SUSUNAN SARAF (SS)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS428",
+      "nm_mk": "MANAJEMEN KED.KELUARGA & KOMUNITAS (MKK)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS429",
+      "nm_mk": "PROSEDUR TINDAKAN MEDIK dan KEPERAWATAN",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS427",
+      "nm_mk": "FORENSIK (FOR)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS411",
+      "nm_mk": "JANTUNG DAN PEMBULUH DARAH (KV)",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS424",
+      "nm_mk": "KESEHATAN MENTAL EMOSIONAL (ME)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS411",
+      "nm_mk": "JANTUNG DAN PEMBULUH DARAH (KV)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS417",
+      "nm_mk": "DARAH DAN SISTEM GETAH BENING (HOM)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS416",
+      "nm_mk": "ENDOKRIN, METABOLIK DAN GIZI (EMG)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS420",
+      "nm_mk": "SUSUNAN SARAF (SS)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS426",
+      "nm_mk": "GERIATRI & GERONTOLOGI MEDIK (GER)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS415",
+      "nm_mk": "KEBIDANAN & SISTEM REPRODUKSI (OGR)",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS429",
+      "nm_mk": "PROSEDUR TINDAKAN MEDIK dan KEPERAWATAN",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS411",
+      "nm_mk": "JANTUNG DAN PEMBULUH DARAH (KV)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS412",
+      "nm_mk": "SALURAN PERNAPASAN (PUL)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS417",
+      "nm_mk": "DARAH DAN SISTEM GETAH BENING (HOM)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS420",
+      "nm_mk": "SUSUNAN SARAF (SS)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS421",
+      "nm_mk": "TUMBUH KEMBANG (TK)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS421",
+      "nm_mk": "TUMBUH KEMBANG (TK)",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS420",
+      "nm_mk": "SUSUNAN SARAF (SS)",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP400",
+      "nm_mk": "TUGAS AKHIR (SKRIPSI)",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS422",
+      "nm_mk": "TULANG DAN OTOT (RM)",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS418",
+      "nm_mk": "TROPIK - INFEKSI (TI)",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MOS429",
+      "nm_mk": "PROSEDUR TINDAKAN MEDIK dan KEPERAWATAN",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD204",
+      "nm_mk": "ILMU KESEHATAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD102",
+      "nm_mk": "PISIKIATRI",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD203",
+      "nm_mk": "KETRAMPILAN LABORATORIUS",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD303",
+      "nm_mk": "ILMU PENYAKIT DALAM DAN FARAMASI",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD201",
+      "nm_mk": "NEUROLOGI DAN REMATOMUSKULOSKELETAL",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD206",
+      "nm_mk": "KETERAMPILAN UMUM",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD101",
+      "nm_mk": "MATA",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD205",
+      "nm_mk": "KEBIDANAN DAN KANDUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD301",
+      "nm_mk": "ILMU BEDAH",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD103",
+      "nm_mk": "THT",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD104",
+      "nm_mk": "RADIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC401",
+      "nm_mk": "ILMU PENYAKIT DALAM",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC216",
+      "nm_mk": "ILMU PENYAKIT MATA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC222",
+      "nm_mk": "ILMU ANESTESI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "OZY DARULI",
+    "jk": "L",
+    "nipd": "03012204          ",
+    "namapt": "Universitas Trisakti",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Dokter",
+    "reg_pd": "821BFDC5-B109-46BB-BBD8-E80B32C42C69",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-09-06T00:00:00Z",
+    "no_seri_ijazah": "0210/FK/S1/FKU/X/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTEzQjREMDYtMzRDQS00QTZFLUEyOUEtOUFGMzcyOTMzQzhG",
+    "link_prodi": "/data_prodi/MzgxRkNBODAtRjUzRC00QjVGLUEwQzItNzYyQzk3RDlCMUM1"
+  }
+}

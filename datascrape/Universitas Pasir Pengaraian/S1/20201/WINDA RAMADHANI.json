@@ -1,0 +1,286 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UPP 1012",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 1053",
+      "nm_mk": "Pengantar Dasar Matematika",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK1013",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 1023",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 1043",
+      "nm_mk": "Kalkulus I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP 1013",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 1033",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "upp 1113",
+      "nm_mk": "BUDAYA MELAYU RIAU",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPP 2052",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 2082",
+      "nm_mk": "Teori Bilangan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPP 2042",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP 2023",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 2103",
+      "nm_mk": "Geometri Bidang",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPP 2063",
+      "nm_mk": "TEKNOPRENEUR I",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 2073",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 2093",
+      "nm_mk": "Aljabar Linear",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK2063",
+      "nm_mk": "ILMU PENGETAHUAN LINGKINGAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK3143",
+      "nm_mk": "KOMPUTER II",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 3113",
+      "nm_mk": "Kalkulus Peubah Banyak",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP 3033",
+      "nm_mk": "BELAJAR DAN PEMBELAJARAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 3153",
+      "nm_mk": "Program Linear",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPP 3073",
+      "nm_mk": "TEKNOPRENEUR II",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 3123",
+      "nm_mk": "Strategi Pembelajaran Matematika",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 3133",
+      "nm_mk": "Geometri Ruang",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 3162",
+      "nm_mk": "Bahasa Inggris Matematika",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 4203",
+      "nm_mk": "Struktur Aljabar",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 4173",
+      "nm_mk": "Statistika Matematika I",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 4223",
+      "nm_mk": "Telaah Kurikulum Matematika",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP 4043",
+      "nm_mk": "Profesi Kependidikan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK6343",
+      "nm_mk": "EVALUASI PEMBELAJARAN MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPP 4083",
+      "nm_mk": "TEKNOPRENEUR 3",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 4183",
+      "nm_mk": "Analisis Real I",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTK 4193",
+      "nm_mk": "Keterampilan Matematika",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "WINDA RAMADHANI",
+    "jk": "P",
+    "nipd": "2030009",
+    "namapt": "Universitas Pasir Pengaraian",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Matematika",
+    "reg_pd": "CB2B375A-949A-4727-AD3B-2D54A4A42A63",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDc4RDA3QzYtQzk2NS00MjcwLUIyM0YtNEVFQUFBOUE0OTc2",
+    "link_prodi": "/data_prodi/MkRBOEM3RUItREI1MC00NERDLUFERTQtOTJFODE1QjAxRjBF"
+  }
+}

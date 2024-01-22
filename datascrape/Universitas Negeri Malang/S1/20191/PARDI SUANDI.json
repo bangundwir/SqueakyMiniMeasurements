@@ -121,13 +121,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS6102-45201-2018",
-      "nm_mk": "Fisika Dasar II",
-      "sks_mk": 4,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NFIS6103-45201-2018",
       "nm_mk": "Fisika Dasar III",
       "sks_mk": 3,
@@ -138,6 +131,13 @@
       "kode_mk": "UNIV6001-84203-2018",
       "nm_mk": "Pendidikan Agama Islam",
       "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6102-45201-2018",
+      "nm_mk": "Fisika Dasar II",
+      "sks_mk": 4,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -198,13 +198,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNIV6009-2018",
-      "nm_mk": "Pendidikan Bahasa Indonesia",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NFIS6154-2018",
       "nm_mk": "Elektronika II",
       "sks_mk": 2,
@@ -212,15 +205,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS6134-2018",
-      "nm_mk": "Praktikum Elektronika II",
-      "sks_mk": 1,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NFIS6157-2018",
-      "nm_mk": "Fisika Komputasi",
+      "kode_mk": "UNIV6009-2018",
+      "nm_mk": "Pendidikan Bahasa Indonesia",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -233,10 +219,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS6108-2018",
-      "nm_mk": "Fisika Modern",
-      "sks_mk": 3,
-      "id_smt": "20202",
+      "kode_mk": "NFIS6157-2018",
+      "nm_mk": "Fisika Komputasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6134-2018",
+      "nm_mk": "Praktikum Elektronika II",
+      "sks_mk": 1,
+      "id_smt": "20201",
       "nilai_huruf": null
     },
     {
@@ -247,23 +240,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS6156-2018",
-      "nm_mk": "Fisika Matematika II",
-      "sks_mk": 4,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NFIS6107-2018",
-      "nm_mk": "Termodinamika",
-      "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NFIS6158-2018",
       "nm_mk": "Fisika Komputasi Awan",
       "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6108-2018",
+      "nm_mk": "Fisika Modern",
+      "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -278,6 +264,20 @@
       "kode_mk": "NFIS6137-2018",
       "nm_mk": "Praktikum Cloud Computing untuk Fisika Komputasi",
       "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6107-2018",
+      "nm_mk": "Termodinamika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6156-2018",
+      "nm_mk": "Fisika Matematika II",
+      "sks_mk": 4,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -331,20 +331,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS6114-45201-2018",
-      "nm_mk": "Fisika Zat Padat",
-      "sks_mk": 3,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NFIS6141-45201-2018",
-      "nm_mk": "Fisika Eksperimen",
-      "sks_mk": 3,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NFIS6306-45201-2018",
       "nm_mk": "Fisika Bumi dan Antariksa",
       "sks_mk": 2,
@@ -368,6 +354,20 @@
     {
       "kode_mk": "NFIS6305-45201-2018",
       "nm_mk": "Elektrodinamika",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6141-45201-2018",
+      "nm_mk": "Fisika Eksperimen",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6114-45201-2018",
+      "nm_mk": "Fisika Zat Padat",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null

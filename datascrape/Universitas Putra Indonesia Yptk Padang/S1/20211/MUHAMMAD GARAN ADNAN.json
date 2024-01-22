@@ -23,8 +23,8 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "KKKF13105",
-      "nm_mk": "Database",
+      "kode_mk": "KKKF13103",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -37,13 +37,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKKF13220",
-      "nm_mk": "Pancasila",
-      "sks_mk": 3,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KKKF13101",
       "nm_mk": "KALKULUS I",
       "sks_mk": 3,
@@ -51,8 +44,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KKKF13102",
-      "nm_mk": "FISIKA DASAR I",
+      "kode_mk": "KKKF13106",
+      "nm_mk": "ALGORITMA & PEMROGRAMAN I",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -65,17 +58,45 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KKKF13106",
-      "nm_mk": "ALGORITMA & PEMROGRAMAN I",
+      "kode_mk": "PKKF13220",
+      "nm_mk": "Pancasila",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KKKF13103",
-      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "kode_mk": "KKKF13105",
+      "nm_mk": "Database",
       "sks_mk": 3,
       "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKKF13102",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKKF23111",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKKF22206",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKKF23116",
+      "nm_mk": "Database Lanjut",
+      "sks_mk": 3,
+      "id_smt": "20212",
       "nilai_huruf": null
     },
     {
@@ -93,37 +114,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PBKF23016",
-      "nm_mk": "Pemrograman Aplikasi",
-      "sks_mk": 3,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PKKF22104",
       "nm_mk": "PENDIDIKAN AGAMA DAN ETIKA",
       "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KKKF23116",
-      "nm_mk": "Database Lanjut",
-      "sks_mk": 3,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKKF22206",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KKKF23111",
-      "nm_mk": "MATEMATIKA DISKRIT",
-      "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
     },
@@ -135,29 +128,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KKKF33110",
-      "nm_mk": "STRUKTUR DATA",
+      "kode_mk": "PBKF23016",
+      "nm_mk": "Pemrograman Aplikasi",
       "sks_mk": 3,
-      "id_smt": "20221",
+      "id_smt": "20212",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KKKF33108",
-      "nm_mk": "KOMPUTER DAN MASYARAKAT",
-      "sks_mk": 3,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KKKF32116",
-      "nm_mk": "Interaksi Manusia Komputer",
-      "sks_mk": 2,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KKKF33016",
-      "nm_mk": "Pemrograman Berorientasi Objek",
+      "kode_mk": "KKKF33313",
+      "nm_mk": "PROBABILITAS DAN STATISTIKA",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -170,8 +149,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KKKF33313",
-      "nm_mk": "PROBABILITAS DAN STATISTIKA",
+      "kode_mk": "KKKF33110",
+      "nm_mk": "STRUKTUR DATA",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -184,6 +163,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KKKF33108",
+      "nm_mk": "KOMPUTER DAN MASYARAKAT",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKKF33016",
+      "nm_mk": "Pemrograman Berorientasi Objek",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KKKF32216",
       "nm_mk": "Rekayasa Perangkat Lunak I",
       "sks_mk": 2,
@@ -191,10 +184,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KBKF43116",
-      "nm_mk": "Artificial Intelligence",
-      "sks_mk": 3,
-      "id_smt": "20222",
+      "kode_mk": "KKKF32116",
+      "nm_mk": "Interaksi Manusia Komputer",
+      "sks_mk": 2,
+      "id_smt": "20221",
       "nilai_huruf": null
     },
     {
@@ -205,9 +198,30 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PBKF42016",
+      "nm_mk": "Supply Chain Management (*Akt 2016)",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KBKF43116",
+      "nm_mk": "Artificial Intelligence",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KKKF42118",
       "nm_mk": "KOMPLEKSITAS STRATEGI ALGORITMIK",
       "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKKF43315",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
     },
@@ -223,27 +237,6 @@
       "nm_mk": "Web Desain (*Akt 2016)",
       "sks_mk": 3,
       "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PBKF42016",
-      "nm_mk": "Supply Chain Management (*Akt 2016)",
-      "sks_mk": 2,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KKKF43315",
-      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
-      "sks_mk": 3,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPKF53101",
-      "nm_mk": "IT Banking",
-      "sks_mk": 3,
-      "id_smt": "20231",
       "nilai_huruf": null
     },
     {
@@ -268,16 +261,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KBKF52107",
-      "nm_mk": "PENDIDIKAN KARAKTER",
-      "sks_mk": 2,
+      "kode_mk": "KBKF53103",
+      "nm_mk": "SISTEM PENGAMBILAN KEPUTUSAN",
+      "sks_mk": 3,
       "id_smt": "20231",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KBKF53103",
-      "nm_mk": "SISTEM PENGAMBILAN KEPUTUSAN",
+      "kode_mk": "PPKF53101",
+      "nm_mk": "IT Banking",
       "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KBKF52107",
+      "nm_mk": "PENDIDIKAN KARAKTER",
+      "sks_mk": 2,
       "id_smt": "20231",
       "nilai_huruf": null
     },

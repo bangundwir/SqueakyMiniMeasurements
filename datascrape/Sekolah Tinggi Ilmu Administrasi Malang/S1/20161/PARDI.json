@@ -83,13 +83,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK2114",
-      "nm_mk": "METODE PENELITIAN SOSIAL",
-      "sks_mk": 2,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKK2111",
       "nm_mk": "SISTEM PEMERINTAHAN INDONESIA",
       "sks_mk": 3,
@@ -97,9 +90,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MPB4106",
-      "nm_mk": "HUKUM PERDATA",
+      "kode_mk": "MKK2114",
+      "nm_mk": "METODE PENELITIAN SOSIAL",
       "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4104",
+      "nm_mk": "SISTEM & PROSEDUR ORGANISASI",
+      "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
     },
@@ -114,13 +114,6 @@
       "kode_mk": "MKP6103",
       "nm_mk": "ADMINISTRASI PEMERINTAH DESA",
       "sks_mk": 2,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKB4104",
-      "nm_mk": "SISTEM & PROSEDUR ORGANISASI",
-      "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
     },
@@ -146,15 +139,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MBB5102",
-      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
-      "sks_mk": 3,
+      "kode_mk": "MPB4106",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
     {
       "kode_mk": "MKB3116",
       "nm_mk": "TEORI BIROKRASI PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB5102",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
       "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -202,13 +202,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB3114",
-      "nm_mk": "ADMINISTRASI PERUSAHAAN DAERAH",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MPK1106",
       "nm_mk": "KEWARGANEGARAAN",
       "sks_mk": 3,
@@ -216,10 +209,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB3113",
-      "nm_mk": "EKONOMI POLITIK PEMB",
+      "kode_mk": "MKB3114",
+      "nm_mk": "ADMINISTRASI PERUSAHAAN DAERAH",
       "sks_mk": 3,
-      "id_smt": "20172",
+      "id_smt": "20171",
       "nilai_huruf": null
     },
     {
@@ -230,8 +223,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB3109",
-      "nm_mk": "KOMUNIKASI POLITIK PEMBANGUNAN",
+      "kode_mk": "MKB3113",
+      "nm_mk": "EKONOMI POLITIK PEMB",
       "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -251,8 +244,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKB3109",
+      "nm_mk": "KOMUNIKASI POLITIK PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKK2116",
       "nm_mk": "AKUNTANSI PUBLIK II",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2118",
+      "nm_mk": "TEORI ADMINISTRASI & ORGANISASI",
       "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -265,10 +272,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK2118",
-      "nm_mk": "TEORI ADMINISTRASI & ORGANISASI",
+      "kode_mk": "MKB3107",
+      "nm_mk": "LEADERSHIP",
       "sks_mk": 3,
-      "id_smt": "20172",
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
@@ -286,8 +293,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB3107",
-      "nm_mk": "LEADERSHIP",
+      "kode_mk": "MKK2113",
+      "nm_mk": "ILMU POLITIK",
       "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -307,13 +314,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK2113",
-      "nm_mk": "ILMU POLITIK",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKP6101",
       "nm_mk": "KEBIJAKAN PEMBANGUNAN PERKOTAAN",
       "sks_mk": 2,
@@ -328,30 +328,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK2119",
-      "nm_mk": "TEORI GOVERNANCE",
+      "kode_mk": "MKB3117",
+      "nm_mk": "PENYUSUNAN PERATURAN PERUNDANGAN",
       "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKB3108",
-      "nm_mk": "ADMINISTRASI PEMBANGUNAN",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKK2120",
-      "nm_mk": "APLIKASI KOMPUTER",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKK2107",
-      "nm_mk": "KEWIRAUSAHAAN",
-      "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -370,16 +349,37 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB3117",
-      "nm_mk": "PENYUSUNAN PERATURAN PERUNDANGAN",
+      "kode_mk": "MKK2107",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2119",
+      "nm_mk": "TEORI GOVERNANCE",
       "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKP6102",
-      "nm_mk": "EKOLOGI PEMERINTAHAN",
+      "kode_mk": "MKK2120",
+      "nm_mk": "APLIKASI KOMPUTER",
       "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3108",
+      "nm_mk": "ADMINISTRASI PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3104",
+      "nm_mk": "PENG. KEUANGAN DAERAH",
+      "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -391,8 +391,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKB3104",
-      "nm_mk": "PENG. KEUANGAN DAERAH",
+      "kode_mk": "MKP6102",
+      "nm_mk": "EKOLOGI PEMERINTAHAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB5101",
+      "nm_mk": "SEMINAR MASALAH ADM. NEGARA",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -400,13 +407,6 @@
     {
       "kode_mk": "MKB3111",
       "nm_mk": "MANAJEMEN PELAYANAN PUBLIK",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MBB5101",
-      "nm_mk": "SEMINAR MASALAH ADM. NEGARA",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null

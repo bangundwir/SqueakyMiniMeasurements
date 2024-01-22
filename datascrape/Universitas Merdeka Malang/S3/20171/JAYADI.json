@@ -1,0 +1,87 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "77102",
+      "nm_mk": "Teori dan Dinamika Perb Sosial",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "77103",
+      "nm_mk": "Teori Sosial Makro Mikro",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "77101",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "77103",
+      "nm_mk": "Teori Sosial Makro Mikro",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "77101",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "77102",
+      "nm_mk": "Teori dan Dinamika Perb Sosial",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JAYADI",
+    "jk": "L",
+    "nipd": "17077000039",
+    "namapt": "Universitas Merdeka Malang",
+    "namajenjang": "S3",
+    "namaprodi": "Ilmu Sosial",
+    "reg_pd": "685836D0-637A-4B45-AA7B-FCEF60049715",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Putus Studi",
+    "tgl_keluar": "2019-02-21T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODRCMjU0NTUtNkVGQi00RjdDLUIxQjEtRTFEMUNBNEM2QUM4",
+    "link_prodi": "/data_prodi/NEY4QTM2M0QtOUM5Ny00REU1LUJBQkItM0NDRUZEMjY1QUIw"
+  }
+}

@@ -104,15 +104,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MII1003",
-      "nm_mk": "ALJABAR LINEAR FUNDAMENTAL",
-      "sks_mk": 2,
+      "kode_mk": "MMM1102",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNU1010",
-      "nm_mk": "PANCASILA",
+      "kode_mk": "MII1003",
+      "nm_mk": "ALJABAR LINEAR FUNDAMENTAL",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -125,20 +125,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MFF1012",
-      "nm_mk": "FISIKA DASAR II",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MMM1102",
-      "nm_mk": "KALKULUS II",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MII1211",
       "nm_mk": "PEMROGRAMAN II",
       "sks_mk": 3,
@@ -146,9 +132,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MII1811",
-      "nm_mk": "SISTEM DIGITAL",
+      "kode_mk": "UNU1010",
+      "nm_mk": "PANCASILA",
       "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFF1012",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -156,6 +149,13 @@
       "kode_mk": "MII1212",
       "nm_mk": "PRAK. PEMROGRAMAN II",
       "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MII1811",
+      "nm_mk": "SISTEM DIGITAL",
+      "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -188,6 +188,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MII2502",
+      "nm_mk": "PRAK. BASIS DATA",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MII2201",
+      "nm_mk": "ANALISIS ALGORITMA DAN KOMPLEKSITAS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MII2501",
       "nm_mk": "BASIS DATA",
       "sks_mk": 3,
@@ -202,16 +216,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MII2201",
-      "nm_mk": "ANALISIS ALGORITMA DAN KOMPLEKSITAS",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MII2502",
-      "nm_mk": "PRAK. BASIS DATA",
-      "sks_mk": 1,
+      "kode_mk": "UNU3000",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -223,15 +230,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNU3000",
-      "nm_mk": "KEWARGANEGARAAN",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MII2612",
-      "nm_mk": "PRAK. SISTEM PENGOPERASIAN",
+      "kode_mk": "MII2652",
+      "nm_mk": "PRAKT. JARINGAN KOMPUTER",
       "sks_mk": 1,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -240,6 +240,13 @@
       "kode_mk": "MII2211",
       "nm_mk": "ALGORITMA LANJUT",
       "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MII2612",
+      "nm_mk": "PRAK. SISTEM PENGOPERASIAN",
+      "sks_mk": 1,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -258,9 +265,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MII2652",
-      "nm_mk": "PRAKT. JARINGAN KOMPUTER",
-      "sks_mk": 1,
+      "kode_mk": "MII2602",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -275,13 +282,6 @@
       "kode_mk": "MII3009",
       "nm_mk": "ENTERPRENEURSHIP DAN SUCCESS SKILLS",
       "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MII2602",
-      "nm_mk": "JARINGAN KOMPUTER",
-      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -321,27 +321,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MII3502",
-      "nm_mk": "PRAKT. PENGEMBANGAN PERANGKAT LUNAK",
-      "sks_mk": 1,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MII3501",
-      "nm_mk": "PENGEMBANGAN PERANGKAT LUNAK",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MII4421",
-      "nm_mk": "KAPITA SELEKTA ALGORITMA GENETIKA",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MII4405",
       "nm_mk": "LOGIKA FUZZY",
       "sks_mk": 3,
@@ -363,6 +342,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MII4421",
+      "nm_mk": "KAPITA SELEKTA ALGORITMA GENETIKA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MII3502",
+      "nm_mk": "PRAKT. PENGEMBANGAN PERANGKAT LUNAK",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MII3501",
+      "nm_mk": "PENGEMBANGAN PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MII4513",
       "nm_mk": "MANAJEMEN PROYEK TEKNOLOGI INFORMASI",
       "sks_mk": 3,
@@ -370,22 +370,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNU163200",
-      "nm_mk": "Transformasi Digital",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MII3411",
-      "nm_mk": "PEMBELAJARAN MESIN",
-      "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "UNU4500",
-      "nm_mk": "KULIAH KERJA NYATA",
+      "kode_mk": "MII2606",
+      "nm_mk": "PEMROGRAMAN JARINGAN DAN PIRANTI BERGERAK",
       "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -398,8 +384,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MII2606",
-      "nm_mk": "PEMROGRAMAN JARINGAN DAN PIRANTI BERGERAK",
+      "kode_mk": "UNU163200",
+      "nm_mk": "Transformasi Digital",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU4500",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MII3411",
+      "nm_mk": "PEMBELAJARAN MESIN",
       "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -426,9 +426,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MII4001",
-      "nm_mk": "PROPOSAL SKRIPSI",
-      "sks_mk": 2,
+      "kode_mk": "MII4601",
+      "nm_mk": "E-GOVERNMENT",
+      "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -440,9 +440,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MII4601",
-      "nm_mk": "E-GOVERNMENT",
-      "sks_mk": 3,
+      "kode_mk": "MII4001",
+      "nm_mk": "PROPOSAL SKRIPSI",
+      "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },

@@ -1,0 +1,205 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20102",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MAI600",
+      "nm_mk": "TEORI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP742",
+      "nm_mk": "PERILAKU KEORGANISASIAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP716",
+      "nm_mk": "ANALISIS INVESTASI DAN TEORI PORTFOLIO",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI613",
+      "nm_mk": "CORPORATE GOVERNANCE",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP716",
+      "nm_mk": "ANALISIS INVESTASI DAN TEORI PORTFOLIO",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP742",
+      "nm_mk": "PERILAKU KEORGANISASIAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI600",
+      "nm_mk": "TEORI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI613",
+      "nm_mk": "CORPORATE GOVERNANCE",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP752",
+      "nm_mk": "MANAJEMEN STRATEGIK",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI655",
+      "nm_mk": "TEORI PENGAMBILAN KEPUTUSAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI644",
+      "nm_mk": "ANALISIS DAN PENILAIAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI660",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI621",
+      "nm_mk": "AKUNTANSI MANAJEMEN STRATEGIK",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI670",
+      "nm_mk": "SEMINAR PROPOSAL",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP745",
+      "nm_mk": "PERENCANAAN DAN STRATEGI PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP715",
+      "nm_mk": "MANAJEMEN RESIKO",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI699",
+      "nm_mk": "TESIS",
+      "sks_mk": 8,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI699",
+      "nm_mk": "TESIS",
+      "sks_mk": 8,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI699",
+      "nm_mk": "TESIS",
+      "sks_mk": 8,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAI699",
+      "nm_mk": "TESIS",
+      "sks_mk": 8,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AHMAD KAMBALI",
+    "jk": "L",
+    "nipd": "12030110400049    ",
+    "namapt": "Universitas Diponegoro",
+    "namajenjang": "S2",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "50E83BA4-8E58-4391-BF8C-4CBCA23CFFE4",
+    "mulai_smt": "20102",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-08-29T00:00:00Z",
+    "no_seri_ijazah": "000369/MAK",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTREMDFCRjMtODI1NS00NzRCLUI5NkQtNDQyNjEzNUVFRDAx",
+    "link_prodi": "/data_prodi/ODNFMTQ3QzMtMUE2RC00ODkyLUJDOTctRDlDMkI1RjZDMTgw"
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PSI101",
+      "nm_mk": "ILMU POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR101",
+      "nm_mk": "HUBUNGAN INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI102",
+      "nm_mk": "DASAR-DASAR LOGIKA DAN ILMU",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR102",
+      "nm_mk": "SISTEM HUKUM: NASIONAL DAN INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI104",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI103",
+      "nm_mk": "ETIKA DIPLOMASI DAN KOMUNIKASI PUBLIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR103",
+      "nm_mk": "SISTEM POLITIK INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR105",
+      "nm_mk": "NEGARA, PASAR, DAN MASYARAKAT",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI104",
+      "nm_mk": "TEORI-TEORI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI204",
+      "nm_mk": "BAHASA INGGRIS 2",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR104",
+      "nm_mk": "KAJIAN GLOBAL",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI105",
+      "nm_mk": "PENGANTAR EKONOMI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI107",
+      "nm_mk": "SOSIOLOGI/ SOCIOLOGY",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR203",
+      "nm_mk": "GEOPOLITIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI203",
+      "nm_mk": "KEBIJAKAN PUBLIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR202",
+      "nm_mk": "POLITIK LUAR NEGERI INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI202",
+      "nm_mk": "SOSIOLOGI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI204",
+      "nm_mk": "PEMIKIRAN POLITIK INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR201",
+      "nm_mk": "EKONOMI POLITIK GLOBAL",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI201",
+      "nm_mk": "POLITIK DAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI208",
+      "nm_mk": "METODE PENELITIAN SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR205",
+      "nm_mk": "KONFLIK DAN DIPLOMASI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI207",
+      "nm_mk": "TRANSISI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI206",
+      "nm_mk": "KOMUNIKASI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR206",
+      "nm_mk": "PEMERINTAHAN GLOBAL",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI205",
+      "nm_mk": "KEKUATAN-KEKUATAN POLITIK INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR204",
+      "nm_mk": "ISU GLOBAL KONTEMPORER",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI101",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR301",
+      "nm_mk": "PERSPEKTIF TENTANG INTELIJEN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR303",
+      "nm_mk": "POLITIK ENERGI DAN SUMBER DAYA ALAM",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR302",
+      "nm_mk": "MULTIKULTURALISME DAN POLITIK IDENTITAS",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI102",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI302",
+      "nm_mk": "Ekonomi, Politik, Dan Media",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI303",
+      "nm_mk": "MANAJEMEN DAN RESOLUSI KONFLIK",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI301",
+      "nm_mk": "ISLAM DAN DINAMIKA POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR106",
+      "nm_mk": "DIPLOMASI PUBLIK/PUBLIC DIPLOMACY",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR305",
+      "nm_mk": "ASESMEN RESIKO POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI304",
+      "nm_mk": "PERSPEKTIF TENTANG NEGARA DAN HUKUM",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI307",
+      "nm_mk": "KEPEMIMPINAN DAN DINAMIKA POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR306",
+      "nm_mk": "Area Studies",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI306",
+      "nm_mk": "PERBANDINGAN SISTEM KEPARTAIAN DAN PEMILU",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR304",
+      "nm_mk": "SECURITY STUDIES",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI305",
+      "nm_mk": "PERANCANGAN TUGAS AKHIR",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PP104",
+      "nm_mk": "MANAJEMEN APARATUR DAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IR404",
+      "nm_mk": "BAHASA ASING (SPANYOL)/FOREIGN LANGUAGE (SPAIN)",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI106",
+      "nm_mk": "Pendidikan Pancasila &amp;amp; Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI402",
+      "nm_mk": "SKRIPSI/ FINAL TASK",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI401",
+      "nm_mk": "MAGANG",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PP110",
+      "nm_mk": "DESENTRALISASI DAN HUBUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI402",
+      "nm_mk": "SKRIPSI/ FINAL TASK",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Lala Andriani Novia Wardani",
+    "jk": "P",
+    "nipd": "1181004035",
+    "namapt": "Universitas Bakrie",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Politik",
+    "reg_pd": "33F05A2F-0D58-49B0-99DC-4B8BB7BAD56C",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDRFQkZBODgtOUUyQi00RURBLThBQUQtRjcyNEY3MzU5ODU4",
+    "link_prodi": "/data_prodi/RDc4MjE1NzEtRDU0Qi00MEM0LUExMjQtOEM1MTg2MTI2NDA4"
+  }
+}

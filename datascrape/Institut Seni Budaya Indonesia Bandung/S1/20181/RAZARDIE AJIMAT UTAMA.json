@@ -1,0 +1,605 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ATB104",
+      "nm_mk": "STUDI LAPANGAN KAMPUNG ADAT",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ANB111",
+      "nm_mk": "ETNISITAS I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ANB101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISBI-102",
+      "nm_mk": "PANCASILA &amp; KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB101",
+      "nm_mk": "PENGANTAR ANTROPOLOGI BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISBI-101",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB102",
+      "nm_mk": "TEORI ETNISITAS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ANB107",
+      "nm_mk": "ANTROPOLOGI BUDAYA",
+      "sks_mk": 0,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ANB109X",
+      "nm_mk": "KEBUDAYAAN NUSANTARA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISBI-103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ANB119",
+      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB103",
+      "nm_mk": "FOKLORE INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ANB125",
+      "nm_mk": "FOKLOR INDONESIA",
+      "sks_mk": 0,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-101",
+      "nm_mk": "SEJARAH BUDAYA NUSANTARA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-203",
+      "nm_mk": "ANTROPOLOGI VISUAL",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-202",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB206",
+      "nm_mk": "KAPITA SELEKTA BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB205",
+      "nm_mk": "ARTEFAK BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISBI205",
+      "nm_mk": "KEBUDAYAAN SUNDA",
+      "sks_mk": 0,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISBI-205",
+      "nm_mk": "KEBUDAYAAN SUNDA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB207",
+      "nm_mk": "APRESIASI SENI",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISBI-204",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB208",
+      "nm_mk": "WASTRA NUSANTARA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-306",
+      "nm_mk": "ILMU KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB310",
+      "nm_mk": "SOSIOLOGI BUDAYA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB311",
+      "nm_mk": "PENGANTAR FILSAFAT",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB312",
+      "nm_mk": "TRADISI LISAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB308",
+      "nm_mk": "APRESIASI BUDAYA LOKAL",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-304",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-305",
+      "nm_mk": "ESTETIKA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB309",
+      "nm_mk": "ANTROPOLOGI PSIKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM306",
+      "nm_mk": "ILMU KOMUNIKASI",
+      "sks_mk": 0,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-408",
+      "nm_mk": "PENGETAHUAN HKI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-413",
+      "nm_mk": "PENGANTAR TEORI BUDAYA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB417",
+      "nm_mk": "SENI PERTUNJUKAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB415",
+      "nm_mk": "RELIGI DAN MITOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB418",
+      "nm_mk": "FOTOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB416",
+      "nm_mk": "PARIWISATA BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB414",
+      "nm_mk": "FILSAFAT TIMUR",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-407",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB522",
+      "nm_mk": "KOMUNIKASI ANTAR BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB526",
+      "nm_mk": "APRESIASI NASKAH NUSANTARA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB523",
+      "nm_mk": "CULTURE STUDIES",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB520",
+      "nm_mk": "ETNOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB519",
+      "nm_mk": "TEORI BUDAYA KONTEMPORER",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-407",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB414",
+      "nm_mk": "FILSAFAT TIMUR",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-413",
+      "nm_mk": "PENGANTAR TEORI BUDAYA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB629",
+      "nm_mk": "PENGETAHUAN HUKUM ADAT",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB416",
+      "nm_mk": "PARIWISATA BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB418",
+      "nm_mk": "FOTOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB628",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB415",
+      "nm_mk": "RELIGI DAN MITOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB734",
+      "nm_mk": "METODE PENELITIAN KUALITATIF",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB737",
+      "nm_mk": "KAJIAN SENI PERTUNJUKAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB736",
+      "nm_mk": "ETNOMUSIKOLOGI/DRAMATURGI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB738",
+      "nm_mk": "KKN",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB735",
+      "nm_mk": "SEMIOTIKA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB739",
+      "nm_mk": "JURNALISTIK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB627",
+      "nm_mk": "PENULISAN KARYA ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB417",
+      "nm_mk": "SENI PERTUNJUKAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB630",
+      "nm_mk": "GENDER DAN BUDAYA LOKAL",
+      "sks_mk": 0,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB631",
+      "nm_mk": "MULTIKULTURALISME",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBM-408",
+      "nm_mk": "PENGETAHUAN HKI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB630",
+      "nm_mk": "GENDER DAN BUDAYA LOKAL",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB630",
+      "nm_mk": "GENDER DAN BUDAYA LOKAL",
+      "sks_mk": 0,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB632",
+      "nm_mk": "KAJIAN NASKAH ETNIK NUSANTARA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB633",
+      "nm_mk": "SENI RUPA DAN KRIYA NUSANTARA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB632",
+      "nm_mk": "KAJIAN NASKAH ETNIK NUSANTARA",
+      "sks_mk": 0,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB736",
+      "nm_mk": "ETNOMUSIKOLOGI/DRAMATURGI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB525",
+      "nm_mk": "VIDEOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB525",
+      "nm_mk": "VIDEOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB524",
+      "nm_mk": "KRITIK",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB524",
+      "nm_mk": "KRITIK",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ATB839",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RAZARDIE AJIMAT UTAMA",
+    "jk": "L",
+    "nipd": "18323079",
+    "namapt": "Institut Seni Budaya Indonesia Bandung",
+    "namajenjang": "S1",
+    "namaprodi": "Antropologi Budaya",
+    "reg_pd": "16A65E6E-6843-455A-86A7-AD1918FFFD67",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDhBNUI3NDMtOTM5RC00MTRGLUE3OUEtMDJFRERDQjUyRDhG",
+    "link_prodi": "/data_prodi/QUU3OTI4NEYtNkZGRi00NjdGLUI0RDEtMTY2OTg1RDU5Qjc5"
+  }
+}

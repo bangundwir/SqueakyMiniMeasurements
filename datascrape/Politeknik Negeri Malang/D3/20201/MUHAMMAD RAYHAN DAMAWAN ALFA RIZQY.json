@@ -1,0 +1,426 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RTT201002",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201005",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201001",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201104",
+      "nm_mk": "Praktikum Pengukuran Besaran Listrik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201102",
+      "nm_mk": "Rangkaian Listrik",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201106",
+      "nm_mk": "Praktikum Piranti dan Rangkaian Elektronika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201101",
+      "nm_mk": "Bengkel Elektromekanik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201103",
+      "nm_mk": "Praktikum Rangkaian Listrik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201107",
+      "nm_mk": "Algoritma dan Pemrograman Komputer",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201003",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201105",
+      "nm_mk": "Piranti dan Rangkaian Elektronika",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT201004",
+      "nm_mk": "Matematika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202111",
+      "nm_mk": "Praktikum Teknik Gelombang Mikro",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202110",
+      "nm_mk": "Teknik Gelombang Mikro",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202105",
+      "nm_mk": "Praktikum Rangkaian Digital",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202002",
+      "nm_mk": "QMS",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202102",
+      "nm_mk": "Telekomunikasi Analog dan Digital",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202001",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202104",
+      "nm_mk": "Rangkaian Digital",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202103",
+      "nm_mk": "Praktikum Telekomunikasi Analog dan Digital",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202106",
+      "nm_mk": "Komunikasi Data",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202107",
+      "nm_mk": "Praktikum Komunikasi Data",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202101",
+      "nm_mk": "Medan Elektromagnetik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202108",
+      "nm_mk": "Saluran Transmisi",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT202109",
+      "nm_mk": "Praktikum Saluran Transmisi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203101",
+      "nm_mk": "Elektronika Telekomunikasi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203110",
+      "nm_mk": "Sistem Telekomunikasi Radio",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203111",
+      "nm_mk": "Praktikum Sistem Telekomunikasi Radio",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203102",
+      "nm_mk": "Praktikum Elektronika Telekomunikasi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203108",
+      "nm_mk": "Teknik Switching dan Rekayasa Trafik",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203103",
+      "nm_mk": "Praktikum Teknik dan Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203106",
+      "nm_mk": "Pemrosesan Sinyal Digital",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203109",
+      "nm_mk": "Praktikum Teknik Switching dan Rekayasa Trafik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203104",
+      "nm_mk": "Teori Antena",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203107",
+      "nm_mk": "Praktikum Pemrosesan Sinyal Digital",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203112",
+      "nm_mk": "Mikrokontroler",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203001",
+      "nm_mk": "Bahasa Inggris III",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203105",
+      "nm_mk": "Praktikum Antena",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT203113",
+      "nm_mk": "Praktikum Mikrokontroler",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204101",
+      "nm_mk": "Pemrograman Aplikasi Mobile",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204107",
+      "nm_mk": "Praktikum Sistem Komunikasi Fiber Optik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204001",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204105",
+      "nm_mk": "Praktikum Sistem Telekomunikasi Seluler",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204104",
+      "nm_mk": "Sistem Komunikasi Seluler",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204108",
+      "nm_mk": "Radar dan Telekomunikasi Satelit",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204003",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204002",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204106",
+      "nm_mk": "Sistem Komunikasi Fiber Optik",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204102",
+      "nm_mk": "Sistem Transmisi Video",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204103",
+      "nm_mk": "Praktikum Transmisi Video",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT204109",
+      "nm_mk": "Desain Proyek",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT205101",
+      "nm_mk": "Praktek Kerja Lapangan/ Magang Industri",
+      "sks_mk": 12,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTT206101",
+      "nm_mk": "Laporan Akhir",
+      "sks_mk": 12,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUHAMMAD RAYHAN DAMAWAN ALFA RIZQY",
+    "jk": "L",
+    "nipd": "2031130069",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D3",
+    "namaprodi": "Teknik Telekomunikasi",
+    "reg_pd": "1988DA47-213B-4935-A822-68F973234980",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-01T00:00:00Z",
+    "no_seri_ijazah": "204022023000322",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/MTA0OTMyQUUtOTZCQy00MDUwLUJGRkEtRTExMzgyNDQ4OTlB"
+  }
+}

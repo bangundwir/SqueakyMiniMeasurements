@@ -1,0 +1,541 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "HTBPP01",
+      "nm_mk": "Front Office 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTAPP02",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP07",
+      "nm_mk": "Housekeeping 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTDPP02",
+      "nm_mk": "Komputer Office",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP14",
+      "nm_mk": "General Hotel Operation",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP01",
+      "nm_mk": "Kitchen 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP04",
+      "nm_mk": "FB Service 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTAPP03",
+      "nm_mk": "PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP15",
+      "nm_mk": "Pengantar Ilmu Pariwisata",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP13",
+      "nm_mk": "Bahasa Inggris Pariwisata",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTAPP01",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP08",
+      "nm_mk": "Housekeeping 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP02",
+      "nm_mk": "Kitchen 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP10",
+      "nm_mk": "Bahasa Jepang",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP16",
+      "nm_mk": "Bahasa Inggris Pariwisata 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP05",
+      "nm_mk": "FB Service 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP17",
+      "nm_mk": "Pengantar Managemen",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP22",
+      "nm_mk": "Statistik Hotel",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP02",
+      "nm_mk": "Front Office 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP12",
+      "nm_mk": "Hygiene &amp;amp; Sanitasi Hotel",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTDPP03",
+      "nm_mk": "Hotel Cashier",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP20",
+      "nm_mk": "Engglish Structure 1",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP26",
+      "nm_mk": "MANAJEMEN CATERING",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP03",
+      "nm_mk": "Porfesional Cookery 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP21",
+      "nm_mk": "English Structure 2",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP15",
+      "nm_mk": "Bahasa Inggris Conversation 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP07",
+      "nm_mk": "Bartending",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP09",
+      "nm_mk": "Housekeeping Supervisory",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP03",
+      "nm_mk": "Front Office Supervisory",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP19",
+      "nm_mk": "Akutansi Hotel",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP06",
+      "nm_mk": "FB Supervisory",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP25",
+      "nm_mk": "Sistem Informasi Hotel",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTDPP04",
+      "nm_mk": "Hotel Mice",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP05",
+      "nm_mk": "Pastry &amp;amp; Bakery 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTD059",
+      "nm_mk": "BANQUETTE OPERATION",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTB029",
+      "nm_mk": "ENGLISH CONVERSATION 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTD063",
+      "nm_mk": "FOOD & BEVERAGE MANAGEMENT",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTC047",
+      "nm_mk": "MANAJEMEN HOTEL",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTD066",
+      "nm_mk": "FRONT OFFICE MANAGEMENT",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTC044",
+      "nm_mk": "PROFESIONAL COOKERY 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTD062",
+      "nm_mk": "HOUSEKEEPING MANAGEMENT",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTC049",
+      "nm_mk": "KORESPONDENSI BHS INGGRIS HOTEL",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTB021",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP23",
+      "nm_mk": "Hotel Managemen",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP17",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP06",
+      "nm_mk": "Bakery &amp;amp; Pastry Modern",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP24",
+      "nm_mk": "Teknik Penulisan Laporan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTB017",
+      "nm_mk": "PEMASARAN HOTEL",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTEPP02",
+      "nm_mk": "Hotel Marketing",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP16",
+      "nm_mk": "Bahasa Inggris Conversation 2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP23",
+      "nm_mk": "Hotel Managemen",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP10",
+      "nm_mk": "Front Office management",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP11",
+      "nm_mk": "Housekeeping Managemen",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP24",
+      "nm_mk": "Teknik Penulisan Laporan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP13",
+      "nm_mk": "Korespondensi Bahasa Inggris Hotel 1",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP11",
+      "nm_mk": "Banquette Operation",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP04",
+      "nm_mk": "Profesional Cookery 2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP12",
+      "nm_mk": "FB Managemen",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP06",
+      "nm_mk": "Bakery &amp;amp; Pastry Modern",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTBPP18",
+      "nm_mk": "MSDM",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP19",
+      "nm_mk": "Managemen Catering",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP14",
+      "nm_mk": "Korespondensi Bahasa Inggris 2",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTC033",
+      "nm_mk": "BUTTLER HOTEL",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP22",
+      "nm_mk": "English For Special Purpose",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP21",
+      "nm_mk": "Operasional Catering",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTCPP17",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTDPP08",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HTDPP07",
+      "nm_mk": "Komputer Hotel",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SILVI MARTA MUSTIKA",
+    "jk": "P",
+    "nipd": "2105014021        ",
+    "namapt": "Politeknik Pajajaran Insan Cinta Bangsa Bandung",
+    "namajenjang": "D3",
+    "namaprodi": "Perhotelan",
+    "reg_pd": "4DA27F6D-60D8-4759-9F0B-781B05F6DAE1",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Putus Studi",
+    "tgl_keluar": "2019-09-01T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MUJFNDYyMEMtRUJFQi00N0MyLTlFQjEtNEE3OUZGN0JGNTRB",
+    "link_prodi": "/data_prodi/MTZBRjY5QUUtQjIzNS00NkQxLUJDQTAtNEEwN0FGQ0VBQUQy"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PPGK101",
+      "nm_mk": "PENDALAMAN MATERI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPGK103",
+      "nm_mk": "PPL",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPGK102",
+      "nm_mk": "PENGEMBANGAN PERANGKAT PEMBELAJARAN",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SUDIATI",
+    "jk": "P",
+    "nipd": "E1E322593",
+    "namapt": "Universitas Mataram",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "9BB66744-5814-4458-871E-7C220CA28C84",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-11-15T00:00:00Z",
+    "no_seri_ijazah": "0010162202720372",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzE1NkRFRkQtNzgyQS00NTlCLUIxMzQtMjRDNDY0OEE5RDEz",
+    "link_prodi": "/data_prodi/RkNENTAwMjgtNEQyOS00OTg2LTg5OEQtQzhGRDgxOUFFOUU3"
+  }
+}

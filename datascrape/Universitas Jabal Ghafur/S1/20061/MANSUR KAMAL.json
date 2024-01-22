@@ -1,0 +1,96 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20061",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KDK103",
+      "nm_mk": "STATISTIK DASAR",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDU101",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTI101",
+      "nm_mk": "PENGANTAR INFORMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTI102",
+      "nm_mk": "PROGRAM APLIKASI I",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDK101",
+      "nm_mk": "ALGORITMA & PEMROGRAMAN I",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDU102",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDU103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDK102",
+      "nm_mk": "LOGIKA MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MANSUR KAMAL",
+    "jk": "L",
+    "nipd": "06105111238       ",
+    "namapt": "Universitas Jabal Ghafur",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "58CDC0C9-61B4-42D4-BBEC-8BC318C7848E",
+    "mulai_smt": "20061",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "1970-01-01T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MkVCOTM4MjYtNUE0Mi00MUFBLTgwNkYtNTExOTJFQzM2NEI1",
+    "link_prodi": "/data_prodi/QjAxMUM5QjQtRTk0QS00NjI5LTk2QkYtNjMyQTlCRkM5RkEx"
+  }
+}

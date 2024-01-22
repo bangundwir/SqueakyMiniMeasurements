@@ -1,0 +1,496 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "6MKK3",
+      "nm_mk": "MATEMATIKA TERAPAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MKKK3",
+      "nm_mk": "KOMPUTER (PRAKTIKUM)",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "12MKB4",
+      "nm_mk": "ILMU PELAYARAN DATAR.I (P)",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5MKB2",
+      "nm_mk": "KONSTRUKSI STABILITAS KAPAL.I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4MKK2",
+      "nm_mk": "BAHASA INGGRIS (T)",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "12MKB4",
+      "nm_mk": "ILMU PELAYARAN DATAR.I (T)",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MBB2",
+      "nm_mk": "ISYARAT / KOMUNIKASI VISUAL (T)",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4MKK2",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MPK2",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MKKK3",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MBB2",
+      "nm_mk": "ISYARAT / KOMUNIKASI VISUAL (P)",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4MPK2",
+      "nm_mk": "PSIKOLOGI KEPRIBADIAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MPK2",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4MPB2",
+      "nm_mk": "S H I P P I N G",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "6MKB3",
+      "nm_mk": "KONSTRUKSI & STABILITAS KAPAL.II (P)",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5MPK2",
+      "nm_mk": "MANAJEMEN KEPEMIMPINAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MKB2",
+      "nm_mk": "PROSEDUR DARURAT DAN SAR (T)",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2MPK2",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "13MKB4",
+      "nm_mk": "ILMU PELAYARAN DATAR. II (T)",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MKK3",
+      "nm_mk": "FISIKA TERAPAN (T)",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "15MKB3",
+      "nm_mk": "P2TL DAN DINAS JAGA. I (P)",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "13MKB4",
+      "nm_mk": "ILMU PELAYARAN DATAR.II (P)",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MKB2",
+      "nm_mk": "PROSEDUR DARURAT DAN SAR (P)",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2MKKK3",
+      "nm_mk": "FISIKA TERAPAN (P)",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2MKB2",
+      "nm_mk": "HUKUM MARITIM",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "6MKB3",
+      "nm_mk": "KONSTRUKSI & STABILITAS KAPAL.II (T)",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "15MKB3",
+      "nm_mk": "P2TL DAN DINAS JAGA.I (T)",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8MKB2",
+      "nm_mk": "METEOROLOGI.I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4MKB4",
+      "nm_mk": "KOMPAS & SISTEM PENGEMUDIAN (P)",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2MPB2",
+      "nm_mk": "PENANGANAN PENGATURAN MUATAN.I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2MBB4",
+      "nm_mk": "BAHASA INGGRIS MARITIM. I (P)",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MKB1",
+      "nm_mk": "PENCEGAHAN POLUSI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "14MKB4",
+      "nm_mk": "ILMU PELAYARAN DATAR. III (T)",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "16MKB3",
+      "nm_mk": "P2TL DAN DINAS JAGA. II (T)",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "9MKB3",
+      "nm_mk": "METEOROLOGI. II (P)",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2MBB4",
+      "nm_mk": "BAHASA INGGRIS MARITIM. I (T)",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "9MKB3",
+      "nm_mk": "METEOROLOGI. II (T)",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10MKB3",
+      "nm_mk": "ILMU PELAYARAN ASTRONOMI. I (P)",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10MKB3",
+      "nm_mk": "ILMU PELAYARAN ASTRONOMI.I (T)",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "14MKB4",
+      "nm_mk": "ILMU PELAYARAN DATAR. III (P)",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4MKB4",
+      "nm_mk": "KOMPAS & SISTEM PENGEMUDIAN (T)",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "16MKB3",
+      "nm_mk": "P2TL DAN DINAS JAGA. II (P)",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18MKB4",
+      "nm_mk": "SISTEM NAVIGASI ELEKTRONIK(T)",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MPB2",
+      "nm_mk": "OLAH GERAK PENGENDALIAN KAPAL",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MPB3",
+      "nm_mk": "PENANGANAN & PENGATURAN MUATAN.II (P)",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18MKB4",
+      "nm_mk": "SISTEM NAVIGASI ELEKTRONIK(P)",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2MKK2",
+      "nm_mk": "METODOLOGI DAN STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MBB4",
+      "nm_mk": "BAHASA INGGRIS MARITIM. II (T)",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MPB1",
+      "nm_mk": "PERLENGKAPAN KAPAL & TALI MENALI (P)",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11MKB4",
+      "nm_mk": "ILMU PELAYARAN ASTRONOMI. II (T)",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11MKB4",
+      "nm_mk": "ILMU PELAYARAN ASTRONOMI. II (P)",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MPB3",
+      "nm_mk": "PENANGANAN & PENGATURAN MUATAN.II (T)",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MPB1",
+      "nm_mk": "PERLENGKAPAN KAPAL & TALI MENALI (T)",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "17MKB2",
+      "nm_mk": "P2TL DAN DINAS JAGA.III",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3MBB4",
+      "nm_mk": "BAHASA INGGRIS MARITIM. II (P)",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7MKB2",
+      "nm_mk": "KONSTRUKSI STABILITAS KAPAL.III",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "6MBB3",
+      "nm_mk": "FUNGSI PENGAT.OPERASI KPL & AWAK KPL.I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "9MBB5",
+      "nm_mk": "FUNGSI NAVIGASI.I",
+      "sks_mk": 5,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4MBB3",
+      "nm_mk": "FUNGSI PENANGANAN & PENGATURAN MUATAN.I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7MBB3",
+      "nm_mk": "FUNGSI PENGAT.OPERASI KPL & AWAK KPL.II",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8MBB3",
+      "nm_mk": "KARYA TULIS ILMIAH (MAKALAH)",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5MBB3",
+      "nm_mk": "FUNGSI PENANGANAN & PENGATURAN MUATAN.II",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10MBB5",
+      "nm_mk": "FUNGSI NAVIGASI.II",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AJIMAN",
+    "jk": "L",
+    "nipd": "40310354          ",
+    "namapt": "Akademi Maritim Indonesia Veteran Makassar",
+    "namajenjang": "D3",
+    "namaprodi": "Nautika",
+    "reg_pd": "3A5FFBEA-89F0-4D6A-8923-84C48050F54B",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-10-04T00:00:00Z",
+    "no_seri_ijazah": "004 / 094008-N / 10-2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTFGRkYzRTQtOUYxQi00NEQ3LTgyMDItRkQ4MzhDOTFDNkEw",
+    "link_prodi": "/data_prodi/ODMyQjRCMTgtNzcyMC00REQ1LUJBOUItN0Q2ODE3RDA1NDhG"
+  }
+}

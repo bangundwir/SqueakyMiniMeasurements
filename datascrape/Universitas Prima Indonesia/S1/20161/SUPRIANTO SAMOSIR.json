@@ -1,0 +1,541 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FTI-3103",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPI-1106",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3101",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN I",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-2101",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPI-1102",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPI1104",
+      "nm_mk": "BAHASA MANDARIN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-2102",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPI-1105",
+      "nm_mk": "WAWASAN KEBANGSAAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3102",
+      "nm_mk": "PRAKTEK ALGORITMA DAN PEMROGRAMAN I",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPI-1201",
+      "nm_mk": "PENDIDIKAN AGAMA KRISTEN PROTESTAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3201",
+      "nm_mk": "BAHASA PEMROGRAMAN 2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3203",
+      "nm_mk": "PEMROGRAMAN VISUAL I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-2201",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3205",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3202",
+      "nm_mk": "PRAKTIKUM BAHASA PEMROGRAMAN 2",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-2202",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3206",
+      "nm_mk": "PRAKTIKUM SISTEM OPERASI",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3204",
+      "nm_mk": "PRAKTEK PEMROGRAMAN VISUAL I",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3302",
+      "nm_mk": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3304",
+      "nm_mk": "PEMROGRAMAN VISUAL II",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3307",
+      "nm_mk": "PRAKTIKUM SISTEM BASIS DATA I",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3311",
+      "nm_mk": "PEMROGRAMAN WEB",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-2301",
+      "nm_mk": "ALJABAR LINIER",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3306",
+      "nm_mk": "SISTEM BASIS DATA I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3303",
+      "nm_mk": "ANALISA DAN DESAIN ALGORITMA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3305",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN VISUAL II",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3201",
+      "nm_mk": "TEKNIK DIGITAL",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3312",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN WEB",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3502",
+      "nm_mk": "PRAKTEK PEMROGRAMAN BASIS DATA",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3603",
+      "nm_mk": "KECERDASAN BUATAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3508",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3509",
+      "nm_mk": "SISTEM TERDISTRIBUSI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3203",
+      "nm_mk": "PRAKTIKUM JARINGAN KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3505",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3501",
+      "nm_mk": "PEMROGRAMAN BASIS DATA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3202",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3801",
+      "nm_mk": "KRIPTOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-3401",
+      "nm_mk": "GRAFIKA KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3107",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF5115",
+      "nm_mk": "TEKNIK PENYUSUNAN SKRIPSI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF5106",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF6601",
+      "nm_mk": "JARINGAN SARAF TIRUAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF5104",
+      "nm_mk": "PENGOLAHAN CITRA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3108",
+      "nm_mk": "PRAKTEK PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3708",
+      "nm_mk": "DATA MINING",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3112",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3109",
+      "nm_mk": "MULTIMEDIA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3622",
+      "nm_mk": "SEMANTIC WEB",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTI4602",
+      "nm_mk": "TECHNOPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF2105",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF4102",
+      "nm_mk": "MANAJEMEN PROYEK TI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3101",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF2602",
+      "nm_mk": "TEORI BAHASA & AUTOMATA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3803",
+      "nm_mk": "PRAKTEK PEMROGRAMAN MOBILE II",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3702",
+      "nm_mk": "SERVER ADMINISTRATION",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3704",
+      "nm_mk": "MODEL DAN SIMULASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF4105",
+      "nm_mk": "PEMROGRAMAN MOBILE 1",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-7121",
+      "nm_mk": "BIG DATA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF4106",
+      "nm_mk": "PRAKTEK PEMROGRAMAN MOBILE 1",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF3802",
+      "nm_mk": "PEMROGRAMAN MOBILE II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF5601",
+      "nm_mk": "SOSIO DAN ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPI-1202",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF6104",
+      "nm_mk": "PRAKTIKUM BAHASA RAKITAN",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-6061",
+      "nm_mk": "PUBLIKASI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-6062",
+      "nm_mk": "PROPOSAL PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF5702",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF6103",
+      "nm_mk": "BAHASA RAKITAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIF-6063",
+      "nm_mk": "LAPORAN PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SUPRIANTO SAMOSIR",
+    "jk": "L",
+    "nipd": "163303030207",
+    "namapt": "Universitas Prima Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "5EAC035A-CB3B-4C7B-8E87-073E1EE7CFA1",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-11-13T00:00:00Z",
+    "no_seri_ijazah": "552012020000382",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTMyMDdBNTMtMTJENC00RjMyLUIzMkQtRTA4OEVDNUEyQTM0",
+    "link_prodi": "/data_prodi/OTQwMEQ2RjQtNzA2Qy00RDA4LTkxMDMtNkVENzY3OEU0NjUz"
+  }
+}

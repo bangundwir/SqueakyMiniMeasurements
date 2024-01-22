@@ -1,0 +1,218 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKFKFA1103",
+      "nm_mk": "Etika dan Hukum Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDUFA1101",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDUFA1102",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1103",
+      "nm_mk": "Farmasi Fisika",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1104",
+      "nm_mk": "Kimia Farmasi Dasar",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1102",
+      "nm_mk": "Biologi Sel",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1105",
+      "nm_mk": "Teknologi Informasi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1101",
+      "nm_mk": "Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1206",
+      "nm_mk": "Botani Farmasi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1207",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1209",
+      "nm_mk": "Farmakoterapi Panca Indera, Tulang dan Sendi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1210",
+      "nm_mk": "Imunologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1208",
+      "nm_mk": "Farmasetika",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1211",
+      "nm_mk": "Kimia Analisis",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKFKFA1202",
+      "nm_mk": "Farmakologi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA1212",
+      "nm_mk": "Kimia Organik I",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA2120",
+      "nm_mk": "Mikrobiologi dan Virologi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA2113",
+      "nm_mk": "Anatomi Fisiologi Manusia",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA2119",
+      "nm_mk": "Metode Pemisahan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA2115",
+      "nm_mk": "Farmakoterapi Gastrointestinal dan Infeksi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA2118",
+      "nm_mk": "Kimia Organik II",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA2116",
+      "nm_mk": "Farmakoterapi Pernafasan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA2117",
+      "nm_mk": "Formulasi dan Teknologi Sediaan Semisolida",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FA2114",
+      "nm_mk": "Farmakologi Molekular",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ARI ANI NUR AZIZAH",
+    "jk": "P",
+    "nipd": "210105007",
+    "namapt": "Universitas  Harapan Bangsa",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "AFCA9C44-4980-47EE-B0C2-9B6646E01322",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzM3NjIwRTMtOTBBNi00MjdCLUE4NDUtMjFCNTMzQTk5RjdF",
+    "link_prodi": "/data_prodi/NDcyOTBFOTgtMTUwOC00RDZDLUJFMjgtNUY1MTk2RUJDRDM0"
+  }
+}

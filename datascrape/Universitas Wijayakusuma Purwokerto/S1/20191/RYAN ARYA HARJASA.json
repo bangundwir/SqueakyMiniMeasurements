@@ -76,6 +76,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "TKS18102",
+      "nm_mk": "ILMU UKUR TANAH",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG18102",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG18101",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "TKS18104",
       "nm_mk": "MATEMATIKA I",
       "sks_mk": 4,
@@ -90,34 +111,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNG18101",
-      "nm_mk": "BAHASA INDONESIA",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "UNG18102",
-      "nm_mk": "PENDIDIKAN PANCASILA",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKS18102",
-      "nm_mk": "ILMU UKUR TANAH",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKS18201",
-      "nm_mk": "FISIKA TEKNIK II",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "TKS18204",
       "nm_mk": "MATEMATIKA II",
       "sks_mk": 3,
@@ -125,8 +118,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18208",
-      "nm_mk": "REKAYASA LINGKUNGAN",
+      "kode_mk": "TKS18202",
+      "nm_mk": "MEKANIKA FLUIDA DAN HDRAULIKA I",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -139,8 +132,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18202",
-      "nm_mk": "MEKANIKA FLUIDA DAN HDRAULIKA I",
+      "kode_mk": "TKS18208",
+      "nm_mk": "REKAYASA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKS18201",
+      "nm_mk": "FISIKA TEKNIK II",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -195,8 +195,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18302",
-      "nm_mk": "MEKANIKA FLUIDA DAN HIDRAULIKA II",
+      "kode_mk": "TKS18307",
+      "nm_mk": "PENGANTAR GEOLOGI TEKNIK",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -209,8 +209,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18307",
-      "nm_mk": "PENGANTAR GEOLOGI TEKNIK",
+      "kode_mk": "TKS18501",
+      "nm_mk": "ASPEK HUKUM PEMBANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKS18302",
+      "nm_mk": "MEKANIKA FLUIDA DAN HIDRAULIKA II",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -237,31 +244,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18501",
-      "nm_mk": "ASPEK HUKUM PEMBANGUNAN",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "UNG18106",
       "nm_mk": "KEWIRAUSAHAAN TEKNIK SIPIL",
       "sks_mk": 2,
       "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKS18405",
-      "nm_mk": "ANALISIS STRUKTUR III",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKS18409",
-      "nm_mk": "STRUKTUR KAYU",
-      "sks_mk": 2,
-      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -272,29 +258,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18403",
-      "nm_mk": "TEKNOLOGI BETON",
-      "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKS18407",
-      "nm_mk": "STRUKTUR BAJA I",
-      "sks_mk": 2,
+      "kode_mk": "TKS18405",
+      "nm_mk": "ANALISIS STRUKTUR III",
+      "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
     {
       "kode_mk": "TKS18406",
       "nm_mk": "DESAIN PONDASI I",
-      "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKS18408",
-      "nm_mk": "STRUKTUR BETON BERTULANG I",
       "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -307,8 +279,36 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "TKS18403",
+      "nm_mk": "TEKNOLOGI BETON",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "TKS18605",
       "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKS18409",
+      "nm_mk": "STRUKTUR KAYU",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKS18407",
+      "nm_mk": "STRUKTUR BAJA I",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKS18408",
+      "nm_mk": "STRUKTUR BETON BERTULANG I",
       "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -356,15 +356,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18508",
-      "nm_mk": "STRUKTUR BETON BERTULANG II",
+      "kode_mk": "TKS18704A",
+      "nm_mk": "LAPANGAN TERBANG",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18704A",
-      "nm_mk": "LAPANGAN TERBANG",
+      "kode_mk": "TKS18508",
+      "nm_mk": "STRUKTUR BETON BERTULANG II",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -384,8 +384,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18502",
-      "nm_mk": "GEOMETRI JALAN RAYA",
+      "kode_mk": "TKS18509",
+      "nm_mk": "JALAN REL",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -398,22 +398,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18509",
-      "nm_mk": "JALAN REL",
+      "kode_mk": "TKS18502",
+      "nm_mk": "GEOMETRI JALAN RAYA",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18609",
-      "nm_mk": "MANAJEMEN PROYEK",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKS18602",
-      "nm_mk": "PERENCANAAN DAN PENGENDALIAN PROYEK",
+      "kode_mk": "TKS18603",
+      "nm_mk": "PENGELOLAAN ALAT BERAT",
       "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -426,8 +419,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18603",
-      "nm_mk": "PENGELOLAAN ALAT BERAT",
+      "kode_mk": "TKS18609",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKS18602",
+      "nm_mk": "PERENCANAAN DAN PENGENDALIAN PROYEK",
       "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -482,15 +482,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18803",
-      "nm_mk": "PRAKTIK KERJA",
+      "kode_mk": "TKS18101",
+      "nm_mk": "FISIKA TEKNIK I",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TKS18101",
-      "nm_mk": "FISIKA TEKNIK I",
+      "kode_mk": "TKS18803",
+      "nm_mk": "PRAKTIK KERJA",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -517,6 +517,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "TKS18802",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "TKS18803",
       "nm_mk": "PRAKTIK KERJA",
       "sks_mk": 2,
@@ -527,13 +534,6 @@
       "kode_mk": "TKS18804",
       "nm_mk": "TUGAS AKHIR",
       "sks_mk": 4,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TKS18802",
-      "nm_mk": "KULIAH KERJA NYATA",
-      "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
     },

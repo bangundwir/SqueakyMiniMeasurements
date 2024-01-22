@@ -54,6 +54,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "RME131011",
+      "nm_mk": "MATEMATIKA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "RME131016",
       "nm_mk": "APLIKASI KOMPUTER",
       "sks_mk": 2,
@@ -82,23 +89,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RME131022",
-      "nm_mk": "PRAKTEK KERJA BANGKU",
-      "sks_mk": 3,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "RME131015",
       "nm_mk": "TEKNIK BENGKEL I",
       "sks_mk": 1,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RME131011",
-      "nm_mk": "MATEMATIKA TERAPAN",
-      "sks_mk": 2,
       "id_smt": "20131",
       "nilai_huruf": null
     },
@@ -110,16 +103,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RME132011",
-      "nm_mk": "MATEMATIKA TERAPAN II",
-      "sks_mk": 1,
-      "id_smt": "20132",
+      "kode_mk": "RME131022",
+      "nm_mk": "PRAKTEK KERJA BANGKU",
+      "sks_mk": 3,
+      "id_smt": "20131",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RME132023",
-      "nm_mk": "PRAKTEK LAS II",
-      "sks_mk": 3,
+      "kode_mk": "RME132011",
+      "nm_mk": "MATEMATIKA TERAPAN II",
+      "sks_mk": 1,
       "id_smt": "20132",
       "nilai_huruf": null
     },
@@ -131,9 +124,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RME132014",
-      "nm_mk": "KEKUATAN BAHAN",
-      "sks_mk": 2,
+      "kode_mk": "RME132023",
+      "nm_mk": "PRAKTEK LAS II",
+      "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
     },
@@ -194,9 +187,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RME133011",
-      "nm_mk": "KIMIA TERAPAN",
+      "kode_mk": "RME132014",
+      "nm_mk": "KEKUATAN BAHAN",
       "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME133001",
+      "nm_mk": "BAHASA INGGRIS TEKNIK III",
+      "sks_mk": 1,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -208,9 +208,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RME133021",
-      "nm_mk": "PRAKTEK MESIN PERKAKAS I",
-      "sks_mk": 3,
+      "kode_mk": "RME133016",
+      "nm_mk": "TERMODINAMIKA TEKNIK I",
+      "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -218,6 +218,34 @@
       "kode_mk": "RME133015",
       "nm_mk": "TEKNIK BENGKEL II",
       "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME133031",
+      "nm_mk": "K3 DAN ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME133012",
+      "nm_mk": "ELEMEN MESIN I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME133011",
+      "nm_mk": "KIMIA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME133021",
+      "nm_mk": "PRAKTEK MESIN PERKAKAS I",
+      "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -236,43 +264,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RME133025",
-      "nm_mk": "SISTEM MANAJEMEN MUTU II",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RME133012",
-      "nm_mk": "ELEMEN MESIN I",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RME133031",
-      "nm_mk": "K3 DAN ETIKA PROFESI",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RME133016",
-      "nm_mk": "TERMODINAMIKA TEKNIK I",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RME133001",
-      "nm_mk": "BAHASA INGGRIS TEKNIK III",
-      "sks_mk": 1,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "RME133013",
       "nm_mk": "KINEMATIKA & DINAMIKA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RME133025",
+      "nm_mk": "SISTEM MANAJEMEN MUTU II",
       "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null

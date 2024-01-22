@@ -45,6 +45,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "RTD201107",
+      "nm_mk": "Piranti dan Teknik Elektronika",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "RTD201104",
       "nm_mk": "Bengkel Elektromekanik",
       "sks_mk": 2,
@@ -94,23 +101,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD201107",
-      "nm_mk": "Piranti dan Teknik Elektronika",
-      "sks_mk": 3,
-      "id_smt": "20201",
+      "kode_mk": "RTD202102",
+      "nm_mk": "Medan Elektromagnetik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTD202108",
+      "nm_mk": "Saluran Transmisi dan Gelombang Mikro",
+      "sks_mk": 2,
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
       "kode_mk": "RTD202107",
       "nm_mk": "Praktikum Teknik Digital",
       "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RTD202106",
-      "nm_mk": "Praktikum Teknik dan Jaringan Komputer",
-      "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -129,15 +136,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD202108",
-      "nm_mk": "Saluran Transmisi dan Gelombang Mikro",
-      "sks_mk": 2,
+      "kode_mk": "RTD202106",
+      "nm_mk": "Praktikum Teknik dan Jaringan Komputer",
+      "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD202102",
-      "nm_mk": "Medan Elektromagnetik",
+      "kode_mk": "RTD202001",
+      "nm_mk": "Bahasa Inggris II",
       "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -153,13 +160,6 @@
       "kode_mk": "RTD202103",
       "nm_mk": "Praktikum Pemrograman Koputer",
       "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RTD202001",
-      "nm_mk": "Bahasa Inggris II",
-      "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -192,16 +192,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD203107",
-      "nm_mk": "Workshop Alat Ukur dan Pengukuran",
+      "kode_mk": "RTD203104",
+      "nm_mk": "Pemrosesan Sinyal Digital",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD203110",
-      "nm_mk": "Workshop Mikrokontroler",
-      "sks_mk": 3,
+      "kode_mk": "RTD203107",
+      "nm_mk": "Workshop Alat Ukur dan Pengukuran",
+      "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
@@ -220,9 +220,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD203104",
-      "nm_mk": "Pemrosesan Sinyal Digital",
-      "sks_mk": 2,
+      "kode_mk": "RTD203110",
+      "nm_mk": "Workshop Mikrokontroler",
+      "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
     },
@@ -231,6 +231,27 @@
       "nm_mk": "IoT dan WSN",
       "sks_mk": 2,
       "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTD204001",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTD204103",
+      "nm_mk": "Praktikum Antena",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTD204105",
+      "nm_mk": "Praktikum IoT dan WSN",
+      "sks_mk": 2,
+      "id_smt": "20212",
       "nilai_huruf": null
     },
     {
@@ -269,27 +290,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD204001",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RTD204103",
-      "nm_mk": "Praktikum Antena",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RTD204105",
-      "nm_mk": "Praktikum IoT dan WSN",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "RTD204108",
       "nm_mk": "Workshop Rekayasa Trafik",
       "sks_mk": 2,
@@ -304,15 +304,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD205106",
-      "nm_mk": "Workshop Metode Numerik",
-      "sks_mk": 1,
+      "kode_mk": "RTD205103",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD205108",
-      "nm_mk": "Sistem Komunikasi Fiber Optik",
+      "kode_mk": "RTD205001",
+      "nm_mk": "Kewirausahaan",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -332,22 +332,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD205001",
-      "nm_mk": "Kewirausahaan",
+      "kode_mk": "RTD205109",
+      "nm_mk": "Sistem Komunikasi Radio",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD205105",
-      "nm_mk": "Workshop Kecerdasan Buatan",
-      "sks_mk": 3,
+      "kode_mk": "RTD205106",
+      "nm_mk": "Workshop Metode Numerik",
+      "sks_mk": 1,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD205103",
-      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "kode_mk": "RTD205108",
+      "nm_mk": "Sistem Komunikasi Fiber Optik",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -360,9 +360,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTD205109",
-      "nm_mk": "Sistem Komunikasi Radio",
-      "sks_mk": 2,
+      "kode_mk": "RTD205105",
+      "nm_mk": "Workshop Kecerdasan Buatan",
+      "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
     },

@@ -50,8 +50,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "00010001",
-      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "kode_mk": "00010010",
+      "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 2,
       "id_smt": "20151",
       "nilai_huruf": null
@@ -59,6 +59,13 @@
     {
       "kode_mk": "00010030",
       "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00010001",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
       "sks_mk": 2,
       "id_smt": "20151",
       "nilai_huruf": null
@@ -85,29 +92,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "00010010",
-      "nm_mk": "BAHASA INDONESIA",
-      "sks_mk": 2,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "01210003",
       "nm_mk": "MANAJEMEN",
-      "sks_mk": 3,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "00010031",
-      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
-      "sks_mk": 2,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01210005",
-      "nm_mk": "HUKUM BISNIS DAN ETIKA PROFESI",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -122,6 +108,13 @@
     {
       "kode_mk": "00010015",
       "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "00010031",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
       "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -148,10 +141,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01320004",
-      "nm_mk": "PRAKTIKUM AKUNTANSI BIAYA",
-      "sks_mk": 1,
-      "id_smt": "20161",
+      "kode_mk": "01210005",
+      "nm_mk": "HUKUM BISNIS DAN ETIKA PROFESI",
+      "sks_mk": 3,
+      "id_smt": "20152",
       "nilai_huruf": null
     },
     {
@@ -162,43 +155,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01310004",
-      "nm_mk": "AKUNTANSI BIAYA",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "34020012",
-      "nm_mk": "ACADEMIC ENGLISH",
-      "sks_mk": 2,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01310003",
-      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH I",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "34010003",
-      "nm_mk": "KEWIRAUSAHAAN.",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "00020016.",
-      "nm_mk": "PRAKTIKUM KOMPUTER AKUNTANSI",
+      "kode_mk": "01320004",
+      "nm_mk": "PRAKTIKUM AKUNTANSI BIAYA",
       "sks_mk": 1,
       "id_smt": "20161",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01310001",
-      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "kode_mk": "01310004",
+      "nm_mk": "AKUNTANSI BIAYA",
       "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
@@ -211,10 +176,38 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01410001",
-      "nm_mk": "SISTEM INFORMASI AKUNTANSI",
+      "kode_mk": "00020016.",
+      "nm_mk": "PRAKTIKUM KOMPUTER AKUNTANSI",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01310003",
+      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH I",
       "sks_mk": 3,
-      "id_smt": "20162",
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "34020012",
+      "nm_mk": "ACADEMIC ENGLISH",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "34010003",
+      "nm_mk": "KEWIRAUSAHAAN.",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01310001",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20161",
       "nilai_huruf": null
     },
     {
@@ -225,8 +218,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01410005",
-      "nm_mk": "MANAJEMEN KEUANGAN",
+      "kode_mk": "01410001",
+      "nm_mk": "SISTEM INFORMASI AKUNTANSI",
       "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -234,6 +227,13 @@
     {
       "kode_mk": "01410003.",
       "nm_mk": "Perpajakan I",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01410005",
+      "nm_mk": "MANAJEMEN KEUANGAN",
       "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -253,6 +253,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "01410004",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "01420001",
       "nm_mk": "Praktikum Akuntansi Keuangan",
       "sks_mk": 1,
@@ -260,10 +267,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01410004",
-      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "kode_mk": "01510007",
+      "nm_mk": "Analisis & Penggunaan Laporan Keuangan",
       "sks_mk": 3,
-      "id_smt": "20162",
+      "id_smt": "20171",
       "nilai_huruf": null
     },
     {
@@ -295,13 +302,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "34020013.",
-      "nm_mk": "English Proficiency Certification.",
-      "sks_mk": 2,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "01510001",
       "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN I",
       "sks_mk": 3,
@@ -316,10 +316,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01510007",
-      "nm_mk": "Analisis & Penggunaan Laporan Keuangan",
-      "sks_mk": 3,
+      "kode_mk": "34020013.",
+      "nm_mk": "English Proficiency Certification.",
+      "sks_mk": 2,
       "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01610005.",
+      "nm_mk": "Sistem Pengendalian Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20172",
       "nilai_huruf": null
     },
     {
@@ -330,8 +337,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01610003",
-      "nm_mk": "AUDITING II",
+      "kode_mk": "01610001",
+      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN II",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01610007",
+      "nm_mk": "ERP Financing and Controlling",
       "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -351,59 +365,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01610005.",
-      "nm_mk": "Sistem Pengendalian Manajemen",
+      "kode_mk": "01610003",
+      "nm_mk": "AUDITING II",
       "sks_mk": 3,
       "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01610007",
-      "nm_mk": "ERP Financing and Controlling",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01610001",
-      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN II",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01710101",
-      "nm_mk": "Manajemen Pemasaran",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01720002",
-      "nm_mk": "Praktikum Auditing",
-      "sks_mk": 1,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01710013",
-      "nm_mk": "Statistika Multivariat",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01710003",
-      "nm_mk": "Akuntansi Pemerintahan",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01710004",
-      "nm_mk": "TEORI AKUNTANSI",
-      "sks_mk": 3,
-      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
@@ -428,16 +393,51 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01610002",
-      "nm_mk": "AKUNTANSI SEKTOR PUBLIK",
+      "kode_mk": "01710003",
+      "nm_mk": "Akuntansi Pemerintahan",
       "sks_mk": 3,
-      "id_smt": "20182",
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01710004",
+      "nm_mk": "TEORI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01710013",
+      "nm_mk": "Statistika Multivariat",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01720002",
+      "nm_mk": "Praktikum Auditing",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01710101",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
       "kode_mk": "01210006",
       "nm_mk": "Komunikasi Bisnis",
       "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "01610002",
+      "nm_mk": "AKUNTANSI SEKTOR PUBLIK",
+      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },

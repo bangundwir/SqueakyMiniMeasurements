@@ -42,8 +42,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PK.A.1.45",
+      "nm_mk": "Pengembangan Kepribadian",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PKA03",
       "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKA01",
+      "nm_mk": "Agama",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -56,8 +70,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PK.A.1.45",
-      "nm_mk": "Pengembangan Kepribadian",
+      "kode_mk": "PKB07",
+      "nm_mk": "Pendidikan Budaya Anti Korupsi",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -66,13 +80,6 @@
       "kode_mk": "PKB05",
       "nm_mk": "Etika Profesi Promotor Kesehatan",
       "sks_mk": 3,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKB07",
-      "nm_mk": "Pendidikan Budaya Anti Korupsi",
-      "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
@@ -91,22 +98,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKA01",
-      "nm_mk": "Agama",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKB09",
-      "nm_mk": "Pengantar Kesehatan Masyarakat",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKB19",
-      "nm_mk": "Pengantar Media Promosi Kesehatan",
+      "kode_mk": "PKB11",
+      "nm_mk": "Pengantar Demografi",
       "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -119,15 +112,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKB11",
-      "nm_mk": "Pengantar Demografi",
+      "kode_mk": "PKB32",
+      "nm_mk": "Epidemiologi",
       "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKB32",
-      "nm_mk": "Epidemiologi",
+      "kode_mk": "PKB35",
+      "nm_mk": "Pengantar Psikologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKB19",
+      "nm_mk": "Pengantar Media Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKB09",
+      "nm_mk": "Pengantar Kesehatan Masyarakat",
       "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -142,13 +149,6 @@
     {
       "kode_mk": "PKB13",
       "nm_mk": "Dasar-dasar Ilmu Penyakit",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKB35",
-      "nm_mk": "Pengantar Psikologi",
       "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -182,6 +182,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PKB28",
+      "nm_mk": "Kemitraan dalam Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PKB33",
       "nm_mk": "Pemasaran Sosial",
       "sks_mk": 3,
@@ -203,16 +210,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKB34",
-      "nm_mk": "Sistem Informasi Kesehatan",
-      "sks_mk": 2,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKB28",
-      "nm_mk": "Kemitraan dalam Promosi Kesehatan",
-      "sks_mk": 2,
+      "kode_mk": "PKB16",
+      "nm_mk": "Perencanaan Program Promosi Kesehatan",
+      "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
     },
@@ -224,9 +224,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKB16",
-      "nm_mk": "Perencanaan Program Promosi Kesehatan",
-      "sks_mk": 3,
+      "kode_mk": "PKB34",
+      "nm_mk": "Sistem Informasi Kesehatan",
+      "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
     },
@@ -234,13 +234,6 @@
       "kode_mk": "PKB20",
       "nm_mk": "Perancangan Media Promosi Kesehatan",
       "sks_mk": 4,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKA.5.49",
-      "nm_mk": "Pemberdayaan Masyarakat dalam Krisis Kesehatan dan Penanggulangan Bencana",
-      "sks_mk": 2,
       "id_smt": "20222",
       "nilai_huruf": null
     },
@@ -273,6 +266,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PKA.5.49",
+      "nm_mk": "Pemberdayaan Masyarakat dalam Krisis Kesehatan dan Penanggulangan Bencana",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PKB 17",
       "nm_mk": "Implementasi Program Promosi Kesehatan",
       "sks_mk": 2,
@@ -282,27 +282,6 @@
     {
       "kode_mk": "PKB 25",
       "nm_mk": "Pendidikan dan pelatihan kesehatan",
-      "sks_mk": 3,
-      "id_smt": "20231",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKB 24",
-      "nm_mk": "Konseling",
-      "sks_mk": 3,
-      "id_smt": "20231",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKA.5.51",
-      "nm_mk": "Promosi Kesehatan RS",
-      "sks_mk": 2,
-      "id_smt": "20231",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKB 21",
-      "nm_mk": "Pengembangan media Promosi Kesehatan",
       "sks_mk": 3,
       "id_smt": "20231",
       "nilai_huruf": null
@@ -322,9 +301,30 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PKB 21",
+      "nm_mk": "Pengembangan media Promosi Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PKB 18",
       "nm_mk": "Evaluasi program Promkes",
       "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKB 24",
+      "nm_mk": "Konseling",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKA.5.51",
+      "nm_mk": "Promosi Kesehatan RS",
+      "sks_mk": 2,
       "id_smt": "20231",
       "nilai_huruf": null
     }

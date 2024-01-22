@@ -1,0 +1,476 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20071",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 25,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Lulus"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EKO100",
+      "nm_mk": "EKONOMI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB106",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB100",
+      "nm_mk": "PENGANTAR ILMU PERTANIAN",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT100",
+      "nm_mk": "PENGANTAR MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB107",
+      "nm_mk": "PIP",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM101",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO100",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB105",
+      "nm_mk": "PPKN",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB109",
+      "nm_mk": "OLAH RAGA DAN SENI",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM130",
+      "nm_mk": "SOSIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT103",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB108",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB100",
+      "nm_mk": "PENGANTAR KEWIRAUSAHAAN",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS100",
+      "nm_mk": "FISIKA UMUM",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN250",
+      "nm_mk": "PENGETAHUAN BAHAN INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN261",
+      "nm_mk": "KESELAMATAN DAN KESEHATAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN221",
+      "nm_mk": "DASAR REKAYASA BIOPROS",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN200",
+      "nm_mk": "PENGANTAR AGROINDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KOM201",
+      "nm_mk": "PENERAPAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN240",
+      "nm_mk": "TEKNOLOGI PENGEMASAN,DISTRIBUSI DAN TRAN",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN220",
+      "nm_mk": "PERHITUNGAN DASAR REKAYASA PROSES",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STK211",
+      "nm_mk": "METODE STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN230",
+      "nm_mk": "MIKROBIOLOGI INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN260",
+      "nm_mk": "MANAJEMEN LINGKUNGAN INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN232",
+      "nm_mk": "DASAR TEKNOLOGI MIKROBIAL",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEP206",
+      "nm_mk": "GAMBAR TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM210",
+      "nm_mk": "DASAR-DASAR KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN211",
+      "nm_mk": "TEKNIK TATA CARA KERJA",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN241",
+      "nm_mk": "TEKNIK PENYIMPANAN DAN PENGGUDANGAN",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN212",
+      "nm_mk": "PENGEMBANGAN SUMBERDAYA MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN231",
+      "nm_mk": "PRAKTIKUM BIOPROSES",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN320",
+      "nm_mk": "SATUAN OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEP331",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM213",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB411",
+      "nm_mk": "SISTEM INFORMASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN310",
+      "nm_mk": "TATA LETAK DAN PENANGANAN BAHAN",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STK211",
+      "nm_mk": "METODE STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN350",
+      "nm_mk": "PENGAWASAN MUTU",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN311",
+      "nm_mk": "PENELITIAN OPERASIONAL I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN321",
+      "nm_mk": "SATUAN PROSES",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKK333",
+      "nm_mk": "PEMASARAN SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN312",
+      "nm_mk": "PERENCANAAN DAN PENGENDALIAN PRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN316",
+      "nm_mk": "ANALISIS SISTEM DAN PENGAMBILAN KEPUTUSA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN317",
+      "nm_mk": "TEKNIK OPTIMASI",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN324",
+      "nm_mk": "TEKNOLOGI PATI, GULA DAN SUKROKIMIA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN323",
+      "nm_mk": "TEKNOLOGI POLIMER",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN399",
+      "nm_mk": "PRAKTEK LAPANG",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB313",
+      "nm_mk": "BISNIS INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN421",
+      "nm_mk": "TEKNOLOGI MINYAK, EMULSI, DAN OLEOKIMIA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN422",
+      "nm_mk": "TEKNOLOGI BAHAN PENYEGAR",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN460",
+      "nm_mk": "PRODUKSI BERSIH",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN398",
+      "nm_mk": "METODE PENULISAN DAN PENYAJIAN ILMIAH (M",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN461",
+      "nm_mk": "TEKNOLOGI PENGENDALIAN PENCEMARAN INDUST",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN420",
+      "nm_mk": "PERANCANGAN PABRIK",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN471",
+      "nm_mk": "VALUASI DAN KOMERSIALISASI TEKNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN470",
+      "nm_mk": "PERENCANAAN PROYEK DAN INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN499",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 0,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN498",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 0,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HILDA HASANAH",
+    "jk": "P",
+    "nipd": "F34070038         ",
+    "namapt": "Institut Pertanian Bogor",
+    "namajenjang": "S1",
+    "namaprodi": "Teknologi Industri Pertanian",
+    "reg_pd": "7F67F901-92EB-4CD0-8EEA-D841A2146132",
+    "mulai_smt": "20071",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2011-08-10T00:00:00Z",
+    "no_seri_ijazah": "1008110171",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODI4RkI5NjYtMzczMy00MzBFLTg2RkYtOTA5Qjc2NEUyNTIz",
+    "link_prodi": "/data_prodi/RUI3REI3MjQtOEMwNC00NUZDLThDNjMtQjYwNDdDNkRBOTY0"
+  }
+}

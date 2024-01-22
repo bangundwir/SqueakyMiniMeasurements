@@ -80,6 +80,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKDU 003",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKDK 004",
       "nm_mk": "Teori Ekonomi",
       "sks_mk": 3,
@@ -110,13 +117,6 @@
     {
       "kode_mk": "MKDK 006",
       "nm_mk": "Pendidikan Anti Korupsi",
-      "sks_mk": 3,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKDU 003",
-      "nm_mk": "Bahasa Indonesia",
       "sks_mk": 3,
       "id_smt": "20151",
       "nilai_huruf": null
@@ -185,8 +185,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKKB 030",
-      "nm_mk": "MANAJEMEN STRATEGI",
+      "kode_mk": "MKDK 011",
+      "nm_mk": "Ekonomi Koperasi",
       "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
@@ -199,15 +199,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKDK 013",
-      "nm_mk": "MANAJEMEN INOVASI",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKDK 021",
-      "nm_mk": "Metode Penelitian Dan Statistik",
+      "kode_mk": "MKKB 030",
+      "nm_mk": "MANAJEMEN STRATEGI",
       "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
@@ -227,8 +220,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKDK 011",
-      "nm_mk": "Ekonomi Koperasi",
+      "kode_mk": "MKDK 013",
+      "nm_mk": "MANAJEMEN INOVASI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK 021",
+      "nm_mk": "Metode Penelitian Dan Statistik",
       "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
@@ -241,8 +241,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKDK 019",
-      "nm_mk": "Bahasa Inggris Ekonomi",
+      "kode_mk": "MKDK 017",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK 022",
+      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH",
       "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -255,15 +262,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKDK 017",
-      "nm_mk": "PERPAJAKAN",
-      "sks_mk": 3,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKDK 022",
-      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH",
+      "kode_mk": "MKDK 019",
+      "nm_mk": "Bahasa Inggris Ekonomi",
       "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -318,6 +318,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKKB 036",
+      "nm_mk": "BUDGETING PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKB 031",
+      "nm_mk": "STUDI KLAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKKB 032",
       "nm_mk": "Ekonomi Manajerial",
       "sks_mk": 3,
@@ -332,20 +346,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKKB 031",
-      "nm_mk": "STUDI KLAYAKAN BISNIS",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKKB 036",
-      "nm_mk": "BUDGETING PERUSAHAAN",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKKB 046",
       "nm_mk": "MANAJEMEN PERBANKAN",
       "sks_mk": 3,
@@ -353,15 +353,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKKB 039",
-      "nm_mk": "AUDIT KOPERASI",
+      "kode_mk": "MKPB 049",
+      "nm_mk": "STUDI EKSKURSI",
       "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKPB 049",
-      "nm_mk": "STUDI EKSKURSI",
+      "kode_mk": "MKKB 039",
+      "nm_mk": "AUDIT KOPERASI",
       "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -402,13 +402,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKPB 052",
-      "nm_mk": "PERBANKAN SYARIAH",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKPB 048",
       "nm_mk": "LEADERSHIP",
       "sks_mk": 3,
@@ -423,16 +416,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKKB 050",
-      "nm_mk": "SEMINAR PROPOSAL",
-      "sks_mk": 1,
-      "id_smt": "20182",
+      "kode_mk": "MKPB 052",
+      "nm_mk": "PERBANKAN SYARIAH",
+      "sks_mk": 3,
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
       "kode_mk": "MKKB 051",
       "nm_mk": "SKRIPSI",
       "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKB 050",
+      "nm_mk": "SEMINAR PROPOSAL",
+      "sks_mk": 1,
       "id_smt": "20182",
       "nilai_huruf": null
     },

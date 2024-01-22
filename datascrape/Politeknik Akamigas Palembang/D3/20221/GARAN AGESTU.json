@@ -53,6 +53,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "TPM 1202",
+      "nm_mk": "Kimia Umum",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "TPM 1206",
       "nm_mk": "Teknik Tenaga Listrik",
       "sks_mk": 1,
@@ -81,13 +88,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TPM 1202",
-      "nm_mk": "Kimia Umum",
-      "sks_mk": 1,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "TPM 1205",
       "nm_mk": "Praktikum Fisika",
       "sks_mk": 2,
@@ -95,8 +95,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PAP 2001",
-      "nm_mk": "Pancasila",
+      "kode_mk": "PAP 2002",
+      "nm_mk": "Kewarganegaraan",
       "sks_mk": 2,
       "id_smt": "20222",
       "nilai_huruf": null
@@ -116,6 +116,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "TPM 2207",
+      "nm_mk": "Teknologi Migas dan Petrokimia",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TPM 2205",
+      "nm_mk": "Termodinamika",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "TPM 2206",
       "nm_mk": "Praktik Bengkel Mekanik",
       "sks_mk": 2,
@@ -130,8 +144,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PAP 2002",
-      "nm_mk": "Kewarganegaraan",
+      "kode_mk": "PAP 2001",
+      "nm_mk": "Pancasila",
       "sks_mk": 2,
       "id_smt": "20222",
       "nilai_huruf": null
@@ -140,20 +154,6 @@
       "kode_mk": "TPM 2208",
       "nm_mk": "Praktikum Kimia Migas",
       "sks_mk": 1,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TPM 2207",
-      "nm_mk": "Teknologi Migas dan Petrokimia",
-      "sks_mk": 3,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TPM 2205",
-      "nm_mk": "Termodinamika",
-      "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
     },
@@ -207,20 +207,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TPM 3209",
-      "nm_mk": "Praktikum Produk MIgas",
-      "sks_mk": 3,
-      "id_smt": "20231",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "TPM 3207",
-      "nm_mk": "Praktik Keselamatan & Kesehatan Kerja",
-      "sks_mk": 2,
-      "id_smt": "20231",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "TPM 3205",
       "nm_mk": "Energi Baru Terbarukan",
       "sks_mk": 2,
@@ -235,8 +221,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "TPM 3211",
-      "nm_mk": "Praktikum Rotating Equipment",
+      "kode_mk": "TPM 3209",
+      "nm_mk": "Praktikum Produk MIgas",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TPM 3207",
+      "nm_mk": "Praktik Keselamatan & Kesehatan Kerja",
       "sks_mk": 2,
       "id_smt": "20231",
       "nilai_huruf": null
@@ -245,6 +238,13 @@
       "kode_mk": "TPM 3210",
       "nm_mk": "Rotating Equipment",
       "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TPM 3211",
+      "nm_mk": "Praktikum Rotating Equipment",
+      "sks_mk": 2,
       "id_smt": "20231",
       "nilai_huruf": null
     },

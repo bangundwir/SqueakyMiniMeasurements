@@ -1,0 +1,74 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": null,
+      "nm_stat_mhs": "Keluar"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MP699",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MP799",
+      "nm_mk": "TESIS LANJUT",
+      "sks_mk": 6,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SETYA HARTAKA",
+    "jk": "L",
+    "nipd": "942009016         ",
+    "namapt": "Universitas Kristen Satya Wacana",
+    "namajenjang": "S2",
+    "namaprodi": "Administrasi Pendidikan",
+    "reg_pd": "569A359C-3537-45E7-BE56-C3E2B37AC669",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": null,
+    "no_seri_ijazah": "",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBMDBFRjgtMjZDMy00NTk3LTg2ODMtMzhBRDZFMDUyNzdC",
+    "link_prodi": "/data_prodi/RTQ3QUZEQzctRjdGQy00RDAxLUIyRjMtMkM1NzU1M0RGOERE"
+  }
+}

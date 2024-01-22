@@ -144,13 +144,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SJN414-80201-09",
-      "nm_mk": "Bahasa Jawa Sumber",
-      "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MPK433-80201-09",
       "nm_mk": "Pendidikan Kewarganegaraan",
       "sks_mk": 2,
@@ -158,8 +151,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "SJN414-80201-09",
+      "nm_mk": "Bahasa Jawa Sumber",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "SJB414-80201-09",
       "nm_mk": "Sejarah Asia Selatan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJB406-80201-09",
+      "nm_mk": "Bahasa Inggris Sumber",
       "sks_mk": 2,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -189,13 +196,6 @@
       "kode_mk": "SJB417-80201-09",
       "nm_mk": "Sejarah Eropa",
       "sks_mk": 3,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SJB406-80201-09",
-      "nm_mk": "Bahasa Inggris Sumber",
-      "sks_mk": 2,
       "id_smt": "20102",
       "nilai_huruf": null
     },
@@ -305,6 +305,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "SJN410-80201-09",
+      "nm_mk": "Sejarah Maritim",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "SJN404-80201-09",
       "nm_mk": "Teori Sosial Budaya",
       "sks_mk": 2,
@@ -340,13 +347,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SJN410-80201-09",
-      "nm_mk": "Sejarah Maritim",
-      "sks_mk": 2,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "SJN405-80201-09",
       "nm_mk": "Metodologi Sejarah",
       "sks_mk": 3,
@@ -361,29 +361,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SJN417-80201-09",
-      "nm_mk": "Kearsipan dan Perpustakaan",
-      "sks_mk": 2,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "SJB426-80201-09",
       "nm_mk": "Sejarah Sosial",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SJB411-80201-09",
-      "nm_mk": "Sejarah Indonesia Modern",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SJB423-80201-09",
-      "nm_mk": "Sejarah Kebudayaan",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -403,10 +382,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SJB430-80201-09",
-      "nm_mk": "Seminar",
+      "kode_mk": "SJB411-80201-09",
+      "nm_mk": "Sejarah Indonesia Modern",
       "sks_mk": 3,
-      "id_smt": "20122",
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJN417-80201-09",
+      "nm_mk": "Kearsipan dan Perpustakaan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJB423-80201-09",
+      "nm_mk": "Sejarah Kebudayaan",
+      "sks_mk": 3,
+      "id_smt": "20121",
       "nilai_huruf": null
     },
     {
@@ -438,16 +431,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NSEJ624-80201-13",
-      "nm_mk": "Studi Masyarakat Indonesia",
-      "sks_mk": 2,
-      "id_smt": "20141",
+      "kode_mk": "SJB430-80201-09",
+      "nm_mk": "Seminar",
+      "sks_mk": 3,
+      "id_smt": "20122",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SJN405-80201-09",
-      "nm_mk": "Metodologi Sejarah",
-      "sks_mk": 3,
+      "kode_mk": "PSEJ643-87201-13",
+      "nm_mk": "Sejarah Politik",
+      "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -459,9 +452,30 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PSEJ643-87201-13",
-      "nm_mk": "Sejarah Politik",
+      "kode_mk": "SJN405-80201-09",
+      "nm_mk": "Metodologi Sejarah",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSEJ631-87201-13",
+      "nm_mk": "Prasejarah Indonesia",
       "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NSEJ624-80201-13",
+      "nm_mk": "Studi Masyarakat Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSEJ626-87201-13",
+      "nm_mk": "Dasar-Dasar Arkeologi",
+      "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -480,37 +494,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PSEJ631-87201-13",
-      "nm_mk": "Prasejarah Indonesia",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PSEJ626-87201-13",
-      "nm_mk": "Dasar-Dasar Arkeologi",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SJN409-80201-09",
-      "nm_mk": "Sejarah Kota",
-      "sks_mk": 2,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NSEJ674-80201-13",
       "nm_mk": "Bahasa Inggris Sumber",
       "sks_mk": 2,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SJB428-87201-09",
-      "nm_mk": "Geohistori",
-      "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
     },
@@ -522,16 +508,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SJN407-80201-09",
-      "nm_mk": "Sejarah Agraria",
-      "sks_mk": 2,
+      "kode_mk": "SJB428-87201-09",
+      "nm_mk": "Geohistori",
+      "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SJN490-80201-09",
-      "nm_mk": "Skripsi",
-      "sks_mk": 6,
+      "kode_mk": "SJN409-80201-09",
+      "nm_mk": "Sejarah Kota",
+      "sks_mk": 2,
       "id_smt": "20142",
       "nilai_huruf": null
     },
@@ -546,6 +532,20 @@
       "kode_mk": "SJB418-87201-09",
       "nm_mk": "Sejarah Amerika",
       "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJN490-80201-09",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJN407-80201-09",
+      "nm_mk": "Sejarah Agraria",
+      "sks_mk": 2,
       "id_smt": "20142",
       "nilai_huruf": null
     }

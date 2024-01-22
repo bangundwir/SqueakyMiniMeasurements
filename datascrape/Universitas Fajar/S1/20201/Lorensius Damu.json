@@ -45,6 +45,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "32052MKA2",
+      "nm_mk": "KIMIA TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052PPK1",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "32052PFS1",
       "nm_mk": "PRAKTIKUM FISIKA TEKNIK I",
       "sks_mk": 1,
@@ -80,13 +94,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "32052MMS2",
-      "nm_mk": "PROSES MANUFAKTUR I",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "32052MKS2",
       "nm_mk": "KALKULUS I",
       "sks_mk": 2,
@@ -94,24 +101,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "32052PPK1",
-      "nm_mk": "PRAKTIKUM PEMROGRAMAN KOMPUTER",
-      "sks_mk": 1,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "32052MKA2",
-      "nm_mk": "KIMIA TEKNIK",
+      "kode_mk": "32052MMS2",
+      "nm_mk": "PROSES MANUFAKTUR I",
       "sks_mk": 2,
       "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "32052MKK3",
-      "nm_mk": "MEKANIKA KEKUATAN MATERIAL",
-      "sks_mk": 3,
-      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -150,13 +143,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "32052MMD2",
-      "nm_mk": "PROSES MANUFAKTUR II",
-      "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "32052PMS1",
       "nm_mk": "PRAKTIKUM PROSES MANUFAKTUR I",
       "sks_mk": 1,
@@ -178,10 +164,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "32052ATK3",
-      "nm_mk": "MATEMATIKA TEKNIK",
+      "kode_mk": "32052MKK3",
+      "nm_mk": "MEKANIKA KEKUATAN MATERIAL",
       "sks_mk": 3,
-      "id_smt": "20211",
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MMD2",
+      "nm_mk": "PROSES MANUFAKTUR II",
+      "sks_mk": 2,
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -208,6 +201,13 @@
     {
       "kode_mk": "32052KDE3",
       "nm_mk": "KINEMATIKA & DINAMIKA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052ATK3",
+      "nm_mk": "MATEMATIKA TEKNIK",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -283,13 +283,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "32052ENU2",
-      "nm_mk": "METODE NUMERIK",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "32052NM23",
       "nm_mk": "ELEMEN MESIN 2",
       "sks_mk": 3,
@@ -297,17 +290,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "32052MID2",
-      "nm_mk": "MANAJEMEN TEKNOLOGI DAN INOVASI",
+      "kode_mk": "32052ENU2",
+      "nm_mk": "METODE NUMERIK",
       "sks_mk": 2,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "32052PME2",
-      "nm_mk": "PENGANTAR TEKNIK MESIN",
-      "sks_mk": 2,
-      "id_smt": "20221",
+      "id_smt": "20212",
       "nilai_huruf": null
     },
     {
@@ -320,6 +306,20 @@
     {
       "kode_mk": "32052KAM2",
       "nm_mk": "MEKATRONIKA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MID2",
+      "nm_mk": "MANAJEMEN TEKNOLOGI DAN INOVASI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052PME2",
+      "nm_mk": "PENGANTAR TEKNIK MESIN",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -374,6 +374,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "32052TNM2",
+      "nm_mk": "TEKNIK PERAWATAN MESIN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "32052EDE2",
       "nm_mk": "CAPSTONE DESIGN",
       "sks_mk": 2,
@@ -384,27 +391,6 @@
       "kode_mk": "32052MNI2",
       "nm_mk": "METODOLOGI PENELITIAN & PENULISAN ILMIAH",
       "sks_mk": 2,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "32052TNM2",
-      "nm_mk": "TEKNIK PERAWATAN MESIN",
-      "sks_mk": 2,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "32052IOT3",
-      "nm_mk": "TEKNOLOGI OTOMOTIF",
-      "sks_mk": 3,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "32052SVC3",
-      "nm_mk": "SISTEM DRIVE DAN CHASIS",
-      "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
     },
@@ -430,6 +416,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "32052IOT3",
+      "nm_mk": "TEKNOLOGI OTOMOTIF",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052SVC3",
+      "nm_mk": "SISTEM DRIVE DAN CHASIS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "32052AKE3",
       "nm_mk": "REKAYASA KENDARAAN DAN ALAT BERAT",
       "sks_mk": 3,
@@ -444,16 +444,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "32052SIK2",
-      "nm_mk": "KOROSI",
-      "sks_mk": 2,
+      "kode_mk": "32052MKP3",
+      "nm_mk": "KERJA PRAKTEK & ETIKA PROFESI",
+      "sks_mk": 3,
       "id_smt": "20231",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "32052MKP3",
-      "nm_mk": "KERJA PRAKTEK & ETIKA PROFESI",
-      "sks_mk": 3,
+      "kode_mk": "32052SIK2",
+      "nm_mk": "KOROSI",
+      "sks_mk": 2,
       "id_smt": "20231",
       "nilai_huruf": null
     }

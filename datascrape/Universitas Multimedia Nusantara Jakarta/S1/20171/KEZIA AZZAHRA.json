@@ -1,0 +1,470 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20173",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UM162",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM122",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK114",
+      "nm_mk": "DIGITAL PHOTOGRAPHY",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK116",
+      "nm_mk": "COMMUNICATION & TECHNOLOGY",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK100",
+      "nm_mk": "INTRODUCTION TO COMMUNICATION SCIENCE",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC150",
+      "nm_mk": "BUSINESS PRINCIPLES",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK111",
+      "nm_mk": "CREATIVE WRITING & STORYTELLING",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM152",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK110",
+      "nm_mk": "CRITICAL & CREATIVE THINKING",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC254",
+      "nm_mk": "INTRODUCTION TO PUBLIC RELATIONS",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK215",
+      "nm_mk": "DIGITAL VIDEOGRAPHY",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC255",
+      "nm_mk": "INTRODUCTION TO ADVERTISING",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC253",
+      "nm_mk": "DESIGN THINKING",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC252",
+      "nm_mk": "BUSINESS ENGLISH",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK201",
+      "nm_mk": "COMMUNICATION THEORY",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK205",
+      "nm_mk": "BAHASA INDONESIA FOR COMMUNICATION",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UM163",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC356",
+      "nm_mk": "STRATEGIC COMMUNICATION FOR SUSTAINABLE ORGANIZATIONS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC380",
+      "nm_mk": "MULTIMEDIA LABORATORY",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC370",
+      "nm_mk": "IMC & ADVERTISING MANAGEMENT",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC351",
+      "nm_mk": "INTERCULTURAL COMMUNICATION",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK304",
+      "nm_mk": "SOCIOLOGY OF COMMUNICATIONS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK302",
+      "nm_mk": "INTERPERSONAL COMMUNICATION SKILLS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK303",
+      "nm_mk": "MASS COMMUNICATION & POPULAR CULTURE",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC372",
+      "nm_mk": "BRANDS & BRANDING",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC457",
+      "nm_mk": "POLITICAL COMMUNICATION",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC471",
+      "nm_mk": "MEDIA PLANNING & THE CONSUMER JOURNEY",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC481",
+      "nm_mk": "DIGITAL STRATEGIC COMMUNICATION & DATA ANALYTICS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC475",
+      "nm_mk": "MEDIA RELATIONS & MEDIA ETHICS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC473",
+      "nm_mk": "MARKETING PUBLIC RELATIONS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC459",
+      "nm_mk": "PUBLIC SPEAKING & PRESENTATION SKILLS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK412",
+      "nm_mk": "ETHICS & COMMUNICATION PHILOSOPHY",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC254",
+      "nm_mk": "INTRODUCTION TO PUBLIC RELATIONS",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MC504",
+      "nm_mk": "ART, COPYWRITING & CREATIVE STRATEGY",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK517",
+      "nm_mk": "STATISTICS FOR SOCIAL SCIENCE",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC577",
+      "nm_mk": "SPECIAL EVENT & BRAND ACTIVATION",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MC503",
+      "nm_mk": "ACCOUNT PLANNING & MANAGEMENT",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK513",
+      "nm_mk": "ACADEMIC WRITING",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC576",
+      "nm_mk": "CRISIS COMMUNICATION",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC574",
+      "nm_mk": "DIRECT MARKETING & CUSTOMER RELATIONSHIP MANAGEMENT",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC658",
+      "nm_mk": "KOMUNIKASI INTERNASIONAL DAN ISU GLOBAL",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MC605",
+      "nm_mk": "ADVERTISING BUSINESS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC692",
+      "nm_mk": "SPECIAL TOPICS: CAMPAIGN FOR CONSUMER PRODUCTS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC683",
+      "nm_mk": "SOCIALPRENEURSHIP",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC684",
+      "nm_mk": "MEDIA PRODUCTION & CHANNEL MANAGEMENT",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC678",
+      "nm_mk": "CORPORATE SOCIAL RESPONSIBILITY & SOCIAL MARKETING",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PR605",
+      "nm_mk": "COMMUNITY RELATIONS & ENGAGEMENT",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FK201",
+      "nm_mk": "COMMUNICATION THEORY",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC767",
+      "nm_mk": "INTERNSHIP",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC560",
+      "nm_mk": "COMMUNICATION RESEARCH METHODS 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC779",
+      "nm_mk": "RISET KOMUNIKASI STRATEGIS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SC661",
+      "nm_mk": "COMMUNICATION RESEARCH METHODS 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MSC7010",
+      "nm_mk": "SEMINAR PROPOSAL PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MSC3008",
+      "nm_mk": "METODE PENELITIAN KOMUNIKASI KUANTITATIF",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MSC8011",
+      "nm_mk": "THESIS",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KEZIA AZZAHRA",
+    "jk": "P",
+    "nipd": "00000026174",
+    "namapt": "Universitas Multimedia Nusantara Jakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Komunikasi",
+    "reg_pd": "EB083E1A-7107-423B-802C-F0686B118CFF",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-07-01T00:00:00Z",
+    "no_seri_ijazah": "702012022001432",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODI2MjFGQTUtQUQ3RS00Q0QxLTgyMkEtNENFMkQ4NkNGOEQw",
+    "link_prodi": "/data_prodi/QjFDMkUzNkQtMTM2OC00QjZBLUI1NjktNUYwQkMwQTNGQ0Q4"
+  }
+}

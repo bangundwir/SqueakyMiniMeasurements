@@ -1,0 +1,110 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20021",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20031",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MAT30522",
+      "nm_mk": "MATEMATIKA ASURANSI I",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT40912",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT30122",
+      "nm_mk": "Aljabar II",
+      "sks_mk": 0,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT30521",
+      "nm_mk": "MATEMATIKA KEUANGAN (A)",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIA00020",
+      "nm_mk": "BHS INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT30421",
+      "nm_mk": "ANALISIS ALGORITMA",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT30311",
+      "nm_mk": "PEMROGRAMAN LINIER (OR)",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT30907",
+      "nm_mk": "JARINGAN SYARAF TIRUAN",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT40414",
+      "nm_mk": "TEORI KOMPUTASI (K)",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MIA00050",
+      "nm_mk": "KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ARIFIN HENDRA",
+    "jk": "L",
+    "nipd": "0398010072        ",
+    "namapt": "Universitas Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Matematika",
+    "reg_pd": "3111B102-C6C7-44ED-A3CE-7227049878CC",
+    "mulai_smt": "19981",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": null,
+    "no_seri_ijazah": "",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEQxRTYzRTktQ0JGQi00NTQ2LUEyNDItODc1QzMxMDA4M0E1",
+    "link_prodi": "/data_prodi/MTJGMzRBOTItQ0U5NS00MDUzLUIzQTktMDk5MzQ4NDhCOTRB"
+  }
+}

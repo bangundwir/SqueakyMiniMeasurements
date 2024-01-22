@@ -1,0 +1,84 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "CM0986",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CM0986",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MAYANG PRISMA TAMI",
+    "jk": "P",
+    "nipd": "10620023          ",
+    "namapt": "Universitas Borobudur",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "13D4F048-E22D-449E-B93E-75A8345BCD6C",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-08-11T00:00:00Z",
+    "no_seri_ijazah": "35/EM/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjY1MEJFRjQtMzEyQi00NDM3LUJBMjAtQ0I2NTU2Q0Y1NEU5",
+    "link_prodi": "/data_prodi/REIxREU4OUYtMDJBQi00MUYyLUIyQzctMzIyQjk0QTlCRkM5"
+  }
+}

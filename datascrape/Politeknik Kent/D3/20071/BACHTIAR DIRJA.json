@@ -33,6 +33,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "KK611010",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PK711002",
       "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 3,
@@ -40,9 +47,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KK611010",
-      "nm_mk": "KALKULUS",
-      "sks_mk": 2,
+      "kode_mk": "PK711003",
+      "nm_mk": "MATRIKULASI",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB611029",
+      "nm_mk": "PROGRAM PAKET NIAGA",
+      "sks_mk": 4,
       "id_smt": "20071",
       "nilai_huruf": null
     },
@@ -68,20 +82,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PB611029",
-      "nm_mk": "PROGRAM PAKET NIAGA",
-      "sks_mk": 4,
-      "id_smt": "20071",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PK711003",
-      "nm_mk": "MATRIKULASI",
-      "sks_mk": 1,
-      "id_smt": "20071",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KB611017",
       "nm_mk": "SISTEM BASIS DATA",
       "sks_mk": 4,
@@ -89,16 +89,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KB-612015",
-      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
-      "sks_mk": 3,
+      "kode_mk": "KK612006",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 2,
       "id_smt": "20072",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KK612006",
-      "nm_mk": "MATEMATIKA DISKRIT",
-      "sks_mk": 2,
+      "kode_mk": "KB-612015",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
       "id_smt": "20072",
       "nilai_huruf": null
     },
@@ -117,9 +117,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PK712004",
-      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
-      "sks_mk": 3,
+      "kode_mk": "KB612016",
+      "nm_mk": "BAHASA PEMROGRAMAN DASAR",
+      "sks_mk": 4,
       "id_smt": "20072",
       "nilai_huruf": null
     },
@@ -131,15 +131,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KB612016",
-      "nm_mk": "BAHASA PEMROGRAMAN DASAR",
-      "sks_mk": 4,
+      "kode_mk": "PK712004",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
       "id_smt": "20072",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KB-613023",
-      "nm_mk": "BAHASA PEMOGRAMAN BERORIENTASI OBJEK",
+      "kode_mk": "KK613004",
+      "nm_mk": "BAHASA INGGRIS 1",
       "sks_mk": 2,
       "id_smt": "20081",
       "nilai_huruf": null
@@ -152,9 +152,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KK613004",
-      "nm_mk": "BAHASA INGGRIS 1",
-      "sks_mk": 2,
+      "kode_mk": "KB613019",
+      "nm_mk": "PEMROGRAMAN TERSTRUKTUR",
+      "sks_mk": 4,
       "id_smt": "20081",
       "nilai_huruf": null
     },
@@ -166,16 +166,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KK613009",
-      "nm_mk": "STATISTIK",
+      "kode_mk": "KB-613023",
+      "nm_mk": "BAHASA PEMOGRAMAN BERORIENTASI OBJEK",
       "sks_mk": 2,
       "id_smt": "20081",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KB613019",
-      "nm_mk": "PEMROGRAMAN TERSTRUKTUR",
-      "sks_mk": 4,
+      "kode_mk": "KK613009",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 2,
       "id_smt": "20081",
       "nilai_huruf": null
     },
@@ -201,27 +201,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KB614020",
-      "nm_mk": "SISTEM OPERASI",
-      "sks_mk": 4,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KK614011",
-      "nm_mk": "PENGANTAR MANAJEMEN UMUM",
-      "sks_mk": 2,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KK614005",
-      "nm_mk": "BAHASA INGGRIS 2",
-      "sks_mk": 2,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KB614025",
       "nm_mk": "PERANCANGAN SISTEM INFORMASI",
       "sks_mk": 4,
@@ -236,24 +215,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KB615024",
-      "nm_mk": "LAN WAN",
-      "sks_mk": 2,
-      "id_smt": "20091",
+      "kode_mk": "KB614020",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 4,
+      "id_smt": "20082",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BB615034",
-      "nm_mk": "MANAJEMEN PERILAKU",
+      "kode_mk": "KK614005",
+      "nm_mk": "BAHASA INGGRIS 2",
       "sks_mk": 2,
-      "id_smt": "20091",
+      "id_smt": "20082",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BB615035",
-      "nm_mk": "ENTREPRENEURSHIP",
+      "kode_mk": "KK614011",
+      "nm_mk": "PENGANTAR MANAJEMEN UMUM",
       "sks_mk": 2,
-      "id_smt": "20091",
+      "id_smt": "20082",
       "nilai_huruf": null
     },
     {
@@ -266,6 +245,27 @@
     {
       "kode_mk": "PB615032",
       "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB615035",
+      "nm_mk": "ENTREPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB615024",
+      "nm_mk": "LAN WAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB615034",
+      "nm_mk": "MANAJEMEN PERILAKU",
       "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
@@ -285,13 +285,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PB616033",
-      "nm_mk": "TUGAS AKHIR",
-      "sks_mk": 6,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KB614025",
       "nm_mk": "PERANCANGAN SISTEM INFORMASI",
       "sks_mk": 4,
@@ -302,6 +295,13 @@
       "kode_mk": "BB616037",
       "nm_mk": "KERJA PRAKTEK",
       "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB616033",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
       "id_smt": "20092",
       "nilai_huruf": null
     }

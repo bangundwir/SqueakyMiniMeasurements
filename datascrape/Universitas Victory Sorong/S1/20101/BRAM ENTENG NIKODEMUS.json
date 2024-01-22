@@ -73,6 +73,20 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "KH104",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KH107",
+      "nm_mk": "PRAKTIKUM KIMIA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KH106",
       "nm_mk": "KIMIA DASAR I",
       "sks_mk": 2,
@@ -90,6 +104,13 @@
       "kode_mk": "KH110",
       "nm_mk": "PRAKTIKUM FISIKA",
       "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KH109",
+      "nm_mk": "FISIKA",
+      "sks_mk": 2,
       "id_smt": "20101",
       "nilai_huruf": null
     },
@@ -122,45 +143,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH109",
-      "nm_mk": "FISIKA",
-      "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KH107",
-      "nm_mk": "PRAKTIKUM KIMIA DASAR I",
-      "sks_mk": 1,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KH104",
-      "nm_mk": "BIOLOGI",
-      "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KH105",
       "nm_mk": "PRAKTIKUM BIOLOGI",
       "sks_mk": 1,
       "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KH303",
-      "nm_mk": "PRAKTIKUM EKOLOGI HUTAN",
-      "sks_mk": 1,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KH302",
-      "nm_mk": "EKOLOGI HUTAN",
-      "sks_mk": 2,
-      "id_smt": "20111",
       "nilai_huruf": null
     },
     {
@@ -173,6 +159,27 @@
     {
       "kode_mk": "KH303",
       "nm_mk": "KLIMATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KH303",
+      "nm_mk": "PRAKTIKUM EKOLOGI HUTAN",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KH304",
+      "nm_mk": "ILMU TANAH HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KH302",
+      "nm_mk": "EKOLOGI HUTAN",
       "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -192,8 +199,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH304",
-      "nm_mk": "ILMU TANAH HUTAN",
+      "kode_mk": "KH306",
+      "nm_mk": "INTERPRETASI LINGKUNGAN DAN KONSERVASI",
       "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -206,15 +213,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH306",
-      "nm_mk": "INTERPRETASI LINGKUNGAN DAN KONSERVASI",
-      "sks_mk": 2,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KH202",
-      "nm_mk": "KIMIA DASAR II",
+      "kode_mk": "KH208",
+      "nm_mk": "PENGANTAR GENETIKA",
       "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -234,15 +234,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH206",
-      "nm_mk": "DASAR-DASAR MANAJEMEN",
+      "kode_mk": "KH202",
+      "nm_mk": "KIMIA DASAR II",
       "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KH203",
+      "nm_mk": "PRAKTIKUM KIMIA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KH206",
-      "nm_mk": "PENGANTAR EKONOMI MAKRO",
+      "nm_mk": "DASAR-DASAR MANAJEMEN",
       "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -262,9 +269,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH203",
-      "nm_mk": "PRAKTIKUM KIMIA DASAR II",
-      "sks_mk": 1,
+      "kode_mk": "KH206",
+      "nm_mk": "PENGANTAR EKONOMI MAKRO",
+      "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -273,20 +280,6 @@
       "nm_mk": "SOSIOLOGI KEHUTANAN",
       "sks_mk": 2,
       "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KH208",
-      "nm_mk": "PENGANTAR GENETIKA",
-      "sks_mk": 2,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KH508",
-      "nm_mk": "ANALISA EKONOMI PROYEK PEMBEMBANGUNAN KEHUTANAN",
-      "sks_mk": 2,
-      "id_smt": "20121",
       "nilai_huruf": null
     },
     {
@@ -311,13 +304,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH503",
-      "nm_mk": "DASAR-DASAR PENYULUHAN HUTAN",
-      "sks_mk": 2,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KH504",
       "nm_mk": "METODE PENELITIAN",
       "sks_mk": 2,
@@ -325,8 +311,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KH508",
+      "nm_mk": "ANALISA EKONOMI PROYEK PEMBEMBANGUNAN KEHUTANAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KH502",
       "nm_mk": "MANAJEMEN HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KH503",
+      "nm_mk": "DASAR-DASAR PENYULUHAN HUTAN",
       "sks_mk": 2,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -353,13 +353,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH601",
-      "nm_mk": "PERENCANAAN HUTAN",
-      "sks_mk": 2,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KH602",
       "nm_mk": "PENGELOLAAN DAS",
       "sks_mk": 2,
@@ -367,15 +360,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH608",
-      "nm_mk": "FOTOGRAMETRI DAN PENAFSIRAN PU",
+      "kode_mk": "KH603",
+      "nm_mk": "KEBIJAKSANAAN HUTAN",
       "sks_mk": 2,
       "id_smt": "20122",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KH603",
-      "nm_mk": "KEBIJAKSANAAN HUTAN",
+      "kode_mk": "KH601",
+      "nm_mk": "PERENCANAAN HUTAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KH608",
+      "nm_mk": "FOTOGRAMETRI DAN PENAFSIRAN PU",
       "sks_mk": 2,
       "id_smt": "20122",
       "nilai_huruf": null

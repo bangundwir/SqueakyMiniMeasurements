@@ -1,0 +1,196 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SKP.105",
+      "nm_mk": "Falsafah dan Teori Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.103",
+      "nm_mk": "Proses keperawatan dan berpikir kritis",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.101",
+      "nm_mk": "Pemenuhan Kebutuhan Dasar Manusia",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.102",
+      "nm_mk": "Konsep Dasar Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.104",
+      "nm_mk": "Ilmu Biomedik Dasar",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.106",
+      "nm_mk": "Komunikasi Dasar Keperawatan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.204",
+      "nm_mk": "Dokumentasi keperawatan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.203",
+      "nm_mk": "Keterampilan Dasar Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.207",
+      "nm_mk": "Promosi Kesehatan dan Pendidikan Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.209",
+      "nm_mk": "Praktik Komprehensif 1 (Kep. Dasar)",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.201",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.202",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.205",
+      "nm_mk": "Ilmu Dasar Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.208",
+      "nm_mk": "Komunikasi Terapeutik Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.206",
+      "nm_mk": "Farmakologi Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.304",
+      "nm_mk": "Keperawatan dewasa sistem pernafasan, kardiovaskuler dan hematologi",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.307",
+      "nm_mk": "Kepribadian",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.306",
+      "nm_mk": "Keperawatan Maternitas",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.302",
+      "nm_mk": "Kewarganegaraan (PKn)",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.301",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.303",
+      "nm_mk": "Sistem Informasi Keperawatan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.308",
+      "nm_mk": "Academic English",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKP.305",
+      "nm_mk": "Psikososial dan Budaya dalam Keperawatan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GALANG AGAM ALAMSYAH",
+    "jk": "L",
+    "nipd": "202201134",
+    "namapt": "Universitas Bina Sehat PPNI Mojokerto",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Keperawatan",
+    "reg_pd": "FA895DD8-6312-4E60-968D-2B9AB172B402",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NDVCNkYwM0MtQjVEQy00NTc2LTlGRUQtMDZGOEQ4RjRBMzZB",
+    "link_prodi": "/data_prodi/MENENDU3RjItQTRFQi00RTYxLTlCRjgtRTc2MDc1NTdFMTFC"
+  }
+}

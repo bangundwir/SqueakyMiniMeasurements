@@ -1,0 +1,555 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IC101",
+      "nm_mk": "MATEMATIKA DASAR 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC104",
+      "nm_mk": "MENGGAMBAR TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC107",
+      "nm_mk": "ORGANISASI DAN MANAJEMEN PERUSAHAAN INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC102",
+      "nm_mk": "MATRIKS DAN VEKTOR",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC106",
+      "nm_mk": "PENGANTAR EKONOMIKA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC108",
+      "nm_mk": "PENGANTAR TEKNIK INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC103",
+      "nm_mk": "FISIKA 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC109",
+      "nm_mk": "BAHASA INGGRIS AKADEMIK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC204",
+      "nm_mk": "MEKANIKA TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC208",
+      "nm_mk": "PEMROGRAMAN DAN DASAR KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC202",
+      "nm_mk": "FISIKA 2",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC209",
+      "nm_mk": "KEPEMIMPINAN DAN KERJA TIM",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC205",
+      "nm_mk": "STATISTIKA INDUSTRI 1",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC201",
+      "nm_mk": "MATEMATIKA DASAR 2",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC207",
+      "nm_mk": "MATERIAL TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC105",
+      "nm_mk": "PRAK. MENGGAMBAR TEKNIK",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC203",
+      "nm_mk": "PRAKTIKUM FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC206",
+      "nm_mk": "ANALISIS PERANC. KERJA DAN ERGONOMI 1",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC303",
+      "nm_mk": "STATISTIKA INDUSTRI 2",
+      "sks_mk": 3,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC309",
+      "nm_mk": "KESELAMATAN DAN KESEHATAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC304",
+      "nm_mk": "PRAK. STATISTIKA INDUSTRI",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC306",
+      "nm_mk": "PRAK. ANALISIS PERANC. KERJA DAN ERGONOMI",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC305",
+      "nm_mk": "ANALISIS PERANC. KERJA DAN ERGONOMI 2",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC308",
+      "nm_mk": "PROSES MANUFAKTUR",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC301",
+      "nm_mk": "MATEMATIKA LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC506",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC302",
+      "nm_mk": "PENELITIAN OPERASIONAL 1",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC508",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC307",
+      "nm_mk": "PERENC. DAN PENGEND. PRODUKSI 1",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC403",
+      "nm_mk": "ANALISIS BIAYA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC405",
+      "nm_mk": "PERENC. DAN PENGEND. PRODUKSI 2",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC404",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC408",
+      "nm_mk": "PSIKOLOGI INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC410",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC406",
+      "nm_mk": "PRAK. PERENC. DAN PENGENDALIAN PRODUKSI",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC409",
+      "nm_mk": "PRAK. PROSES MANUFAKTUR",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC401",
+      "nm_mk": "PENELITIAN OPERASIONAL 2",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC402",
+      "nm_mk": "PRAK. PENELITIAN OPERASIONAL",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC407",
+      "nm_mk": "PEMODELAN SISTEM",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK062",
+      "nm_mk": "PENDIDIKAN AGAMA KRISTEN *KUR2016",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC607",
+      "nm_mk": "ANALISIS DATA STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK024",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN *KUR2016",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC505",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK017",
+      "nm_mk": "PANCASILA *KUR2016",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC004",
+      "nm_mk": "FISIOLOGI DAN BIOMEKANIKA KERJA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC507",
+      "nm_mk": "PERANCANGAN BASIS DATA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC501",
+      "nm_mk": "SIMULASI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC503",
+      "nm_mk": "ANALISIS DAN PERANC. SISTEM INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC502",
+      "nm_mk": "PENGENDALIAN DAN PENJAMINAN MUTU",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC504",
+      "nm_mk": "PRAK. ANALISIS DAN PERANC. SISTEM INFORMASI",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC703",
+      "nm_mk": "PENGANTAR TEKNOLOGI INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK061",
+      "nm_mk": "ETIKA *KUR2016",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK039",
+      "nm_mk": "TATA TULIS DAN KOMUNIKASI ILMIAH *KUR2016",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC015",
+      "nm_mk": "SISTEM TRANSPORTASI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC602",
+      "nm_mk": "PRAK. PERANC. TATA LETAK FASILITAS",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC601",
+      "nm_mk": "PERANC. TATA LETAK FASILITAS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC603",
+      "nm_mk": "SISTEM LINGKUNGAN INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC801",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC606",
+      "nm_mk": "ERP DAN CRM",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC002",
+      "nm_mk": "ERGONOMI MAKRO",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC604",
+      "nm_mk": "PERANCANGAN PRODUK",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC605",
+      "nm_mk": "MANAJEMEN RANTAI PASOK",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DCE517202221",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC204",
+      "nm_mk": "MEKANIKA TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC701",
+      "nm_mk": "ANALISIS DAN PERANC. PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC005",
+      "nm_mk": "KUALITAS JASA",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC705",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC802",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 5,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC702",
+      "nm_mk": "PRAK. ANALISIS DAN PERANC. PERUSAHAAN",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IC704",
+      "nm_mk": "STUDIUM GENERALE",
+      "sks_mk": 0,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HANA NATASYA DWI ASTUTI",
+    "jk": "P",
+    "nipd": "2023030",
+    "namapt": "Universitas Kristen Maranatha",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Industri",
+    "reg_pd": "E764A165-EE5D-4245-AE24-63B4E90F8C77",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTQzMjY1QjMtMkY0Ri00Q0EwLUEwQTUtOEQwNTM3QjQ0QjYy",
+    "link_prodi": "/data_prodi/OTI1NzI2RUItMDgxQy00OUUzLUI4RjktNDRFMzU2RkFCMzI4"
+  }
+}

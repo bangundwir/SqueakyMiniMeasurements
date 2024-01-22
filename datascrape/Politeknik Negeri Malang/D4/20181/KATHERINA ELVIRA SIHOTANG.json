@@ -43,6 +43,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "AKM181008",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "AKM181002",
       "nm_mk": "Kewirausahaan",
       "sks_mk": 2,
@@ -99,10 +106,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM181008",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
-      "id_smt": "20181",
+      "kode_mk": "AKM182005",
+      "nm_mk": "Statistik",
+      "sks_mk": 3,
+      "id_smt": "20182",
       "nilai_huruf": null
     },
     {
@@ -116,13 +123,6 @@
       "kode_mk": "AKM182004",
       "nm_mk": "Aplikasi Komputer Bisnis 2",
       "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM182005",
-      "nm_mk": "Statistik",
-      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -141,20 +141,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM182002",
-      "nm_mk": "Aspek Hukum dalam Bisnis",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM182001",
-      "nm_mk": "Pengantar Akuntansi 2",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "AKM182003",
       "nm_mk": "Pengetikan Niaga",
       "sks_mk": 2,
@@ -165,6 +151,20 @@
       "kode_mk": "AKM182008",
       "nm_mk": "Pendidikan Agama",
       "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM182002",
+      "nm_mk": "Aspek Hukum dalam Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM182001",
+      "nm_mk": "Pengantar Akuntansi 2",
+      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -197,6 +197,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "AKM183001",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "AKM183006",
       "nm_mk": "Pemrograman Database 1",
       "sks_mk": 2,
@@ -211,23 +218,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM183001",
-      "nm_mk": "Akuntansi Biaya",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM184005",
-      "nm_mk": "Praktik Akuntansi Perusahaan Manufaktur",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM184003",
-      "nm_mk": "Manajemen Pemasaran",
-      "sks_mk": 2,
+      "kode_mk": "AKM184001",
+      "nm_mk": "Akuntansi Keuangan Menengah 2",
+      "sks_mk": 4,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -253,16 +246,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM184004",
-      "nm_mk": "Perpajakan",
-      "sks_mk": 3,
+      "kode_mk": "AKM184005",
+      "nm_mk": "Praktik Akuntansi Perusahaan Manufaktur",
+      "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM184001",
-      "nm_mk": "Akuntansi Keuangan Menengah 2",
-      "sks_mk": 4,
+      "kode_mk": "AKM184004",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -274,15 +267,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM185001",
-      "nm_mk": "Akuntansi Keuangan Lanjutan 1",
-      "sks_mk": 3,
+      "kode_mk": "AKM184003",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM185002",
+      "nm_mk": "Praktik Akuntansi Keuangan Menengah",
+      "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM185004",
-      "nm_mk": "Praktik Perpajakan",
+      "kode_mk": "AKM185005",
+      "nm_mk": "Manajemen Stratejik",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -291,6 +291,13 @@
       "kode_mk": "AKM185003",
       "nm_mk": "Pengauditan",
       "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM185007",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -309,36 +316,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM185002",
-      "nm_mk": "Praktik Akuntansi Keuangan Menengah",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM185005",
-      "nm_mk": "Manajemen Stratejik",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM185007",
-      "nm_mk": "Metodologi Penelitian",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM186004",
-      "nm_mk": "Akuntansi Sektor Publik",
+      "kode_mk": "AKM185001",
+      "nm_mk": "Akuntansi Keuangan Lanjutan 1",
       "sks_mk": 3,
-      "id_smt": "20202",
+      "id_smt": "20201",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM186005",
-      "nm_mk": "Manajemen Kuantitatif",
+      "kode_mk": "AKM185004",
+      "nm_mk": "Praktik Perpajakan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM186002",
+      "nm_mk": "Akuntansi Keuangan Lanjutan 2",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -347,13 +340,6 @@
       "kode_mk": "AKM186003",
       "nm_mk": "Praktik Pengauditan",
       "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM186002",
-      "nm_mk": "Akuntansi Keuangan Lanjutan 2",
-      "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -379,16 +365,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM187003",
-      "nm_mk": "Teori Akuntansi",
+      "kode_mk": "AKM186004",
+      "nm_mk": "Akuntansi Sektor Publik",
       "sks_mk": 3,
-      "id_smt": "20211",
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM187004",
-      "nm_mk": "Sistem Pengendalian Manajemen",
+      "kode_mk": "AKM186005",
+      "nm_mk": "Manajemen Kuantitatif",
       "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM187008",
+      "nm_mk": "Teknik Audit Berbantuan Komputer",
+      "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
@@ -407,20 +400,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM187005",
-      "nm_mk": "Pengauditan Manajemen",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKM187008",
-      "nm_mk": "Teknik Audit Berbantuan Komputer",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "AKM187001",
       "nm_mk": "Praktik Akuntansi Keuangan Lanjutan",
       "sks_mk": 2,
@@ -435,16 +414,37 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKM188002",
-      "nm_mk": "Skripsi",
-      "sks_mk": 6,
-      "id_smt": "20212",
+      "kode_mk": "AKM187004",
+      "nm_mk": "Sistem Pengendalian Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM187005",
+      "nm_mk": "Pengauditan Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM187003",
+      "nm_mk": "Teori Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20211",
       "nilai_huruf": null
     },
     {
       "kode_mk": "AKM188001",
       "nm_mk": "Praktik Kerja Lapangan",
       "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKM188002",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
       "id_smt": "20212",
       "nilai_huruf": null
     }

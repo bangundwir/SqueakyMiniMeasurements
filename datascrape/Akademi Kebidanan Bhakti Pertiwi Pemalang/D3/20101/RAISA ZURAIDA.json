@@ -1,0 +1,377 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BD101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD207",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "xBD101",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "xBD103",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD201",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD401",
+      "nm_mk": "KONSEP KEBIDANAN",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD202",
+      "nm_mk": "FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD104",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD502",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD208",
+      "nm_mk": "KETERAMPILAN DASAR PRAKTIK KLINIK",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD301.2",
+      "nm_mk": "TEKNIK KEPERAWATAN DASAR (TKD)",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD212",
+      "nm_mk": "GIZI DALAM KESEHATAN REPRODUKSI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD309",
+      "nm_mk": "DOKUMENTASI KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD204",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD203.2",
+      "nm_mk": "KESEHATAN REPRODUKSI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD205",
+      "nm_mk": "FISIKA KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD301",
+      "nm_mk": "ASKEB I KEHAMILAN",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XML01",
+      "nm_mk": "PRAKTIKUM KDPK DI RUMAH SAKIT",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD213",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD202",
+      "nm_mk": "KOMUNIKASI KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD209",
+      "nm_mk": "OBSTETRI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD205",
+      "nm_mk": "MEDIKA MENTOSA KEBIDANAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD503",
+      "nm_mk": "PROMOSI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD302.1",
+      "nm_mk": "ASKEB KEHAMILAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD303",
+      "nm_mk": "ASKEB III NIFAS",
+      "sks_mk": 5,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD402",
+      "nm_mk": "ETIKOLEGAL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD302",
+      "nm_mk": "ASKEB II PERSALINAN",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD210",
+      "nm_mk": "GINEKOLOGII",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD211",
+      "nm_mk": "ILMU KESEHATAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD306",
+      "nm_mk": "ASKEB NEONATUS, BAYI DAN BALITA",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD501",
+      "nm_mk": "ILMU KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XML03",
+      "nm_mk": "KEGAWATDARURATAN KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD214",
+      "nm_mk": "EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD3102",
+      "nm_mk": "PRAKTIK KLINIK KEBIDANAN 2",
+      "sks_mk": 5,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD204.2",
+      "nm_mk": "PELAYANAN KB",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD307.2",
+      "nm_mk": "KESEHATAN DAN KEBIDANAN KOMUNITAS",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XML06",
+      "nm_mk": "MENDIKAMENTOSA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD306.2",
+      "nm_mk": "ASKEB KEGAWATDARURATAN MATERNAL NEONATAL",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD306.2",
+      "nm_mk": "ASKEB KEGAWATDARURATAN MATERNAL NEONATAL",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD504",
+      "nm_mk": "ORGANISASI DAN MANAJEMEN YANKES",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD215",
+      "nm_mk": "BIOSTATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD405",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "XBD404",
+      "nm_mk": "MUTU LAYANAN KEBIDANAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD106",
+      "nm_mk": "PANTOM KEBIDANAN",
+      "sks_mk": 6,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD501.1",
+      "nm_mk": "KARYA TULIS ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RAISA ZURAIDA",
+    "jk": "P",
+    "nipd": "10055             ",
+    "namapt": "Akademi Kebidanan Bhakti Pertiwi Pemalang",
+    "namajenjang": "D3",
+    "namaprodi": "Kebidanan",
+    "reg_pd": "B7B371D8-193D-40B7-9434-AFDD87ED8335",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2013-08-30T00:00:00Z",
+    "no_seri_ijazah": "0198/IV/10.14",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NzM2Njc5ODItMzBGMS00NzZGLUI3RjUtNUFDQzQwRUM1QkNE",
+    "link_prodi": "/data_prodi/NDQyMjRGRDQtOTA1OC00RTJDLTlBRTYtNkZBMUJDRDUxQzE2"
+  }
+}

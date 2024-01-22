@@ -1,0 +1,459 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 2,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SCGE601003",
+      "nm_mk": "Prinsip dan Perspektif Geografi Fisik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCCH601101",
+      "nm_mk": "Kimia umum",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIGE600004",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601007",
+      "nm_mk": "Praktikum Kartografi",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601002",
+      "nm_mk": "Berpikir Geografis",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMF600002",
+      "nm_mk": "Pengantar Sains Data",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601004",
+      "nm_mk": "Praktikum Geografi Fisik 1",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601110",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIGE600003",
+      "nm_mk": "MPK Bahasa Inggris",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601006",
+      "nm_mk": "Kartografi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMF600001",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601012",
+      "nm_mk": "Praktikum Geografi Fisik 2",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMA601003",
+      "nm_mk": "Aljabar Linear Elementer",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601010",
+      "nm_mk": "Praktikum Survei dan Pemetaan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601005",
+      "nm_mk": "Prinsip dan Perspektif Geografi Manusia",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601008",
+      "nm_mk": "Pengantar Metode Geografi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIGE600006",
+      "nm_mk": "MPK Terintegrasi",
+      "sks_mk": 5,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601011",
+      "nm_mk": "Sistem dan Proses Geografi Fisik",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE601009",
+      "nm_mk": "Survei dan Pemetaan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602012",
+      "nm_mk": "Praktikum Geografi Manusia",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602005",
+      "nm_mk": "Metode Kualitatif Geografi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602006",
+      "nm_mk": "Prakt. Metode Kualitatif Geografi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602016",
+      "nm_mk": "Penginderaan Jauh",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602017",
+      "nm_mk": "Praktikum Penginderaan Jauh",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602011",
+      "nm_mk": "Organisasi Keruangan Aktivitas Manusia",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602027",
+      "nm_mk": "Hidrogeografi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602003",
+      "nm_mk": "Kuliah Kerja Lapang I",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCBI601112",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602007",
+      "nm_mk": "Data dan Statistik Geografi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602008",
+      "nm_mk": "Praktikum Statistik Geografi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602030",
+      "nm_mk": "Dinamika Spasial Wilayah Urban",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602013",
+      "nm_mk": "Dinamika Penggunaan Lahan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602028",
+      "nm_mk": "Sistem Ekologi dan Bentang Lahan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602001",
+      "nm_mk": "Rancangan Penelitian Geografi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602014",
+      "nm_mk": "Geografi Profesional",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602029",
+      "nm_mk": "Iklim dan Kehidupan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602032",
+      "nm_mk": "Kualitas Hidup dan Mobilitas Penduduk",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602004",
+      "nm_mk": "Kuliah Kerja Lapang II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602031",
+      "nm_mk": "Ruang dan Sistem Perekonomian",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602018",
+      "nm_mk": "Sistem Informasi Geografis",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE602019",
+      "nm_mk": "Prakt. Sistem Informasi Geografis",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603902",
+      "nm_mk": "Kekuasaan dan Ruang Ekologis",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603712",
+      "nm_mk": "Daerah Aliran Sungai dan Dinamika Sumberda",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603711",
+      "nm_mk": "Oseanografi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603917",
+      "nm_mk": "Urbanisasi dan Kota Masa Depan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603821",
+      "nm_mk": "PJ untuk Dinamika Urban dan Rural",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603918",
+      "nm_mk": "Perilaku Keruangan dan Keputusan Lokasi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603801",
+      "nm_mk": "Sistem Satelit Navigasi Global",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603720",
+      "nm_mk": "Geografi Kebencanaan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603803",
+      "nm_mk": "Penginderaan Jauh Radar",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603815",
+      "nm_mk": "Foto Udara Dijital",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603920",
+      "nm_mk": "Geografi Energi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE604007",
+      "nm_mk": "Seminar Penelitian Geografi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE604029",
+      "nm_mk": "Geografi Regional Indonesia",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE604031",
+      "nm_mk": "Simulasi dan Pemodelan Spasial",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE604030",
+      "nm_mk": "Pembangunan Wilayah",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCGE603701",
+      "nm_mk": "Biogeografi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Usamah",
+    "jk": "L",
+    "nipd": "2006569465",
+    "namapt": "Universitas Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Geografi",
+    "reg_pd": "AF7E99E8-2D60-4021-9F0F-7F02F8E51D9C",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEQxRTYzRTktQ0JGQi00NTQ2LUEyNDItODc1QzMxMDA4M0E1",
+    "link_prodi": "/data_prodi/MDBEMTg1MzYtRUNFRS00RTM4LUIzMEEtODgxNzZBQTNFNTVD"
+  }
+}

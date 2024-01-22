@@ -1,0 +1,583 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20081",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FID101",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIU101",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAI101",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL101",
+      "nm_mk": "PENGANTAR TEKNOLOGI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FID102",
+      "nm_mk": "Fisika Dasar I (Praktikum)",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI101",
+      "nm_mk": "Agama Islam I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIU102",
+      "nm_mk": "P. BIOLOGI UMUM",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS109",
+      "nm_mk": "MATEMATIKA DAN STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KID101",
+      "nm_mk": "KIMIA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KID102",
+      "nm_mk": "PKIMIA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAE101",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KID103",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FID103",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIL200",
+      "nm_mk": "EKOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIU304",
+      "nm_mk": "BIODIVERSITAS",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL102",
+      "nm_mk": "HUKUM LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIL201",
+      "nm_mk": "P. EKOLOGI UMUM",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FID1041",
+      "nm_mk": "P. FISIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS101",
+      "nm_mk": "STATISTIKA ELEMENTER",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL103",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KID104",
+      "nm_mk": "P. KIMIA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NOW102",
+      "nm_mk": "PPKN",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLM312",
+      "nm_mk": "PENCEMARAN LAUT DAN PENGENDALIANNYA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL215",
+      "nm_mk": "METODE DAN TEKNIK ANALISIS LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL213",
+      "nm_mk": "MENGGAMBAR TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL210",
+      "nm_mk": "MEKANIKA FLUIDA",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL205",
+      "nm_mk": "MIKROBIOLOGI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL206",
+      "nm_mk": "P. MIKROBIOLOGI LINGKUNGAN",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL214",
+      "nm_mk": "PENGELOLAAN SUMBERDAYA ALAM",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAM206",
+      "nm_mk": "PERSAMAAN DIFERENSIAL",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL211",
+      "nm_mk": "KIMIA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL212",
+      "nm_mk": "P. KIMIA LINGKUNGAN",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLI311",
+      "nm_mk": "EKOLOGI PERAIRAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL216",
+      "nm_mk": "P. METODE DAN TEKNIK ANALISIS LINGKUNGAN",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL204",
+      "nm_mk": "EKOTOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLT303",
+      "nm_mk": "BIOTEKNOLOGI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL208",
+      "nm_mk": "PENGETAHUAN STRUKTUR",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL202",
+      "nm_mk": "INSTRUMENTASI DAN PENGUKURAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL303",
+      "nm_mk": "KESEHATAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL203",
+      "nm_mk": "PEMODELAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL304",
+      "nm_mk": "MEKANIKA TANAH DAN HIDROGEOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLM302",
+      "nm_mk": "PENGELOLAAN LIMBAH B3",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLM311",
+      "nm_mk": "PENGELOLAAN WIL.PESISIR LAUT SEC.TERPADU",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL207",
+      "nm_mk": "MANAJEMEN PERUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL201",
+      "nm_mk": "SATUAN OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLI314",
+      "nm_mk": "BIOMONITORING",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL315",
+      "nm_mk": "PENGANTAR AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL314",
+      "nm_mk": "PROSES TEKNOLOGI PENGOLAHAN AIR MINUM",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL313",
+      "nm_mk": "PROSES TEKNOLOGI PENGOLAHAN LIMBAH CAIR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL316",
+      "nm_mk": "PROSES TEKNOLOGI PENGOLAHAN GAS",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL317",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLM304",
+      "nm_mk": "SISTIM INFORMASI GEOGRAFIS LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLT201",
+      "nm_mk": "PENGOLAHAN LIMBAH SECARA MIKROBIOLOGIS",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLM303",
+      "nm_mk": "KESEHATAN DAN KESELAMATAN KERRJA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL312",
+      "nm_mk": "MANAJEMEN KUALITAS AIR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL311",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI301",
+      "nm_mk": "AGAMA ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL306",
+      "nm_mk": "EKONOMI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL305",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL301",
+      "nm_mk": "MANAJEMEN DAERAH ALIRAN SUNGAI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLI203",
+      "nm_mk": "DEMOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLT202",
+      "nm_mk": "SISTEM PENYALURAN AIR MINUM",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLM301",
+      "nm_mk": "PENGELOLAAN SUMBERDAYA TANAH",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLL302",
+      "nm_mk": "MANAJEMEN LIMBAH PADAT",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLT203",
+      "nm_mk": "SISTEM PENYALURAN AIR BUANGAN & DRAINASE",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LIE102",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLM202",
+      "nm_mk": "PRASARANA DAN SARANA SANITASI PEMUKIMAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLI202",
+      "nm_mk": "EKOLOGI RESTORASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM101",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLT301",
+      "nm_mk": "PERENC. BANGUNAN PENGOLAHAN AIR BUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLM201",
+      "nm_mk": "PERENCANAAN WILAYAH DAN KOTA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TLT313",
+      "nm_mk": "PERENC. BANGUNAN PENGOLAHAN AIR MINUM",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SKA498",
+      "nm_mk": "PROPOSAL SKRIPSI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKA102",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GANDEWA TUNAS RANCAK",
+    "jk": "L",
+    "nipd": "080810262         ",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Lingkungan",
+    "reg_pd": "F75A1A27-EC2D-4CCC-A56C-2FC5DC2B9E13",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-09-14T00:00:00Z",
+    "no_seri_ijazah": "3305/0113/08.5/S1/2012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/RThFODJENDItQUUzQS00OERELUJERjUtRjBDODMyRkY1Qjk2"
+  }
+}

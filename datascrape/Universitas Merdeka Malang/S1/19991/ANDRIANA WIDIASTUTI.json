@@ -1,23 +1,39 @@
 {
-  "datastatuskuliah": [],
+  "datastatuskuliah": [
+    {
+      "id_smt": "20021",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    },
+    {
+      "id_smt": "20032",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
   "datastudi": [],
   "dataumum": {
     "nm_pd": "ANDRIANA WIDIASTUTI",
     "jk": "P",
-    "nipd": "99320026          ",
+    "nipd": "99220569          ",
     "namapt": "Universitas Merdeka Malang",
     "namajenjang": "S1",
-    "namaprodi": "Administrasi Bisnis",
-    "reg_pd": "E9352791-F42E-4651-981E-566A79DC80AD",
+    "namaprodi": "Manajemen",
+    "reg_pd": "DB2B4168-3032-46B6-9EE3-B2E98F1C951A",
     "mulai_smt": "19991",
     "nm_jns_daftar": "Peserta didik baru",
     "nm_pt_asal": null,
     "nm_prodi_asal": null,
-    "ket_keluar": "Lainnya",
-    "tgl_keluar": "2000-01-01T00:00:00Z",
-    "no_seri_ijazah": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2003-08-29T00:00:00Z",
+    "no_seri_ijazah": "22-0234/UM/II/2003",
     "sert_prof": null,
     "link_pt": "/data_pt/ODRCMjU0NTUtNkVGQi00RjdDLUIxQjEtRTFEMUNBNEM2QUM4",
-    "link_prodi": "/data_prodi/RThFRjQxNjYtQzY5Qi00MUY1LUFGNDgtRkExQjgzRkY1RTZC"
+    "link_prodi": "/data_prodi/QjhCNzhBRUItQ0Y5QS00NkE2LTk0OUItNjJEN0UxOEU4MTg5"
   }
 }

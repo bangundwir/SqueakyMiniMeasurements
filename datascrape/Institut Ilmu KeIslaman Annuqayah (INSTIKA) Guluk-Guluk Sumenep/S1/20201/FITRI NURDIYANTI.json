@@ -1,0 +1,466 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "INS27005",
+      "nm_mk": "Pengantar Filsafat",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27002",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27005",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27002",
+      "nm_mk": "Studi Al-Quran",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27001",
+      "nm_mk": "Bahasa Arab I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27006",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27011",
+      "nm_mk": "Fiqh Ibadah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27004",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27001",
+      "nm_mk": "Pengantar Studi Islam",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27007",
+      "nm_mk": "Pendidikan dan Pengasuhan Anak dalam Keluarga",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27008",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27007",
+      "nm_mk": "Ilmu Mantiq",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27007",
+      "nm_mk": "Bahasa Arab II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27006",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27006",
+      "nm_mk": "Pengantar Psikologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27003",
+      "nm_mk": "Ilmu Kalam",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27004",
+      "nm_mk": "Akhlak dan Tasawuf",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27004",
+      "nm_mk": "Konsep Dasar Pendidikan AUD",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27007",
+      "nm_mk": "Psikologi Perkembangan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27009",
+      "nm_mk": "Perencanaan Pembelajaran AUD",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27016",
+      "nm_mk": "Deteksi Dini Tumbuh Kembang Anak",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27004",
+      "nm_mk": "Filsafat Pendidikan Islam",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27008",
+      "nm_mk": "Kurikulum AUD",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27008",
+      "nm_mk": "Sejarah Peradaban Islam",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27003",
+      "nm_mk": "Ilmu Pendidikan Islam",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27003",
+      "nm_mk": "Studi Hadits",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27015",
+      "nm_mk": "Metode Pengembangan Budi Pekerti dan Akhlak",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27005",
+      "nm_mk": "Konsep Dasar Kreativitas dan Permainan AUD",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27009",
+      "nm_mk": "Metode Pengembangan Kognitif dan Bahasa AUD I",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27001",
+      "nm_mk": "Tafsir Tarbawi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27009",
+      "nm_mk": "Aswaja dan Keannuqayahan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27001",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27006",
+      "nm_mk": "Analisis Perkembangan Peserta Didik AUD",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27008",
+      "nm_mk": "Bimbingan dan Konseling Islam",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27010",
+      "nm_mk": "Statistika Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27005",
+      "nm_mk": "Sejarah Pendidikan Islam",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27002",
+      "nm_mk": "Hadits Tarbawi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27011",
+      "nm_mk": "Metode Pengembangan Sosial-Emosional AUD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27018",
+      "nm_mk": "Pendidikan Anak Berkebutuhan Khusus",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS27010",
+      "nm_mk": "Metode Pengembangan Fisik-Motorik AUD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27019",
+      "nm_mk": "Metode Pengamalan Agama Islam AUD",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27011",
+      "nm_mk": "Sumber dan Media Pembelajaran AUD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27010",
+      "nm_mk": "Evaluasi Pembelajaran AUD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27012",
+      "nm_mk": "Metode Pengembangan Kognitif dan Bahasa AUD II",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27002",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27003",
+      "nm_mk": "Pengelolaan Kelas dan Lingkungan Belajar AUD",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27017",
+      "nm_mk": "Analisis Kesehatan dan Gizi Anak",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27012",
+      "nm_mk": "Penelitian Tindakan Kelas",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27020",
+      "nm_mk": "Neorosains AUD",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27013",
+      "nm_mk": "Metode Pengembangan Seni AUD",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27009",
+      "nm_mk": "Profesi Tenaga Pendidik",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27014",
+      "nm_mk": "Metode Pengembangan Sikap Disiplin dan Kemandirian",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR27011",
+      "nm_mk": "Manajemen Lembaga Pendidikan Islam",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27021",
+      "nm_mk": "PPL 1 (Micro Teaching)",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLH27002",
+      "nm_mk": "Gerak dan Lagu AUD",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27022",
+      "nm_mk": "PPL 2",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AUD27023",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS27010",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "FITRI NURDIYANTI",
+    "jk": "P",
+    "nipd": "20036014800611",
+    "namapt": "Institut Ilmu KeIslaman Annuqayah (INSTIKA) Guluk-Guluk Sumenep",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Islam Anak Usia Dini",
+    "reg_pd": "F12B9AD2-1AC3-4DF0-858D-2110D52D7531",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEQwOEFGREYtQjA3MS00MzBGLUEyNUYtNjZEQzIzM0RGMEQz",
+    "link_prodi": "/data_prodi/NzM0RDlBNjMtMkE5Qi00N0E2LTgzQzQtNTQyOUZBMjVFRjNE"
+  }
+}

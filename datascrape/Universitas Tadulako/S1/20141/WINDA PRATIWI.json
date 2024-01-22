@@ -1,0 +1,444 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KI011",
+      "nm_mk": "KIMIA",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP101",
+      "nm_mk": "PENGANTAR ILMU PERTANIAN",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK002",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BI001",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU001",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI011",
+      "nm_mk": "FISIKA",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA011",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK001",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB001",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP203",
+      "nm_mk": "Dasar-Dasar Ekologi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA203",
+      "nm_mk": "DASAR-DASAR AKUAKULTUR",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP202",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA203",
+      "nm_mk": "Dasar-Dasar Akuakultur",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA202",
+      "nm_mk": "Avetebrata Air",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP205",
+      "nm_mk": "Dasar-Dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU004",
+      "nm_mk": "PENDIDIKAN KARAKTER DAN ANTI KORUPSI",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK001",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP205",
+      "nm_mk": "Dasar-Dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU004",
+      "nm_mk": "Pendidikan Karakter dan Anti Korupsi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB0002",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP202",
+      "nm_mk": "Statistika",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK004",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP204",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA201",
+      "nm_mk": "IKHTIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP203",
+      "nm_mk": "Dasar-Dasar Ekologi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK003",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP204",
+      "nm_mk": "Pengantar  Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA202",
+      "nm_mk": "Avetebrata Air",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA201",
+      "nm_mk": "Ikhtiologi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA519",
+      "nm_mk": "HAMA DAN PENYAKIT BIOTA AKUATIK",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA521.13",
+      "nm_mk": "Manajemen Pembenihan Ikan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDAPL7",
+      "nm_mk": "Pengelolaan Wilayah Pesisir & Laut",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU002",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA520",
+      "nm_mk": "PENGEMBANGAN INDUSTRI AKUAKULTUR",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDAPL5",
+      "nm_mk": "Teknologi Budidaya Rumput Laut",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA517",
+      "nm_mk": "Metode dan Teknik Penulisan Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA518",
+      "nm_mk": "NUTRISI IKAN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA624",
+      "nm_mk": "Manajemen Perikanan Budidaya Payau dan Laut",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDAPL2",
+      "nm_mk": "Agribisnis Perikanan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FPP810",
+      "nm_mk": "Ko-Korikuler",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA623",
+      "nm_mk": "Manajemen Perikanan Budidaya Tawar",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA627",
+      "nm_mk": "Penyuluhan dan Komunikasi Perikanan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA630",
+      "nm_mk": "RANCANGAN PERCOBAAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDA626",
+      "nm_mk": "Konservasi Habitat dan Biota Air Endemik",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDAPL6",
+      "nm_mk": "Teknologi Budidaya Udang",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "O27117127",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "O27117128",
+      "nm_mk": "Praktek Lapangan Akuakultur (PLA)",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "O27117129",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "O27117128",
+      "nm_mk": "Praktek Lapangan Akuakultur (PLA)",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "O27117128",
+      "nm_mk": "Praktek Lapangan Akuakultur (PLA)",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "O27117129",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "O27117129",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "WINDA PRATIWI",
+    "jk": "P",
+    "nipd": "O27114081         ",
+    "namapt": "Universitas Tadulako",
+    "namajenjang": "S1",
+    "namaprodi": "Akuakultur",
+    "reg_pd": "23074D95-2D16-4637-8694-567C8A98FD97",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-12-20T00:00:00Z",
+    "no_seri_ijazah": "0054/UN28.15.S1/2020",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEU1RDE5NUEtMDAzNS00MUFBLUFGRUYtREI3MTVBMzdCOERB",
+    "link_prodi": "/data_prodi/QzcwOUVBRUMtOTI5Qy00MUEwLTg3NkUtNUFERDFBQUVFN0VF"
+  }
+}

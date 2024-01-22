@@ -78,9 +78,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU02B",
-      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
-      "sks_mk": 2,
+      "kode_mk": "EM101",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
       "id_smt": "20091",
       "nilai_huruf": null
     },
@@ -92,9 +92,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM101",
-      "nm_mk": "PENGANTAR BISNIS",
-      "sks_mk": 3,
+      "kode_mk": "MKU02B",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
     },
@@ -106,8 +106,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EP103",
-      "nm_mk": "TEORI EKONOMI MIKRO",
+      "kode_mk": "EA102",
+      "nm_mk": "PENGANTAR AKUNTANSI II",
       "sks_mk": 3,
       "id_smt": "20092",
       "nilai_huruf": null
@@ -115,13 +115,6 @@
     {
       "kode_mk": "E102",
       "nm_mk": "MATEMATIKA BISNIS",
-      "sks_mk": 3,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EA102",
-      "nm_mk": "PENGANTAR AKUNTANSI II",
       "sks_mk": 3,
       "id_smt": "20092",
       "nilai_huruf": null
@@ -148,6 +141,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EP103",
+      "nm_mk": "TEORI EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EBK 136",
       "nm_mk": "DASAR-DASAR MANAJEMEN",
       "sks_mk": 3,
@@ -164,6 +164,13 @@
     {
       "kode_mk": "EP105",
       "nm_mk": "PENGANTAR EKONOMI PEMBANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E104",
+      "nm_mk": "STATISTIK INDUKTIF",
       "sks_mk": 2,
       "id_smt": "20101",
       "nilai_huruf": null
@@ -204,20 +211,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EBK 2211",
-      "nm_mk": "TEORI EKONOMI MAKRO",
-      "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "E104",
-      "nm_mk": "STATISTIK INDUKTIF",
-      "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EM301",
       "nm_mk": "PERILAKU KEORGANISASIAN",
       "sks_mk": 3,
@@ -225,10 +218,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM302",
-      "nm_mk": "KOMUNIKASI BISNIS",
-      "sks_mk": 3,
-      "id_smt": "20102",
+      "kode_mk": "EBK 2211",
+      "nm_mk": "TEORI EKONOMI MAKRO",
+      "sks_mk": 2,
+      "id_smt": "20101",
       "nilai_huruf": null
     },
     {
@@ -253,8 +246,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM110",
-      "nm_mk": "MANAJEMEN OPERASIONAL II",
+      "kode_mk": "EM403",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM302",
+      "nm_mk": "KOMUNIKASI BISNIS",
       "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -267,9 +267,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM403",
-      "nm_mk": "PERPAJAKAN",
-      "sks_mk": 2,
+      "kode_mk": "EM110",
+      "nm_mk": "MANAJEMEN OPERASIONAL II",
+      "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
     },
@@ -278,13 +278,6 @@
       "nm_mk": "MANAJEMEN KEUANGAN II",
       "sks_mk": 3,
       "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EM116",
-      "nm_mk": "KEWIRAUSAHAAN",
-      "sks_mk": 2,
-      "id_smt": "20111",
       "nilai_huruf": null
     },
     {
@@ -309,16 +302,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM114",
-      "nm_mk": "EKONOMI MANAJERIAL",
-      "sks_mk": 3,
+      "kode_mk": "EM120",
+      "nm_mk": "SEMINAR PEMASARAN",
+      "sks_mk": 1,
       "id_smt": "20111",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM119",
-      "nm_mk": "SEMINAR OPERASIONAL",
-      "sks_mk": 1,
+      "kode_mk": "EM116",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM114",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
       "id_smt": "20111",
       "nilai_huruf": null
     },
@@ -337,8 +337,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM120",
-      "nm_mk": "SEMINAR PEMASARAN",
+      "kode_mk": "EM119",
+      "nm_mk": "SEMINAR OPERASIONAL",
       "sks_mk": 1,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -347,6 +347,13 @@
       "kode_mk": "EM206",
       "nm_mk": "STUDI KELAYAKAN BISNIS",
       "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM403",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -365,8 +372,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM403",
-      "nm_mk": "PERPAJAKAN",
+      "kode_mk": "EM201",
+      "nm_mk": "LOGIKA",
       "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -375,13 +382,6 @@
       "kode_mk": "EA104",
       "nm_mk": "AKUNTANSI BIAYA II",
       "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EM201",
-      "nm_mk": "LOGIKA",
-      "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -414,9 +414,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "E2033",
-      "nm_mk": "APLIKASI KOMPUTER I",
-      "sks_mk": 1,
+      "kode_mk": "EP108",
+      "nm_mk": "EKONOMI INTERNASIONAL",
+      "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
     },
@@ -428,9 +428,37 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "E2033",
+      "nm_mk": "APLIKASI KOMPUTER I",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EM117",
       "nm_mk": "SEMINAR MANAJEMEN SUMBER DAYA MANUSIA",
       "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E204",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "E2032",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER II",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM113",
+      "nm_mk": "MANAJEMEN STRATEGI",
+      "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
     },
@@ -449,36 +477,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "E204",
-      "nm_mk": "BAHASA INDONESIA",
-      "sks_mk": 2,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EM113",
-      "nm_mk": "MANAJEMEN STRATEGI",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EM118",
       "nm_mk": "SEMINAR SUMBER DAYA MANUSIA",
-      "sks_mk": 1,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EP108",
-      "nm_mk": "EKONOMI INTERNASIONAL",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "E2032",
-      "nm_mk": "PENGANTAR APLIKASI KOMPUTER II",
       "sks_mk": 1,
       "id_smt": "20121",
       "nilai_huruf": null

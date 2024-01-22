@@ -1,0 +1,328 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK1007",
+      "nm_mk": "AKUNTANSI DASAR",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB2007",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1009",
+      "nm_mk": "INTERNET",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1004",
+      "nm_mk": "DASAR-DASAR AKUNTANSI",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1006",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB1003",
+      "nm_mk": "PAKET PROGRAM APLIKASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1001",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1008",
+      "nm_mk": "PERAKITAN DAN INSTALASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1006",
+      "nm_mk": "DESAIN GRAFIS",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1001",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2012",
+      "nm_mk": "KOMPUTER ANIMASI",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3016",
+      "nm_mk": "WEB DESAIN",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4013",
+      "nm_mk": "ALJABAR VEKTOR MATRIK",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB2003",
+      "nm_mk": "ALGORITMA DAN STRUKTUR DATA",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB2009",
+      "nm_mk": "SQL SERVER",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB2004",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB2006",
+      "nm_mk": "PENGANTAR BASIS DATA",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3018",
+      "nm_mk": "BORLAND DELPHI CLIENT SERVER",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3020",
+      "nm_mk": "3D MAX STUDIO",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK3011",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5028",
+      "nm_mk": "PENGANTAR KOMUNIKASI DATA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3013",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB3019",
+      "nm_mk": "PHP",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4023",
+      "nm_mk": "VISUAL BASIC CLIENT SERVER",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4025",
+      "nm_mk": "PEMROGRAMAN HARDWARE",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4024",
+      "nm_mk": "PHP & MYSQL",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK4017",
+      "nm_mk": "ANIMASI KARTUN",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5017",
+      "nm_mk": "TEKHNIK RISET OPERASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4017",
+      "nm_mk": "PEMROGRAMAN TERSTRUKTUR",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5023",
+      "nm_mk": "ANALISIS DAN PERANCANGAN SISTEM INF.",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5033",
+      "nm_mk": "JAVA SERVER PAGE",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK2013",
+      "nm_mk": "MULTIMEDIA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK5016",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5032",
+      "nm_mk": "APLIKASI WEB",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB5035",
+      "nm_mk": "ASP.NET",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB4024",
+      "nm_mk": "PHP & MYSQL",
+      "sks_mk": 6,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB5002",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB6003",
+      "nm_mk": "TUGAS AKHIR(TA)",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB6002",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN (PKL)",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "OONG JULIA FERNANDA",
+    "jk": "L",
+    "nipd": "AMI102166         ",
+    "namapt": "AMIK Master Lampung",
+    "namajenjang": "D3",
+    "namaprodi": "Manajemen Informatika",
+    "reg_pd": "7F1F37E3-7D5B-40F2-8D93-612AC74E4D3D",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2013-09-11T00:00:00Z",
+    "no_seri_ijazah": "025/AMALA/1/PP/D3.I/2013",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODlBQjY5OEYtN0JFOS00RDVCLUExQzQtNDg2MTg1NkVGQzQ1",
+    "link_prodi": "/data_prodi/QkEyNDFDQUEtMUUzMC00MUExLUJBRTItOUUzOThGRjVGQUJE"
+  }
+}

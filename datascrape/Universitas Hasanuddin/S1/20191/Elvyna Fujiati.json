@@ -1,0 +1,634 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Kampus Merdeka"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "18Y01110902",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110201",
+      "nm_mk": "Praktikum Botani Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110601",
+      "nm_mk": "Praktikum Anatomi Fisiologi Manusia",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110404",
+      "nm_mk": "Ilmu Dasar Farmasi",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110702",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18Y01111202",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110302",
+      "nm_mk": "Biologi Sel",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18Y01110702",
+      "nm_mk": "Wawasan Sosial Budaya Maritim",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110102",
+      "nm_mk": "Botani Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18Y01110102",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110502",
+      "nm_mk": "Anatomi Fisologi Manusia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18Y01111102",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120201",
+      "nm_mk": "Praktikum Farmasi Fisika",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18Y01111002",
+      "nm_mk": "Bahasa Inggeris",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111301",
+      "nm_mk": "Praktikum Farmakognosi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111101",
+      "nm_mk": "Praktikum Kimia Analisis",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110901",
+      "nm_mk": "Praktikum Mikrobiologi dan Parasitologi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "18Y01110802",
+      "nm_mk": "Wawasan IPTEKS",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01132402",
+      "nm_mk": "Dasar Farmasi Klinik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111202",
+      "nm_mk": "Farmakognosi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01110802",
+      "nm_mk": "Mikrobiologi dan Parasitologi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111902",
+      "nm_mk": "Tumbuhan Racun dan Pestisida",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121502",
+      "nm_mk": "Fisiologi Mikroba",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120102",
+      "nm_mk": "Farmasi Fisika",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111002",
+      "nm_mk": "Kimia Analisis",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120302",
+      "nm_mk": "Dasar Sintesis Obat",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111501",
+      "nm_mk": "Praktikum Farmasetika Dasar",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121202",
+      "nm_mk": "Farmakognosi Analisis",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120802",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120502",
+      "nm_mk": "Biokimia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120601",
+      "nm_mk": "Praktikum Biokimia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120702",
+      "nm_mk": "Imunologi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120401",
+      "nm_mk": "Praktikum Dasar Sintesis Obat",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121302",
+      "nm_mk": "Kajian Pustaka Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121002",
+      "nm_mk": "Mikrobiologi Analisis",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01120902",
+      "nm_mk": "Kultur Jaringan Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121101",
+      "nm_mk": "Praktikum Mikrobiologi Analisis",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121402",
+      "nm_mk": "Komunikasi Efektif dan Profesional",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111402",
+      "nm_mk": "Farmasetika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N0112102",
+      "nm_mk": "Farmakologi I",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01122302",
+      "nm_mk": "Analisis Pangan dan Perbekalan Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01122501",
+      "nm_mk": "Praktikum Biokimia Klinik",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01122702",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121902",
+      "nm_mk": "Fitokimia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121702",
+      "nm_mk": "Teknologi Farmasi Sediaan Padat",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01122001",
+      "nm_mk": "Praktikum Fitokimia",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01122201",
+      "nm_mk": "Praktikum Farmakologi I",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111702",
+      "nm_mk": "Patofisiologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01121801",
+      "nm_mk": "Praktikum Teknologi Farmasi Sediaan Padat",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01122402",
+      "nm_mk": "Biokimia Klinik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01111602",
+      "nm_mk": "Biormasetika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01122602",
+      "nm_mk": "Obat Tradisional",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130701",
+      "nm_mk": "Praktikum Isolasi Senyawa Bioaktif",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130302",
+      "nm_mk": "Teknologi Farmasi Sediaan Cair dan Semi Padat",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130802",
+      "nm_mk": "Fitomedisin",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131402",
+      "nm_mk": "Radiofarmasi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131302",
+      "nm_mk": "Teknologi Makanan dan Minuman",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130401",
+      "nm_mk": "Praktikum Teknologi Farmasi Sediaan Cair dan Semi Padat",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130602",
+      "nm_mk": "Isolasi Senyawa Bioaktif",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131202",
+      "nm_mk": "Pengantar Farmasi Industri dan Distribusi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131101",
+      "nm_mk": "Praktikum Farmakokinetika",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130502",
+      "nm_mk": "Farmakologi II",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130102",
+      "nm_mk": "Analisis Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130201",
+      "nm_mk": "Praktikum Analisis Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01130902",
+      "nm_mk": "Farmakoterapi I",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131002",
+      "nm_mk": "Farmakokinetika",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01132102",
+      "nm_mk": "Kimia Medisinal",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01132202",
+      "nm_mk": "Pengembangan dan Validasi Metode Analisis",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01132302",
+      "nm_mk": "Toksikologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131602",
+      "nm_mk": "Farmakoterapi II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131902",
+      "nm_mk": "Farmakognosi Bahari",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01122802",
+      "nm_mk": "Undang-undang dan Etika Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131702",
+      "nm_mk": "Teknologi Farmasi Sediaan Steril",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01140101",
+      "nm_mk": "Seminar Skripsi I",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01132002",
+      "nm_mk": "Kosmetologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01132601",
+      "nm_mk": "Praktikum Bioanalisis",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01132502",
+      "nm_mk": "Bioanalisis",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01131801",
+      "nm_mk": "Praktikum Teknologi Farmasi Sediaan Steril",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01140303",
+      "nm_mk": "Skripsi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01140401",
+      "nm_mk": "Ujian Skripsi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20N01140201",
+      "nm_mk": "Seminar Skripsi II",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "499U004",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Elvyna Fujiati",
+    "jk": "P",
+    "nipd": "N011191126",
+    "namapt": "Universitas Hasanuddin",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "4AE8E945-34B0-4348-98E0-D22AFDDF8B53",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-02-22T00:00:00Z",
+    "no_seri_ijazah": "482012023000510",
+    "sert_prof": null,
+    "link_pt": "/data_pt/REUyQ0Y5MTAtMUI5OC00RTQ4LUE2NjUtNENBOEY2MDA1MjU5",
+    "link_prodi": "/data_prodi/RjJGOTlFQjQtMjdERC00NTEyLThBRTEtMTlENDZFNkI3ODU5"
+  }
+}

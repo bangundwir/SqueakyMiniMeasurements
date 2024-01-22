@@ -1,0 +1,471 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PCG411",
+      "nm_mk": "GAMBAR ARSITEKTUR",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKD200",
+      "nm_mk": "KADEHAM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCM212",
+      "nm_mk": "METODE PERANCANGAN 1",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSA211",
+      "nm_mk": "PENGANTAR ARSITEKTUR",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTL411",
+      "nm_mk": "LOGIKA TEKNIK",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA611",
+      "nm_mk": "PERANCANGAN ARSITEKTUR 1",
+      "sks_mk": 6,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCM223",
+      "nm_mk": "METODE PERANCANGAN 2",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTB422",
+      "nm_mk": "TEKNOLOGI BANGUNAN 1",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPA200",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PST224",
+      "nm_mk": "TEORI ARSITEKTUR 1",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSS322",
+      "nm_mk": "SEJARAH ARSITEKTUR INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA622",
+      "nm_mk": "PERANCANGAN ARSITEKTUR 2",
+      "sks_mk": 6,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTB433",
+      "nm_mk": "TEKNOLOGI BANGUNAN 2",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA633",
+      "nm_mk": "PERANCANGAN ARSITEKTUR 3",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKT431",
+      "nm_mk": "PERANCANGAN TAPAK",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PRP231",
+      "nm_mk": "DASAR-2 PEMUKIMAN & PERKOTAAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCD334",
+      "nm_mk": "DIGITAL ARSITEKTUR",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PST235",
+      "nm_mk": "TEORI ARSITEKTUR 2",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCE276",
+      "nm_mk": "ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PRP242",
+      "nm_mk": "TEORI PERENC PERUM & PEMUKIMAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA844",
+      "nm_mk": "PERANCANGAN ARSITEKTUR 4",
+      "sks_mk": 8,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UAG201",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTB444",
+      "nm_mk": "TEKNOLOGI BANGUNAN 3",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSS343",
+      "nm_mk": "SEJARAH ARSITEKTUR DUNIA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKE242",
+      "nm_mk": "EKOLOGI PERKOTAAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PRP453",
+      "nm_mk": "PERANCANGAN PERUM & PEMUKIMAN",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTF356",
+      "nm_mk": "FISIKA BANGUNAN DAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTF356",
+      "nm_mk": "FISIKA BANGUNAN DAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKA253",
+      "nm_mk": "ARSITEKTUR KOTA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA855",
+      "nm_mk": "PERANCANGAN ARSITEKTUR 5",
+      "sks_mk": 8,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBA201",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBA201",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKA253",
+      "nm_mk": "ARSITEKTUR KOTA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA855",
+      "nm_mk": "PERANCANGAN ARSITEKTUR 5",
+      "sks_mk": 8,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PRP453",
+      "nm_mk": "PERANCANGAN PERUM & PEMUKIMAN",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTP265",
+      "nm_mk": "PRANATA PEMBANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA866",
+      "nm_mk": "PERANCANGAN ARSITEKTUR 6",
+      "sks_mk": 8,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKA464",
+      "nm_mk": "PERANCANGAN KOTA",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPT361",
+      "nm_mk": "B.IND &METODE PENULISAN ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKT200",
+      "nm_mk": "KUM - ILMU TEKNOLOGI TERAPAN",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCW306",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPT407",
+      "nm_mk": "PROPOSAL PROY.ARSITEKTUR AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCK303",
+      "nm_mk": "KOMUNIKASI DAN PRESENTASI ARS.",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA604",
+      "nm_mk": "Proyek Arsitektur IV",
+      "sks_mk": 6,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKT200",
+      "nm_mk": "KUM - ILMU TEKNOLOGI TERAPAN",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCW306",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPT407",
+      "nm_mk": "PROPOSAL PROY.ARSITEKTUR AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDS201",
+      "nm_mk": "DASAR-2 SIS.STRUK & KONST.BANG",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTP305",
+      "nm_mk": "TIPOLOGI BANGUNAN *",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPI408",
+      "nm_mk": "PUBLIKASI ILMIAH",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIB407",
+      "nm_mk": "INOVASI TEKNOLOGI BANGUNAN *",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTB303",
+      "nm_mk": "SKB 2: STRUK. KONST. BANG. 2",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPT808",
+      "nm_mk": "PROYEK ARSITEKTUR AKHIR",
+      "sks_mk": 8,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTF306",
+      "nm_mk": "FISIKA BANGUNAN DAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCK303",
+      "nm_mk": "KOMUNIKASI DAN PRESENTASI ARS.",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPT808",
+      "nm_mk": "PROYEK ARSITEKTUR AKHIR",
+      "sks_mk": 8,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPA200",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PCD302",
+      "nm_mk": "DIGITAL ARSITEKTUR",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NICKY AZALEA NOVIANTRINI",
+    "jk": "P",
+    "nipd": "05212077          ",
+    "namapt": "Universitas Trisakti",
+    "namajenjang": "S1",
+    "namaprodi": "Arsitektur",
+    "reg_pd": "9146F1C2-6266-4B53-B2C0-CC188CED0767",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-09-07T00:00:00Z",
+    "no_seri_ijazah": "0076/FTSP/S1/ARS/X/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTEzQjREMDYtMzRDQS00QTZFLUEyOUEtOUFGMzcyOTMzQzhG",
+    "link_prodi": "/data_prodi/QTZCRURBQkMtMzc0OS00MDA5LTgwMjQtMkQyNUNGOEQ5MjNG"
+  }
+}

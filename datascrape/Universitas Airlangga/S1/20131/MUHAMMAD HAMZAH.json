@@ -1,0 +1,581 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ETM101",
+      "nm_mk": "Etika Dan Hukum Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMU101",
+      "nm_mk": "Pengantar Ilmu Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIF105",
+      "nm_mk": "BIOMEDIK I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK205",
+      "nm_mk": "KESEHATAN & KESELAMATAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAI101",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMD104",
+      "nm_mk": "Studi Kependudukan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM101",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NOP101",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SOS320",
+      "nm_mk": "Sosiologi Dan Antropologi Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI101",
+      "nm_mk": "Agama Islam I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EDM305",
+      "nm_mk": "Promosi Kesehatan dan Pendidikan Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIF106",
+      "nm_mk": "BIOMEDIK 2",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS228",
+      "nm_mk": "DASAR BIOSTATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA105",
+      "nm_mk": "ADMINISTRASI & KEBIJAKAN KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK214",
+      "nm_mk": "ERGONOMI DAN FAAL KERJA 1",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KME201",
+      "nm_mk": "Dasar Epidemiologi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SOB101",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMD105",
+      "nm_mk": "Kesehatan Reproduksi Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KME302",
+      "nm_mk": "Epidemiologi Penyakit Menular",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSK204",
+      "nm_mk": "PENGEMB. KEL. KES. MASY.",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMG201",
+      "nm_mk": "DASAR ILMU GIZI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAE115",
+      "nm_mk": "Bahasa Inggris Untuk Kesmas",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA205",
+      "nm_mk": "Dasar Administrasi Rumah Sakit Dan Puskesmas",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LMK204",
+      "nm_mk": "EKOLOGI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SOK323",
+      "nm_mk": "KOMUNIKASI KESEHATAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS229",
+      "nm_mk": "BIOSTATISTIKA INFERENSIAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KME202",
+      "nm_mk": "SURVEILANS KESEHATAN MASYARAKAT (INTEGR)",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NUM306",
+      "nm_mk": "PENGANTAR GIZI MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT309",
+      "nm_mk": "Toksikologi Industri 1",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNS202",
+      "nm_mk": "PERENC. & EVAL PROG KESMAS (INTEGRASI)",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNM404",
+      "nm_mk": "Manajemen Sumber Daya Manusia dan Produktivitas Bidang Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSK205",
+      "nm_mk": "Pemberdayaan Masyarakat dibidang Kesehatan I",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKM107",
+      "nm_mk": "Pencemaran Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NUM306",
+      "nm_mk": "PENGANTAR GIZI MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSK205",
+      "nm_mk": "Pemberdayaan Masyarakat dibidang Kesehatan I",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SII310",
+      "nm_mk": "Sistem Informasi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SII310",
+      "nm_mk": "Sistem Informasi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKM308",
+      "nm_mk": "SANITASI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNS202",
+      "nm_mk": "PERENC. & EVAL PROG KESMAS (INTEGRASI)",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT309",
+      "nm_mk": "Toksikologi Industri 1",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK106",
+      "nm_mk": "HIGIENE INDUSTRI 1",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNM404",
+      "nm_mk": "Manajemen Sumber Daya Manusia dan Produktivitas Bidang Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKM107",
+      "nm_mk": "Pencemaran Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KME303",
+      "nm_mk": "Epidemiologi Penyakit Tidak Menular",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKM308",
+      "nm_mk": "SANITASI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK106",
+      "nm_mk": "HIGIENE INDUSTRI 1",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KME303",
+      "nm_mk": "Epidemiologi Penyakit Tidak Menular",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SOK324",
+      "nm_mk": "Dasar Media Komunikasi, Informasi, Dan Edukasi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKH301",
+      "nm_mk": "Ekonomi Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KME419",
+      "nm_mk": "Manajemen Kejadian Luar Biasa dan Bencana (Integrasi)",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKN401",
+      "nm_mk": "KKN-BBM",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI401",
+      "nm_mk": "Agama Islam II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NUM307",
+      "nm_mk": "Ekologi Pangan Dan Gizi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKM310",
+      "nm_mk": "Pengelolaan Lingkungan Hidup",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNM405",
+      "nm_mk": "Metodologi Penelitian Kuantitatif dan Kualitatif",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIK302",
+      "nm_mk": "Aplikasi Komputer Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKM309",
+      "nm_mk": "Pengendalian Vektor dan Rodent",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK215",
+      "nm_mk": "Ergonomi Dan Faal Kerja 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKH302",
+      "nm_mk": "Penganggaran Bidang Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK309",
+      "nm_mk": "Kesehatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK308",
+      "nm_mk": "Keselamatan Kerja",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI310",
+      "nm_mk": "Psikologi Industri",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SOK402",
+      "nm_mk": "Komunikasi Pemasaran Kesehatan Terintegrasi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNM497",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK312",
+      "nm_mk": "Manajemen Resiko K3",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK313",
+      "nm_mk": "Implementasi K3 (Praktikum)",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLM401",
+      "nm_mk": "Praktek Kerja Lapangan (In Semester)",
+      "sks_mk": 5,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK311",
+      "nm_mk": "Penyakit Akibat Kerja",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT310",
+      "nm_mk": "Toksikologi Industri 2",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMD308",
+      "nm_mk": "Seks, Gender, Dan Seksualitas",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK310",
+      "nm_mk": "Higiene Industri 2",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNM499",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKM401",
+      "nm_mk": "Magang",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUHAMMAD HAMZAH",
+    "jk": "L",
+    "nipd": "101311133116      ",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "S1",
+    "namaprodi": "Kesehatan Masyarakat",
+    "reg_pd": "169399F8-45C3-4FAE-AF0D-2C6F14002AB1",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-02-02T00:00:00Z",
+    "no_seri_ijazah": "5711/001004/10.1/S1/2018",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/NzU5NzE0OTQtRDY0RS00Nzg0LUE4OTktQTVEODkyQTc2MjQ0"
+  }
+}

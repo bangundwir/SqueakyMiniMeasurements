@@ -1,0 +1,513 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BPI103",
+      "nm_mk": "Bahasa Indonesia (TPKI)",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI108",
+      "nm_mk": "Sejarah Peradaban Islam",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI114",
+      "nm_mk": "Ilmu Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI107",
+      "nm_mk": "Metodologi Studi Islam",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI124",
+      "nm_mk": "Dasar-Dasar Bimbingan dan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI125",
+      "nm_mk": "Dasar-dasar Pemahaman Perilaku",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI110",
+      "nm_mk": "Ulumul Qur`an",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI106",
+      "nm_mk": "Filsafat Umum",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI111",
+      "nm_mk": "Ulumul Hadits",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI101",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI212",
+      "nm_mk": "Akhlak Tasawuf",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI213",
+      "nm_mk": "Filsafat Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI 12",
+      "nm_mk": "Psikologi Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI209",
+      "nm_mk": "Fiqh",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI230",
+      "nm_mk": "Bimbingan Konseling Anak dan Remaja",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI251",
+      "nm_mk": "Pengembangan Profesi Konselor",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI205",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI204",
+      "nm_mk": "Bahasa Arab",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI202",
+      "nm_mk": "Pend. Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 228",
+      "nm_mk": "Pengantar Konseling",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI223",
+      "nm_mk": "Antropologi Sosial",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI332",
+      "nm_mk": "Manajemen dan Evaluasi BK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI320",
+      "nm_mk": "Statistik Deskriptif",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI347",
+      "nm_mk": "Keterampilan Dasar Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI317",
+      "nm_mk": "Psikologi Agama",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI316",
+      "nm_mk": "Retorika Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI329",
+      "nm_mk": "Kesehatan Mental",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI326",
+      "nm_mk": "Psikologi Kepribadian",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI348",
+      "nm_mk": "Bimbingan Kelompok",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI331",
+      "nm_mk": "BK Dewasa dan Lansia",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI122",
+      "nm_mk": "Sosiologi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI327",
+      "nm_mk": "Psikologi Sosial",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 434",
+      "nm_mk": "Konseling Individu",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 453",
+      "nm_mk": "Konseling Spiritual",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 437",
+      "nm_mk": "Konseling Populasi Khusus",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 440",
+      "nm_mk": "Pemahaman Individu",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 452",
+      "nm_mk": "Konseling Traumatik",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 439",
+      "nm_mk": "Analisis Perubahan Tingkah Laku",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 418",
+      "nm_mk": "Metodologi Penelitian Kuantitatif",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 433",
+      "nm_mk": "Ayat dan Hadis Tematik BPI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 421",
+      "nm_mk": "Statistik Inferensial",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 567",
+      "nm_mk": "MANAJEMEN KINERJA**",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 542",
+      "nm_mk": "KEPERAWATAN ROHANI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 538",
+      "nm_mk": "KONSELING MULTI BUDAYA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 519",
+      "nm_mk": "METODE PENELITIAN KUALITATIF",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 554",
+      "nm_mk": "KONSELING ANAK BERKEBUTUHAN KHUSUS",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 546",
+      "nm_mk": "MEDIA BK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 541",
+      "nm_mk": "PATOLOGI DAN REHABILITASI SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 544",
+      "nm_mk": "KEPEMIMPINAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 543",
+      "nm_mk": "MIKRO KONSELING",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 565",
+      "nm_mk": "PSIKOLOGI INDUSTRI DAN ORGANISASI**",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 655",
+      "nm_mk": "Seminar Proposal",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 664",
+      "nm_mk": "Manajemen Pengembangan SDM",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 645",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 668",
+      "nm_mk": "Evaluasi dan Pengendalian SDM",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 650",
+      "nm_mk": "Studi Kasus",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 635",
+      "nm_mk": "Konseling Kelompok",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 666",
+      "nm_mk": "Manajemen Konflik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 636",
+      "nm_mk": "Teori Motivasi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 649",
+      "nm_mk": "Problematika BK",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 757",
+      "nm_mk": "KKN",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 756",
+      "nm_mk": "PPM",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 758",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BPI 758",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ANA NUR HASANAH",
+    "jk": "P",
+    "nipd": "12306173037",
+    "namapt": "IAIN Tulungagung",
+    "namajenjang": "S1",
+    "namaprodi": "Bimbingan Konseling  Islam",
+    "reg_pd": "44A292F5-9B8F-4987-A5CC-A3966A6064FC",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mutasi",
+    "tgl_keluar": "2021-10-01T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEVDRDZBOTQtMzVCOS00M0JFLTlEODktNTg3NTNCMjRBMUZG",
+    "link_prodi": "/data_prodi/REYxNjA2RkItNTA3MS00NTI2LUJEQzQtMzQwM0JERUYxOUI5"
+  }
+}

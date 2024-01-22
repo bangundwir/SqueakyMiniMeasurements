@@ -1,0 +1,478 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Kampus Merdeka"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "7420105-BFHPS1710",
+      "nm_mk": "HUKUM ADMINISTRASI NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1707",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BULM1252",
+      "nm_mk": "BAHASA INGGRIS 2",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1705",
+      "nm_mk": "HUKUM TATA NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BULM1251",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1709",
+      "nm_mk": "HUKUM PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BULM1272",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1706",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1732",
+      "nm_mk": "HUKUM PIDANA LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1713",
+      "nm_mk": "HUKUM PERIKATAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1731",
+      "nm_mk": "HUKUM PERLINDUNGAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1736",
+      "nm_mk": "HUKUM KEBENDAAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1715",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1714",
+      "nm_mk": "HUKUM INTERNASIONAL PUBLIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1718",
+      "nm_mk": "HUKUM DAGANG",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1737",
+      "nm_mk": "HUKUM PEMERINTAHAN DAERAH",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1704",
+      "nm_mk": "HUKUM DAN MASYARAKAT",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1740",
+      "nm_mk": "HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1729",
+      "nm_mk": "HUKUM KEKAYAAN INTELEKTUAL",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1711",
+      "nm_mk": "HUKUM AGRARIA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1738",
+      "nm_mk": "ARBITRASE DAN ALTERNATIF PENYELESAIAN SENGKETA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1720",
+      "nm_mk": "HUKUM ANTAR TATA HUKUM",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1716",
+      "nm_mk": "HUKUM ACARA ADMINISTRASI",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1733",
+      "nm_mk": "TINDAK PIDANA TERTENTU DALAM KUHP",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1724",
+      "nm_mk": "HUKUM LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1708",
+      "nm_mk": "HUKUM ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1723",
+      "nm_mk": "HUKUM DAN HAK ASASI MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1717",
+      "nm_mk": "HUKUM ACARA PERDATA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BULM1115",
+      "nm_mk": "PENGANTAR LINGKUNGAN LAHAN BASAH",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1730",
+      "nm_mk": "HUKUM TELEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1712",
+      "nm_mk": "HUKUM PERBURUHAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1722",
+      "nm_mk": "ETIKA DAN TANGGUNG JAWAB PROFESI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1739",
+      "nm_mk": "HUKUM PERPAJAKAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1721",
+      "nm_mk": "ILMU DAN PERANCANGAN PERUNDANG-UNDANGAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1735",
+      "nm_mk": "PERANCANGAN KONTRAK",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1734",
+      "nm_mk": "TINDAK PIDANA KORUPSI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1725",
+      "nm_mk": "FILSAFAT HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1727",
+      "nm_mk": "PRAKTIK PERADILAN PERDATA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3703",
+      "nm_mk": "VIKTIMOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3701",
+      "nm_mk": "SISTEM PERADILAN PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1726",
+      "nm_mk": "PRAKTIK PERADILAN PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3704",
+      "nm_mk": "PERBANDINGAN HUKUM PIDANA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3705",
+      "nm_mk": "TINDAK PIDANA DI BIDANG EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3707",
+      "nm_mk": "TINDAK PIDANA DI BIDANG SUMBER DAYA ALAM",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1728",
+      "nm_mk": "PRAKTIK PERADILAN TATA USAHA NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3706",
+      "nm_mk": "HUKUM PENITENSIER",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1741",
+      "nm_mk": "MAGANG / PRAKTIK KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1719",
+      "nm_mk": "METODE PENELITIAN DAN PENULISAN HUKUM",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3702",
+      "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3712",
+      "nm_mk": "PSIKOLOGI KRIMINAL",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3708",
+      "nm_mk": "TINDAK PIDANA TELEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3711",
+      "nm_mk": "HUKUM PIDANA ADAT",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3713",
+      "nm_mk": "HUKUM PIDANA ANAK",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3710",
+      "nm_mk": "ASPEK PIDANA DALAM MEDIA MASSA",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BFHPS1742",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3715",
+      "nm_mk": "TINDAK PIDANA PEMILU",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3714",
+      "nm_mk": "HUKUM PIDANA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3709",
+      "nm_mk": "HUKUM PIDANA INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "7420105-BPHPI3716",
+      "nm_mk": "TINDAK PIDANA HAK KEKAYAAN INTELEKTUAL",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SITI ZAHRAH",
+    "jk": "P",
+    "nipd": "2010211120082",
+    "namapt": "Universitas Lambung Mangkurat",
+    "namajenjang": "S1",
+    "namaprodi": "Hukum",
+    "reg_pd": "E1A53ED5-7C7B-4D04-8E53-1D9557114AE2",
+    "mulai_smt": "20202",
+    "nm_jns_daftar": "Pindahan Alih Bentuk",
+    "nm_pt_asal": "Universitas Lambung Mangkurat",
+    "nm_prodi_asal": "Ilmu Hukum",
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NzM0MzdDRTAtMTYyRC00RDI0LTg2QkUtRDQxOUY5NTE4NjhE",
+    "link_prodi": "/data_prodi/NUVGMkIyNTctQzdENy00QkQ4LUIwNDUtM0QyOTg2MTE2Q0M1"
+  }
+}

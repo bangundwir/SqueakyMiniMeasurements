@@ -1,0 +1,70 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "LOKP701-86904-PJ18",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 22,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDMP701-86904-PJ18",
+      "nm_mk": "Pendalaman Materi Pedagogik dan Perofesional",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NASP702-86904-PJ18",
+      "nm_mk": "Uji Pengetahuan UKMPPG",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NASP701-86904-PJ18",
+      "nm_mk": "Uji Kinerja UKMPPG",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLP701-86904-PJ18",
+      "nm_mk": "PPL",
+      "sks_mk": 16,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HASIM EFENDI",
+    "jk": "L",
+    "nipd": "183125700223",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "3761FF3F-E1CB-4A6E-8256-26F60DB5813E",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-05-31T00:00:00Z",
+    "no_seri_ijazah": "0010331918010688",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QjM1MDcyOUQtMkJFQy00QTZELUIxODYtNjM5ODc1NjI2NEJE"
+  }
+}

@@ -53,16 +53,9 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "1103318590206",
-      "nm_mk": "Pendidikan Kewarganegaraan",
+      "kode_mk": "2103301240206",
+      "nm_mk": "Anatomi I",
       "sks_mk": 2,
-      "id_smt": "20061",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2203310620106",
-      "nm_mk": "Kedokteran Terintegrasi",
-      "sks_mk": 1,
       "id_smt": "20061",
       "nilai_huruf": null
     },
@@ -74,9 +67,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2103301240206",
-      "nm_mk": "Anatomi I",
+      "kode_mk": "1103318590206",
+      "nm_mk": "Pendidikan Kewarganegaraan",
       "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2203310620106",
+      "nm_mk": "Kedokteran Terintegrasi",
+      "sks_mk": 1,
       "id_smt": "20061",
       "nilai_huruf": null
     },
@@ -95,8 +95,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2103317370306",
-      "nm_mk": "Parasitologi",
+      "kode_mk": "2103316440306",
+      "nm_mk": "Mikrobiologi Kedokteran I",
       "sks_mk": 3,
       "id_smt": "20071",
       "nilai_huruf": null
@@ -109,15 +109,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2103316440306",
-      "nm_mk": "Mikrobiologi Kedokteran I",
+      "kode_mk": "2103302450306",
+      "nm_mk": "Biokimia Kedokteran I",
       "sks_mk": 3,
       "id_smt": "20071",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2103302450306",
-      "nm_mk": "Biokimia Kedokteran I",
+      "kode_mk": "2103317370306",
+      "nm_mk": "Parasitologi",
       "sks_mk": 3,
       "id_smt": "20071",
       "nilai_huruf": null
@@ -151,6 +151,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "2103306630306",
+      "nm_mk": "Fisiologi Kedokteran III",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103317530206",
+      "nm_mk": "Patologi Klinik II",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103310650106",
+      "nm_mk": "Kedokteran Terintegrasi IV",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2103317480306",
       "nm_mk": "Patologi Anatomi I",
       "sks_mk": 3,
@@ -165,24 +186,31 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2103306630306",
-      "nm_mk": "Fisiologi Kedokteran III",
-      "sks_mk": 3,
-      "id_smt": "20072",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2103310650106",
-      "nm_mk": "Kedokteran Terintegrasi IV",
+      "kode_mk": "2203310660106",
+      "nm_mk": "Kedokteran Terintegrasi V",
       "sks_mk": 1,
-      "id_smt": "20072",
+      "id_smt": "20081",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2103317530206",
-      "nm_mk": "Patologi Klinik II",
+      "kode_mk": "3103323910206",
+      "nm_mk": "Psikiatri",
       "sks_mk": 2,
-      "id_smt": "20072",
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3203319490106",
+      "nm_mk": "Pengantar Klinik Syaraf",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103305790206",
+      "nm_mk": "Farmakologi dan Terapi II",
+      "sks_mk": 2,
+      "id_smt": "20081",
       "nilai_huruf": null
     },
     {
@@ -200,37 +228,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3103309250206",
-      "nm_mk": "Ilmu Penyakit Syaraf",
-      "sks_mk": 2,
-      "id_smt": "20081",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2103305790206",
-      "nm_mk": "Farmakologi dan Terapi II",
-      "sks_mk": 2,
-      "id_smt": "20081",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3203319490106",
-      "nm_mk": "Pengantar Klinik Syaraf",
+      "kode_mk": "3103307010106",
+      "nm_mk": "Gigi dan Mulut",
       "sks_mk": 1,
       "id_smt": "20081",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3103323910206",
-      "nm_mk": "Psikiatri",
+      "kode_mk": "3103324820206",
+      "nm_mk": "Radiologi",
       "sks_mk": 2,
-      "id_smt": "20081",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2203310660106",
-      "nm_mk": "Kedokteran Terintegrasi V",
-      "sks_mk": 1,
       "id_smt": "20081",
       "nilai_huruf": null
     },
@@ -249,65 +256,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3103324820206",
-      "nm_mk": "Radiologi",
+      "kode_mk": "3103309250206",
+      "nm_mk": "Ilmu Penyakit Syaraf",
       "sks_mk": 2,
       "id_smt": "20081",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103307010106",
-      "nm_mk": "Gigi dan Mulut",
-      "sks_mk": 1,
-      "id_smt": "20081",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103308920206",
-      "nm_mk": "Ilmu Kesehatan Anak I",
-      "sks_mk": 2,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103309200306",
-      "nm_mk": "Ilmu Penyakit Dalam I",
-      "sks_mk": 3,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103310350206",
-      "nm_mk": "Karya Tulis Akhir (Skripsi)",
-      "sks_mk": 2,
-      "id_smt": "20082",
       "nilai_huruf": null
     },
     {
       "kode_mk": "5203310580306",
       "nm_mk": "Kedokteran Industri dan Keluarga",
       "sks_mk": 3,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2203310670106",
-      "nm_mk": "Kedokteran Terintegrasi VI",
-      "sks_mk": 1,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103308630206",
-      "nm_mk": "Ilmu Bedah I",
-      "sks_mk": 2,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103309240206",
-      "nm_mk": "Ilmu Penyakit Mata",
-      "sks_mk": 2,
       "id_smt": "20082",
       "nilai_huruf": null
     },
@@ -319,9 +277,51 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "3103310350206",
+      "nm_mk": "Karya Tulis Akhir (Skripsi)",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "3103317070306",
       "nm_mk": "Obstetri dan Ginekologi I",
       "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103309200306",
+      "nm_mk": "Ilmu Penyakit Dalam I",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103309240206",
+      "nm_mk": "Ilmu Penyakit Mata",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2203310670106",
+      "nm_mk": "Kedokteran Terintegrasi VI",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103308920206",
+      "nm_mk": "Ilmu Kesehatan Anak I",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103308630206",
+      "nm_mk": "Ilmu Bedah I",
+      "sks_mk": 2,
       "id_smt": "20082",
       "nilai_huruf": null
     },
@@ -330,55 +330,6 @@
       "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
       "sks_mk": 1,
       "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103317050306",
-      "nm_mk": "Obstetri dan Ginekologi II",
-      "sks_mk": 3,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103309210206",
-      "nm_mk": "Ilmu Penyakit Dalam II",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2103305790206",
-      "nm_mk": "Farmakologi dan Terapi II",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2103305800206",
-      "nm_mk": "Farmakologi dan Terapi III",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103308930306",
-      "nm_mk": "Ilmu Kesehatan Anak II",
-      "sks_mk": 3,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103309230206",
-      "nm_mk": "Ilmu Penyakit Kulit dan Kelamin",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3203319450106",
-      "nm_mk": "Pengantar Klinik Bedah",
-      "sks_mk": 1,
-      "id_smt": "20091",
       "nilai_huruf": null
     },
     {
@@ -403,10 +354,66 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "3203319450106",
+      "nm_mk": "Pengantar Klinik Bedah",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103309210206",
+      "nm_mk": "Ilmu Penyakit Dalam II",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103317050306",
+      "nm_mk": "Obstetri dan Ginekologi II",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103309230206",
+      "nm_mk": "Ilmu Penyakit Kulit dan Kelamin",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103305790206",
+      "nm_mk": "Farmakologi dan Terapi II",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "5203312600306",
       "nm_mk": "Kuliah Kerja Nyata",
       "sks_mk": 3,
       "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103308930306",
+      "nm_mk": "Ilmu Kesehatan Anak II",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2103305800206",
+      "nm_mk": "Farmakologi dan Terapi III",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3103326660406",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20101",
       "nilai_huruf": null
     },
     {
@@ -420,13 +427,6 @@
       "kode_mk": "3103309210206",
       "nm_mk": "Ilmu Penyakit Dalam II",
       "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3103326660406",
-      "nm_mk": "Skripsi",
-      "sks_mk": 4,
       "id_smt": "20101",
       "nilai_huruf": null
     },

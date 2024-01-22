@@ -1,0 +1,437 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20051",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20052",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20061",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKDK1101",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 4,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK1103",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS1001",
+      "nm_mk": "KIMIA ORGANIK",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT1601",
+      "nm_mk": "KLIMATOLOGI DASAR",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNH2000",
+      "nm_mk": "DASAR-DASAR PERLINDUNGAN TANAH",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA2103",
+      "nm_mk": "DASAR-DASAR AGRONOMI",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS1002",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNE1201",
+      "nm_mk": "DASAR-DASAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNB2362",
+      "nm_mk": "PERANCANGAN PERCOBAAN",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS1002P",
+      "nm_mk": "PRAKTEK BIOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK1101",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 4,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3102",
+      "nm_mk": "MANAJEMEN TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK1103",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS1002P",
+      "nm_mk": "PRAKTEK BIOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS1002",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT3701",
+      "nm_mk": "PENGELOLAAN AIR UNTUK PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNP3701",
+      "nm_mk": "PENGELOLAAN AIR UNTUK PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3461",
+      "nm_mk": "PERTUMBUHAN DAN PERKEMBANGAN TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3463",
+      "nm_mk": "FISIOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNH2800",
+      "nm_mk": "DASAR-DASAR ILMU PENYAKIT TUMBUHAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNP2101",
+      "nm_mk": "DASAR-DASAR GENETIKA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA4351",
+      "nm_mk": "EKOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT3806",
+      "nm_mk": "PENGANTAR BIOTEKNOLOGI PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3105",
+      "nm_mk": "BUDIDAYA TANAMAN TAHUNAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT3403",
+      "nm_mk": "KESUBURAN, PEMUPUKAN DAN KESEHATAN TANAH",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT3701",
+      "nm_mk": "PENGELOLAAN AIR UNTUK PERTANIAN",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3461",
+      "nm_mk": "PERTUMBUHAN DAN PERKEMBANGAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3104",
+      "nm_mk": "BUDIDAYA TANAMANAN SEMUSIM",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNE2102",
+      "nm_mk": "EKONOMI PERTANIAN",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3102",
+      "nm_mk": "MANAJEMEN TANAMAN",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA4060",
+      "nm_mk": "KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT54502",
+      "nm_mk": "PERENCANAAN DAN PENG. WILA PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT4502",
+      "nm_mk": "PERENCANAAN DAN PENGEMBANGAN WIL PERTANI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNB2361",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNP2100",
+      "nm_mk": "DASAR-DASAR PENYULUHAN DAN KOMUNIKASI P",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA4080",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JAN01",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT3701",
+      "nm_mk": "PENGELOLAAN AIR UNTUK PERTANIAN",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU4050",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA4351",
+      "nm_mk": "EKOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNP3701",
+      "nm_mk": "PENGELOLAAN AIR UNTUK PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3461",
+      "nm_mk": "PERTUMBUHAN DAN PERKEMBANGAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNT3403",
+      "nm_mk": "KESUBURAN, PEMUPUKAN DAN KESEHATAN TANAH",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNP2101",
+      "nm_mk": "DASAR-DASAR GENETIKA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3463",
+      "nm_mk": "FISIOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNH2800",
+      "nm_mk": "DASAR-DASAR ILMU PENYAKIT TUMBUHAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNA3105",
+      "nm_mk": "BUDIDAYA TANAMAN TAHUNAN",
+      "sks_mk": 5,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNE2102",
+      "nm_mk": "EKONOMI PERTANIAN",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK1007",
+      "nm_mk": "PENGANTAR ILMU PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DBK09",
+      "nm_mk": "MANAJEMEN AGRIBISNIS",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK1101",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LISDA SAMOSIR",
+    "jk": "P",
+    "nipd": "0610408003        ",
+    "namapt": "Universitas Prima Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Agroteknologi",
+    "reg_pd": "12F55C59-3C48-4082-B72F-9BF6EC119812",
+    "mulai_smt": "20061",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": "2020-01-29T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTMyMDdBNTMtMTJENC00RjMyLUIzMkQtRTA4OEVDNUEyQTM0",
+    "link_prodi": "/data_prodi/QzU3QzVBRTEtQzY3Mi00NkJBLUEzRjYtREFGNDVDRTQ3NDYy"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20071",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": null,
+      "nm_stat_mhs": "Drop-Out/Putus Studi"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EKM801",
+      "nm_mk": "TEORI ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKM803",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKM802",
+      "nm_mk": "STATISTIK LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKM800",
+      "nm_mk": "FILSAFAT ILMU",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKM805",
+      "nm_mk": "TEORI EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKM806",
+      "nm_mk": "BEHAVIORAL SCIENCE",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKM804",
+      "nm_mk": "TEORI EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKM807",
+      "nm_mk": "MANAGEMENT SCIENCE",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HARINI AGUSTINA",
+    "jk": "P",
+    "nipd": "07261953SEK00349",
+    "namapt": "Universitas Gadjah Mada",
+    "namajenjang": "S3",
+    "namaprodi": "Doktor Ilmu Manajemen",
+    "reg_pd": "42C737F3-BE7E-4AC6-B320-063326F371EF",
+    "mulai_smt": "20071",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Hilang",
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEVEMUQwQ0UtRjEyMi00QjM3LUE4NDktMjVGODFCMzM1Mzk1",
+    "link_prodi": "/data_prodi/QThGMzBDMzAtNTIzRC00OTRELUE2NEQtOUM1MzNFNERBMkZD"
+  }
+}

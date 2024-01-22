@@ -1,0 +1,555 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "20151503FF104",
+      "nm_mk": "BOTANI FARMASI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF102",
+      "nm_mk": "MORFOLOGI ANAT.FIS.TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF106",
+      "nm_mk": "WAWASAN PROFESI DAN KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF105",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF101",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20001502FF338",
+      "nm_mk": "KIMIA LINGKUNGAN & PENGOLAHAN LIMBAH",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2CK101",
+      "nm_mk": "AQIDAH",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF109",
+      "nm_mk": "WAWASAN PROFESI & KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF107",
+      "nm_mk": "MATEMATIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20151502CK407",
+      "nm_mk": "ILMU DAKWAH",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2IH101",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2SI101",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF105",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF107",
+      "nm_mk": "MATEMATIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF109",
+      "nm_mk": "WAWASAN ILMU FARMASI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF111",
+      "nm_mk": "PATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF108",
+      "nm_mk": "KIMIA ORGANIK",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2CK002",
+      "nm_mk": "SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF110",
+      "nm_mk": "FARMASI FISIKA 1",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF112",
+      "nm_mk": "FARMAKOLOGI DAN TOKSIKOLOGI 1",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF214",
+      "nm_mk": "TEKNOLOGI SEDIAAN FARMASI I",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2SE101",
+      "nm_mk": "BAHASA INNGGERIS",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF215",
+      "nm_mk": "KIMIA ANALISIS FARMASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2CK203",
+      "nm_mk": "AKHLAK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF217",
+      "nm_mk": "KIMIA FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF216",
+      "nm_mk": "KIMIA ORGANIK II ( KOS )",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20001503FF223",
+      "nm_mk": "FARMAKOLOGI & TOKSIKOLOGI 3",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF218",
+      "nm_mk": "IMUNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF213",
+      "nm_mk": "FARMAKOGNOSI 1",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF221",
+      "nm_mk": "FARMAKOGNOSI 2",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF219",
+      "nm_mk": "TEKNOLOGI SEDIAAN PADAT",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF224",
+      "nm_mk": "STATISTIK FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF222",
+      "nm_mk": "MIKROBIOLOGI FARMASI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF220",
+      "nm_mk": "KIMIA SINTESIS",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF223",
+      "nm_mk": "FARMAKOLOGI DAN TOKSIKOLOGI 111",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2CK204",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF213",
+      "nm_mk": "FARMAKOGNOSI 1",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF330",
+      "nm_mk": "ANALISIS INSTRUMEN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF327",
+      "nm_mk": "FITOKIMIA 1",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF328",
+      "nm_mk": "TEKNOLOGI SEDIAAN SEMIPADAT & CAIR",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2IH101",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2CK003",
+      "nm_mk": "METODE STUDI ISLAM (MSI)",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF326",
+      "nm_mk": "ANLISIS FARMASI KUALITATIF",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF325",
+      "nm_mk": "FARMAKOLOGI MOLEKULER",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF103",
+      "nm_mk": "MATEMATIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF329",
+      "nm_mk": "KIMIA FARMASI ANALISIS I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF345",
+      "nm_mk": "FITOKIMIA 2",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF346",
+      "nm_mk": "FARMAKOKINETIK",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20151502FF382",
+      "nm_mk": "MIKROBIOLOGI KLINIK *)",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF344",
+      "nm_mk": "BIOFRMASI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF343",
+      "nm_mk": "RADIO FARMSI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF347",
+      "nm_mk": "OBAT ASLI INDONESIA DAN FITOFARMAKA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF348",
+      "nm_mk": "TEKNOLOGI SEDIAAN STERIL",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF349",
+      "nm_mk": "KIMIA KLINIK",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF342",
+      "nm_mk": "IDI FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF353",
+      "nm_mk": "MIKROBIOLOGI KLINIK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF330",
+      "nm_mk": "ANALISIS INSTRUMEN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF466",
+      "nm_mk": "SPESIALITE OBAT",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF464",
+      "nm_mk": "KIMIA MEDISINAL",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF339",
+      "nm_mk": "TUMBUHAN RACUN DAN PESTISIDA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF465",
+      "nm_mk": "FARMAKOTERAPI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF463",
+      "nm_mk": "FARMASETIK LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2IH101",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF467",
+      "nm_mk": "PERATURAN PER - UU DAN ETIKA FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3FF101",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FF462",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4FF475",
+      "nm_mk": "KKN",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1FF477",
+      "nm_mk": "SEMINAR SKRIPSI II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1FF476",
+      "nm_mk": "SEMINAR SKRIPSI 1",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4FF478",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HAMIMA BADARUNI",
+    "jk": "P",
+    "nipd": "15020100286       ",
+    "namapt": "Universitas Muslim Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "5015C34F-CE78-4F00-AE24-1C0913A15E8C",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-08-29T00:00:00Z",
+    "no_seri_ijazah": "-",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjhERDBBN0MtQTIwMC00OTg4LUJDNjAtNzg5NTFBRTk1RDFF",
+    "link_prodi": "/data_prodi/MjA2QjI4NDItOURGOS00MEIwLTlFNzItQjk3MTk1QzIyQkQ1"
+  }
+}

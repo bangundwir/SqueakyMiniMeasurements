@@ -1,0 +1,282 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BHP141",
+      "nm_mk": "BIOETHICS & HUMANITIES PROGRAM-1",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTS143",
+      "nm_mk": "RESPIRATORY SYSTEM-1",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CVS143",
+      "nm_mk": "CARDIOVASCULAR SYSTEM-1",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHP340",
+      "nm_mk": "COMMUNITY HEALTH ORIENTED PROGRAM-3",
+      "sks_mk": 0,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CVS243",
+      "nm_mk": "CARDIOVASCULAR SYSTEM-2",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DMS243",
+      "nm_mk": "DERMATOMUSCULOSKELETAL SYSTEM-2",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CRP440",
+      "nm_mk": "COMMUNITY RESEARCH PROGRAM-4",
+      "sks_mk": 0,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTS242",
+      "nm_mk": "RESPIRATORY SYSTEM-2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CSP561",
+      "nm_mk": "CLINICAL SKILLS PROGRAM-5",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KBI261",
+      "nm_mk": "BAHASA INDONESIA-2",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIG261",
+      "nm_mk": "BAHASA INGGRIS-2",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMD263",
+      "nm_mk": "EMERGENCY MEDICINE-2",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPS162",
+      "nm_mk": "PROPOSAL TUGAS AKHIR",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHP461",
+      "nm_mk": "COMMUNITY HEALTH ORIENTED PROGRAM-4",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KFI161",
+      "nm_mk": "FILSAFAT",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMS163",
+      "nm_mk": "BRAIN AND MIND SYSTEM-1",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BMS263",
+      "nm_mk": "BRAIN AND MIND SYSTEM-2",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EMD163",
+      "nm_mk": "EMERGENCY MEDICINE-1",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ONK173",
+      "nm_mk": "ONCOLOGY",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPS174",
+      "nm_mk": "SEMINAR HASIL TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CSP671",
+      "nm_mk": "CLINICAL SKILLS PROGRAM-6",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FMD272",
+      "nm_mk": "FAMILY MEDICINE-2",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BHP272",
+      "nm_mk": "BIOETHICS & HUMANITIES PROGRAM-2",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMD173",
+      "nm_mk": "TROPICAL MEDICINE-1",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FMD173",
+      "nm_mk": "FAMILY MEDICINE-1",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TMD272",
+      "nm_mk": "TROPICAL MEDICINE-2",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSY",
+      "nm_mk": "ILMU PENYAKIT SYARAF",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKA",
+      "nm_mk": "ILMU KESEHATAN ANAK",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPD",
+      "nm_mk": "ILMU PENYAKIT DALAM",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KRD",
+      "nm_mk": "RADIOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KJW",
+      "nm_mk": "ILMU KESEHATAN JIWA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RONDANG DWI FEBRIANA SIHOTANG",
+    "jk": "P",
+    "nipd": "150100136",
+    "namapt": "Universitas Sumatera Utara",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Dokter",
+    "reg_pd": "87C9A931-1696-4CB5-A7D4-6ABA1D9EF452",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-02-12T00:00:00Z",
+    "no_seri_ijazah": "10440/UN5.2.1.1/LLS/S1/2019",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzY2QTlEOTQtNDBDOC00QjcyLUFGQjktNDM4NDczNjRCMUJF",
+    "link_prodi": "/data_prodi/MzA5OTI1ODgtRDFDMi00NkUwLUIwRDktRTlFRkVGMDU2QkI1"
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TKP4207",
+      "nm_mk": "HIDROLIKA SALURAN TERBUKA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4204",
+      "nm_mk": "STATISTIKA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4205",
+      "nm_mk": "STRUKTUR STATIS TERTENTU",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4209",
+      "nm_mk": "ILMU UKUR TANAH",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4201",
+      "nm_mk": "MATEMATIKA II",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4206",
+      "nm_mk": "PENGELOLAAN KUALITAS AIR",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4214",
+      "nm_mk": "GEOLOGI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4208",
+      "nm_mk": "HIDROLOGI TEKNIK DASAR",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK4007",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4202",
+      "nm_mk": "MEKANIKA TANAH DASAR",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4119",
+      "nm_mk": "MEKANIKA TANAH LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4122",
+      "nm_mk": "TRANSPROTASI SEDIMEN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4120",
+      "nm_mk": "HIDROLIKA MODEL",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4117",
+      "nm_mk": "KOKOH TEGANGAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4114",
+      "nm_mk": "PERENCANAAN JARINGAN IRIGASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4116",
+      "nm_mk": "KIMIA TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4118",
+      "nm_mk": "MATEMATIKA LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4121",
+      "nm_mk": "HIDROLOGI TEKNIK TERAPAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4123",
+      "nm_mk": "PEMETAAN & SIG",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4124",
+      "nm_mk": "REKAYASA DISTRIBUSI AIR BERSIH",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4115",
+      "nm_mk": "SISTEM DRAINASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4221",
+      "nm_mk": "REKAYASA SUNGAI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4220",
+      "nm_mk": "REKAYASA PANTAI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4218",
+      "nm_mk": "TEKNIK PONDASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4223",
+      "nm_mk": "MANAJEMEN AIR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4211",
+      "nm_mk": "RANCANGAN DRAINASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4215",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4219",
+      "nm_mk": "TEKNIK LISTRIK TENAGA AIR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4217",
+      "nm_mk": "RANGKA BATANG",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4222",
+      "nm_mk": "Morfologi Sungai",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4212",
+      "nm_mk": "REKLAMASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4224",
+      "nm_mk": "TEKNOLOGI PENGOLAHAN AIR LIMBA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4210",
+      "nm_mk": "BANGUNAN IRIGASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4127",
+      "nm_mk": "SISTEM &amp;amp; OP JARINGAN IRIGASI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4131",
+      "nm_mk": "PERENCANAAN DAN PENGELOLAAN WA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4129",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4139",
+      "nm_mk": "Praktikum Teknik Sungai",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4137",
+      "nm_mk": "MANAJEMEN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4132",
+      "nm_mk": "TEKNIK LINGKUNGAN DAN AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4134",
+      "nm_mk": "KONSTRUKSI BAJA I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4135",
+      "nm_mk": "KONSTRUKSI BENDUNGAN I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4128",
+      "nm_mk": "STRUKTUR STATIS TAK TENTU",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4136",
+      "nm_mk": "KONSTRUKSI BETON I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4126",
+      "nm_mk": "PERENCANAAN WILAYAH DAN KOTA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4130",
+      "nm_mk": "PENGELOLAAN DAS",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4220",
+      "nm_mk": "REKAYASA PANTAI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4231",
+      "nm_mk": "PRAKTIKUM TEKNOLOGI BETON",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4227",
+      "nm_mk": "KONSTRUKSI BAJA II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4002",
+      "nm_mk": "KKN-P/KULIAH KERJA NYATA-PRAK",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4230",
+      "nm_mk": "REKAYASA PELABUHAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4229",
+      "nm_mk": "KONSTRUKSI BETON II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4202",
+      "nm_mk": "MEKANIKA TANAH DASAR",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4233",
+      "nm_mk": "Pengelolaan Airtanah (Groundwa",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4232",
+      "nm_mk": "TEKNIK BANGUNAN KHUSUS",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4228",
+      "nm_mk": "KONSTRUKSI BENDUNGAN II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4141",
+      "nm_mk": "Standarisasi Pengelolaan dan T",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4226",
+      "nm_mk": "PENGEMBANGAN SUMBER DAYA AIR",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4137",
+      "nm_mk": "MANAJEMEN KONSTRUKSI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4117",
+      "nm_mk": "KOKOH TEGANGAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4002",
+      "nm_mk": "KKN-P/KULIAH KERJA NYATA-PRAK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4133",
+      "nm_mk": "Pemindahan Tanah Mekanis",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4216",
+      "nm_mk": "PRAKTIKUM MEKANIKA TANAH",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4005",
+      "nm_mk": "Kepemimpinan dan Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4138",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4125",
+      "nm_mk": "Praktikum Hidrolika",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4242",
+      "nm_mk": "Teknik Konservasi Waduk",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4034",
+      "nm_mk": "SEMINAR USULAN SKRIPSI",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKP4120",
+      "nm_mk": "Hidrolika Terapan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4001",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4034",
+      "nm_mk": "SEMINAR USULAN SKRIPSI",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "IKA JUWITA R",
+    "jk": "P",
+    "nipd": "0910640048        ",
+    "namapt": "Universitas Brawijaya",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Pengairan",
+    "reg_pd": "86EBE188-F84A-4104-8609-94D047C2EFE7",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2013-06-17T00:00:00Z",
+    "no_seri_ijazah": "85996/UB/S1/2013",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTlBM0I3QUYtNjQ3MC00RDE4LThCMDYtMDk5NDFFNjYzQjA3",
+    "link_prodi": "/data_prodi/QzI4QjhCQzMtREE4Mi00RkI0LUI3OTYtNThCMjhDRUYxMTBF"
+  }
+}

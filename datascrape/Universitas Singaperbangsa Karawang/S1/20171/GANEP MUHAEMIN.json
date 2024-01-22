@@ -1,0 +1,652 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20173",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TIN61630",
+      "nm_mk": "Pengantar Teknik Industri",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61620",
+      "nm_mk": "Pemrograman Komputer",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61606",
+      "nm_mk": "Kalkulus Dasar I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61604",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61618",
+      "nm_mk": "Menggambar Teknik",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61614",
+      "nm_mk": "Fisika Dasar I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61619",
+      "nm_mk": "Praktikum Menggambar Teknik",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61626",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61621",
+      "nm_mk": "Praktikum Pemrograman Komputer",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61617",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61608",
+      "nm_mk": "Statistika Industri I",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61607",
+      "nm_mk": "Kalkulus Dasar II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61632",
+      "nm_mk": "Praktikum Proses Manufaktur",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61603",
+      "nm_mk": "Tata Tulis Karya Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61616",
+      "nm_mk": "Praktikum Fisika Dasar",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61651",
+      "nm_mk": "Sistem Lingkungan Industri",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61601",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61631",
+      "nm_mk": "Proses Manufaktur",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61622",
+      "nm_mk": "Pengetahuan Bahan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61615",
+      "nm_mk": "Fisika Dasar II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61614",
+      "nm_mk": "Fisika Dasar I",
+      "sks_mk": 2,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61617",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61627",
+      "nm_mk": "Analisis dan Estimasi Biaya",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61610",
+      "nm_mk": "Aljabar Linier",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61633",
+      "nm_mk": "Perancangan Sistem Kerja I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61624",
+      "nm_mk": "Elektronika Industri",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61602",
+      "nm_mk": "Pancasila dan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61625",
+      "nm_mk": "Sistem Basis Data",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61623",
+      "nm_mk": "Mekanika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61634",
+      "nm_mk": "Praktikum Perancangan Sistem Kerja I",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61609",
+      "nm_mk": "Statistika Industri II",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61612",
+      "nm_mk": "Penelitian Operasional I",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61645",
+      "nm_mk": "Sistem Pemasaran",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61611",
+      "nm_mk": "Matematika Optimisasi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61636",
+      "nm_mk": "Praktikum Perancangan Sistem Kerja II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61644",
+      "nm_mk": "Keselamatan Kesehatan dan Lingkungan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61638",
+      "nm_mk": "Perencanaan Pengendalian Produksi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61635",
+      "nm_mk": "Perancangan Sistem Kerja II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61637",
+      "nm_mk": "Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61631",
+      "nm_mk": "Proses Manufaktur",
+      "sks_mk": 3,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61602",
+      "nm_mk": "Pancasila dan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61630",
+      "nm_mk": "Pengantar Teknik Industri",
+      "sks_mk": 3,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61639",
+      "nm_mk": "Pemodelan Sistem",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61646",
+      "nm_mk": "Logistik dan Manajemen Rantai Pasok",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61629",
+      "nm_mk": "Organisasi dan Manajemen Perusahaan Industri",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61642",
+      "nm_mk": "Sistem Produksi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61613",
+      "nm_mk": "Penelitian Operasional II",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61652",
+      "nm_mk": "Perancangan Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61659",
+      "nm_mk": "Perancangan dan Pengembangan Produk",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61643",
+      "nm_mk": "Praktikum Sistem Produksi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61657",
+      "nm_mk": "Praktikum Analisis dan Perancangan Perusahaan",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61640",
+      "nm_mk": "Pengendalian Kualitas",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61654",
+      "nm_mk": "Perencanaan Tata Letak Pabrik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61647",
+      "nm_mk": "Otomasi Sistem Produksi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61628",
+      "nm_mk": "Psikologi Industri",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61655",
+      "nm_mk": "Praktikum Perencanaan Tata Letak Pabrik",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61656",
+      "nm_mk": "Analisis dan Perancangan Perusahaan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61658",
+      "nm_mk": "Metodologi Penelitian Teknik Industri",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61641",
+      "nm_mk": "Simulasi Komputer",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61605",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61653",
+      "nm_mk": "Praktikum Perancangan Sistem Informasi",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61650",
+      "nm_mk": "Sistem Pemeliharaan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61668",
+      "nm_mk": "Manajemen SDM",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61663",
+      "nm_mk": "Sistem Manusia Mesin",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61649",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61629",
+      "nm_mk": "Organisasi dan Manajemen Perusahaan Industri",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61648",
+      "nm_mk": "Kerja Praktek",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61637",
+      "nm_mk": "Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61645",
+      "nm_mk": "Sistem Pemasaran",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61612",
+      "nm_mk": "Penelitian Operasional I",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61611",
+      "nm_mk": "Matematika Optimisasi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61674",
+      "nm_mk": "Pengantar Biomekanika Kerja",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61608",
+      "nm_mk": "Statistika Industri I",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61675",
+      "nm_mk": "Ergonomi Makro",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61660",
+      "nm_mk": "Seminar Proposal Tugas Akhir",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61609",
+      "nm_mk": "Statistika Industri II",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61625",
+      "nm_mk": "Sistem Basis Data",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61620",
+      "nm_mk": "Pemrograman Komputer",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61639",
+      "nm_mk": "Pemodelan Sistem",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61670",
+      "nm_mk": "Sistem Pendukung Keputusan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TIN61630",
+      "nm_mk": "Pengantar Teknik Industri",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GANEP MUHAEMIN",
+    "jk": "L",
+    "nipd": "1710631140068",
+    "namapt": "Universitas Singaperbangsa Karawang",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Industri",
+    "reg_pd": "F12CA776-8740-4637-804A-41D0D134C501",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-07-06T00:00:00Z",
+    "no_seri_ijazah": "262012022000731",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzRENDE1QjMtOTgyRS00MDM0LUIyOUEtRUU5NDA4MDY4MUEw",
+    "link_prodi": "/data_prodi/MTIxMURDNjktREE2Qy00N0QxLTlFRTEtOEE1MzUwNzY2QjhC"
+  }
+}

@@ -58,8 +58,8 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "1201202120215",
-      "nm_mk": "Bahasa Inggris Teknik I",
+      "kode_mk": "4101219690215",
+      "nm_mk": "Pengantar Teknik Mesin",
       "sks_mk": 2,
       "id_smt": "20151",
       "nilai_huruf": null
@@ -68,6 +68,20 @@
       "kode_mk": "2101206530315",
       "nm_mk": "Fisika Teknik I",
       "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1201202120215",
+      "nm_mk": "Bahasa Inggris Teknik I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2101211890215",
+      "nm_mk": "Kimia Teknik",
+      "sks_mk": 2,
       "id_smt": "20151",
       "nilai_huruf": null
     },
@@ -100,20 +114,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2101211890215",
-      "nm_mk": "Kimia Teknik",
-      "sks_mk": 2,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "4101219690215",
-      "nm_mk": "Pengantar Teknik Mesin",
-      "sks_mk": 2,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "1201200450115",
       "nm_mk": "Al Islam dan Kemuhammadiyahan II",
       "sks_mk": 1,
@@ -128,6 +128,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "4101223070115",
+      "nm_mk": "Praktikum Fisika",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2101227240315",
       "nm_mk": "Statika Struktur",
       "sks_mk": 3,
@@ -135,9 +142,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "4101223070115",
-      "nm_mk": "Praktikum Fisika",
-      "sks_mk": 1,
+      "kode_mk": "1201202130215",
+      "nm_mk": "Bahasa Inggris Teknik II",
+      "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
     },
@@ -163,20 +170,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1201202130215",
-      "nm_mk": "Bahasa Inggris Teknik II",
-      "sks_mk": 2,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2101223840315",
-      "nm_mk": "Proses Produksi I",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "2101229040315",
       "nm_mk": "Teknik Tenaga Listrik",
       "sks_mk": 3,
@@ -191,9 +184,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1201200460115",
-      "nm_mk": "Al Islam dan Kemuhammadiyahan III",
-      "sks_mk": 1,
+      "kode_mk": "2101223840315",
+      "nm_mk": "Proses Produksi I",
+      "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
     },
@@ -201,6 +194,13 @@
       "kode_mk": "1101221850315",
       "nm_mk": "Persamaan Differensial",
       "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1201200460115",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan III",
+      "sks_mk": 1,
       "id_smt": "20161",
       "nilai_huruf": null
     },
@@ -254,15 +254,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1101200880215",
-      "nm_mk": "Analisa Numerik",
+      "kode_mk": "4101215450215",
+      "nm_mk": "Mekatronika",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "4101215450215",
-      "nm_mk": "Mekatronika",
+      "kode_mk": "1101200880215",
+      "nm_mk": "Analisa Numerik",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -303,8 +303,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2101232130315",
-      "nm_mk": "Rekayasa Berbantuan Komputer (CAE)",
+      "kode_mk": "2101213350315",
+      "nm_mk": "Manajemen Industri",
       "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -317,16 +317,37 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2101213350315",
-      "nm_mk": "Manajemen Industri",
+      "kode_mk": "2101232130315",
+      "nm_mk": "Rekayasa Berbantuan Komputer (CAE)",
       "sks_mk": 3,
       "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1101201890215",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3101213280315",
+      "nm_mk": "Manajemen Energi",
+      "sks_mk": 3,
+      "id_smt": "20172",
       "nilai_huruf": null
     },
     {
       "kode_mk": "1101208800215",
       "nm_mk": "Ilmu Kealaman Dasar",
       "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1101200470115",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
+      "sks_mk": 1,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -338,16 +359,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1101201890215",
-      "nm_mk": "Bahasa Indonesia",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1101200470115",
-      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
-      "sks_mk": 1,
+      "kode_mk": "2101204710315",
+      "nm_mk": "Ekonomi Teknik",
+      "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -366,20 +380,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2101204710315",
-      "nm_mk": "Ekonomi Teknik",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3101213280315",
-      "nm_mk": "Manajemen Energi",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "1101228810315",
       "nm_mk": "Teknik Pengaturan",
       "sks_mk": 3,
@@ -387,9 +387,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "1101223880315",
+      "nm_mk": "Proyek Desain Team II",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "3101228840315",
       "nm_mk": "Teknik Pengelasan",
       "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2101211620215",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -408,13 +422,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2101211620215",
-      "nm_mk": "Kewirausahaan",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "1101215650315",
       "nm_mk": "Mesin-mesin Fluida",
       "sks_mk": 3,
@@ -425,13 +432,6 @@
       "kode_mk": "2101215250415",
       "nm_mk": "Mekanika Kekuatan Material",
       "sks_mk": 4,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1101223880315",
-      "nm_mk": "Proyek Desain Team II",
-      "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -457,15 +457,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1101228810315",
-      "nm_mk": "Teknik Pengaturan",
+      "kode_mk": "2101223870315",
+      "nm_mk": "Proyek Desain Team I",
       "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2101223870315",
-      "nm_mk": "Proyek Desain Team I",
+      "kode_mk": "1101228810315",
+      "nm_mk": "Teknik Pengaturan",
       "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -499,15 +499,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1101201890215",
-      "nm_mk": "Bahasa Indonesia",
+      "kode_mk": "5201211310215",
+      "nm_mk": "Kerja Praktek",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "5201211310215",
-      "nm_mk": "Kerja Praktek",
+      "kode_mk": "1101201890215",
+      "nm_mk": "Bahasa Indonesia",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null

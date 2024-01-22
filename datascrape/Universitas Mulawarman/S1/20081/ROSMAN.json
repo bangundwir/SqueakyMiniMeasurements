@@ -1,0 +1,59 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 2,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "9232",
+      "nm_mk": "STATISTIK EKONOMI II",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "9616",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ROSMAN",
+    "jk": "L",
+    "nipd": "0801035273        ",
+    "namapt": "Universitas Mulawarman",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "067E163D-F697-4527-A8FA-4A9A8AC26978",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": "2018-08-06T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RTg5MEVGRDYtRURDMy00NkI5LThERjYtRTlGMjRCRDhFMUEy",
+    "link_prodi": "/data_prodi/QjI5RDYyNUUtNjM5MC00MTlCLUE3RDgtRThDMTQwM0RBQTdG"
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UMG 102",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 105",
+      "nm_mk": "Kimia Organik I",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 102",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG 106",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 104",
+      "nm_mk": "Prakt. Kimia Dasar",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 107",
+      "nm_mk": "Prakt. Farmasetika I",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 106",
+      "nm_mk": "Farmasetika I",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 101",
+      "nm_mk": "Biologi Sel",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 103",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG 103",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 211",
+      "nm_mk": "Parasitologi",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 209",
+      "nm_mk": "Prakt. Kimia Analisis I",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 206",
+      "nm_mk": "Kimia Organik II",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 210",
+      "nm_mk": "Teknologi Sediaan Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 212",
+      "nm_mk": "Kimia Fisika",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 201",
+      "nm_mk": "Botani Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 205",
+      "nm_mk": "Prakt. Biokimia",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 202",
+      "nm_mk": "Prakt. Botani Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 207",
+      "nm_mk": "Prakt. Kimia Organik",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 203",
+      "nm_mk": "Anatomi Fisiologi Manusia I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 204",
+      "nm_mk": "Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 208",
+      "nm_mk": "Kimia Analisis I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 305",
+      "nm_mk": "Farmakognosi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 308",
+      "nm_mk": "Prakt. Farmasi Fisika",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 303",
+      "nm_mk": "Farmakologi I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 304",
+      "nm_mk": "Prakt. Farmakologi",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMG 101;",
+      "nm_mk": "Pendidikan Agama Protestan",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 307",
+      "nm_mk": "Farmasi Fisika",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 302",
+      "nm_mk": "Prakt. Kimia Analisis II",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 306",
+      "nm_mk": "Prakt. Farmakognosi",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 310",
+      "nm_mk": "Prakt. FTS Padat",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 309",
+      "nm_mk": "FTS. Padat",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 301",
+      "nm_mk": "KImia Analisis II",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 407",
+      "nm_mk": "Stabilitas Obat",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 403",
+      "nm_mk": "Fitokimia I",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 409",
+      "nm_mk": "Prakt. Mikrobiologi Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 405",
+      "nm_mk": "FTS Cair Semi Padat",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 412",
+      "nm_mk": "Statistika Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 402",
+      "nm_mk": "Prakt. Anatomi Fisiologi Manusia",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 401",
+      "nm_mk": "Anatomi & Fisiologi Manusia II",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 411",
+      "nm_mk": "Patologi",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 408",
+      "nm_mk": "Mikrobiologi Farmasi",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 410",
+      "nm_mk": "Management Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 406",
+      "nm_mk": "Prakt. FTS Cair Semi Padat",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 404",
+      "nm_mk": "Farmakologi II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 502",
+      "nm_mk": "Analisis Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 504",
+      "nm_mk": "Radiofarmasi",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 509",
+      "nm_mk": "Farmakoterapi I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 506",
+      "nm_mk": "Prak Fitokimia",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 507",
+      "nm_mk": "Biologi Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 510",
+      "nm_mk": "Perbekalan Steril",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 511",
+      "nm_mk": "Prak Perbekalan Steril",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 512",
+      "nm_mk": "Kimia Medisinal",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 505",
+      "nm_mk": "Fitokima II",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 503",
+      "nm_mk": "Prak Analisis Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 501",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 705",
+      "nm_mk": "UU dan Etika Kefarmasiaan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 508",
+      "nm_mk": "Prak Biologi Molekuler",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 602",
+      "nm_mk": "Farmakoterapi II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 601",
+      "nm_mk": "Farmakokinetika",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 604",
+      "nm_mk": "Prakt. Biofarmasetika - Farmakokinetika",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 609",
+      "nm_mk": "Imunologi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 709",
+      "nm_mk": "Elektif (Kosmetologi)",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 608",
+      "nm_mk": "Prakt. Bioanalisis",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 605",
+      "nm_mk": "Farmasetika II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 606",
+      "nm_mk": "Prakt. Farmasetika II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 607",
+      "nm_mk": "Bioanalisis",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 612",
+      "nm_mk": "Elektif (Teknologi Fermentasi)",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 603",
+      "nm_mk": "Biofarmasetika",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 611",
+      "nm_mk": "Elektif (Farmakologi Eksperimental",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 703",
+      "nm_mk": "Elusidasi Struktur",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 702",
+      "nm_mk": "Etnofarmakologi tropikal",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 704",
+      "nm_mk": "Sistem Penghantaran Obat",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 801",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 713",
+      "nm_mk": "Elektif (Farmakoepidemiologi)",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 781",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 701",
+      "nm_mk": "Sintesis Obat",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 707",
+      "nm_mk": "Prakt. Toksikologi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 708",
+      "nm_mk": "PKL",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF 706",
+      "nm_mk": "Toksikologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KAREN LITAMA",
+    "jk": "P",
+    "nipd": "I1021161051",
+    "namapt": "Universitas Tanjungpura",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "21FDD5B8-DC43-452F-9D11-03B4EE2E7973",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-03-20T00:00:00Z",
+    "no_seri_ijazah": "1819/UN22/EP/S1/2020",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RUYyQTU1QjctMUNCOC00MEZDLThEMzctQjExMDQ0MEU0MjVF",
+    "link_prodi": "/data_prodi/NEVERTQwQTUtRDRGQy00RjY2LUE0RDQtQjRBRjEwNjFDOTgx"
+  }
+}

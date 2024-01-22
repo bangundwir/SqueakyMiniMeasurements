@@ -1,0 +1,83 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20102",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": null,
+      "nm_stat_mhs": "Keluar"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TESIS5001",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TESIS5001",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB42503",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TESIS5001",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GADIS DEWI PRIMANDHASARI",
+    "jk": "P",
+    "nipd": "2101050103        ",
+    "namapt": "Universitas Islam Malang",
+    "namajenjang": "S2",
+    "namaprodi": "Manajemen",
+    "reg_pd": "8E4FB03C-D24F-4806-85C3-A8EF9DC1279C",
+    "mulai_smt": "20102",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-06-25T00:00:00Z",
+    "no_seri_ijazah": "10-5-0364",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjVDODhGREUtRTlGRS00MTY2LTg2MjktOUFEREZFQUJEQzJF",
+    "link_prodi": "/data_prodi/QjY5M0MxRUUtOEUyQS00QUZCLUJDMUYtQUFDNjAzRTVEOTVD"
+  }
+}

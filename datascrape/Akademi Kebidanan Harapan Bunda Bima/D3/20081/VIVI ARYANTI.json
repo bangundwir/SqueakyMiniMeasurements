@@ -1,0 +1,405 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20081",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "Bd. 502",
+      "nm_mk": "Ilmu Sosial Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 101",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 103",
+      "nm_mk": "Kewiraan",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 208",
+      "nm_mk": "KDPK",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 401",
+      "nm_mk": "Konsep Kebidanan",
+      "sks_mk": 4,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 202",
+      "nm_mk": "Fisiologi",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 207",
+      "nm_mk": "Mikrobiologi",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 201",
+      "nm_mk": "Anatomi",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 102",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 104",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 401",
+      "nm_mk": "KIP/K",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML",
+      "nm_mk": "KDPK",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 203",
+      "nm_mk": "Biologi Reproduksi",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 205",
+      "nm_mk": "Fisika Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 204",
+      "nm_mk": "Biokimia",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 301",
+      "nm_mk": "Asuhan Ibu 1 (Kehamilan)",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 213",
+      "nm_mk": "Psikologi",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 212",
+      "nm_mk": "Gizi dalam Kesehatan Reproduksi",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 209",
+      "nm_mk": "Obstetri Fisiologi",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 307",
+      "nm_mk": "Kesehatan Reproduksi",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 302",
+      "nm_mk": "Askeb Ibu II (Persalinan)",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 306",
+      "nm_mk": "Askeb Neonatus, Bayi dan Anak Balita",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 309",
+      "nm_mk": "Dokumentasi Kebidanan",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 303",
+      "nm_mk": "Askeb Ibu III (Nifas)",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD. 310",
+      "nm_mk": "Praktik Klinik Kebidanan I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 211",
+      "nm_mk": "Ilmu Kesehatan Anak",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 406",
+      "nm_mk": "Etika Perundang-Undangan",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD.209",
+      "nm_mk": "Obstetri Patologi",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 503",
+      "nm_mk": "Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 206",
+      "nm_mk": "Farmakologi",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 310",
+      "nm_mk": "Praktik Klinik Kebidanan I",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 210",
+      "nm_mk": "Ginekologi",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 308",
+      "nm_mk": "Pelayanan KB",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 305",
+      "nm_mk": "Askeb V (Kebidanan Komunitas)",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 214",
+      "nm_mk": "Epidemologi",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 501",
+      "nm_mk": "Ilmu Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD.209",
+      "nm_mk": "Obstetri Patologi",
+      "sks_mk": 1,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 304",
+      "nm_mk": "Askeb IV (Patologi Kebidanan)",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD. 404",
+      "nm_mk": "Mutu Pelayanan Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML",
+      "nm_mk": "KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD. 405",
+      "nm_mk": "Metoda Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD. 505",
+      "nm_mk": "Organisasi dan Manajemen Pelayanan Kesehatan",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD. 310",
+      "nm_mk": "Praktik Klinik Kebidanan II",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ML",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD. 215",
+      "nm_mk": "Biostatistik",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 305",
+      "nm_mk": "Askeb V (Kebidanan Komunitas)",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD. 304",
+      "nm_mk": "Asuhan Kebidanan IV (Patologi)",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD. 406",
+      "nm_mk": "Karya Tulis Ilmiah",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD 310",
+      "nm_mk": "Praktik Klinik Kebidanan III",
+      "sks_mk": 6,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "VIVI ARYANTI",
+    "jk": "P",
+    "nipd": "062401S08076      ",
+    "namapt": "Akademi Kebidanan Harapan Bunda Bima",
+    "namajenjang": "D3",
+    "namaprodi": "Kebidanan",
+    "reg_pd": "B50F0449-84FD-4BAC-AD84-1CFE06858B54",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2011-09-19T00:00:00Z",
+    "no_seri_ijazah": "HB.073/2011",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDc1MTk5RUItMjAzNS00NTcwLUFFREQtQUIxNkY1MEY5MTVE",
+    "link_prodi": "/data_prodi/Rjk0MEJEMjMtODZFOS00REY4LUEyQzgtNUZENEM5MkMzN0M0"
+  }
+}

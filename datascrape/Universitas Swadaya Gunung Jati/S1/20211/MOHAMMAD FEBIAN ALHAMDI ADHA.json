@@ -1,0 +1,190 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "HPK1.4",
+      "nm_mk": "Keterampilan Klinik Dasar 1",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK1.2",
+      "nm_mk": "Tubuh Manusia Dan Sistem Lokomosi",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK1.1",
+      "nm_mk": "Pengenalan Profesi Kedokteran",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK1.3",
+      "nm_mk": "Sistem Saraf Dan Hormon",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK2.3",
+      "nm_mk": "GENITOURINARY SYSTEM",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK2.4",
+      "nm_mk": "BASIC CLINICAL SKILLS 2",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK2.1",
+      "nm_mk": "CARDIORESPIRATORY SYSTEM",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK2.2",
+      "nm_mk": "DIGESTIVE SYSTEM",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK3.3",
+      "nm_mk": "Penyakit Neurosensori",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK3.4",
+      "nm_mk": "Keterampilan Klinik Dasar 3",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK3.2",
+      "nm_mk": "Penyakit Tropis",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK3.1",
+      "nm_mk": "Prinsip Dasar Kedokteran",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK4.3",
+      "nm_mk": "DERMATOLOGY-GENITOURINARY DISORDERS",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK4.2",
+      "nm_mk": "DIGESTIVE DISORDERS",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK4.4",
+      "nm_mk": "BASIC CLINICAL SKILLS 4",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK4.1",
+      "nm_mk": "CARDIORESPIRATORY DISORDERS",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK5.2",
+      "nm_mk": "Etik Medikolegal dan Keselamatan Pasien",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK5.3",
+      "nm_mk": "Penelitian, Statistik dan Epidemiologi",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK5.4",
+      "nm_mk": "Keterampilan Klinik Dasar 5",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HPK5.1",
+      "nm_mk": "Penyakit Metabolik dan Hemato-Onkologi",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MOHAMMAD FEBIAN ALHAMDI ADHA",
+    "jk": "L",
+    "nipd": "121170085",
+    "namapt": "Universitas Swadaya Gunung Jati",
+    "namajenjang": "S1",
+    "namaprodi": "Kedokteran",
+    "reg_pd": "DE27CE53-26B2-446A-9665-E3F7B93426CC",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEIwOURFNkMtMThEMC00NkRFLUFGOTMtRjIyQUNFMjNCOTRG",
+    "link_prodi": "/data_prodi/NDczRTYzOUUtMkUyMy00RjRDLTkyNzItQTgwNERDRDJGNTRG"
+  }
+}

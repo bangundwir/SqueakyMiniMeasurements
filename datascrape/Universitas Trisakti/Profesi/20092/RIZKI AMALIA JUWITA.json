@@ -1,0 +1,101 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20092",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KPC405",
+      "nm_mk": "ILMU BEDAH",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC401",
+      "nm_mk": "ILMU PENYAKIT DALAM",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPB412",
+      "nm_mk": "ILMU KESEHATAN MASYARAKAT",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC209",
+      "nm_mk": "ILMU PENYAKIT SARAF",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC212",
+      "nm_mk": "ILMU KESEHATAN JIWA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC407",
+      "nm_mk": "I.KEBIDANAN & PENY.KANDUNGAN",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPB200",
+      "nm_mk": "HIPERKES",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC216",
+      "nm_mk": "ILMU PENYAKIT MATA",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RIZKI AMALIA JUWITA",
+    "jk": "P",
+    "nipd": "03006224          ",
+    "namapt": "Universitas Trisakti",
+    "namajenjang": "Profesi",
+    "namaprodi": "Profesi Dokter",
+    "reg_pd": "46AA5FB8-A139-4E6A-89BB-C1D1D0173602",
+    "mulai_smt": "20092",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-07-24T00:00:00Z",
+    "no_seri_ijazah": "D004727",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTEzQjREMDYtMzRDQS00QTZFLUEyOUEtOUFGMzcyOTMzQzhG",
+    "link_prodi": "/data_prodi/M0IzMjk3QkYtMzQ5NS00MDk4LTg3REUtRDBGODRFRUM4M0VC"
+  }
+}

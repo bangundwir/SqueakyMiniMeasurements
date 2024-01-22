@@ -1,0 +1,274 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "145Bd.001",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.004",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.002",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.007",
+      "nm_mk": "Konsep Kebidanan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.010",
+      "nm_mk": "Kebutuhan Dasar Manusia",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.ML05",
+      "nm_mk": "Pengembangan Kepribadian",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.027",
+      "nm_mk": "Ilmu Sosial Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.006",
+      "nm_mk": "Anatomi Fisiologi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.ML.03",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.011",
+      "nm_mk": "Keterampilan Dasar Kebidanan",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.ML.02",
+      "nm_mk": "Farmakologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.003",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.008",
+      "nm_mk": "Komunikasi Dalam Praktek Kebidanan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.009",
+      "nm_mk": "Etikolegal Dalam Praktek Kebidanan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.026",
+      "nm_mk": "Dokumentasi Kebidanan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.012",
+      "nm_mk": "Asuhan Kebidanan Kehamilan",
+      "sks_mk": 5,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.014",
+      "nm_mk": "Asuhan Kebidanan Nifas dan Menyusui",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.015",
+      "nm_mk": "Asuhan Kebidanan Neonatus, Bayi, Balita dan Anak Pra Sekolah",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145 Bd.018",
+      "nm_mk": "Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.017",
+      "nm_mk": "Promosi Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.013",
+      "nm_mk": "Asuhan Kebidanan Persalinan dan Bayi Baru Lahir",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.005",
+      "nm_mk": "Pendidikan  Budaya Anti Korupsi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.028",
+      "nm_mk": "Obstetri dan Ginekologi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.ML1",
+      "nm_mk": "Pengoragniosasian & Penggerakan Peran Serta Mayarakat",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.013",
+      "nm_mk": "Asuhan Kebidanan Persalinan dan Bayi Baru Lahir",
+      "sks_mk": 5,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.017",
+      "nm_mk": "Promosi Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.014",
+      "nm_mk": "Asuhan Kebidanan Nifas dan Menyusui",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.015",
+      "nm_mk": "Asuhan Kebidanan Neonatus, Bayi, Balita dan Anak Pra Sekolah",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.ML1",
+      "nm_mk": "Pengoragniosasian & Penggerakan Peran Serta Mayarakat",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.005",
+      "nm_mk": "Pendidikan  Budaya Anti Korupsi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145 Bd.018",
+      "nm_mk": "Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "145Bd.028",
+      "nm_mk": "Obstetri dan Ginekologi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AULIA SAFIRA",
+    "jk": "P",
+    "nipd": "P17310214053",
+    "namapt": "Poltekkes Kemenkes Malang",
+    "namajenjang": "D3",
+    "namaprodi": "Kebidanan",
+    "reg_pd": "81E83204-4DF8-4D04-8D90-7826C323ACF2",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjFFRDUyODQtODkwRi00Rjg2LUE5QTctQTdBQjBCMjQ1RjMy",
+    "link_prodi": "/data_prodi/MjhGMzI0OUMtNzc4MS00RkMyLTg5OEQtQ0EyQkFFMkZEMEI2"
+  }
+}

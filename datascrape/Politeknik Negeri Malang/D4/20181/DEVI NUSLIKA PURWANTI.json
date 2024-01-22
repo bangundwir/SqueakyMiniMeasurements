@@ -1,0 +1,597 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RTE181012",
+      "nm_mk": "Praktek Pengukuran Listrik",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181001",
+      "nm_mk": "Bahasa Inggris 1 ( Textbook Reading )",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181010",
+      "nm_mk": "Praktek Algoritma Pemrograman",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181003",
+      "nm_mk": "Bengkel Mekanik",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181007",
+      "nm_mk": "Praktek Komponen dan Rangkaian Listrik 1",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181006",
+      "nm_mk": "Komponen dan Rangkaian Listrik 1",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181004",
+      "nm_mk": "Gambar Listrik",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181011",
+      "nm_mk": "Pengukuran Listrik",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181008",
+      "nm_mk": "Matematika 1",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181009",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181005",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE181002",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182010",
+      "nm_mk": "Sensor / Transduser",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182008",
+      "nm_mk": "Komponen dan Rangkaian Listrik 2",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182001",
+      "nm_mk": "Bahasa Inggris 2 ( Scientific Writing )",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182005",
+      "nm_mk": "Matematika 2",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182006",
+      "nm_mk": "Bengkel Elektronika",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182007",
+      "nm_mk": "Manajemen Industri",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182003",
+      "nm_mk": "Praktikum Elektronika Analog 1",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182009",
+      "nm_mk": "Praktek Komponen dan Rangkaian Listrik 2",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182011",
+      "nm_mk": "Praktek Sensor / Transduser",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182002",
+      "nm_mk": "Elektronika Analog 1",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE182004",
+      "nm_mk": "Elektronika Digital 1",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183008",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183002",
+      "nm_mk": "Elektronika Analog 2",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183003",
+      "nm_mk": "Praktikum Elektronika Analog 2",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183010",
+      "nm_mk": "Praktek Elektronika Digital 2",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183005",
+      "nm_mk": "Praktek Sistem Kendali Analog dan Digital",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183001",
+      "nm_mk": "Bahasa Inggris 3 ( Public Speaking )",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183007",
+      "nm_mk": "Praktek Instrumentasi Industri",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183006",
+      "nm_mk": "Instrumentasi Industri",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183009",
+      "nm_mk": "Elektronika Digital 2",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE183004",
+      "nm_mk": "Sistem Kendali Analog dan Digital",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184004",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184008",
+      "nm_mk": "Pengolahan Sinyal Digital",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184006",
+      "nm_mk": "Sistem Mikrokontroler",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184010",
+      "nm_mk": "Programmable Logic Controller",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184005",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184012",
+      "nm_mk": "Desain Kendali Elektrik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184007",
+      "nm_mk": "Praktikum Sistem Mikrokontroler",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184002",
+      "nm_mk": "Proteksi dan Kendali Mesin Listrik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184009",
+      "nm_mk": "Praktek Pengolahan Sinyal Digital",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184011",
+      "nm_mk": "Praktek Programmable Logic Controller",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184001",
+      "nm_mk": "Bahasa Inggris 4 ( Interview Technique )",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE184003",
+      "nm_mk": "Praktek Proteksi dan Kendali Mesin Listrik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185008",
+      "nm_mk": "Desain Sistem Digital dengan PLD dan FPGA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185001",
+      "nm_mk": "Desain Sistem Embeded",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185006",
+      "nm_mk": "Sistem Kendali Cerdas",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185005",
+      "nm_mk": "Praktek Elektronika Industri",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185004",
+      "nm_mk": "Elektronika Industri",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185002",
+      "nm_mk": "Praktek Desain Sistem Embeded",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185007",
+      "nm_mk": "Praktek Sistem Kendali Cerdas",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185003",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE185009",
+      "nm_mk": "Praktek Desain Sistem Digital dengan PLD dan FPGA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186010",
+      "nm_mk": "Desain Mekatronika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186001",
+      "nm_mk": "Bahasa Inggris 5 (Presentation)",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186002",
+      "nm_mk": "Pneumatik - Hidrolik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186003",
+      "nm_mk": "Praktek Pneumatik - Hidrolik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186009",
+      "nm_mk": "Praktek Sistem Kendali Proses",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186004",
+      "nm_mk": "Komunikasi Data Industri",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186007",
+      "nm_mk": "Praktek Robot Industri",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186006",
+      "nm_mk": "Robot Industri",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186008",
+      "nm_mk": "Sistem Kendali Proses",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE186005",
+      "nm_mk": "Praktek Komunikasi Data Industri",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187005",
+      "nm_mk": "Desain Sistem Penggerak Elektrik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187009",
+      "nm_mk": "Praktek Renewable Energi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187002",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187003",
+      "nm_mk": "DCS dan SCADA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187008",
+      "nm_mk": "Renewable EnergI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187001",
+      "nm_mk": "Desain Proyek",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187004",
+      "nm_mk": "Praktek DCS dan SCADA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187007",
+      "nm_mk": "Perawatan Perbaikan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE187006",
+      "nm_mk": "Praktek Sistem Penggerak Elektrik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE188001",
+      "nm_mk": "Praktek Kerja Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE188003",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTE188002",
+      "nm_mk": "Metode Penelitian dan Penulisan Karya Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DEVI NUSLIKA PURWANTI",
+    "jk": "P",
+    "nipd": "1841170004",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Teknik Elektronika",
+    "reg_pd": "BE7377FA-38E8-464C-A688-E66DB13EA32A",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-08-05T00:00:00Z",
+    "no_seri_ijazah": "203012022000578",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/MUI1RDc0NzAtMUVFQS00RkFFLThERTgtQTlFRkUzQTcyREU3"
+  }
+}

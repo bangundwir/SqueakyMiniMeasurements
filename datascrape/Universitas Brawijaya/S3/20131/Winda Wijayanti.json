@@ -1,0 +1,80 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20142",
+      "sks_smt": 28,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 28,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 28,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UBU8006xx",
+      "nm_mk": "Disertasi",
+      "sks_mk": 28,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU8006xx",
+      "nm_mk": "Disertasi",
+      "sks_mk": 28,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM8105",
+      "nm_mk": "Hukum dan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU8006xx",
+      "nm_mk": "Disertasi",
+      "sks_mk": 28,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKM8301",
+      "nm_mk": "Mata Kuliah Penunjang Disertasi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Winda Wijayanti",
+    "jk": "P",
+    "nipd": "137010100112001",
+    "namapt": "Universitas Brawijaya",
+    "namajenjang": "S3",
+    "namaprodi": "Ilmu Hukum",
+    "reg_pd": "3249F807-BE0E-47A2-B686-40CC7E96C884",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-01-04T00:00:00Z",
+    "no_seri_ijazah": "2826/UB/S3/2019",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTlBM0I3QUYtNjQ3MC00RDE4LThCMDYtMDk5NDFFNjYzQjA3",
+    "link_prodi": "/data_prodi/NTE1RkE0NTktRkVBNC00QzM5LTgxMUMtOURDNkZFM0NFMDUw"
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK102",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB104",
+      "nm_mk": "KEWIRASWASTAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS113",
+      "nm_mk": "MEKANIKA REKAYASA I",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK104",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS109",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS111",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS112",
+      "nm_mk": "MENGGAMBAR REKAYASA I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS204",
+      "nm_mk": "ILMU UKUR TANAH + PRAKTIKUM",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS110",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB102",
+      "nm_mk": "ILMU KEALAMAN DASAR(IAD)",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS203",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS206",
+      "nm_mk": "MEKANIKA REKAYASA II",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS115",
+      "nm_mk": "MEKANIKA TANAH I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS117",
+      "nm_mk": "REKAYASA HIDROLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS201",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS205",
+      "nm_mk": "MENGGAMBAR REKAYASA II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS316",
+      "nm_mk": "SISTEM TRANSPORTASI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS116",
+      "nm_mk": "REKAYASA LINGKUNGAN I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS118",
+      "nm_mk": "MEKANIKA FLUIDA & HIDROLIKA I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS119",
+      "nm_mk": "BAHAN BANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS209",
+      "nm_mk": "BAHASA KOMPUTER + PRAKTIKUM",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK104",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS309",
+      "nm_mk": "TEKNIK PENULISAN & PRESENTASI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS121",
+      "nm_mk": "STATISTIKA & PROBABILITAS",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS202",
+      "nm_mk": "KALKULUS III",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS208",
+      "nm_mk": "MEKANIKA TANAH II + PRAKTIKUM",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS207",
+      "nm_mk": "MEKANIKA REKAYASA III",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS304",
+      "nm_mk": "MEKANIKA FLUIDA & HIDROLIKA II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB101",
+      "nm_mk": "ILMU SOSIAL DASAR(ISBD)",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS216",
+      "nm_mk": "REKAYASA JALAN RAYA I",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS301",
+      "nm_mk": "KALKULUS IV",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS302",
+      "nm_mk": "MEKANIKA REKAYASA IV",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS303",
+      "nm_mk": "REKAYASA LINGKUNGAN II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS214",
+      "nm_mk": "IRIGASI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS210",
+      "nm_mk": "REKAYASA PONDASI I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS218",
+      "nm_mk": "REKAYASA LALU LINTAS",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS321",
+      "nm_mk": "TEKNOLOGI BAHAN KONSTRUKSI PRAKTIKUM",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS310",
+      "nm_mk": "REKAYASA PONDASI II",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS212",
+      "nm_mk": "STRUKTUR BAJA I",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS211",
+      "nm_mk": "STRUKTUR BETON I",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS314",
+      "nm_mk": "DRAINASE PERKOTAAN",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS110",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS323",
+      "nm_mk": "ETIKA PROFESI",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS315",
+      "nm_mk": "REKAYASA JALAN RAYA II",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS123",
+      "nm_mk": "STRUKTUR KAYU",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS114",
+      "nm_mk": "GEOLOGI TEKNIK",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS208",
+      "nm_mk": "MEKANIKA TANAH II PRAKTIKUM",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS213",
+      "nm_mk": "STRUKTUR BAJA II",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS303",
+      "nm_mk": "REKAYASA LINGKUNGAN II",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS311",
+      "nm_mk": "STRUKTUR BETON II",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS307",
+      "nm_mk": "STRUKTUR BETON PRATEGANG",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS210",
+      "nm_mk": "REKAYASA PONDASI I",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS219",
+      "nm_mk": "MANAJEMEN KONSTRUKSI I",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS120",
+      "nm_mk": "METODE NUMERIS",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS313",
+      "nm_mk": "BANGUNAN AIR",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB105",
+      "nm_mk": "KULIAH KERJA NYATA (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS217",
+      "nm_mk": "REKAYASA JALAN REL",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS122",
+      "nm_mk": "ASPEK HUKUM PEMBANGUNAN",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS312",
+      "nm_mk": "STRUKTUR BAJA III",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS322",
+      "nm_mk": "MANAJEMEN KONSTRUKSI II",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS203",
+      "nm_mk": "ILMU UKUR TANAH PRAKTIKUM",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS310",
+      "nm_mk": "REKAYASA PONDASI II",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS215",
+      "nm_mk": "PENGEMBANGAN SUMBER DAYA AIR",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS314",
+      "nm_mk": "DRAINASE PERKOTAAN",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS212",
+      "nm_mk": "STRUKTUR BAJA I",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS305",
+      "nm_mk": "DINAMIKA STRUKTUR",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS207",
+      "nm_mk": "MEKANIKA TANAH IIPRAKTIKUM",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS320",
+      "nm_mk": "PTM/ALAT-ALAT BERAT",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS307",
+      "nm_mk": "STRUKTUR BETON PRATEGANG",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS317",
+      "nm_mk": "TEKNIK PELABUHAN",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS319",
+      "nm_mk": "LAPANGAN TERBANG",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS318",
+      "nm_mk": "REKAYASA GEMPA",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS209",
+      "nm_mk": "REKAYASA PONDASI I",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS122",
+      "nm_mk": "ASPEK HUKUM PEMBANGUNAN",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS401",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS204",
+      "nm_mk": "MENGGAMBAR REKAYASA II",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS313",
+      "nm_mk": "BANGUNAN AIR",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS215",
+      "nm_mk": "PENGEMBANGAN SUMBER DAYA AIR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS203",
+      "nm_mk": "ILMU UKUR TANAH + PRAKTIKUM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS305",
+      "nm_mk": "TEKNIK PENULISAN & PRESENTASI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS207",
+      "nm_mk": "MEKANIKA TANAH II",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS112",
+      "nm_mk": "MEKANIKA REKAYASA I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTS308",
+      "nm_mk": "REKAYASA JEMBATAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS115",
+      "nm_mk": "REKAYASA LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS306",
+      "nm_mk": "STRUKTUR BETON II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTS209",
+      "nm_mk": "REKAYASA PONDASI I",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ARIS WIJAYA",
+    "jk": "L",
+    "nipd": "222010110007      ",
+    "namapt": "Universitas Wiralodra",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Sipil",
+    "reg_pd": "3F59950C-44E7-486D-B559-03EBF0ADF810",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": "2017-08-31T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0EzRkU3RkYtRUYwMi00QzRGLUJDNkUtRkE4Mzk2OTlGNDRG",
+    "link_prodi": "/data_prodi/NDAzNjhFM0UtODdEOS00MTM4LUIxNzItNDc1QUEyQTI3RUMz"
+  }
+}

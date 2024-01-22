@@ -1,0 +1,485 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UIN18005",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN18001",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18008",
+      "nm_mk": "ULUMUL HADITS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18104",
+      "nm_mk": "TRIGONOMETRI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18103",
+      "nm_mk": "KALKULUS DIFERENSIAL",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18102",
+      "nm_mk": "GEOMETRI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18101",
+      "nm_mk": "ALJABAR MATRIKS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN18008",
+      "nm_mk": "PENGANTAR FILSAFAT",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18009",
+      "nm_mk": "ULUMUL QUR`AN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18208",
+      "nm_mk": "STRATEGI PEMBELAJARAN MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18206",
+      "nm_mk": "LOGIKA MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18207",
+      "nm_mk": "MEDIA DAN TEKNOLOGI PEMBELAJARAN MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18210",
+      "nm_mk": "TEORI PELUANG",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18205",
+      "nm_mk": "KALKULUS INTEGRAL",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN18003",
+      "nm_mk": "PENGANTAR STUDI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18015",
+      "nm_mk": "FILSAFAT PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18209",
+      "nm_mk": "TEORI HIMPUNAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18117",
+      "nm_mk": "TEORI BILANGAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18115",
+      "nm_mk": "STATISTIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN18002",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18112",
+      "nm_mk": "KALKULUS MULTIVARIABEL",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18020",
+      "nm_mk": "PENDIDIKAN KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18113",
+      "nm_mk": "KOMPUTER DAN PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18114",
+      "nm_mk": "PEMBELAJARAN MATEMATIKA SEKOLAH",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18111",
+      "nm_mk": "ALJABAR LINIER",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18116",
+      "nm_mk": "TELAAH KURIKULUM MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18006",
+      "nm_mk": "FIQH",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18016",
+      "nm_mk": "PROFESI KEGURUAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18220",
+      "nm_mk": "GEOMETRI ANALITIK DATAR",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18221",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18223",
+      "nm_mk": "PERSAMAAN DIFERENSIAL",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18222",
+      "nm_mk": "PERENCANAAN PEMBELAJARAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18218",
+      "nm_mk": "ANALISIS REAL",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18219",
+      "nm_mk": "EVALUASI PEMBELAJARAN MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18005",
+      "nm_mk": "DASAR-DASAR ADMINISTRASI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN18004",
+      "nm_mk": "IAD/ISD/IBD",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18004",
+      "nm_mk": "BIMBINGAN KONSELING",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18124",
+      "nm_mk": "BAHASA INGGRIS UNTUK MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18134",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18125",
+      "nm_mk": "GEOMETRI ANALITIK RUANG",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18128",
+      "nm_mk": "PROGRAM LINIER",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18003",
+      "nm_mk": "PSIKOLOGI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18127",
+      "nm_mk": "METODOLOGI PENELITIAN PENDIDIKAN MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18126",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18002",
+      "nm_mk": "ILMU PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18129",
+      "nm_mk": "PRAKTEK MENGAJAR I (PPL I)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18007",
+      "nm_mk": "USHUL FIQH",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18232",
+      "nm_mk": "STATISTIKA MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18230",
+      "nm_mk": "MASALAH NILAI AWAL DAN NILAI BATAS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18013",
+      "nm_mk": "PENDIDIKAN AKHLAK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18233",
+      "nm_mk": "STRUKTUR ALJABAR",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18012",
+      "nm_mk": "PENDIDIKAN AQIDAH",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18014",
+      "nm_mk": "SEJARAH PERADABAN ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18011",
+      "nm_mk": "TAFSIR TARBAWI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18231",
+      "nm_mk": "PRAKTEK MENGAJAR II (PPL II)",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTK18010",
+      "nm_mk": "HADITS TARBAWI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18236",
+      "nm_mk": "MATEMATIKA KEUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIN18009",
+      "nm_mk": "KULIAH KERJA NYATA (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18042",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMK18042",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SITI RAHIMAH DWI NINGSIH",
+    "jk": "P",
+    "nipd": "180101040065",
+    "namapt": "Universitas Islam Negeri Antasari Banjarmasin",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Matematika",
+    "reg_pd": "ABBBC6C3-D16C-4BF9-91BD-380521983E77",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-07-29T00:00:00Z",
+    "no_seri_ijazah": "842022022000717",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Njc2QUZEOUItRjExNC00NDA2LUIyNEYtNzE1RTRDMkMyMzY2",
+    "link_prodi": "/data_prodi/NkQyNjI1Q0QtQjI1NC00QzU0LTgwQkEtODU5QTE4NjEyOEY0"
+  }
+}

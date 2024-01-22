@@ -1,0 +1,565 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KK011033",
+      "nm_mk": "MATERIAL TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK011023",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK011082",
+      "nm_mk": "FISIKA DASAR -1",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK011042",
+      "nm_mk": "BAHASA INGGRIS TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK011013",
+      "nm_mk": "KIMIA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK011042",
+      "nm_mk": "MATEMATIKA -1",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0011013",
+      "nm_mk": "AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK012042",
+      "nm_mk": "ELEMEN MESIN I",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK012052",
+      "nm_mk": "MATEMATIKA II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB012021",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB012011",
+      "nm_mk": "PRAKTIKUM KIMIA",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK012012",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK0012143",
+      "nm_mk": "STATIKA STRUKTUR",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK012032",
+      "nm_mk": "GAMBAR MESIN/CAD",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK0012102",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK012053",
+      "nm_mk": "MEKANIKA KEKUATAN MATERIAL",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK013193",
+      "nm_mk": "PROSES PRODUKSI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK013112",
+      "nm_mk": "FISIKA DASAR III",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK0013162",
+      "nm_mk": "MATEMATIKA III",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB013021",
+      "nm_mk": "PRAK. FISIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB013052",
+      "nm_mk": "PEMILIHAN BAHAN DAN PROSES",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK013242",
+      "nm_mk": "ELEMEN MESIN II",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK013273",
+      "nm_mk": "METALURGI FISIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK013033",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK014282",
+      "nm_mk": "ELEMEN MESIN III",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK014293",
+      "nm_mk": "TERMODINAMIKA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK014151",
+      "nm_mk": "PRAKTIKUM PROSES PRODUKSI",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK012101",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR-1",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK014073",
+      "nm_mk": "PERPINDAHAN KALOR DAN MASSA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK014222",
+      "nm_mk": "CAD/CAM/CNC",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK014012",
+      "nm_mk": "METROLOGI INDUSTRI & KONTROL KUALITAS",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK014133",
+      "nm_mk": "MANAJEMEN PEMELIHARAAN/TPM",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK014022",
+      "nm_mk": "KINEMATIKA/DINAMIKA TEKNIK",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK015042",
+      "nm_mk": "GETARAN MEKANIS",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB015041",
+      "nm_mk": "PRAK. CAD/CAM",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK015063",
+      "nm_mk": "MEKANIKA FLUIDA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK015302",
+      "nm_mk": "HUKUM TENAGA KERJA DAN INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB015051",
+      "nm_mk": "PRAK. CNC/PNC",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB015061",
+      "nm_mk": "PRAK. METALURGI FISIK",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK015312",
+      "nm_mk": "SISTEM HIDROLIK & PNEUMATIK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK015332",
+      "nm_mk": "KONSEP DESAIN DAN PILOT PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB015102",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK015032",
+      "nm_mk": "TEKNIK PENGATURAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK016363",
+      "nm_mk": "TEKNIK MANUFAKTUR",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB016063",
+      "nm_mk": "MEKATRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK016032",
+      "nm_mk": "ETIKA PROFESI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB016092",
+      "nm_mk": "TEKNIK KENDARAAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK016083",
+      "nm_mk": "ANALISA TEKNIK DAN BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB016012",
+      "nm_mk": "TEKNIK LINGKUNGAN DAN K3",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB016071",
+      "nm_mk": "PRAK. FENOMENA DASAR MESIN",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB016081",
+      "nm_mk": "PRAK. PRESTASI MESIN",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK016133",
+      "nm_mk": "METODE PENELITIAN & STATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK017313",
+      "nm_mk": "PEMIPAAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KP017112",
+      "nm_mk": "MESIN KONVERSI ENERGI DAN PILOT PROYEK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK017012",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK017103",
+      "nm_mk": "TRANSPORTASI GEDUNG",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK0017353",
+      "nm_mk": "PLUMBING",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK017133",
+      "nm_mk": "ALAT-ALAT BERAT",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB017321",
+      "nm_mk": "PRAK. LAS DAN UJI LAS",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK201314",
+      "nm_mk": "Matematika - I",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK017122",
+      "nm_mk": "TEKNIK LISTRIK DAN ELEKTRONIKA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK011042",
+      "nm_mk": "MATEMATIKA -1",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB012011",
+      "nm_mk": "PRAKTIKUM KIMIA",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK012012",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK201223",
+      "nm_mk": "Gambar Mesin/CAD",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK201342",
+      "nm_mk": "Elemen Mesin - III",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK018901",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN *)",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK201123",
+      "nm_mk": "Statika Struktur",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB018105",
+      "nm_mk": "TUGAS AKHIR *)",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB018105",
+      "nm_mk": "TUGAS AKHIR *)",
+      "sks_mk": 5,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUH LUTHFI PRADANA",
+    "jk": "L",
+    "nipd": "1870011042",
+    "namapt": "Universitas Krisnadwipayana",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Mesin",
+    "reg_pd": "ACCB3327-E4DE-4B4B-B38E-08DD3142AAEC",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-30T00:00:00Z",
+    "no_seri_ijazah": "212012023000195",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTEwNjBBMDUtNURGRi00QzAzLUE0MjktMzc1MUI4OTAzOEVG",
+    "link_prodi": "/data_prodi/MTU0ODI4RUItRDJGOS00MTFDLUFDNTctNzE1NzczRTAzMTg4"
+  }
+}

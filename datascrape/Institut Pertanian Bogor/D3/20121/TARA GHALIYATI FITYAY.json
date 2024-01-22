@@ -38,13 +38,6 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "KMN102",
-      "nm_mk": "Komunikasi Antar Pribadi",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KMN104",
       "nm_mk": "Teknik Wawancara",
       "sks_mk": 3,
@@ -73,8 +66,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "DIP105",
-      "nm_mk": "Bahasa Inggris Bisnis",
+      "kode_mk": "KMN102",
+      "nm_mk": "Komunikasi Antar Pribadi",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -87,15 +80,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "DIP113",
-      "nm_mk": "Aplikasi Komputer",
+      "kode_mk": "DIP105",
+      "nm_mk": "Bahasa Inggris Bisnis",
       "sks_mk": 3,
-      "id_smt": "20122",
+      "id_smt": "20121",
       "nilai_huruf": null
     },
     {
       "kode_mk": "KMN107",
       "nm_mk": "Sosiologi Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIP101",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIP113",
+      "nm_mk": "Aplikasi Komputer",
       "sks_mk": 3,
       "id_smt": "20122",
       "nilai_huruf": null
@@ -110,13 +117,6 @@
     {
       "kode_mk": "KMN105",
       "nm_mk": "Etika Kepribadian",
-      "sks_mk": 2,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "DIP101",
-      "nm_mk": "Pendidikan Agama",
       "sks_mk": 2,
       "id_smt": "20122",
       "nilai_huruf": null
@@ -157,6 +157,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KMN 210",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KMN 215",
       "nm_mk": "Media Relations",
       "sks_mk": 3,
@@ -178,10 +185,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KMN 210",
-      "nm_mk": "Komunikasi Bisnis",
+      "kode_mk": "KMN218",
+      "nm_mk": "Teknik Penulisan Media Elektronik",
       "sks_mk": 3,
-      "id_smt": "20141",
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMN220",
+      "nm_mk": "Teknik Penulisan Media Cetak",
+      "sks_mk": 3,
+      "id_smt": "20142",
       "nilai_huruf": null
     },
     {
@@ -194,20 +208,6 @@
     {
       "kode_mk": "KMN219",
       "nm_mk": "Teknik Penulisan ilmiah",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KMN218",
-      "nm_mk": "Teknik Penulisan Media Elektronik",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KMN220",
-      "nm_mk": "Teknik Penulisan Media Cetak",
       "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null

@@ -1,0 +1,565 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20163",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20173",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KL2201-13",
+      "nm_mk": "Mekanika Gelombang Air",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3104",
+      "nm_mk": "LINGKUNGAN LAUT",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3205-13",
+      "nm_mk": "Manajemen Konstruksi Bangunan Laut",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2203-13",
+      "nm_mk": "Metoda Numerik",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3204-13",
+      "nm_mk": "Metoda Eksperimen Laboratorium",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2102",
+      "nm_mk": "MEKANIKA FLUIDA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2204-13",
+      "nm_mk": "Geoteknik Kelautan II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2202-13",
+      "nm_mk": "Mekanika Bahan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1266",
+      "nm_mk": "Menggambar Teknik",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3100-13",
+      "nm_mk": "Hidrodinamika",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU2071-13",
+      "nm_mk": "Pancasila dan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2105-13",
+      "nm_mk": "Bahan Bangunan Laut",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2103-13",
+      "nm_mk": "Statistika dan Probabilitas",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2100-13",
+      "nm_mk": "Analisis Rekayasa Dasar I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2101-13",
+      "nm_mk": "Mekanika Fluida",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3101-13",
+      "nm_mk": "Analisis Struktur dengan Metoda Matriks",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2104-13",
+      "nm_mk": "Geoteknik Kelautan I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1266-13",
+      "nm_mk": "Menggambar Teknik",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3201-13",
+      "nm_mk": "Dinamika Struktur",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2203-13",
+      "nm_mk": "Metoda Numerik",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3202-13",
+      "nm_mk": "Struktur Baja",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3200-13",
+      "nm_mk": "Gelombang Acak",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3204-13",
+      "nm_mk": "Metoda Eksperimen Laboratorium",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2200-13",
+      "nm_mk": "Analisis Rekayasa Dasar II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3102-13",
+      "nm_mk": "Struktur Beton Bertulang",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4110-13",
+      "nm_mk": "Perencanaan Prasarana Pelabuhan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4120-13",
+      "nm_mk": "Anjungan Lepas Pantai",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2105-13",
+      "nm_mk": "Bahan Bangunan Laut",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3103-13",
+      "nm_mk": "Pengumpulan dan Analisis Data Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4111-13",
+      "nm_mk": "Bangunan Pantai",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4098-13",
+      "nm_mk": "Kerja Praktek",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3105-13",
+      "nm_mk": "Ekonomi Rekayasa",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4211-13",
+      "nm_mk": "Operasi dan Manajemen Pelabuhan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4200-13",
+      "nm_mk": "Pengenalan Energi Laut",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4220-13",
+      "nm_mk": "Pipa Bawah Laut",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3209-13",
+      "nm_mk": "Reklamasi dan Pengerukan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3203-13",
+      "nm_mk": "Proses Pantai",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4221-13",
+      "nm_mk": "Struktur Terapung",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL2200-13",
+      "nm_mk": "Analisis Rekayasa Dasar II",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4120-13",
+      "nm_mk": "Anjungan Lepas Pantai",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3102-13",
+      "nm_mk": "Struktur Beton Bertulang",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4100-13",
+      "nm_mk": "Lingkungan Laut",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4110-13",
+      "nm_mk": "Perencanaan Prasarana Pelabuhan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3103-13",
+      "nm_mk": "Pengumpulan dan Analisis Data Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4113-13",
+      "nm_mk": "Hidrologi dan Infrastruktur Tambak",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3104-13",
+      "nm_mk": "Akustik Bawah Air",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4221-13",
+      "nm_mk": "Struktur Terapung",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3203-13",
+      "nm_mk": "Proses Pantai",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3207-13",
+      "nm_mk": "Metoda Elemen Hingga",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3205-13",
+      "nm_mk": "Manajemen Konstruksi Bangunan Laut",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4210-13",
+      "nm_mk": "Perancangan Dermaga Pelabuhan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4220-13",
+      "nm_mk": "Pipa Bawah Laut",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU2065-13",
+      "nm_mk": "Agama dan Etika Budha",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU2071-13",
+      "nm_mk": "Pancasila dan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4100-13",
+      "nm_mk": "Lingkungan Laut",
+      "sks_mk": 3,
+      "id_smt": "20163",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3205-13",
+      "nm_mk": "Manajemen Konstruksi Bangunan Laut",
+      "sks_mk": 3,
+      "id_smt": "20163",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3103-13",
+      "nm_mk": "Pengumpulan dan Analisis Data Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4099-13",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3104-13",
+      "nm_mk": "Akustik Bawah Air",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4120-13",
+      "nm_mk": "Anjungan Lepas Pantai",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4114-13",
+      "nm_mk": "Manajemen Kawasan Pesisir",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL3106-13",
+      "nm_mk": "Gelombang Panjang",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4099-13",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 4,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4220-13",
+      "nm_mk": "Pipa Bawah Laut",
+      "sks_mk": 2,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KL4210-13",
+      "nm_mk": "Perancangan Dermaga Pelabuhan",
+      "sks_mk": 3,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Gandewa Brahmaputra",
+    "jk": "L",
+    "nipd": "15511048",
+    "namapt": "Institut Teknologi Bandung",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Kelautan",
+    "reg_pd": "8C159F78-66B8-49E4-9C01-E7F88E8C2310",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-10-26T00:00:00Z",
+    "no_seri_ijazah": "155001/I1.A/PP/XI/IJZ/1/2018",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTFFOEMzNTYtNDhFRi00ODcxLUFGM0UtODUwNzk0NDNGOTUy",
+    "link_prodi": "/data_prodi/NzU2QjQyQTAtODEwNC00QUI0LTk5NUItQjM1NkMwNEJDMDQw"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "VCD103",
+      "nm_mk": "Rupa Dasar 2D",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GNR103",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC101",
+      "nm_mk": "PENGANTAR ARSITEKTUR",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC103",
+      "nm_mk": "MENGGAMBAR BENTUK",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GNR101",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GNR105",
+      "nm_mk": "Dasar Logika Matematika",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC104",
+      "nm_mk": "Metode Perancangan",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PRD102",
+      "nm_mk": "Rupa Dasar 3D",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GNR102",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GNR104",
+      "nm_mk": "Pancasila & Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC106",
+      "nm_mk": "Struktur dan Bahan",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC102",
+      "nm_mk": "Teknik Komunikasi Arsitektur",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "VCD205",
+      "nm_mk": "FOTOGRAFI DASAR",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC201",
+      "nm_mk": "Perancangan Arsitektur I",
+      "sks_mk": 6,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC207",
+      "nm_mk": "Struktur Lanjutan dan Utilitas 1",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC205",
+      "nm_mk": "Sejarah Arsitektur Modern",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN305",
+      "nm_mk": "ENTREPRENEURSHIP*",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC203",
+      "nm_mk": "Studi Tapak dan Lingkungan",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC208",
+      "nm_mk": "Sejarah Arsitektur Vernakular",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC204",
+      "nm_mk": "Struktur Lanjutan dan Utilitas 2",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC202",
+      "nm_mk": "Perancangan Arsitektur 2",
+      "sks_mk": 6,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC505",
+      "nm_mk": "Pranata Pembangunan",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC206",
+      "nm_mk": "Teori Arsitektur",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC512",
+      "nm_mk": "Fisika Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC513",
+      "nm_mk": "Perancangan Ruang Luar",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC501",
+      "nm_mk": "Arsitektur Digital I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC301",
+      "nm_mk": "Perancangan Arsitektur 3",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IST301",
+      "nm_mk": "KOMPUTER DAN MASYARAKAT",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC303",
+      "nm_mk": "SED II (Arsitektur Hijau)",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC305",
+      "nm_mk": "Studi Perancangan Kota",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC302",
+      "nm_mk": "Perancangan Arsitektur 4",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC522",
+      "nm_mk": "Arsitektur Pre Pabrikasi dan Parametrik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC306",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC516",
+      "nm_mk": "Arsitektur Digital II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY510",
+      "nm_mk": "Psikologi Lintas Budaya",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC304",
+      "nm_mk": "Entrepreneurship III (Rancangan Bisnis)",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC401",
+      "nm_mk": "Perancangan Arsitektur 5",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC403",
+      "nm_mk": "Kerja Profesi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC503",
+      "nm_mk": "Modelling Architecture",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC520",
+      "nm_mk": "Manajemen Konstruksi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC405",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARC502",
+      "nm_mk": "Perancangan Ruang Dalam",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RAKA NARADI PRADANA",
+    "jk": "L",
+    "nipd": "2017101027",
+    "namapt": "Universitas Pembangunan Jaya",
+    "namajenjang": "S1",
+    "namaprodi": "Arsitektur",
+    "reg_pd": "8B8FF231-9B29-44FF-BC41-45C38358A450",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-08-02T00:00:00Z",
+    "no_seri_ijazah": "232012021000389",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MzkyNTEzQTUtRjZCRi00OEM1LUEwRkUtNjI5NDcxMTA1MzZG",
+    "link_prodi": "/data_prodi/OUFBMDhENDMtMUNERi00MjNELTk4QkMtODg2OTFEOUYyNzIw"
+  }
+}

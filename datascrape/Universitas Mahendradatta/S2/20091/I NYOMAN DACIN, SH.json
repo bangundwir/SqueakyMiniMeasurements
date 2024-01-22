@@ -1,0 +1,87 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KLW009",
+      "nm_mk": "TEORI DAN TEKNIK PEMBUATAN PERDA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLW006",
+      "nm_mk": "HUKUM PERIJINAN",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLW007",
+      "nm_mk": "HUKUM ANTAR WEWENANG",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLW008",
+      "nm_mk": "HUKUM KEUANGAN NEGARA",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLW010",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLW010",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "I NYOMAN DACIN, SH",
+    "jk": "L",
+    "nipd": "05020123050951    ",
+    "namapt": "Universitas Mahendradatta",
+    "namajenjang": "S2",
+    "namaprodi": "Ilmu Hukum",
+    "reg_pd": "BFB73CF3-5403-4901-8841-C4F1665F8F3B",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2011-11-22T00:00:00Z",
+    "no_seri_ijazah": "064/0123.05/I-UM/2011",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODUwQjMwMDgtODM4NC00RkNELTg0QjEtMEZFOTgwMjBCMjBF",
+    "link_prodi": "/data_prodi/NzdERDJFREQtNDYwQy00RDEyLTkxMkMtNTNFRkJGNTY2MjZB"
+  }
+}

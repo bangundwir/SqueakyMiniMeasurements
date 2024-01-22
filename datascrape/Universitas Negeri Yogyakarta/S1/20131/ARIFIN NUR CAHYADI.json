@@ -1,0 +1,502 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 26,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20153",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MDU207",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU209",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH256",
+      "nm_mk": "MORAL AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH252",
+      "nm_mk": "DASAR-DASAR PENDIDIKAN MORAL",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH215",
+      "nm_mk": "Teori dan Hukum Konstitusi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH210",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH213",
+      "nm_mk": "PENGANTAR HUKUM INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH245",
+      "nm_mk": "KEBIJAKAN PUBLIK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK218",
+      "nm_mk": "ILMU PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH238",
+      "nm_mk": "Ilmu Politik",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH236",
+      "nm_mk": "Ilmu Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH244",
+      "nm_mk": "SISTEM POLITIK INDONESIA",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH216",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH255",
+      "nm_mk": "Pendidikan Nilai",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH242",
+      "nm_mk": "Sosiologi Politik",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH218",
+      "nm_mk": "Hukum Pidana",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH214",
+      "nm_mk": "Hukum Adat",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SEF201",
+      "nm_mk": "Etika Profesi Keguruan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU208",
+      "nm_mk": "Pendidikan Kewarganegaraan (Kewiraan)",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH239",
+      "nm_mk": "Teori-teori Politik",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH226",
+      "nm_mk": "Hukum Agraria",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK219",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK222",
+      "nm_mk": "Sosio-Antropologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH246",
+      "nm_mk": "Politik Lokal",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH254",
+      "nm_mk": "Filsafat Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU213",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH423",
+      "nm_mk": "Hukum Tata Negara",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH258",
+      "nm_mk": "Pendidikan Multikultural",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH217",
+      "nm_mk": "Hukum Dagang",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH225",
+      "nm_mk": "Hukum Islam",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH209",
+      "nm_mk": "Teknologi Informasi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH107",
+      "nm_mk": "Kuliah Kerja Lapangan 2 (Hukum)",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH243",
+      "nm_mk": "Perbandingan Sistem Pemerintahan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH233",
+      "nm_mk": "Contract Drafting",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH222",
+      "nm_mk": "Hukum Administrasi Negara",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH219",
+      "nm_mk": "Hukum Acara Pidana",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH202",
+      "nm_mk": "Strategi Belajar Mengajar Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH228",
+      "nm_mk": "Hukum Pajak",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH216",
+      "nm_mk": "Hukum Perdata",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH203",
+      "nm_mk": "Pengkajian Kurikulum dan Buku Teks Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH220",
+      "nm_mk": "Hukum Acara Perdata",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK221",
+      "nm_mk": "Manajemen Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH221",
+      "nm_mk": "Hukum Internasional",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH204",
+      "nm_mk": "Evaluasi Pembelajaran Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH229",
+      "nm_mk": "Hukum Ketenagakerjaan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH240",
+      "nm_mk": "Pendidikan Demokrasi",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH224",
+      "nm_mk": "Sosiologi Hukum",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK227",
+      "nm_mk": "Pembelajaran Mikro",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH205",
+      "nm_mk": "Metodologi Penelitian Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH241",
+      "nm_mk": "Lembaga Internasional",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH108",
+      "nm_mk": "Kuliah Kerja Lapangan 3 (Politik)",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH227",
+      "nm_mk": "Filsafat Hukum",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH238",
+      "nm_mk": "Ilmu Politik",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK220",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH251",
+      "nm_mk": "Budaya Politik",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH237",
+      "nm_mk": "Pendidikan Kewarganegaraan ",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU317",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 3,
+      "id_smt": "20153",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK325",
+      "nm_mk": "Praktik Pengalaman Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20153",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKH214",
+      "nm_mk": "Hukum Adat",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU215",
+      "nm_mk": "Perspektif Global",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU626",
+      "nm_mk": "Tugas Akhir Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ARIFIN NUR CAHYADI",
+    "jk": "L",
+    "nipd": "13401244005",
+    "namapt": "Universitas Negeri Yogyakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Pancasila Dan Kewarganegaraan",
+    "reg_pd": "ADE43F69-B498-4F5D-8CC0-E471BB2714BF",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-07-31T00:00:00Z",
+    "no_seri_ijazah": "78557/0212/F06/S1/2019",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTA0QUFGRjgtNUY4MS00NzU2LUI5MTQtNzNEQ0ZFRDMzOTMy",
+    "link_prodi": "/data_prodi/MDE4Mjc5MkQtNzBCOS00NUY0LTg4M0QtMDY5NEM5RDlBMjQ1"
+  }
+}

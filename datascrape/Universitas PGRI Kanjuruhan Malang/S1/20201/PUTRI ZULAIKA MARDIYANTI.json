@@ -1,0 +1,515 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KPA307",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPA303",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK212",
+      "nm_mk": "*BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPA211",
+      "nm_mk": "KIMIA I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPA201",
+      "nm_mk": "KALKULUS UNTUK FISIKA I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK106",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK101",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP201",
+      "nm_mk": "LANDASAN PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIK207",
+      "nm_mk": "BELAJAR PEMBELAJARAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIK205",
+      "nm_mk": "BIMBINGAN KONSELING",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS401",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR 1",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPA204",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPA202",
+      "nm_mk": "KALKULUS UNTUK FISIKA II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIK202",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPA210",
+      "nm_mk": "KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS201",
+      "nm_mk": "FISIKA MATEMATIKA I",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPA208",
+      "nm_mk": "PENDIDIKAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS221",
+      "nm_mk": "ELEKTRONIKA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK107",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS404",
+      "nm_mk": "PRAKTIKUM LISTRIK MAGNET",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS402",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS202",
+      "nm_mk": "FISIKA MATEMATIKA II",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS405",
+      "nm_mk": "PRAKTIKUM ELEKTRONIKA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS215",
+      "nm_mk": "ASTRONOMI DAN FISIKA KEBUMIAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS203",
+      "nm_mk": "MEKANIKA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS208",
+      "nm_mk": "*LISTRIK MAGNET",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS207",
+      "nm_mk": "GETARAN GELOMBANG DAN  OPTIK",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS218",
+      "nm_mk": "TERMODINAMIKA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI307",
+      "nm_mk": "PENGEMBANGAN MEDIA PEMBELAJARAN I",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI306",
+      "nm_mk": "STRATEGI BELAJAR MENGAJAR",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS206",
+      "nm_mk": "ELEKTRONIKA DASAR II*",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI103",
+      "nm_mk": "KOMPUTER DASAR",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS210",
+      "nm_mk": "FISIKA MODERN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI313",
+      "nm_mk": "ELEKTRODINAMIKA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI112",
+      "nm_mk": "MODEL PEMBELAJARAN INOVATIF",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI302",
+      "nm_mk": "TELAAH KURIKULUM",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI305",
+      "nm_mk": "ASESMEN PEMBELAJARAN FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS406",
+      "nm_mk": "PRAK ELEKTRONIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI303",
+      "nm_mk": "PERENCANAAN PEMBELAJARAN FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI308",
+      "nm_mk": "FISIKA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI402",
+      "nm_mk": "METODOLOGI PENELITIAN I",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS213",
+      "nm_mk": "PENDAHULUAN FISIKA INTI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI312",
+      "nm_mk": "MANAJEMEN LABORATORIUM",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS220",
+      "nm_mk": "DASAR-DASAR INSTRUMENTASI FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS225",
+      "nm_mk": "FISIKA STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI104",
+      "nm_mk": "PENGEMBANGAN MEDIA PEMBELAJARAN II",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI317",
+      "nm_mk": "KAPITA SELEKTA FISIKA SEKOLAH",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI109",
+      "nm_mk": "PEMBELAJARAN FISIKA BERBASIS MULTIMEDIA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS212",
+      "nm_mk": "PENDAHULUAN FISIKA ZAT PADAT",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI114",
+      "nm_mk": "MODEL PEMBELAJARAN HYBRID",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIK204",
+      "nm_mk": "PROFESI KEGURUAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI115",
+      "nm_mk": "PENGEMBANGAN BAHAN AJAR",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI404",
+      "nm_mk": "KETRAMPILAN DASAR PEMBELAJARAN FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI113",
+      "nm_mk": "SEMINAR PENDIDIKAN FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI320",
+      "nm_mk": "STATISTIKA PENDIDIKAN FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS228",
+      "nm_mk": "FISIKA KUANTUM",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI403",
+      "nm_mk": "METODOLOGI PENELITIAN II",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK117",
+      "nm_mk": "JATIDIRI KANJURUHAN",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI314",
+      "nm_mk": "ENERGI",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFI404",
+      "nm_mk": "DASAR - DASAR SAINS",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFI321",
+      "nm_mk": "ASESMEN FORMATIF",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKA502",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLP201",
+      "nm_mk": "PLP I",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FST101",
+      "nm_mk": "TECHNOPRENEUR",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLP202",
+      "nm_mk": "PLP II",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "PUTRI ZULAIKA MARDIYANTI",
+    "jk": "P",
+    "nipd": "200403070005",
+    "namapt": "Universitas PGRI Kanjuruhan Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Fisika",
+    "reg_pd": "1DACD3A2-4EE9-4C48-9E7C-E6151B100B7D",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDYzNjBEQTgtOEY4Qy00MTY0LTk3ODktQjc1Mzc1NjM3RjY4",
+    "link_prodi": "/data_prodi/RTM2ODhBMjAtMjNDNS00N0M5LUE5MzUtOURFMEVEOTVCRjdE"
+  }
+}

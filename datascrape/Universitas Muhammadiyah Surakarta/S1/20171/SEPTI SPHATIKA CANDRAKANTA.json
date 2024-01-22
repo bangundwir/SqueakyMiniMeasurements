@@ -67,13 +67,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN10512",
-      "nm_mk": "KEPRAMUKAAN",
-      "sks_mk": 2,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "UMS10312",
       "nm_mk": "ENGLISH FOR ACADEMIC PURPOSES",
       "sks_mk": 2,
@@ -83,6 +76,13 @@
     {
       "kode_mk": "UMS10212",
       "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN10512",
+      "nm_mk": "KEPRAMUKAAN",
       "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -116,6 +116,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PKN20832",
+      "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "UMS20212",
       "nm_mk": "KEWARGANEGARAAN",
       "sks_mk": 2,
@@ -123,8 +130,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN20732",
-      "nm_mk": "HUKUM ADAT",
+      "kode_mk": "UMS20212",
+      "nm_mk": "KEWARGANEGARAAN",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -144,15 +151,50 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN20832",
-      "nm_mk": "KRIMINOLOGI",
+      "kode_mk": "KIP20422",
+      "nm_mk": "MANAJEMEN PENDIDIKAN",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UMS20212",
-      "nm_mk": "KEWARGANEGARAAN",
+      "kode_mk": "PKN20732",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN20622",
+      "nm_mk": "SEJARAH PERJUANGAN BANGSA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP20422",
+      "nm_mk": "MANAJEMEN PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS20312",
+      "nm_mk": "STANDARDIZED TEST PREPARATION",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN20732",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN20832",
+      "nm_mk": "KRIMINOLOGI",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -179,55 +221,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN20512",
-      "nm_mk": "KECAKAPAN MEMBINA KEPRAMUKAAN",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKN20622",
-      "nm_mk": "SEJARAH PERJUANGAN BANGSA INDONESIA",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KIP20422",
-      "nm_mk": "MANAJEMEN PENDIDIKAN",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKN20732",
-      "nm_mk": "HUKUM ADAT",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KIP20422",
-      "nm_mk": "MANAJEMEN PENDIDIKAN",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "UMS20312",
-      "nm_mk": "STANDARDIZED TEST PREPARATION",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKN20832",
-      "nm_mk": "KRIMINOLOGI",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PKN20932",
       "nm_mk": "HUKUM PERDATA DAN DAGANG",
       "sks_mk": 2,
@@ -235,8 +228,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN30942",
-      "nm_mk": "ILMU POLITIK",
+      "kode_mk": "PKN20512",
+      "nm_mk": "KECAKAPAN MEMBINA KEPRAMUKAAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS30212",
+      "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -249,6 +249,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KIP30322",
+      "nm_mk": "KURIKULUM DAN PEMBELAJARAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN30942",
+      "nm_mk": "ILMU POLITIK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMS30112",
+      "nm_mk": "ISLAM DAN IPTEKS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PKN30732",
       "nm_mk": "HUKUM TATA NEGARA",
       "sks_mk": 2,
@@ -256,9 +277,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KIP30322",
-      "nm_mk": "KURIKULUM DAN PEMBELAJARAN",
-      "sks_mk": 3,
+      "kode_mk": "PKN30612",
+      "nm_mk": "KOMPUTER DAN INTERNET",
+      "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -277,30 +298,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UMS30212",
-      "nm_mk": "BAHASA INDONESIA",
+      "kode_mk": "PKN60742",
+      "nm_mk": "NEGARA HUKUM DAN DEMOKRASI",
       "sks_mk": 2,
-      "id_smt": "20181",
+      "id_smt": "20182",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UMS30112",
-      "nm_mk": "ISLAM DAN IPTEKS",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKN30612",
-      "nm_mk": "KOMPUTER DAN INTERNET",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKN40732",
-      "nm_mk": "TEORI DAN HUKUM KONSTITUSI",
-      "sks_mk": 2,
+      "kode_mk": "KIP40322",
+      "nm_mk": "MAGANG OBSERVASI PERSEKOLAHAN",
+      "sks_mk": 1,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -312,9 +319,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN60742",
-      "nm_mk": "NEGARA HUKUM DAN DEMOKRASI",
+      "kode_mk": "PKN40732",
+      "nm_mk": "TEORI DAN HUKUM KONSTITUSI",
       "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN40613",
+      "nm_mk": "STATISTIK PENDIDIKAN",
+      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -347,20 +361,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KIP40322",
-      "nm_mk": "MAGANG OBSERVASI PERSEKOLAHAN",
-      "sks_mk": 1,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKN40613",
-      "nm_mk": "STATISTIK PENDIDIKAN",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PKN40833",
       "nm_mk": "HUKUM INTERNASIONAL DAN LEMBAGA HUBUNGAN INTERNASIONAL",
       "sks_mk": 3,
@@ -368,9 +368,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN50622",
-      "nm_mk": "DINAMIKA KONSTITUSI DAN KETATANEGARAAN INDONESIA",
-      "sks_mk": 3,
+      "kode_mk": "PKN50732",
+      "nm_mk": "HUKUM AGRARIA",
+      "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -389,9 +389,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN50412",
-      "nm_mk": "METODE PENELITIAN PEND.KUANTITATIF",
-      "sks_mk": 2,
+      "kode_mk": "PKN50622",
+      "nm_mk": "DINAMIKA KONSTITUSI DAN KETATANEGARAAN INDONESIA",
+      "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -403,8 +403,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN50732",
-      "nm_mk": "HUKUM AGRARIA",
+      "kode_mk": "PKN50412",
+      "nm_mk": "METODE PENELITIAN PEND.KUANTITATIF",
       "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -417,13 +417,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN50833",
-      "nm_mk": "PENEGAKKAN & PERADILAN HAM",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PKN50212",
       "nm_mk": "METODIIK KHUSUS PEMB. PPKN",
       "sks_mk": 2,
@@ -431,22 +424,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN80852",
-      "nm_mk": "PENDIDIKAN MULTIKULTURAL",
-      "sks_mk": 2,
-      "id_smt": "20192",
+      "kode_mk": "PKN50833",
+      "nm_mk": "PENEGAKKAN & PERADILAN HAM",
+      "sks_mk": 3,
+      "id_smt": "20191",
       "nilai_huruf": null
     },
     {
       "kode_mk": "PKN80112",
       "nm_mk": "PKS",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKN61052",
-      "nm_mk": "ANTROPOLOGI BUDAYA",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -459,9 +445,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN60943",
-      "nm_mk": "ETIKA DAN BUDAYA POLITIK",
-      "sks_mk": 3,
+      "kode_mk": "PKN80852",
+      "nm_mk": "PENDIDIKAN MULTIKULTURAL",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN61052",
+      "nm_mk": "ANTROPOLOGI BUDAYA",
+      "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -469,6 +462,13 @@
       "kode_mk": "PKN60412",
       "nm_mk": "MICRO TEACHING",
       "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN60943",
+      "nm_mk": "ETIKA DAN BUDAYA POLITIK",
+      "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -501,13 +501,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN70852",
-      "nm_mk": "ANALISIS KEBIJAKAN PUBLIK",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PKN70532",
       "nm_mk": "HUKUM ISLAM",
       "sks_mk": 2,
@@ -529,15 +522,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PKN70752",
-      "nm_mk": "PSIKOLOGI SOSIAL",
+      "kode_mk": "PKN70852",
+      "nm_mk": "ANALISIS KEBIJAKAN PUBLIK",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KIP70122",
-      "nm_mk": "MAGANG ASISTEN GURU",
+      "kode_mk": "PKN70752",
+      "nm_mk": "PSIKOLOGI SOSIAL",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -557,6 +550,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KIP70122",
+      "nm_mk": "MAGANG ASISTEN GURU",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKN80412",
+      "nm_mk": "KKN PENDIDIKAN",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PKN80724",
       "nm_mk": "SKRIPSI",
       "sks_mk": 4,
@@ -567,13 +574,6 @@
       "kode_mk": "PKN80622",
       "nm_mk": "AKTUALISASI NILAI-NILAI PANCASILA",
       "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PKN80412",
-      "nm_mk": "KKN PENDIDIKAN",
-      "sks_mk": 4,
       "id_smt": "20202",
       "nilai_huruf": null
     },

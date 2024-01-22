@@ -1,0 +1,496 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKU-105",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-103",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-101",
+      "nm_mk": "Biologi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-102",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-111",
+      "nm_mk": "PENGANTAR ILMU PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU-103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU-102",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU-101",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-124",
+      "nm_mk": "DASAR-DASAR AGRONOMI",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITN-100",
+      "nm_mk": "DASAR-DASAR ILMU TANAH",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-125",
+      "nm_mk": "SISTEM PERTANIAN BERKELANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-104",
+      "nm_mk": "KIMIA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-122",
+      "nm_mk": "BOTANI",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-123",
+      "nm_mk": "EKOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-105",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU-104",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-200",
+      "nm_mk": "Karya Tulis Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-201",
+      "nm_mk": "DASAR-DASAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-202",
+      "nm_mk": "PENGANTAR KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-211",
+      "nm_mk": "Fisiologi Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-215",
+      "nm_mk": "MEKANISASI PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-214",
+      "nm_mk": "PENGELOLAAN ORGANISME  PENGGANGGU TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-300",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU-300",
+      "nm_mk": "KEWIRAUSAHAAN (angkatan 2023 prodi PSI)",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-213",
+      "nm_mk": "AGROKLIMATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-212",
+      "nm_mk": "GENETIKA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-223",
+      "nm_mk": "IRIGASI DAN DRAINASE",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB-211",
+      "nm_mk": "PENYULUHAN PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-224",
+      "nm_mk": "TEKNOLOGI PRODUKSI TANAMAN PANGAN",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-201",
+      "nm_mk": "RANCANGAN PERCOBAAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-225",
+      "nm_mk": "TEKNOLOGI PRODUKSI BENIH",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-222",
+      "nm_mk": "KONSERVASI SUMBERDAYA ALAM DAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-313",
+      "nm_mk": "TEKNIK PEMBIAKAN VEGETATIF",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-314",
+      "nm_mk": "TEKNIK PRODUKSI TANAMAN HORTIKULTURA",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-301",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-403",
+      "nm_mk": "ANALISIS USAHA TANI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT412",
+      "nm_mk": "PENGENDALIAN HAYATI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGP-310",
+      "nm_mk": "PRODUKSI TANAMAN PANGAN ALTERNATIF",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGP313",
+      "nm_mk": "ARSITEKTUR LANSKAP",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-323",
+      "nm_mk": "PERAKITAN VARIETAS TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-324",
+      "nm_mk": "BIOTEKNOLOGI PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-321",
+      "nm_mk": "TEKNOLOGI PRODUKSI TANAMAN INDUSTRI",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGP-322",
+      "nm_mk": "PRODUKSI TANAMAN REMPAH DAN OBAT",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-301",
+      "nm_mk": "PENYAJIAN ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-322",
+      "nm_mk": "MANAGEMENT NURSERY",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-401",
+      "nm_mk": "MAGANG/PRAKTEK LAPANG",
+      "sks_mk": 4,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU-400",
+      "nm_mk": "KULIAH KERJA NYATA (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-403",
+      "nm_mk": "ANALISIS USAHA TANI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-102",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB-326",
+      "nm_mk": "HUKUM DAN POLTIK AGRARIA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGP313",
+      "nm_mk": "ARSITEKTUR LANSKAP",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-321",
+      "nm_mk": "TEKNOLOGI PRODUKSI TANAMAN INDUSTRI",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-323",
+      "nm_mk": "PERAKITAN VARIETAS TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-400",
+      "nm_mk": "Skripsi",
+      "sks_mk": 5,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGP-322",
+      "nm_mk": "PRODUKSI TANAMAN REMPAH DAN OBAT",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-402",
+      "nm_mk": "AGROWIDYAWISATA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-400",
+      "nm_mk": "Skripsi",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFE-400",
+      "nm_mk": "Skripsi",
+      "sks_mk": 5,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JESSICA PUTRI UTAMI",
+    "jk": "P",
+    "nipd": "E1J018089",
+    "namapt": "Universitas Bengkulu",
+    "namajenjang": "S1",
+    "namaprodi": "Agroekoteknologi",
+    "reg_pd": "FD791A66-86D6-4FE7-A230-5448C939B0B1",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/Nzc2MEYyNDMtOUI3Ri00Njk5LThGRjMtRjlBNkFCQTE3NEI3",
+    "link_prodi": "/data_prodi/MDQ5NDQ2N0YtRTkyMS00RjMwLUI4REMtMUYyNUE2MjdGOUUx"
+  }
+}

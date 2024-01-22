@@ -1,0 +1,483 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KET0603005",
+      "nm_mk": "KOMPUTER I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0601013",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603001",
+      "nm_mk": "PENGANTAR PENDIDIKAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603006",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603007",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603015",
+      "nm_mk": "KIMIA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603005",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603013",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPR0601000",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPR0603002",
+      "nm_mk": "AL-ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603003",
+      "nm_mk": "PENGANTAR DASAR MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603014",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS0603001",
+      "nm_mk": "PENDIDIKAN LINGKUNGAN SOSIAL BUDAYA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603007",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603002",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPR0603003",
+      "nm_mk": "AL-ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603008",
+      "nm_mk": "BAHASA INGGRIS MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603006",
+      "nm_mk": "KOMPUTER PEMOGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603011",
+      "nm_mk": "GEOMETRI ANALITIK",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603016",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603017",
+      "nm_mk": "TEORI HIMPUNAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603004",
+      "nm_mk": "BELAJAR PEMBELAJARAN",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPR0603004",
+      "nm_mk": "AL-ISLAM III",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603008",
+      "nm_mk": "KALKULUS LANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603012",
+      "nm_mk": "GEOMETRI TRANFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603011",
+      "nm_mk": "SEJARAH MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603009",
+      "nm_mk": "ALJABAR MATRIKS",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603030",
+      "nm_mk": "PENGEMBANGAN MEDIA PEMBELAJARAN MTK.",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS0603002",
+      "nm_mk": "SOSIOLOGI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603010",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KET0603003",
+      "nm_mk": "PROFESI PENDIDIKAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603018",
+      "nm_mk": "STATISTIK DASAR",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603029",
+      "nm_mk": "KAPITA SELEKTA PENDIDIKAN MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603010",
+      "nm_mk": "ALJABAR LINIER",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603031",
+      "nm_mk": "PERSAMAAN DEFERESIAL",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPR0603005",
+      "nm_mk": "AL-ISLAM IV",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603026",
+      "nm_mk": "TRIGONOMETRI",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603004",
+      "nm_mk": "TEORI BILANGAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603023",
+      "nm_mk": "ANALISA RIEL I",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603019",
+      "nm_mk": "STATISTIK MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603024",
+      "nm_mk": "ANALISA RIEL II",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603002",
+      "nm_mk": "KURIKULUM & BUKU TEKS MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603001",
+      "nm_mk": "PERENCANAAN PENG. MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603027",
+      "nm_mk": "MATEMATIKA DESKRIT",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603032",
+      "nm_mk": "PROGRAM LINIER",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKU0603003",
+      "nm_mk": "EVALUASI PEMBELAJARAN MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603033",
+      "nm_mk": "STRUKTUR ALJABAR I",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKU0603004",
+      "nm_mk": "SEMINAR PENDIDIKAN MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKU0603002",
+      "nm_mk": "STRATEGI PEMBELAJARAN MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603034",
+      "nm_mk": "STRUKTUR ALJABAR II",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603021",
+      "nm_mk": "ANALISA VEKTOR",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603025",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKU0603005",
+      "nm_mk": "MICRO TEACHING",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKU0603001",
+      "nm_mk": "METODE PENELITIAN PEND. MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603020",
+      "nm_mk": "STATISTIK MATEMATIKA II",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKU0603006",
+      "nm_mk": "PPL II",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603022",
+      "nm_mk": "ANALISA KOMPLEKS",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603028",
+      "nm_mk": "NILAI AWAL DAN SYARAT BATAS",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AHL0603035",
+      "nm_mk": "GEOMETRI EUCLID & NON EUCLID",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SAMIAH",
+    "jk": "P",
+    "nipd": "1406030018        ",
+    "namapt": "Universitas Alwashliyah",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Matematika",
+    "reg_pd": "0263C89A-8161-4AD7-B4BD-748F31D7113B",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-03-15T00:00:00Z",
+    "no_seri_ijazah": "0016/F-01/C-06/84-202/V/2019",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkRGNjE3RDctQkUzMi00NTAxLUJGMjAtNDQzREY4QTRFNjUw",
+    "link_prodi": "/data_prodi/MkM1QkI5MzEtRTQ2QS00M0QzLUE4ODAtRjZBRDk0REQwNzI4"
+  }
+}

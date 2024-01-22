@@ -1,0 +1,376 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UMPK601-90442-15",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FSAS6001-90442-2018",
+      "nm_mk": "Pengantar Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA5003-90442-2018",
+      "nm_mk": "Gambar Bentuk",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA5001-90442-2018",
+      "nm_mk": "Logika Matematika",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GSED5002-90442-2018",
+      "nm_mk": "Estetika",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA5001-90442-2018",
+      "nm_mk": "Nirmana 2 Dimensi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK607-90442-15",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA5008-90442-2018",
+      "nm_mk": "Animasi 2D",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6009-90442-2018",
+      "nm_mk": "Pendidikan Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA5002-90442-2018",
+      "nm_mk": "Nirmana 3 Dimensi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GSED5001-90442-2018",
+      "nm_mk": "Bahasa Inggris Profesi Seni",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA5005-90442-2018",
+      "nm_mk": "Fotografi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6007-90442-2018",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA5018-90442-2018",
+      "nm_mk": "Desain Animasi 2 Dimensi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA5009-90442-2018",
+      "nm_mk": "Animasi 3D",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA5004-90442-2018",
+      "nm_mk": "Komputer Grafis",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA504-90442-17",
+      "nm_mk": "Algoritma Pemrograman",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA519-90442-17",
+      "nm_mk": "Desain Animasi 3 Dimensi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA517-90442-17",
+      "nm_mk": "Desain Property",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA511-90442-17",
+      "nm_mk": "Ilustrasi komik",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GDKA501-90442-17",
+      "nm_mk": "Tipografi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA506-90442-17",
+      "nm_mk": "Videografi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA509-90442-17",
+      "nm_mk": "Musik Digital",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA505-90442-17",
+      "nm_mk": "Pemodelan Karakter Sclupting",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GRDA507-90442-17",
+      "nm_mk": "Multimedia Interaktif",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA502-90442-17",
+      "nm_mk": "Tinjauan Game Animasi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA506-90442-17",
+      "nm_mk": "Animasi Compositing",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA508-90442-17",
+      "nm_mk": "Desain Interface",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA520-90442-17",
+      "nm_mk": "Proyek Game Animasi:Skenario",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA507-90442-17",
+      "nm_mk": "Pemodelan Karakter Digital",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA503-90442-17",
+      "nm_mk": "Penulisan Naskah",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FSAS6002-90442-2018",
+      "nm_mk": "Manusia Dan Kebudayaan Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GDKA5002-2018",
+      "nm_mk": "Praktek Kerja Profesi",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA5023-2018",
+      "nm_mk": "Proyek Game Animasi: Game Desain Karakter &amp; Interface",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA5021-2018",
+      "nm_mk": "Proyek Game Animasi: Produksi",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GSRA5001-2018",
+      "nm_mk": "Penulisan Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA5013-2018",
+      "nm_mk": "Animasi Stop Motion",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6010-86202-2018",
+      "nm_mk": "Manajemen Inovasi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA5100-2018",
+      "nm_mk": "Tugas Akhir Desain",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGAUM5006-2020",
+      "nm_mk": "Gambar Anatomi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA5100-90442-2018",
+      "nm_mk": "Tugas Akhir Desain",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGA5100-90442-2018",
+      "nm_mk": "Tugas Akhir Desain",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAGAUM6006-2020",
+      "nm_mk": "Gambar Anatomi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "EMIL SALAMAH",
+    "jk": "P",
+    "nipd": "180254512035",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "D3",
+    "namaprodi": "Game Animasi",
+    "reg_pd": "4523CAE6-3399-43EB-B671-A1B2D985FC5D",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-08-19T00:00:00Z",
+    "no_seri_ijazah": "904422022000303",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QjRDNjhCQ0ItNTVGQi00RkU2LUEyQzAtMkI2RkMwMEY0MENE"
+  }
+}

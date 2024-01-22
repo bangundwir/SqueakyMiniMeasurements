@@ -91,13 +91,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FP-110",
-      "nm_mk": "BIOKIMIA TANAMAN",
-      "sks_mk": 3,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "U-203",
       "nm_mk": "KEWARGANEGARAN",
       "sks_mk": 2,
@@ -112,15 +105,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FP-108",
-      "nm_mk": "FISIOLOGI TUMBUHAN",
+      "kode_mk": "FP-106",
+      "nm_mk": "AGROKLIMATOLOGI",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FP-106",
-      "nm_mk": "AGROKLIMATOLOGI",
+      "kode_mk": "FP-110",
+      "nm_mk": "BIOKIMIA TANAMAN",
       "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
@@ -140,6 +133,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "FP-108",
+      "nm_mk": "FISIOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "FP-116",
       "nm_mk": "PERBANYAKAN TANAMAN",
       "sks_mk": 3,
@@ -147,29 +147,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FP-112",
-      "nm_mk": "DASAR PERLINDUNGAN TANAMAN",
-      "sks_mk": 3,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FP-111",
-      "nm_mk": "EKONOMI PERTANIAN",
-      "sks_mk": 2,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "FP-114",
       "nm_mk": "DASAR DASAR PEMULIAAN TANAMAN",
-      "sks_mk": 3,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FP-116",
-      "nm_mk": "KESUBURAN TANAH & PEMUPUKKAN",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -182,6 +161,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "FP-112",
+      "nm_mk": "DASAR PERLINDUNGAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "FP-113",
       "nm_mk": "MEKANISASI PERTANIAN",
       "sks_mk": 3,
@@ -189,22 +175,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "FP-111",
+      "nm_mk": "EKONOMI PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FP-116",
+      "nm_mk": "KESUBURAN TANAH & PEMUPUKKAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "FP-120",
       "nm_mk": "PENGELOLAAN TANAH DAN AIR",
-      "sks_mk": 3,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AGT-103",
-      "nm_mk": "T.B. TANAMAN HORTIKULTURA I",
-      "sks_mk": 3,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FP-117",
-      "nm_mk": "DASAR-DASAR STATISTIK",
       "sks_mk": 3,
       "id_smt": "20222",
       "nilai_huruf": null
@@ -224,13 +210,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FP-119",
-      "nm_mk": "KEWIRAUSAHAAN I",
-      "sks_mk": 2,
-      "id_smt": "20222",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "FP-118",
       "nm_mk": "TEKNOLOGI & SERTIFIKSI BENIH",
       "sks_mk": 3,
@@ -238,8 +217,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FP-122",
-      "nm_mk": "SURVEY TANAH & EVALUASI LAHAN",
+      "kode_mk": "FP-119",
+      "nm_mk": "KEWIRAUSAHAAN I",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT-103",
+      "nm_mk": "T.B. TANAMAN HORTIKULTURA I",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FP-117",
+      "nm_mk": "DASAR-DASAR STATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FP-123",
+      "nm_mk": "PESTISIDA & TEKNIK APLIKASI",
       "sks_mk": 3,
       "id_smt": "20231",
       "nilai_huruf": null
@@ -252,8 +252,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FP-123",
-      "nm_mk": "PESTISIDA & TEKNIK APLIKASI",
+      "kode_mk": "FP-122",
+      "nm_mk": "SURVEY TANAH & EVALUASI LAHAN",
       "sks_mk": 3,
       "id_smt": "20231",
       "nilai_huruf": null

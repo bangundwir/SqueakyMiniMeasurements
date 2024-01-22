@@ -82,6 +82,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "2183",
+      "nm_mk": "PENGMANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2123",
       "nm_mk": "PENGANTAR HUKUM BISNIS",
       "sks_mk": 2,
@@ -110,20 +117,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2133",
-      "nm_mk": "MATEMATIKA EKONOMI",
-      "sks_mk": 2,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2183",
-      "nm_mk": "PENGMANAJEMEN",
-      "sks_mk": 3,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "2012",
       "nm_mk": "AGAMA ISLAM",
       "sks_mk": 3,
@@ -131,22 +124,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2003",
-      "nm_mk": "ILMU KEALAMAN DASAR",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2203",
-      "nm_mk": "KEWIRAUSAHAAN",
-      "sks_mk": 3,
-      "id_smt": "20132",
+      "kode_mk": "2133",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20131",
       "nilai_huruf": null
     },
     {
       "kode_mk": "2142",
       "nm_mk": "STATISTIK EKONOMI I",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2003",
+      "nm_mk": "ILMU KEALAMAN DASAR",
       "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
@@ -159,15 +152,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2002",
-      "nm_mk": "BAHASA INDONESIA",
+      "kode_mk": "2293",
+      "nm_mk": "BANK LEMBAGA KEUANGAN",
       "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2293",
-      "nm_mk": "BANK LEMBAGA KEUANGAN",
+      "kode_mk": "2002",
+      "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
@@ -180,36 +173,15 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "2203",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2013",
       "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2343",
-      "nm_mk": "MANAJEMEN PEMASARAN I",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2303",
-      "nm_mk": "MANAJEMEN KEUANGAN I",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2092",
-      "nm_mk": "TEORI EKONOMI MAKRO",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2333",
-      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -229,13 +201,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2013",
-      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "2303",
       "nm_mk": "MANAJEMEN KEUANGAN I",
       "sks_mk": 3,
@@ -243,8 +208,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2333",
-      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA",
+      "kode_mk": "2343",
+      "nm_mk": "MANAJEMEN PEMASARAN I",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -257,6 +222,41 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "2333",
+      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2303",
+      "nm_mk": "MANAJEMEN KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2092",
+      "nm_mk": "TEORI EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2013",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2333",
+      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2363",
       "nm_mk": "MANAJEMEN OPERASIONAL I",
       "sks_mk": 3,
@@ -264,43 +264,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2403",
-      "nm_mk": "MANAJEMEN KEUANGAN LANJUTAN",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2002",
-      "nm_mk": "BAHASA INDONESIA",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "2373",
       "nm_mk": "MANAJEMEN OPERASIONAL LANJUTAN",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2163",
-      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2373",
-      "nm_mk": "MANAJEMEN OPERASIONAL LANJUTAN",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2163",
-      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
       "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
@@ -320,8 +285,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2393",
-      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA LANJUTAN",
+      "kode_mk": "2163",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2373",
+      "nm_mk": "MANAJEMEN OPERASIONAL LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2163",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2403",
+      "nm_mk": "MANAJEMEN KEUANGAN LANJUTAN",
       "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
@@ -336,6 +322,20 @@
     {
       "kode_mk": "2313",
       "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2393",
+      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA LANJUTAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2002",
+      "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
@@ -362,15 +362,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2513",
-      "nm_mk": "PERILAKU KONSUMEN",
+      "kode_mk": "2253",
+      "nm_mk": "PENGANTAR EKONOMI PEMBANGUNAN",
       "sks_mk": 3,
       "id_smt": "20151",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2253",
-      "nm_mk": "PENGANTAR EKONOMI PEMBANGUNAN",
+      "kode_mk": "2513",
+      "nm_mk": "PERILAKU KONSUMEN",
       "sks_mk": 3,
       "id_smt": "20151",
       "nilai_huruf": null
@@ -383,15 +383,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2313",
-      "nm_mk": "AKUNTANSI BIAYA",
+      "kode_mk": "01025321",
+      "nm_mk": "MANAJEMEN STRATEGI",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "01025321",
-      "nm_mk": "MANAJEMEN STRATEGI",
+      "kode_mk": "2313",
+      "nm_mk": "AKUNTANSI BIAYA",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -404,13 +404,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2263",
-      "nm_mk": "AKUNTANSI KEUANGAN",
-      "sks_mk": 3,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "2433",
       "nm_mk": "MANAJEMEN KOPERASI",
       "sks_mk": 3,
@@ -418,8 +411,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2443",
-      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "kode_mk": "2263",
+      "nm_mk": "AKUNTANSI KEUANGAN",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -434,6 +427,13 @@
     {
       "kode_mk": "2153",
       "nm_mk": "PERILAKU ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2443",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -495,6 +495,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "01025331",
+      "nm_mk": "TEORI PENGAMBILAN KEPUTUSAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "00005313",
       "nm_mk": "SKRIPSI",
       "sks_mk": 6,
@@ -504,13 +511,6 @@
     {
       "kode_mk": "01025322",
       "nm_mk": "PENGANGGARAN PERUSAHAAN",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "01025331",
-      "nm_mk": "TEORI PENGAMBILAN KEPUTUSAN",
       "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null

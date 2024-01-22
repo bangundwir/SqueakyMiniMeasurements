@@ -47,6 +47,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "RKM 201009",
+      "nm_mk": "Praktikum Kimia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "RKM 201001",
       "nm_mk": "Matematika Dasar",
       "sks_mk": 2,
@@ -75,9 +82,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RKM 201004",
-      "nm_mk": "Azas Teknik Kimia I",
-      "sks_mk": 3,
+      "kode_mk": "RKM 201010",
+      "nm_mk": "Praktikum Bioproses",
+      "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -89,24 +96,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RKM 201009",
-      "nm_mk": "Praktikum Kimia Dasar",
-      "sks_mk": 2,
+      "kode_mk": "RKM 201004",
+      "nm_mk": "Azas Teknik Kimia I",
+      "sks_mk": 3,
       "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RKM 201010",
-      "nm_mk": "Praktikum Bioproses",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RKM 202008",
-      "nm_mk": "Praktikum Kimia Organik",
-      "sks_mk": 2,
-      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -131,15 +124,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RKM 202004",
-      "nm_mk": "Kimia Organik",
+      "kode_mk": "RKM 202007",
+      "nm_mk": "Praktikum Analisa Instrumental",
       "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RKM 202007",
-      "nm_mk": "Praktikum Analisa Instrumental",
+      "kode_mk": "RKM 202004",
+      "nm_mk": "Kimia Organik",
       "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -148,6 +141,13 @@
       "kode_mk": "RKM 202003",
       "nm_mk": "Azas Teknik Kimia II",
       "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RKM 202008",
+      "nm_mk": "Praktikum Kimia Organik",
+      "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -168,6 +168,20 @@
     {
       "kode_mk": "RKM203005",
       "nm_mk": "Sistem Manajemen Mutu",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RKM203007",
+      "nm_mk": "Praktikum Teknologi Bahan dan Korosi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RKM203006",
+      "nm_mk": "Pancasila",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -203,20 +217,6 @@
     {
       "kode_mk": "RKM203001",
       "nm_mk": "Perpindahan Panas",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RKM203006",
-      "nm_mk": "Pancasila",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RKM203007",
-      "nm_mk": "Praktikum Teknologi Bahan dan Korosi",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -292,15 +292,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RKM205001",
-      "nm_mk": "Teknik Reaksi Kimia II",
+      "kode_mk": "RKM205002",
+      "nm_mk": "Operasi Teknik Kimia III",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RKM205008",
-      "nm_mk": "Pilot Plant",
+      "kode_mk": "RKM205001",
+      "nm_mk": "Teknik Reaksi Kimia II",
       "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -320,8 +320,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RKM205004",
-      "nm_mk": "Etika Profesi",
+      "kode_mk": "RKM205008",
+      "nm_mk": "Pilot Plant",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RKM205003",
+      "nm_mk": "Dasar Perancangan Alat",
       "sks_mk": 2,
       "id_smt": "20221",
       "nilai_huruf": null
@@ -334,16 +341,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RKM205003",
-      "nm_mk": "Dasar Perancangan Alat",
+      "kode_mk": "RKM205004",
+      "nm_mk": "Etika Profesi",
       "sks_mk": 2,
-      "id_smt": "20221",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RKM205002",
-      "nm_mk": "Operasi Teknik Kimia III",
-      "sks_mk": 3,
       "id_smt": "20221",
       "nilai_huruf": null
     },

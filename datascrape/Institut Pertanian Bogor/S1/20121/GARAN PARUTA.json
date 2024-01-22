@@ -80,6 +80,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "BIO101",
+      "nm_mk": "BIOLOGI B",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "IPB108",
       "nm_mk": "BAHASA INGGRIS",
       "sks_mk": 3,
@@ -115,22 +122,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIO101",
-      "nm_mk": "BIOLOGI B",
-      "sks_mk": 2,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IPB106",
-      "nm_mk": "BAHASA INDONESIA",
-      "sks_mk": 2,
+      "kode_mk": "EKO100",
+      "nm_mk": "Ekonomi Umum",
+      "sks_mk": 3,
       "id_smt": "20122",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO100",
-      "nm_mk": "Ekonomi Umum",
+      "kode_mk": "MAT103",
+      "nm_mk": "MATEMATIKA DASAR",
       "sks_mk": 3,
       "id_smt": "20122",
       "nilai_huruf": null
@@ -150,10 +150,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAT103",
-      "nm_mk": "MATEMATIKA DASAR",
-      "sks_mk": 3,
+      "kode_mk": "IPB106",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
       "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO215",
+      "nm_mk": "EKONOMI PEMBANGUNAN I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO203",
+      "nm_mk": "TEORI MAKROEKONOMI I",
+      "sks_mk": 3,
+      "id_smt": "20131",
       "nilai_huruf": null
     },
     {
@@ -166,13 +180,6 @@
     {
       "kode_mk": "EKO201",
       "nm_mk": "TEORI MIKROEKONOMI I",
-      "sks_mk": 3,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO203",
-      "nm_mk": "TEORI MAKROEKONOMI I",
       "sks_mk": 3,
       "id_smt": "20131",
       "nilai_huruf": null
@@ -199,27 +206,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO215",
-      "nm_mk": "EKONOMI PEMBANGUNAN I",
-      "sks_mk": 3,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO216",
-      "nm_mk": "EKONOMI PEMBANGUNAN II",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO202",
-      "nm_mk": "MATEMATIKA EKONOMI",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO222",
       "nm_mk": "TEORI MAKROEKONOMI II",
       "sks_mk": 3,
@@ -234,13 +220,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO212",
-      "nm_mk": "TEORI MIKROEKONOMI II",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO208",
       "nm_mk": "EKONOMI REGIONAL DAN PERKOTAAN",
       "sks_mk": 3,
@@ -248,8 +227,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KPM210",
-      "nm_mk": "DASAR-DASAR KOMUNIKASI",
+      "kode_mk": "EKO202",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO212",
+      "nm_mk": "TEORI MIKROEKONOMI II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO216",
+      "nm_mk": "EKONOMI PEMBANGUNAN II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO317",
+      "nm_mk": "EKONOMI PERENCANAAN REGIONAL",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -262,6 +262,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MAT242",
+      "nm_mk": "MATEMATIKA KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "ESL221",
       "nm_mk": "EKONOMI SUMBERDAYA",
       "sks_mk": 3,
@@ -269,8 +276,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAT242",
-      "nm_mk": "MATEMATIKA KEUANGAN",
+      "kode_mk": "KPM210",
+      "nm_mk": "DASAR-DASAR KOMUNIKASI",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -283,8 +290,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO317",
-      "nm_mk": "EKONOMI PERENCANAAN REGIONAL",
+      "kode_mk": "EKO301",
+      "nm_mk": "EKONOMETRIKA I",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -297,15 +304,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO301",
-      "nm_mk": "EKONOMETRIKA I",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO304",
-      "nm_mk": "SISTEM EKONOMI",
+      "kode_mk": "EKO326",
+      "nm_mk": "EKONOMI KEUANGAN INTERNASIONAL",
       "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
@@ -318,6 +318,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EKO302",
+      "nm_mk": "EKONOMETRIKA II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EKO328",
       "nm_mk": "METODOLOGI PENELITIAN",
       "sks_mk": 3,
@@ -325,8 +332,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO326",
-      "nm_mk": "EKONOMI KEUANGAN INTERNASIONAL",
+      "kode_mk": "EKO304",
+      "nm_mk": "SISTEM EKONOMI",
       "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
@@ -339,22 +346,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO302",
-      "nm_mk": "EKONOMETRIKA II",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO425",
-      "nm_mk": "EKONOMI PUBLIK",
+      "kode_mk": "IKK335",
+      "nm_mk": "MANAJEMEN KEUANGAN KONSUMEN",
       "sks_mk": 3,
       "id_smt": "20151",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO497",
-      "nm_mk": "Kuliah Kerja Profesi (KKP)",
+      "kode_mk": "EKO425",
+      "nm_mk": "EKONOMI PUBLIK",
       "sks_mk": 3,
       "id_smt": "20151",
       "nilai_huruf": null
@@ -367,20 +367,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO427",
-      "nm_mk": "EKONOMI POLITIK",
-      "sks_mk": 3,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IKK335",
-      "nm_mk": "MANAJEMEN KEUANGAN KONSUMEN",
-      "sks_mk": 3,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO415",
       "nm_mk": "EKONOMI REGULASI",
       "sks_mk": 3,
@@ -388,16 +374,30 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO498",
-      "nm_mk": "SEMINAR",
-      "sks_mk": 1,
-      "id_smt": "20152",
+      "kode_mk": "EKO497",
+      "nm_mk": "Kuliah Kerja Profesi (KKP)",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO427",
+      "nm_mk": "EKONOMI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20151",
       "nilai_huruf": null
     },
     {
       "kode_mk": "EKO499",
       "nm_mk": "SKRIPSI",
       "sks_mk": 6,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO498",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 1,
       "id_smt": "20152",
       "nilai_huruf": null
     }

@@ -1,0 +1,474 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20051",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20052",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20061",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "D215003",
+      "nm_mk": "ILMU NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "D215001",
+      "nm_mk": "PENGANTAR ILMU HUKUM",
+      "sks_mk": 4,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "D215002",
+      "nm_mk": "PENGANTAR HUKUM INDONESIA",
+      "sks_mk": 4,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U215003",
+      "nm_mk": "PEND KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U215002",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U215004",
+      "nm_mk": "ILMU BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U215001",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U215005",
+      "nm_mk": "ILMU ALAMIAH DASAR",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215002",
+      "nm_mk": "HUKUM PIDANA",
+      "sks_mk": 4,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215001",
+      "nm_mk": "HUKUM PERDATA",
+      "sks_mk": 4,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215007",
+      "nm_mk": "PENGANTAR ILMU EKONOMI (PIE)",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215003",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215001",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215009",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215002",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215010",
+      "nm_mk": "HUKUM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215011",
+      "nm_mk": "HUKUM AGRARIA",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215004",
+      "nm_mk": "HUKUM ADMINISTRASI NEGARA",
+      "sks_mk": 4,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215005",
+      "nm_mk": "HUKUM INTERNASIONAL",
+      "sks_mk": 4,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215003",
+      "nm_mk": "HUKUM TATA NEGARA",
+      "sks_mk": 4,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215008",
+      "nm_mk": "HUKUM DAGANG",
+      "sks_mk": 4,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215008",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215002",
+      "nm_mk": "HUKUM PERDATA LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215014",
+      "nm_mk": "HUKUM LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215007",
+      "nm_mk": "HUKUM ISLAM LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215004",
+      "nm_mk": "BUSINESS CORESPONDENCE",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215012",
+      "nm_mk": "HUKUM ACARA PTUN",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215005",
+      "nm_mk": "PENGANTAR KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215005",
+      "nm_mk": "HUKUM ADAT LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215003",
+      "nm_mk": "HUKUM PIDANA LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215014",
+      "nm_mk": "TEORI PERANCANGAN HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215006",
+      "nm_mk": "HUKUM DAGANG LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215015",
+      "nm_mk": "HUKUM KONTRAK",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215011",
+      "nm_mk": "HUKUM PAJAK",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215013",
+      "nm_mk": "HUKUM DAN MASYARAKAT",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215004",
+      "nm_mk": "HUKUM TATA NEGARA LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215008",
+      "nm_mk": "HK ADM NEGARA LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215006",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215009",
+      "nm_mk": "HUKUM INTERNASIONAL LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G215010",
+      "nm_mk": "HUKUM DAN HAM",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215010",
+      "nm_mk": "HUKUM AGRARIA LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M215002",
+      "nm_mk": "KEMAHIRAN NON LITIGASI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G215001",
+      "nm_mk": "HUKUM PERDAGANGAN LUAR NEGERI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M215001",
+      "nm_mk": "KEMAHIRAN LITIGASI",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "J215009",
+      "nm_mk": "STUDI LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G215002",
+      "nm_mk": "HAK ATAS KEKAYAAN INTELEKTUAL",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M215003",
+      "nm_mk": "KEMAHIRAN BANTUAN HUKUM",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G215004",
+      "nm_mk": "HUKUM PENANAMAN MODAL",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G215003",
+      "nm_mk": "HUKUM PERLINDUNGAN KONSUMEN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "B215001",
+      "nm_mk": "FILSAFAT HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215006",
+      "nm_mk": "HUKUM ACARA PERDATA",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215013",
+      "nm_mk": "METODOLOGI PENELITIAN HUKUM",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "B215002",
+      "nm_mk": "ETIKA PROFESI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215012",
+      "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "N215001",
+      "nm_mk": "HUKUM KETENAGAKERJAAN",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "K215007",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "B215003",
+      "nm_mk": "PENELITIAN HUKUM/SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ENDRA PRASETYA",
+    "jk": "L",
+    "nipd": "0502510020        ",
+    "namapt": "Universitas Stikubank",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Hukum",
+    "reg_pd": "D2B2BD2A-041A-49B7-BD1F-4D7AA9105990",
+    "mulai_smt": "20051",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Putus Studi",
+    "tgl_keluar": "2012-09-05T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTcxODQyRTktRDM3Ni00NDgxLUE3NzUtQzYxRDVBN0NFMDlE",
+    "link_prodi": "/data_prodi/N0ExRDk0MEMtMjk4Ni00NkMzLTkwNDQtRTdBMTRGQ0YwRjQ0"
+  }
+}

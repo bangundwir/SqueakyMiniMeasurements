@@ -1,0 +1,602 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20153",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PHY100",
+      "nm_mk": "Fisika",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR103",
+      "nm_mk": "Farmasetika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENG100",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "POL153",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR103P",
+      "nm_mk": "Praktikum Farmasetika Dasar",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REL100",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO180",
+      "nm_mk": "Biologi Sel",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM109",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT105",
+      "nm_mk": "Matematika Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ETH100",
+      "nm_mk": "Etika Sosial",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR104",
+      "nm_mk": "Farmasi Fisik",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO121P",
+      "nm_mk": "Praktikum Mikrobiologi-Virologi",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR104P",
+      "nm_mk": "Praktikum Farmasi Fisik",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM100P",
+      "nm_mk": "Praktikum Anatomi Fisiologi Manusia",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO120",
+      "nm_mk": "Botani Farmasi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM108",
+      "nm_mk": "Kimia Organik I",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHL100",
+      "nm_mk": "Filsafat Manusia",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO120P",
+      "nm_mk": "Praktikum Botani Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO121",
+      "nm_mk": "Mikrobiologi-Virologi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM201",
+      "nm_mk": "Kimia Organik II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR332",
+      "nm_mk": "Penulisan Akademik",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO304",
+      "nm_mk": "Mikrobiologi Analisis",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR315",
+      "nm_mk": "Formulasi & Teknologi Sediaan Solida",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO220",
+      "nm_mk": "Biologi Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR315P",
+      "nm_mk": "Praktikum Formulasi & Teknologi Sediaan Solida",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM204P",
+      "nm_mk": "Praktikum Kimia Organik",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO200",
+      "nm_mk": "Imunologi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM304",
+      "nm_mk": "Farmakologi I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM215",
+      "nm_mk": "Kimia Analisis I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO106",
+      "nm_mk": "Farmakognosi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM211P",
+      "nm_mk": "Praktikum Kimia Analisis",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM200",
+      "nm_mk": "Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM211",
+      "nm_mk": "Kimia Analisis II",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR220",
+      "nm_mk": "Formulasi & Teknologi Sediaan Liquid dan Semi Solida",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM202",
+      "nm_mk": "Patofisiologi",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR220P",
+      "nm_mk": "Praktikum Formulasi & Teknologi Sediaan Liquid dan Semi Solida",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM302P",
+      "nm_mk": "Praktikum Farmakologi",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR213",
+      "nm_mk": "Farmakoterapi I",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM305",
+      "nm_mk": "Kimia Farmasi Medisinal I",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM302",
+      "nm_mk": "Farmakologi II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM201",
+      "nm_mk": "Kimia Organik II",
+      "sks_mk": 2,
+      "id_smt": "20153",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM102",
+      "nm_mk": "Anatomi Fisiologi Manusia",
+      "sks_mk": 2,
+      "id_smt": "20153",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR214",
+      "nm_mk": "Komunikasi Kefarmasian",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO222P",
+      "nm_mk": "Praktikum Fitokimia-Farmakog",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR221P",
+      "nm_mk": "Praktikum Formulasi & Teknologi Sediaan Steril",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO205",
+      "nm_mk": "Fitokimia",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR221",
+      "nm_mk": "Formulasi & Teknologi Sediaan Steril",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR370",
+      "nm_mk": "Biofarmasetika",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM317",
+      "nm_mk": "Analisis Sediaan Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR337P",
+      "nm_mk": "Praktikum Dasar Farmasi Komunitas",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR337",
+      "nm_mk": "Dasar Farmasi Komunitas",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM315P",
+      "nm_mk": "Praktikum Analisis Sediaan Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR318",
+      "nm_mk": "Farmakoterapi 2",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM104",
+      "nm_mk": "Praktikum Diagnostik Klinik",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PST301",
+      "nm_mk": "Teknologi Pengemasan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHM103",
+      "nm_mk": "Diagnostik Klinik",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR470P",
+      "nm_mk": "Praktikum Farmakokinetika",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR319",
+      "nm_mk": "Jaminan Mutu I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR470",
+      "nm_mk": "Farmakokinetika",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PST302",
+      "nm_mk": "Sistem Penghantaran Obat",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PST420",
+      "nm_mk": "Polimer untuk Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO320",
+      "nm_mk": "Teknologi Bahan Alam",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO320P",
+      "nm_mk": "Praktikum Teknologi Bahan Alam",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO361",
+      "nm_mk": "Bioteknologi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR222",
+      "nm_mk": "Metodologi Penelitian & Statistik",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR404",
+      "nm_mk": "Proposal Skripsi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PST402",
+      "nm_mk": "Jaminan Mutu 2",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR412",
+      "nm_mk": "Kosmetik",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR420",
+      "nm_mk": "Dasar Manajemen Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LAW402",
+      "nm_mk": "Undang-undang & Etika",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM306",
+      "nm_mk": "Kimia Farmasi Medisinal II",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHM215",
+      "nm_mk": "Kimia Analisis I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ECO422",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR499",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHR404",
+      "nm_mk": "Proposal Skripsi",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PST416",
+      "nm_mk": "Internship FST/FKK",
+      "sks_mk": 6,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NATHANIA",
+    "jk": "P",
+    "nipd": "2443014008        ",
+    "namapt": "Universitas Katolik Widya Mandala Surabaya",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "29624E50-AB21-41EC-A9ED-D726C55CAF5D",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-07-25T00:00:00Z",
+    "no_seri_ijazah": "2.18.243.081",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RDZGM0Q5REUtODU3RS00RUZBLUIwN0EtNEIwNkNGODQwNjBE",
+    "link_prodi": "/data_prodi/NTAzMkZDQjItNTJFQy00MTJELTlBMzgtMjNBNDMxMENFMEM2"
+  }
+}

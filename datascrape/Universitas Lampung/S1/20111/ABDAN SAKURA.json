@@ -105,6 +105,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "FI348",
+      "nm_mk": "PREPARASI DAN KARAKTERISASI BAHAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "FI360",
       "nm_mk": "PRAKTIKUM SISTEM DIGITAL",
       "sks_mk": 3,
@@ -119,13 +126,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FI349",
-      "nm_mk": "PRAKTPREPARASI DAN KARAKTERISASI BAHAN",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "FI345",
       "nm_mk": "PENDAHULUAN FISIKA INTI",
       "sks_mk": 2,
@@ -133,36 +133,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FI348",
-      "nm_mk": "PREPARASI DAN KARAKTERISASI BAHAN",
-      "sks_mk": 2,
+      "kode_mk": "FI349",
+      "nm_mk": "PRAKTPREPARASI DAN KARAKTERISASI BAHAN",
+      "sks_mk": 3,
       "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FI476",
-      "nm_mk": "SEMINAR FISIKA",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FI475",
-      "nm_mk": "PRAKTEK KERJA LAPANGAN",
-      "sks_mk": 3,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FI335",
-      "nm_mk": "SENSOR DAN PENGKONDISIAN SINYAL",
-      "sks_mk": 2,
-      "id_smt": "20141",
       "nilai_huruf": null
     },
     {
       "kode_mk": "FI333",
       "nm_mk": "OPTIK",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI476",
+      "nm_mk": "SEMINAR FISIKA",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -175,16 +161,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FI336",
-      "nm_mk": "PRAKT SENSOR DAN PENGKONDISIAN SINYAL",
+      "kode_mk": "FI477",
+      "nm_mk": "WORKSHOP FISIKA",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FI477",
-      "nm_mk": "WORKSHOP FISIKA",
-      "sks_mk": 3,
+      "kode_mk": "FI335",
+      "nm_mk": "SENSOR DAN PENGKONDISIAN SINYAL",
+      "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -196,22 +182,36 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "FI475",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI336",
+      "nm_mk": "PRAKT SENSOR DAN PENGKONDISIAN SINYAL",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI357",
+      "nm_mk": "MIKROSKOPI ELEKTRON",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI358",
+      "nm_mk": "ELEKTRONIKA LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "FI490",
       "nm_mk": "PRAKTIKUM MIKROKONTROLER",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FI225",
-      "nm_mk": "FISIKA STATISTIK",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "UNI401",
-      "nm_mk": "KULIAH KERJA NYATA",
       "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
@@ -220,6 +220,13 @@
       "kode_mk": "FI361",
       "nm_mk": "BAHASA ASSEMBLER",
       "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FI225",
+      "nm_mk": "FISIKA STATISTIK",
+      "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
     },
@@ -245,9 +252,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FI357",
-      "nm_mk": "MIKROSKOPI ELEKTRON",
-      "sks_mk": 2,
+      "kode_mk": "FI364",
+      "nm_mk": "PRAKTIKUM PEMROSESAN SINYAL DIGITAL",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI401",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
     },
@@ -262,20 +276,6 @@
       "kode_mk": "FI356",
       "nm_mk": "DIFRAKSI SINAR-X",
       "sks_mk": 2,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FI358",
-      "nm_mk": "ELEKTRONIKA LANJUT",
-      "sks_mk": 2,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FI364",
-      "nm_mk": "PRAKTIKUM PEMROSESAN SINYAL DIGITAL",
-      "sks_mk": 3,
       "id_smt": "20142",
       "nilai_huruf": null
     },

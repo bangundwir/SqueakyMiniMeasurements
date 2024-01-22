@@ -1,0 +1,474 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "STIS2301ST",
+      "nm_mk": "Pengantar Demografi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1203ST",
+      "nm_mk": "Pengantar Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS2302ST",
+      "nm_mk": "Pengantar Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1301ST",
+      "nm_mk": "Metode Statistik I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1201ST",
+      "nm_mk": "Aljabar Linier",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1202ST",
+      "nm_mk": "Pengantar Matematika",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1403ST",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1302ST",
+      "nm_mk": "Praktikum Metode Statistik I",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1125ST",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1526ST",
+      "nm_mk": "Pengantar Sosiologi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1228ST",
+      "nm_mk": "Pengantar Teori Peluang",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1221ST",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1422ST",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1124ST",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS2327ST",
+      "nm_mk": "Pengantar Studi Kependudukan",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1223ST",
+      "nm_mk": "Kalkulus I",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1209ST",
+      "nm_mk": "Praktikum Metode Penarikan Contoh I",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1207ST",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS2306",
+      "nm_mk": "Program Pengolahan Data Statistik",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS008X",
+      "nm_mk": "SNN & PDB (Tkt. II)",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1210ST",
+      "nm_mk": "Statistika Matematika",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1208ST",
+      "nm_mk": "Metode Penarikan Contoh I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1307ST",
+      "nm_mk": "Praktikum Metode Statistik II",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1305ST",
+      "nm_mk": "Metode Statistik II",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS2305",
+      "nm_mk": "Ekonomi Pembangunan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1213",
+      "nm_mk": "Pemrograman Terstruktur",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1244",
+      "nm_mk": "Pengantar Model Linier",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21226",
+      "nm_mk": "Statistika Matematika II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21227",
+      "nm_mk": "STATISTIKA NON PARAMETRIK",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1211ST",
+      "nm_mk": "Metode Penarikan Contoh II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS2404ST",
+      "nm_mk": "Statistik Sosial & Kependudukan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1212ST",
+      "nm_mk": "Praktikum Metode Penarikan Contoh II",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1303SK",
+      "nm_mk": "Analisis Regresi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK2302",
+      "nm_mk": "Sosiometrik (Tkt. III)",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21333",
+      "nm_mk": "Statistik Produksi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS009XSK",
+      "nm_mk": "Survei Contoh",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "22332",
+      "nm_mk": "Teknik Demografi I",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21332",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK005X",
+      "nm_mk": "Analisis Data Kategorik (SK)",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "22338",
+      "nm_mk": "Teknik Demografi II",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS012XSK",
+      "nm_mk": "Statistik Distribusi & Jasa",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "22336",
+      "nm_mk": "Analisis Ketahanan Hidup",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1460SK",
+      "nm_mk": "Praktik Kerja Lapangan (PKL)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK011X",
+      "nm_mk": "Riset Operasi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS010XSK",
+      "nm_mk": "Sistem Informasi Geografis",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK1502",
+      "nm_mk": "Teknik Komunikasi dan Bermasyarakat (SK)",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK2305",
+      "nm_mk": "Urbanisasi dan Migrasi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1482SK",
+      "nm_mk": "Komprehensif",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS130X",
+      "nm_mk": "Analisis Peubah Ganda (SK)",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK2304",
+      "nm_mk": "Fertilitas dan Mortalitas",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK020X",
+      "nm_mk": "Manajemen & Administrasi Perkantoran (SK)",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1103SK",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK3501",
+      "nm_mk": "Pengantar Psikologi (SK)",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK008X",
+      "nm_mk": "Manajemen SDM (SK)",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1487SK",
+      "nm_mk": "Sidang Skripsi",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STIS1486SK",
+      "nm_mk": "Seminar Skripsi",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STSK2301",
+      "nm_mk": "Ekonomi Tenaga Kerja",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RAINA SARI",
+    "jk": "P",
+    "nipd": "12.7327",
+    "namapt": "Politeknik Statistika STIS",
+    "namajenjang": "D4",
+    "namaprodi": "Statistika",
+    "reg_pd": "E659E54B-25CD-4C5F-A123-85A82580A00D",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-10-07T00:00:00Z",
+    "no_seri_ijazah": "172/SK/STIS-XX/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MzlBMUExQzktNjIzNS00RkY2LUI2Q0UtMjYzQTAzQUExRkFB",
+    "link_prodi": "/data_prodi/Rjk4NEEyNkItNkQ0Ri00NzkwLUEyN0ItNUI5ODI1NTRDNTU4"
+  }
+}

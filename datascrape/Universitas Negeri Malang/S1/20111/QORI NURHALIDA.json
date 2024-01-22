@@ -57,6 +57,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "IPA402-46201-10",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "BID405-46201-10",
       "nm_mk": "Praktikum Kimia",
       "sks_mk": 1,
@@ -71,9 +78,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "IPA400-46201-10",
-      "nm_mk": "Fisika Umum",
-      "sks_mk": 4,
+      "kode_mk": "MPK433-46201-10",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
     },
@@ -85,43 +92,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MPK433-46201-10",
-      "nm_mk": "Pendidikan Kewarganegaraan",
+      "kode_mk": "IPA400-46201-10",
+      "nm_mk": "Fisika Umum",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK427-46201-10",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
       "sks_mk": 2,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "IPA402-46201-10",
-      "nm_mk": "Biologi Umum",
-      "sks_mk": 3,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIO408-46201-10",
-      "nm_mk": "Biokimia",
-      "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
     },
     {
       "kode_mk": "BIO409-46201-10",
       "nm_mk": "Botani Tumbuhan Bertalus",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MPK432-46201-10",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIO407-46201-10",
-      "nm_mk": "Statistika",
       "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -141,9 +127,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MPK427-46201-10",
-      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "kode_mk": "MPK432-46201-10",
+      "nm_mk": "Pendidikan Pancasila",
       "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO407-46201-10",
+      "nm_mk": "Statistika",
+      "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -162,17 +155,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIO415-46201-10",
-      "nm_mk": "Histologi",
+      "kode_mk": "BIO408-46201-10",
+      "nm_mk": "Biokimia",
       "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIO414-46201-10",
-      "nm_mk": "Anatomi Tumbuhan",
-      "sks_mk": 3,
-      "id_smt": "20121",
+      "id_smt": "20112",
       "nilai_huruf": null
     },
     {
@@ -204,6 +190,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "BIO415-46201-10",
+      "nm_mk": "Histologi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO414-46201-10",
+      "nm_mk": "Anatomi Tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "BIO413-46201-10",
       "nm_mk": "Morfologi Tumbuhan",
       "sks_mk": 3,
@@ -225,9 +225,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIO419-46201-10",
-      "nm_mk": "Fisiologi Hewan",
-      "sks_mk": 3,
+      "kode_mk": "BIO424-46201-10",
+      "nm_mk": "Ekologi Hewan",
+      "sks_mk": 2,
       "id_smt": "20122",
       "nilai_huruf": null
     },
@@ -235,13 +235,6 @@
       "kode_mk": "BIO420-46201-10",
       "nm_mk": "Perkembangan Hewan",
       "sks_mk": 3,
-      "id_smt": "20122",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIO424-46201-10",
-      "nm_mk": "Ekologi Hewan",
-      "sks_mk": 2,
       "id_smt": "20122",
       "nilai_huruf": null
     },
@@ -267,6 +260,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "BIO419-46201-10",
+      "nm_mk": "Fisiologi Hewan",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO426-46201-07",
+      "nm_mk": "Anatomi Fisiologi Manusia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "BIA427-46201-07",
       "nm_mk": "Biogeografi",
       "sks_mk": 2,
@@ -281,8 +288,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIO426-46201-07",
-      "nm_mk": "Anatomi Fisiologi Manusia",
+      "kode_mk": "BIA417-46201-07",
+      "nm_mk": "Entomologi",
       "sks_mk": 3,
       "id_smt": "20131",
       "nilai_huruf": null
@@ -295,23 +302,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIA417-46201-07",
-      "nm_mk": "Entomologi",
-      "sks_mk": 3,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "BIO429-46201-07",
       "nm_mk": "Biometri",
       "sks_mk": 2,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIA416-46201-07",
-      "nm_mk": "Tingkah Laku Hewan",
-      "sks_mk": 3,
       "id_smt": "20131",
       "nilai_huruf": null
     },
@@ -323,9 +316,51 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "BIA416-46201-07",
+      "nm_mk": "Tingkah Laku Hewan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "BIO435-46201-07",
       "nm_mk": "Pengetahuan Lingkungan",
       "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA447-46201-07",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM419-46201-03",
+      "nm_mk": "Kultur Jaringan Hewan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA423-46201-07",
+      "nm_mk": "Pemeliharaan Hewan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO430-46201-07",
+      "nm_mk": "Teknik Analisis Biologi Molekuler (TABM)",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA420-46201-07",
+      "nm_mk": "Teratologi",
+      "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
     },
@@ -344,41 +379,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIA447-46201-07",
-      "nm_mk": "Seminar",
-      "sks_mk": 1,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIO430-46201-07",
-      "nm_mk": "Teknik Analisis Biologi Molekuler (TABM)",
-      "sks_mk": 2,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIA423-46201-07",
-      "nm_mk": "Pemeliharaan Hewan",
-      "sks_mk": 2,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIA420-46201-07",
-      "nm_mk": "Teratologi",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "BIM419-46201-03",
-      "nm_mk": "Kultur Jaringan Hewan",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "BIA422-46201-07",
       "nm_mk": "Parasitologi",
       "sks_mk": 3,
@@ -386,16 +386,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIA445-46201-11",
-      "nm_mk": "Limnologi",
-      "sks_mk": 3,
+      "kode_mk": "BIO434-46201-11",
+      "nm_mk": "Evolusi",
+      "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIA424-46201-11",
-      "nm_mk": "Ilmu Gizi",
-      "sks_mk": 2,
+      "kode_mk": "BIA445-46201-11",
+      "nm_mk": "Limnologi",
+      "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
     },
@@ -414,16 +414,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIO434-46201-11",
-      "nm_mk": "Evolusi",
-      "sks_mk": 2,
+      "kode_mk": "BIA419-46201-11",
+      "nm_mk": "Fisiologi Reproduksi",
+      "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "BIA419-46201-11",
-      "nm_mk": "Fisiologi Reproduksi",
-      "sks_mk": 3,
+      "kode_mk": "BIA424-46201-11",
+      "nm_mk": "Ilmu Gizi",
+      "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
     },

@@ -1,0 +1,431 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KIP901",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMK003",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD322",
+      "nm_mk": "Pendidikan Jasmani",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD531",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD535",
+      "nm_mk": "IPS Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD406",
+      "nm_mk": "Seni Musik dan Seni Suara",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP927",
+      "nm_mk": "Literasi Teknologi Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD533",
+      "nm_mk": "IPA Biologi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD503",
+      "nm_mk": "Kepramukaan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD529",
+      "nm_mk": "Bahasa Indonesia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMK001",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMK002",
+      "nm_mk": "Pendidikan Pancasila dan PKn",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP902",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD532",
+      "nm_mk": "Matematika Lanjut",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMK004",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD534",
+      "nm_mk": "IPA Fisika",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP910",
+      "nm_mk": "Kurikulum dan Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD536",
+      "nm_mk": "IPS Lanjut",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD537",
+      "nm_mk": "PKn Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP926",
+      "nm_mk": "Literasi Humanis",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD540",
+      "nm_mk": "Pembelajaran Matematika SD",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD407",
+      "nm_mk": "Seni Rupa dan Seni Kriya",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD530",
+      "nm_mk": "Bahasa Indonesia Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD522",
+      "nm_mk": "Strategi Pembelajaran SD",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD524",
+      "nm_mk": "Literasi Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD315",
+      "nm_mk": "Ilmu Pengetahuan Bumi dan Antariksa",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP930",
+      "nm_mk": "Pengenalan Lapangan Persekolahan  (PLP) I",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP911",
+      "nm_mk": "Pengembangan Materi Ajar MTK",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD543",
+      "nm_mk": "Pembelajaran Kewarganegaraan SD",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP915",
+      "nm_mk": "Perencanaan Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD550",
+      "nm_mk": "Budaya Lokal",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD504",
+      "nm_mk": "Dasar - Dasar Olah Raga",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD541",
+      "nm_mk": "Pembelajaran IPA SD",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD542",
+      "nm_mk": "Pembelajaran IPS SD",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP928",
+      "nm_mk": "Literasi Teknologi Lanjut",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD539",
+      "nm_mk": "Pembelajaran Bahasa Indonesia SD",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD521",
+      "nm_mk": "Media Pembelajaran SD",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP921",
+      "nm_mk": "Pedoman Penulisan Karya Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP914",
+      "nm_mk": "Evaluasi Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD517",
+      "nm_mk": "TEYL for Reading",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP904",
+      "nm_mk": "Profesi Kependidikan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD506",
+      "nm_mk": "Olah Raga Aquatik",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD544",
+      "nm_mk": "Olahraga & Rekreasi",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP929",
+      "nm_mk": "Pengajaran Mikro",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD501",
+      "nm_mk": "Pembelajaran Tematik I",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD301",
+      "nm_mk": "Bimbingan dan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD538",
+      "nm_mk": "Pembelajaran Sastra SD",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP932",
+      "nm_mk": "Quantitative Research Methodology",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP931",
+      "nm_mk": "Qualitative Research Methodology",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD545",
+      "nm_mk": "Kesehatan Sekolah",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD526",
+      "nm_mk": "Pendidikan Inklusi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIP924",
+      "nm_mk": "Pengenalan Lapangan Persekolahan (PLP 2)",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPD525",
+      "nm_mk": "Digital Marketing",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KAVITA FEBIAN",
+    "jk": "P",
+    "nipd": "120190072",
+    "namapt": "Universitas Swadaya Gunung Jati",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Guru Sekolah Dasar",
+    "reg_pd": "10CB7160-B874-46E8-A27F-9542B1BCBAB2",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEIwOURFNkMtMThEMC00NkRFLUFGOTMtRjIyQUNFMjNCOTRG",
+    "link_prodi": "/data_prodi/OURDQkZFQzEtNEFFMS00Q0FDLTg1NjAtNjQyMzk3NkM3Rjgy"
+  }
+}

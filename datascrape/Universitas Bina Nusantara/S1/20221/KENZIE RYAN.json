@@ -1,0 +1,180 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "CHAR6013005",
+      "nm_mk": "Pengembangan Karakter: Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MGMT6011005",
+      "nm_mk": "Pengantar Manajemen dan Bisnis",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MGMT6012005",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATH6176005",
+      "nm_mk": "Matematika Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISYS6181005",
+      "nm_mk": "Sistem Informasi Manajemen untuk Pemimpin",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKTG6318005",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MGMT6297005",
+      "nm_mk": "Manajemen Operasional",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LANG6027005",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BUSS6066005",
+      "nm_mk": "Etika Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHAR6014005",
+      "nm_mk": "Pengembangan Karakter: Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ECON6099005",
+      "nm_mk": "Ekonomi Bisnis",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ACCT6351005",
+      "nm_mk": "Akuntansi untuk Bisnis",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STAT6206005",
+      "nm_mk": "Statistik Bisnis I",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BUSS6171005",
+      "nm_mk": "Manajemen Bisnis Berkelanjutan",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MGMT6011020",
+      "nm_mk": "Pengantar Manajemen dan Bisnis",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MGMT6239005",
+      "nm_mk": "Manajemen Operasional Pelayanan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STAT6207005",
+      "nm_mk": "Statistik Bisnis II",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHAR6015020",
+      "nm_mk": "Pengembangan Karakter: Agama",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FINC6001005",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENTR6509005",
+      "nm_mk": "Kewirausahaan: Membuat Ide",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KENZIE RYAN",
+    "jk": "L",
+    "nipd": "2602125426",
+    "namapt": "Universitas Bina Nusantara",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "7556D4C4-A0A5-42E3-BFEC-1B5A8DCCBB5F",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkM5MTc1NUUtNTBFNS00QUNGLUI0NTQtMzdBMDU4QkE5QkNC",
+    "link_prodi": "/data_prodi/RDg1MUI5NTUtOUVDNC00MzM0LThBNjctNTM2RThFRTZBOTQ4"
+  }
+}

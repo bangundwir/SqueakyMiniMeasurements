@@ -1,0 +1,392 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20173",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK4008",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61110",
+      "nm_mk": "Manajemen & Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COM60010",
+      "nm_mk": "Pemrograman Dasar",
+      "sks_mk": 5,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COM60012",
+      "nm_mk": "Matematika Komputasi",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU0008",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COM60013",
+      "nm_mk": "Pengantar Ilmu Komputer",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK4007",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62121",
+      "nm_mk": "Sistem Bisnis Fungsional",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CSD60022",
+      "nm_mk": "Pemrograman Lanjut",
+      "sks_mk": 5,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COM60011",
+      "nm_mk": "Arsitektur & Organisasi Komputer",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CSD60021",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62120",
+      "nm_mk": "Interaksi Manusia & Komputer",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61132",
+      "nm_mk": "Dasar Pengembangan Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61133",
+      "nm_mk": "Pemodelan Proses Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61130",
+      "nm_mk": "Dasar Desain Antarmuka Pengguna",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61152",
+      "nm_mk": "Manajemen Investasi Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61131",
+      "nm_mk": "Algoritma dan Struktur Data",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CSD60032",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CSD60031",
+      "nm_mk": "Dasar Basis Data",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CSD60041",
+      "nm_mk": "Statistika",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK4006",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62142",
+      "nm_mk": "Analisis dan Desain Sistem Informasi",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62143",
+      "nm_mk": "Desain Interaksi dan Antarmuka Pengguna",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK4001",
+      "nm_mk": "Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62141",
+      "nm_mk": "Pemrograman Aplikasi Berbasis Web",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62140",
+      "nm_mk": "Administrasi Basis Data",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62264",
+      "nm_mk": "Evaluasi Pengalaman dan Antarmuka Pengguna",
+      "sks_mk": 3,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61252",
+      "nm_mk": "Manajemen Hubungan Pelanggan",
+      "sks_mk": 3,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61151",
+      "nm_mk": "Tata kelola Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61154",
+      "nm_mk": "Sistem Enterprise",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COM60062",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61150",
+      "nm_mk": "Implementasi dan Pengujian Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4005",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61250",
+      "nm_mk": "Sistem Pendukung Keputusan",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS61153",
+      "nm_mk": "Data Warehouse",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62284",
+      "nm_mk": "Manajemen Risiko",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62282",
+      "nm_mk": "Manajemen Rantai Suplai",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62161",
+      "nm_mk": "Perencanaan Strategis Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62283",
+      "nm_mk": "Data Mining",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62260",
+      "nm_mk": "Manajemen Layanan Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62160",
+      "nm_mk": "Manajemen Proyek Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CIS62162",
+      "nm_mk": "Evaluasi dan Audit Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COM60061",
+      "nm_mk": "Metodologi Penelitian Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4002",
+      "nm_mk": "Praktik Kerja Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4001",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UBU4001",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "PANJI WICAKSONO",
+    "jk": "L",
+    "nipd": "165150407111034",
+    "namapt": "Universitas Brawijaya",
+    "namajenjang": "S1",
+    "namaprodi": "Sistem Informasi",
+    "reg_pd": "44A66D2D-97B2-4A13-B98D-97FF9C58ADA1",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-06-26T00:00:00Z",
+    "no_seri_ijazah": "161838/UB/S1/2020",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTlBM0I3QUYtNjQ3MC00RDE4LThCMDYtMDk5NDFFNjYzQjA3",
+    "link_prodi": "/data_prodi/MzVFMTI3QzMtRDI2NC00Q0EwLUJGMjYtODA4NTZGNDc0RDZG"
+  }
+}

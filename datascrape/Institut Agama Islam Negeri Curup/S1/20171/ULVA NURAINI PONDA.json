@@ -1,0 +1,544 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "NAS303",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR207",
+      "nm_mk": "ILMU PENDIDIKAN ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS207",
+      "nm_mk": "AKHLAK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS205",
+      "nm_mk": "FIQH IBADAH",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR201",
+      "nm_mk": "BIMBINGAN KONSELING",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS206",
+      "nm_mk": "ILMU TAUHID",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS301",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NAS202",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR202",
+      "nm_mk": "SEJARAH PENDIDIKAN ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS202",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS203",
+      "nm_mk": "ULUMUL QURAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR208",
+      "nm_mk": "MANAJEMEN PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS204",
+      "nm_mk": "ULUMUL HADITS",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR206",
+      "nm_mk": "FILSAFAT PENDIDIKAN ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI302",
+      "nm_mk": "ILMU PENGETAHUAN ALAM SD/MI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR203",
+      "nm_mk": "TAFSIR TARBAWI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS201",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI303",
+      "nm_mk": "ILMU PENGETAHUAN SOSIAL SD/MI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI301",
+      "nm_mk": "ILMU KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI204",
+      "nm_mk": "TEORI BELAJAR DAN PEMBELAJARAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR205",
+      "nm_mk": "FIQH",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI209",
+      "nm_mk": "SEJARAH KEBUDAYAAN ISLAM MI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI305",
+      "nm_mk": "BUDAYA LOKAL DAN KA GA NGA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR209",
+      "nm_mk": "PSIKOLOGI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI208",
+      "nm_mk": "PENDIDIKAN ANTI KORUPSI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI310",
+      "nm_mk": "STRATEGI PEMBELAJARAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR210",
+      "nm_mk": "STATISTIK PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR204",
+      "nm_mk": "HADITS TARBAWI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI307",
+      "nm_mk": "MATEMATIKA SD/MI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI306",
+      "nm_mk": "JASMANI DAN OLAHRAGA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI215",
+      "nm_mk": "PEMBELAJARAN ALQURAN HADITS MI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI219",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI217",
+      "nm_mk": "PEMBELAJARAN FIQH MI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI213",
+      "nm_mk": "KETERAMPILAN SD/MI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI211",
+      "nm_mk": "EDUPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI314",
+      "nm_mk": "MEDIA/SUMBER PEMBELAJARAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI218",
+      "nm_mk": "PEMBELAJARAN SEJARAH KEBUDAYAAN ISLAM MI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI316",
+      "nm_mk": "PEMBELAJARAN AQIDAH AKHLAK MI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR211",
+      "nm_mk": "METODE PENELITIAN PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI212",
+      "nm_mk": "KESENIAN SD/MI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI328",
+      "nm_mk": "TELAAH KURIKULUM MI",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR212",
+      "nm_mk": "EVALUASI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI224",
+      "nm_mk": "PEMBELAJARAN JASMANI DAN OLAHRAGA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI226",
+      "nm_mk": "PEMBELAJARAN KETERAMPILAN SD/MI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI222",
+      "nm_mk": "PEMBELAJARAN ILMU PENGETAHUAN ALAM SD/MI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI225",
+      "nm_mk": "PEMBELAJARAN KESENIAN SD/MI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI221",
+      "nm_mk": "PEMBELAJARAN BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI327",
+      "nm_mk": "PEMBELAJARAN TEMATIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI223",
+      "nm_mk": "PEMBELAJARAN ILMU PENGETAHUAN SOSIAL SD/MI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI236",
+      "nm_mk": "MANAJEMEN LEMBAGA PENDIDIKAN SD/MI*",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI232",
+      "nm_mk": "PENELITIAN TINDAKAN KELAS",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI231",
+      "nm_mk": "PEMBELAJARAN MATEMATIKA SD/MI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI234",
+      "nm_mk": "BIMBINGAN PENULISAN SKRIPSI*",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI243",
+      "nm_mk": "PENGEMBANGAN BAKAT DAN KREATIVITAS ANAK*",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI329",
+      "nm_mk": "MICROTEACHING",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI333",
+      "nm_mk": "PERENCANAAN PEMBELAJARAN SD/MI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI242",
+      "nm_mk": "PENDIDIKAN KARAKTER ANAK*",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI241",
+      "nm_mk": "PENDIDIKAN ANAK BERSPEKTIF GENDER*",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI230",
+      "nm_mk": "PEMBELAJARAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR413",
+      "nm_mk": "PRAKTEK PENGALAMAN LAPANGAN",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI225",
+      "nm_mk": "PEMBELAJARAN KESENIAN SD/MI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GMI220",
+      "nm_mk": "ETIKA DAN PROFESI GURU",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS408",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR201",
+      "nm_mk": "BIMBINGAN KONSELING",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS609",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS609",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS609",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ULVA NURAINI PONDA",
+    "jk": "P",
+    "nipd": "17591140",
+    "namapt": "Institut Agama Islam Negeri Curup",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Guru Madrasah Ibtidaiyah",
+    "reg_pd": "9B670ACA-5725-47D3-A077-C313049E4924",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Pindahan Alih Bentuk",
+    "nm_pt_asal": "STAIN Curup",
+    "nm_prodi_asal": "Pendidikan Guru Madrasah Ibtidaiyah",
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-11-29T00:00:00Z",
+    "no_seri_ijazah": "862322022000027",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTBFQjU1RUMtM0Q0Mi00NDNBLTlGQUEtQzYyQzk2Qjc5RDVF",
+    "link_prodi": "/data_prodi/NUUwQzE1QUEtQUQ1Mi00QjU4LUI5NkUtMTUzMEUzNTM3QjFB"
+  }
+}

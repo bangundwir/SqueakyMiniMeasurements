@@ -1,0 +1,347 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BID204",
+      "nm_mk": "Biologi Kedokteran",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIH101",
+      "nm_mk": "Histologi Kedokteran",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ETK101",
+      "nm_mk": "Etika Kedokteran",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI101",
+      "nm_mk": "Berpikir Kritis, Keterampilan Belajar dan EBL",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI216",
+      "nm_mk": "Social Aspect of Medicine",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI115",
+      "nm_mk": "Modul GELS I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMP201",
+      "nm_mk": "Ilmu Kesehatan Masyarakat-Kedokteran Pencegahan I",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI204",
+      "nm_mk": "Ilmu Kedokteran Tropis",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI111",
+      "nm_mk": "Ketrampilan Medik 2",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDM201",
+      "nm_mk": "Mikrobiologi Kedokteran",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDM203",
+      "nm_mk": "Parasitologi Kedokteran",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT209",
+      "nm_mk": "Farmakologi dan Terapi",
+      "sks_mk": 5,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI219",
+      "nm_mk": "Sistem Muskuloskeletal",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI221",
+      "nm_mk": "Sistem Endokrin, Metabolik dan Nutrisi",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI220",
+      "nm_mk": "Sistem Gastrointestinal, Hepatobilier dan Pankreas",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI202",
+      "nm_mk": "Penelitian I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI222",
+      "nm_mk": "Sistem Kardiorespirasi",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI217",
+      "nm_mk": "Growth and Development",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI306",
+      "nm_mk": "Sistem Ginjal dan Saluran Kemih",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI308",
+      "nm_mk": "Sistem Imunologi dan Hematologi",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI309",
+      "nm_mk": "Neuropsikiatri",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI307",
+      "nm_mk": "Sistem Reproduksi",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI310",
+      "nm_mk": "Sistem Indra",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI205",
+      "nm_mk": "Ketrampilan Medik 3",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMP301",
+      "nm_mk": "Ilmu Kesehatan Masyarakat Dan Pencegahan II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNS314",
+      "nm_mk": "Manajemen Pelayanan Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDP301",
+      "nm_mk": "Ilmu Kesehatan Anak",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGP401",
+      "nm_mk": "Agama Kristen Protestan II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KNK401",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI303",
+      "nm_mk": "Ketrampilan Medik 4",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDD301",
+      "nm_mk": "Ilmu Penyakit Dalam",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI312",
+      "nm_mk": "Neuropsikiatri dan Rehabilitasi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI116",
+      "nm_mk": "Modul General Emergency Life Support II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI402",
+      "nm_mk": "Ilmu Penyakit Indra (Mata, THT-KL, Dermatologi dan Venerologi)",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI311",
+      "nm_mk": "Comprehensive Clinical Skills",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDO401",
+      "nm_mk": "Obstetri dan Ginekologi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI403",
+      "nm_mk": "Ilmu Penunjang Klinik (Radiologi dan Anestesi dan Reanimasi)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI301",
+      "nm_mk": "Penelitian II",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDY301",
+      "nm_mk": "Ilmu Kedokteran Forensik dan Medikolegal",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDB401",
+      "nm_mk": "Ilmu Bedah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDI401",
+      "nm_mk": "Elektif",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JOHAN SEBASTIAN TJIOEWINATA",
+    "jk": "L",
+    "nipd": "011711133087",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "S1",
+    "namaprodi": "Kedokteran",
+    "reg_pd": "85759F71-4491-42D4-9537-77D6DC60A028",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-02-16T00:00:00Z",
+    "no_seri_ijazah": "112012021000199",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/NDc0QTE4MzMtMkY1Ni00MENCLTk2RDktRkY4QUFFQTIzRjE4"
+  }
+}

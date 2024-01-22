@@ -47,6 +47,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "REC161008",
+      "nm_mk": "Rangkaian Listrik",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "REC161009",
       "nm_mk": "Elektronika Digital 1",
       "sks_mk": 2,
@@ -124,15 +131,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC161008",
-      "nm_mk": "Rangkaian Listrik",
-      "sks_mk": 4,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "REC162012",
-      "nm_mk": "Praktek Bengkel Elektronika",
+      "kode_mk": "REC162005",
+      "nm_mk": "Sistem Kendali 1",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -152,13 +152,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC162005",
-      "nm_mk": "Sistem Kendali 1",
-      "sks_mk": 2,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "REC162006",
       "nm_mk": "Elektronika Digital 2",
       "sks_mk": 2,
@@ -173,9 +166,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "REC162012",
+      "nm_mk": "Praktek Bengkel Elektronika",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "REC162001",
       "nm_mk": "Sistem Management Mutu 2",
       "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC162004",
+      "nm_mk": "Elektronika Analog 1",
+      "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
@@ -196,13 +203,6 @@
     {
       "kode_mk": "REC162011",
       "nm_mk": "Praktikum Elektronika Digital 1",
-      "sks_mk": 2,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "REC162004",
-      "nm_mk": "Elektronika Analog 1",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -236,13 +236,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC163008",
-      "nm_mk": "MIkroprosesor dan Interface",
-      "sks_mk": 1,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "REC163005",
       "nm_mk": "Elektronika Analog 2",
       "sks_mk": 2,
@@ -252,6 +245,27 @@
     {
       "kode_mk": "REC163004",
       "nm_mk": "Rangkaian Linear Aktif",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC163012",
+      "nm_mk": "Praktikum Elektronika Digital 2",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC163008",
+      "nm_mk": "MIkroprosesor dan Interface",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC163013",
+      "nm_mk": "Praktikum Sistem Kendali 1",
       "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -271,22 +285,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC163013",
-      "nm_mk": "Praktikum Sistem Kendali 1",
-      "sks_mk": 2,
+      "kode_mk": "REC163006",
+      "nm_mk": "Sensor dan Akuator",
+      "sks_mk": 1,
       "id_smt": "20171",
       "nilai_huruf": null
     },
     {
       "kode_mk": "REC163003",
       "nm_mk": "Sinyal dan Sistem",
-      "sks_mk": 1,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "REC163006",
-      "nm_mk": "Sensor dan Akuator",
       "sks_mk": 1,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -299,22 +306,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC163012",
-      "nm_mk": "Praktikum Elektronika Digital 2",
-      "sks_mk": 2,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "REC164004",
-      "nm_mk": "Intrumentasi Industri",
+      "kode_mk": "REC164012",
+      "nm_mk": "Praktikum Sistem Kendali 2",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC164012",
-      "nm_mk": "Praktikum Sistem Kendali 2",
+      "kode_mk": "REC164010",
+      "nm_mk": "Praktikum Sensor dan Aktuator",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -334,9 +334,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC164010",
-      "nm_mk": "Praktikum Sensor dan Aktuator",
-      "sks_mk": 2,
+      "kode_mk": "REC164003",
+      "nm_mk": "Komunikasi Data Industri",
+      "sks_mk": 1,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -355,20 +355,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC164009",
-      "nm_mk": "Praktikum Rangkaian Linier Aktif",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "REC164003",
-      "nm_mk": "Komunikasi Data Industri",
-      "sks_mk": 1,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "REC164001",
       "nm_mk": "Praktek Bahasa Inggris 4",
       "sks_mk": 1,
@@ -376,8 +362,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC164005",
-      "nm_mk": "Perawatan Perbaikan",
+      "kode_mk": "REC164009",
+      "nm_mk": "Praktikum Rangkaian Linier Aktif",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -390,6 +376,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "REC164005",
+      "nm_mk": "Perawatan Perbaikan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC164004",
+      "nm_mk": "Intrumentasi Industri",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "REC164006",
       "nm_mk": "Programable Logic Control",
       "sks_mk": 1,
@@ -397,9 +397,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "REC165005",
+      "nm_mk": "Sistem Embedded",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "REC165001",
       "nm_mk": "Kewirausahaan 2",
       "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC165003",
+      "nm_mk": "Mekatronika",
+      "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -425,22 +439,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC165007",
-      "nm_mk": "Praktek Perancangan Sistem Elektronika",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "REC165003",
-      "nm_mk": "Mekatronika",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "REC165008",
-      "nm_mk": "Praktikum Mekatronika",
+      "kode_mk": "REC165004",
+      "nm_mk": "Electronika Daya",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -453,15 +453,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC165004",
-      "nm_mk": "Electronika Daya",
+      "kode_mk": "REC165008",
+      "nm_mk": "Praktikum Mekatronika",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "REC165005",
-      "nm_mk": "Sistem Embedded",
+      "kode_mk": "REC165007",
+      "nm_mk": "Praktek Perancangan Sistem Elektronika",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null

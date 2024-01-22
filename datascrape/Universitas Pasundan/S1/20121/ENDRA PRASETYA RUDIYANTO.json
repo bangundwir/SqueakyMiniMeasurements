@@ -1,0 +1,73 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IT794",
+      "nm_mk": "TUGAS AKHIR I",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT892",
+      "nm_mk": "TUGAS AKHIR II",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT892",
+      "nm_mk": "TUGAS AKHIR II",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT794",
+      "nm_mk": "TUGAS AKHIR I",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ENDRA PRASETYA RUDIYANTO",
+    "jk": "L",
+    "nipd": "123040350",
+    "namapt": "Universitas Pasundan",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "70861AD6-25D6-4819-8446-4901C378AF86",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-07-30T00:00:00Z",
+    "no_seri_ijazah": "14/03/0554",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEFBMzk4QTItNkM2OC00RUUwLTg2RkEtM0VBNjVCNTREQzk3",
+    "link_prodi": "/data_prodi/MUQ1QUNCRkQtQzJENC00MzRCLTgzQkItQjRFN0MzNDM5QzZE"
+  }
+}

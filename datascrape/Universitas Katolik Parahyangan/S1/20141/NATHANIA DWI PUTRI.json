@@ -1,0 +1,394 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20153",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TAR112",
+      "nm_mk": "Teori Bentuk Arsitektur",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR111",
+      "nm_mk": "Menggambar Teknik",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR161",
+      "nm_mk": "Pengantar Arsitektur",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU011",
+      "nm_mk": "Estetika",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR101",
+      "nm_mk": "Studio Perancangan Arsitektur 1",
+      "sks_mk": 6,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR113",
+      "nm_mk": "Dasar-dasar Struktur dalam Arsitektur",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU009",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU002",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR114",
+      "nm_mk": "Struktur dan Konstruksi Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR115",
+      "nm_mk": "Bahan Bangunan dalam Arsitektur",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU010",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR162",
+      "nm_mk": "Pengantar Teori Perancangan Arsitektur",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR102",
+      "nm_mk": "Studio Perancangan Arsitektur 2",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU012",
+      "nm_mk": "Logika",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU008",
+      "nm_mk": "Etika",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR218",
+      "nm_mk": "Utilitas Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR216",
+      "nm_mk": "Struktur dan Konstruksi Bangunan Bertingkat Rendah",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR263",
+      "nm_mk": "Sejarah dan Teori Arsitektur Pramodern",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR203",
+      "nm_mk": "Studio Perancangan Arsitektur 3",
+      "sks_mk": 6,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU004",
+      "nm_mk": "Pendidikan Agama (Fenomenologi)",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR217",
+      "nm_mk": "Fisika Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU001",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR204",
+      "nm_mk": "Studio Perancangan Arsitektur 4",
+      "sks_mk": 6,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR264",
+      "nm_mk": "Sejarah dan Teori Arsitektur Modern",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR219",
+      "nm_mk": "Struktur dan Konstruksi Bangunan Bentang Lebar",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR241",
+      "nm_mk": "Permukiman Kota",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR220",
+      "nm_mk": "Perencanaan Tapak",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR365",
+      "nm_mk": "Sejarah dan Teori Arsitektur Pascamodern",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR392",
+      "nm_mk": "Kuliah Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR342",
+      "nm_mk": "Perumahan Kota",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR366",
+      "nm_mk": "Pranata Pembangunan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR305",
+      "nm_mk": "Studio Perancangan Arsitektur 5",
+      "sks_mk": 6,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR322",
+      "nm_mk": "Struktur dan Konstruksi Bangunan Bertingkat Tinggi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR436",
+      "nm_mk": "Teknologi Konservasi Arsitektur",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR324",
+      "nm_mk": "Pengantar Praktek Profesi dan Dunia Kerja",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR323",
+      "nm_mk": "Metodologi Riset Arsitektur",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR325",
+      "nm_mk": "Pencahayaan Buatan dalam Arsitektur",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR306",
+      "nm_mk": "Studio Perancangan Arsitektur 6",
+      "sks_mk": 6,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR344",
+      "nm_mk": "Arsitektur Tropis",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR343",
+      "nm_mk": "Arsitektur Kota",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR433",
+      "nm_mk": "Pengantar Perumahan Murah",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR161",
+      "nm_mk": "Pengantar Arsitektur",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR407",
+      "nm_mk": "Studio Arsitektur Akhir",
+      "sks_mk": 8,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR435",
+      "nm_mk": "Akustik dalam Arsitektur",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR220",
+      "nm_mk": "Perencanaan Tapak",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR329",
+      "nm_mk": "Pemugaran Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR408",
+      "nm_mk": "Skripsi",
+      "sks_mk": 8,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NATHANIA DWI PUTRI",
+    "jk": "P",
+    "nipd": "2014420043        ",
+    "namapt": "Universitas Katolik Parahyangan",
+    "namajenjang": "S1",
+    "namaprodi": "Arsitektur",
+    "reg_pd": "F4FE72C8-29DA-4599-8F5D-158EE94C2CA7",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-07-17T00:00:00Z",
+    "no_seri_ijazah": "2018/04/02/104",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Q0UzMTQ1MzYtODg5Mi00RjAwLUJBNUQtMTdCQTIyNjJFRkI4",
+    "link_prodi": "/data_prodi/RUM1RkE3RkItOEU0MS00NTY4LUFCQTQtNTFDQjRDRDI3OTIw"
+  }
+}

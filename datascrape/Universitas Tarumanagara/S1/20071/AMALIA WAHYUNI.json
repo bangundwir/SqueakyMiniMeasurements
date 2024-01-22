@@ -1,0 +1,532 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20071",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IK13031",
+      "nm_mk": "MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK13021",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11081",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12031",
+      "nm_mk": "PENGANTAR ILMU KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12051",
+      "nm_mk": "PENGANTAR SOSIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12011",
+      "nm_mk": "PENGANTAR ILMU POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12071",
+      "nm_mk": "PENGANTAR PSIKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12021",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK13022",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK13121",
+      "nm_mk": "HUKUM KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK14011",
+      "nm_mk": "APL.KOMPUTER & NETWORKING",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12061",
+      "nm_mk": "TEORI KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK13030",
+      "nm_mk": "PERKEMBANG.TEK.KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK23091",
+      "nm_mk": "KOMUNIKASI LINTAS BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK13051",
+      "nm_mk": "MNJ.ISU KRISIS & KONFLIK",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK22121",
+      "nm_mk": "DASAR-DASAR PERIKLANAN",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK22071",
+      "nm_mk": "DASAR-2 PUBLIC RELATION",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK23071",
+      "nm_mk": "KOMUNIKASI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK22111",
+      "nm_mk": "DASAR-DASAR JURNALISTIK",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK13041",
+      "nm_mk": "SOSIOLOGI KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK22061",
+      "nm_mk": "PENG. STATISTIK SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33141",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK22141",
+      "nm_mk": "KOMUNIKASI ANTAR PRIBADI",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12061",
+      "nm_mk": "TEORI KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK24021",
+      "nm_mk": "DASAR-2 SIARAN RADIO",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK24031",
+      "nm_mk": "DASAR-DASAR TV",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK23111",
+      "nm_mk": "LEADERSHIP",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK32151",
+      "nm_mk": "KOMUNIKASI ORG.& KELOMPOK",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK22131",
+      "nm_mk": "KOMUNIKASI MASSA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK22111",
+      "nm_mk": "DASAR-DASAR JURNALISTIK",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33201",
+      "nm_mk": "EVENT ORGANIZING",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33261",
+      "nm_mk": "KOMUNIKASI BISNIS & PEMSR",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33211",
+      "nm_mk": "PENULISAN NASKAH PR.",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK23161",
+      "nm_mk": "ANIMASI",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33051",
+      "nm_mk": "KOMUNIKASI GLOBAL",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK34041",
+      "nm_mk": "PRODUKSI SIARAN RADIO",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33031",
+      "nm_mk": "BAHASA ASING",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK34051",
+      "nm_mk": "PRODUKSI SIARAN TV",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33181",
+      "nm_mk": "PUBLIK RELATION BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11011",
+      "nm_mk": "PENDDKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK43271",
+      "nm_mk": "MONITOR.& EVALU.PROG P.R",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK45021",
+      "nm_mk": "FOTOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK13121",
+      "nm_mk": "HUKUM KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33191",
+      "nm_mk": "MNJ.INDST.PUBLIK.RELATION.",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK43131",
+      "nm_mk": "ETIKA & PENGEMB.KEPRIBAD.",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK43151",
+      "nm_mk": "KAPITA SELEKTA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12050",
+      "nm_mk": "FILSAFAT SAINS & TEKNOLOG",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33031",
+      "nm_mk": "BAHASA ASING",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK23081",
+      "nm_mk": "PSIKOLOGI KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33221",
+      "nm_mk": "RETORIKA & PUBLIK SPEAK",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33251",
+      "nm_mk": "PRESENTASI & NEGOSIASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK43261",
+      "nm_mk": "BRAND & POSITIONING",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK22161",
+      "nm_mk": "METODE PENELITIAN SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK43151",
+      "nm_mk": "KAPITA SELEKTA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33241",
+      "nm_mk": "PUBLIC OPINI & PROPAGANDA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11161",
+      "nm_mk": "ILMU SOSIAL & BUDAYA DSR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK12071",
+      "nm_mk": "PENGANTAR PSIKOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK44061",
+      "nm_mk": "MAGANG",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11031",
+      "nm_mk": "PENDDKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK13030",
+      "nm_mk": "PERKEMBANG.TEK.KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK32171",
+      "nm_mk": "MTD.PENELITIAN KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK23301",
+      "nm_mk": "PRODUCTION HOUSE",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DU11081",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK45031",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK45011",
+      "nm_mk": "FILSAFAT KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK33281",
+      "nm_mk": "COORPORATE SOCIAL RESPONS",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AMALIA WAHYUNI",
+    "jk": "P",
+    "nipd": "915070183         ",
+    "namapt": "Universitas Tarumanagara",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Komunikasi",
+    "reg_pd": "E52A4F90-45F3-4BEC-B52D-3586317DB1E5",
+    "mulai_smt": "20071",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-01-31T00:00:00Z",
+    "no_seri_ijazah": "0023/IK-UNTAR/I/2012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Q0U4NUIzQTYtNTIwNS00QjlCLTg1N0YtQThBNkQ3NzcwRDlE",
+    "link_prodi": "/data_prodi/MUI1OEU4NjktN0U1RS00MzZBLUEzOUMtM0NDNjI0MjdCQTJB"
+  }
+}

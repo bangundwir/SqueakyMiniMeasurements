@@ -1,0 +1,562 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ITP107",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP105",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP103",
+      "nm_mk": "KIMIA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP109",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP101",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEN102",
+      "nm_mk": "SUMBER DAYA PERTANIAN LOKAL",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP110",
+      "nm_mk": "PRAKTIKUM KIMIA DAN FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS101",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS106",
+      "nm_mk": "PENGETAHUAN KEBENCANAAN DAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP112",
+      "nm_mk": "PRAKTIKUM KIMIA ORGANIK",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS105",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP106",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP108",
+      "nm_mk": "KIMIA FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP104",
+      "nm_mk": "KIMIA ORGANIK",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP102",
+      "nm_mk": "PENERAPAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKS201",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP203",
+      "nm_mk": "PENGETAHUAN BAHAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP215",
+      "nm_mk": "PRAKTIKUM PENGETAHUAN BAHAN",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP201",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP219",
+      "nm_mk": "PRAKTIKUM MIKROBIOLOGI UMUM",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP211",
+      "nm_mk": "PERPINDAHAN KALOR DAN MASSA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP207",
+      "nm_mk": "KIMIA ANALITIK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP103",
+      "nm_mk": "KIMIA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP205",
+      "nm_mk": "BIOKIMIA UMUM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP217",
+      "nm_mk": "PRAKTIKUM KIMIA ANALITIK",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP209",
+      "nm_mk": "MIKROBIOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP213",
+      "nm_mk": "MESIN DAN PERALATAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP208",
+      "nm_mk": "FISIOLOGI DAN TEKNOLOGI PASCAPANEN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP206",
+      "nm_mk": "KIMIA PANGAN DAN HASIL PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP214",
+      "nm_mk": "MANAJEMEN PRODUKSI DAN OPERASI AGROINDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP212",
+      "nm_mk": "SATUAN OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP202",
+      "nm_mk": "KOMUNIKASI INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP210",
+      "nm_mk": "INSTRUMENTASI DAN KONTROL",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP222",
+      "nm_mk": "PRAKTIKUM OPERASI DAN PENGOLAHAN I",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP204",
+      "nm_mk": "TEKNOLOGI PENGOLAHAN I",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP216",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP218",
+      "nm_mk": "ETIKA PROFESI",
+      "sks_mk": 0,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP220",
+      "nm_mk": "PRAKTIKUM FISIOLOGI PASCAPANEN",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP303",
+      "nm_mk": "ANALISIS PANGAN DAN HASIL PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP311",
+      "nm_mk": "PRAKTIKUM KEMASAN DAN TEKNOLOGI PENYIMPANAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP305",
+      "nm_mk": "PENGEMASAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEN301",
+      "nm_mk": "AGROTECHNOPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP315",
+      "nm_mk": "PRAKTIKUM OPERASI & PENGOLAHAN II",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP313",
+      "nm_mk": "PRAKTIKUM KIMIA & ANALISIS HASIL PERTANIAN",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP309",
+      "nm_mk": "METODE PENELITIAN DAN PENULISAN ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP205",
+      "nm_mk": "BIOKIMIA UMUM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP301",
+      "nm_mk": "PERANCANGAN PERCOBAAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP409",
+      "nm_mk": "SANITASI AGROINDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP307",
+      "nm_mk": "TEKNOLOGI PENGOLAHAN II",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP310",
+      "nm_mk": "PANGAN FUNGSIONAL",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP306",
+      "nm_mk": "BAHAN TAMBAHAN PANGAN DAN REGULASI PANGAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEN302",
+      "nm_mk": "PRAKTEK AGROTECHNOPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP308",
+      "nm_mk": "TEKNOLOGI FERMENTASI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP518",
+      "nm_mk": "TEK. PENGOLAHAN PRODUK PERKEBUNAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP314",
+      "nm_mk": "PRAKTIKUM FERMENTASI",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP312",
+      "nm_mk": "EVALUASI SENSORIS",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP302",
+      "nm_mk": "EVALUASI GIZI PANGAN DAN KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP304",
+      "nm_mk": "KEAMANAN PANGAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP407",
+      "nm_mk": "TEKNOLOGI LIMBAH INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP403",
+      "nm_mk": "MANAJEMEN MUTU DAN PEMASARAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP411",
+      "nm_mk": "PRAKTIKUM PENGEMBANGAN PRODUK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP413",
+      "nm_mk": "OLAHRAGA, SENI DAN ORGANISASI",
+      "sks_mk": 0,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP405",
+      "nm_mk": "TEKNOLOGI PENGEMBANGAN PRODUK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP401",
+      "nm_mk": "PERENCANAAN PROYEK INDUSTRI",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP501",
+      "nm_mk": "TEKNOLOGI PENGOL. HORTIKULTURA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITP503",
+      "nm_mk": "MANAJEMEN JASA BOGA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITPP02",
+      "nm_mk": "PRAKTEK LAPANGAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITPPA1",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKSP02",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITPP01",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ITPPA1",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Safira Rahimah",
+    "jk": "P",
+    "nipd": "1605105010028",
+    "namapt": "Universitas Syiah Kuala",
+    "namajenjang": "S1",
+    "namaprodi": "Teknologi Hasil Pertanian",
+    "reg_pd": "DC37C26F-A320-42D2-8E42-433E19001077",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-05-01T00:00:00Z",
+    "no_seri_ijazah": "412312021000379",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEU2MEIxODQtMTI5My00NTI1LThDQzAtNDAwODIwMTJFODMw",
+    "link_prodi": "/data_prodi/MjRBMURGMzUtRUI5Mi00QTEyLUJBMjUtMDBGRUEwQjU4MTlE"
+  }
+}

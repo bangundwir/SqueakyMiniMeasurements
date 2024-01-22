@@ -1,0 +1,438 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK.1.1.13.010",
+      "nm_mk": "Pengantar Akuntansi 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 1.1.13.006",
+      "nm_mk": "Bahasa Inggris Bisnis 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 1.1.13.014",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK.2.1.13.003",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB.2.1.13.059",
+      "nm_mk": "Budaya Sunda",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 1.1.13.013",
+      "nm_mk": "Lab. Pengantar Akuntansi 1",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 1.1.13.011",
+      "nm_mk": "Matematika Ekonomi / Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB.1.1.13.058",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 2.1.13.019",
+      "nm_mk": "Lab. Pengantar Akuntansi 2",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB.1.1.13.005",
+      "nm_mk": "Bahasa Inggris Bisnis 2",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK.1.1.13.002",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK.2.1.13.004",
+      "nm_mk": "Teori Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.2.1.13.014",
+      "nm_mk": "Islam Disiplin Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK.1.1.13.001",
+      "nm_mk": "Teknologi Informasi dan Komunikasi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.2.1.13.015",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 1.1.13.012",
+      "nm_mk": "Pengantar Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.2.1.13.018",
+      "nm_mk": "Pengantar Akuntansi 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.3.1.13.032",
+      "nm_mk": "Manajemen Operasional",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK.3.1.13.005",
+      "nm_mk": "Akuntansi Publik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB.3.1.13.061",
+      "nm_mk": "Aspek Hukum Dalam Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.3.1.13.021",
+      "nm_mk": "Statistika 2",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.3.1.13.023",
+      "nm_mk": "Lab. Akuntansi Keuangan 1",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.3.1.13.020",
+      "nm_mk": "Akuntansi Keuangan 1",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.4.1.13.034",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.4.1.13.025",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.4.1.13.024",
+      "nm_mk": "Akuntansi Keuangan 2",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.3.1.13.022",
+      "nm_mk": "Manajemen Perbankan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.4.1.13.037",
+      "nm_mk": "Manajemen Strategi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.4.1.13.026",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.4.1.13.027",
+      "nm_mk": "Lab. Akuntansi Keuangan 2",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.4.1.13.036",
+      "nm_mk": "Lab. Perpajakan 1",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.4.1.13.033",
+      "nm_mk": "Perpajakan / Hukum Pajak",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB.3.1.13.060",
+      "nm_mk": "Sosiologi dan Politik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.5.1.13.028",
+      "nm_mk": "Penganggaran Perusahaan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.5.1.13.042",
+      "nm_mk": "Lab. Akuntansi Keuangan Lanjutan  1",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.5.1.13.040",
+      "nm_mk": "Perpajakan Lanjutan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.6.1.13.030",
+      "nm_mk": "Lab. Perpajakan 2",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.5.1.13.038",
+      "nm_mk": "Akuntansi Keuangan Lanjutan 1",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.6.1.13.049",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.5.1.13.041",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.6.1.13.048",
+      "nm_mk": "Teori Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.6.1.13.029",
+      "nm_mk": "Lab. Akuntansi Keuangan Lanjutan  2",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.6.1.13.043",
+      "nm_mk": "Etika Bisnis dan Profesi",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB.5.1.13.008",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.5.1.13.039",
+      "nm_mk": "Akuntansi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.6.1.13.045",
+      "nm_mk": "Akuntansi Keuangan Lanjutan 2",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.6.1.13.044",
+      "nm_mk": "Akuntansi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.6.1.13.047",
+      "nm_mk": "Auditing 1",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.7.1.13.053",
+      "nm_mk": "Sistem Informasi Akuntansi 2",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.7.1.13.055",
+      "nm_mk": "EDP Audit *)",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.7.1.13.031",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.7.1.13.054",
+      "nm_mk": "Audit Pajak",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.7.1.13.052",
+      "nm_mk": "Auditing 2",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.7.1.13.051",
+      "nm_mk": "Sistem Pengendalian Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NURUL PRATIWI MANDASARI",
+    "jk": "P",
+    "nipd": "434334032020056",
+    "namapt": "Sekolah Tinggi Ilmu Ekonomi Pasundan",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "B5D2C0D6-C065-444E-9BAB-8B283C3044D4",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjQxM0NDN0MtQTRDOS00NTVDLUFGMzMtREQ2NjQ4MEQ0MTlB",
+    "link_prodi": "/data_prodi/RTZGRUVGMDEtNzQzQi00NzExLUIxRDMtQTU2QjI1QzdBMkZB"
+  }
+}

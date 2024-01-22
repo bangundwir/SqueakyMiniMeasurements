@@ -1,0 +1,510 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20061",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKU101A",
+      "nm_mk": "AGAMA ISLAM DAN KEMUHAMMADIYAHAN",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK202",
+      "nm_mk": "FISIOLOGI DAN BIOKIMIA",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK201",
+      "nm_mk": "ANATOMI",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK302",
+      "nm_mk": "KONSEP DASAR MANUSIA I",
+      "sks_mk": 4,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML401",
+      "nm_mk": "ILMU ALAM DASAR",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML402",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK301",
+      "nm_mk": "KONSEP DASAR KEPERAWATAN",
+      "sks_mk": 4,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU103",
+      "nm_mk": "ETIKA UMUM",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK303",
+      "nm_mk": "KEBUTUHAN DASAR MANUSIA II",
+      "sks_mk": 4,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML403",
+      "nm_mk": "AL ISLAM",
+      "sks_mk": 1,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK204",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK304",
+      "nm_mk": "ETIKA KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK205",
+      "nm_mk": "ILMU GIZI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK206",
+      "nm_mk": "PATHOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU102",
+      "nm_mk": "PANCASILA DAN KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK305",
+      "nm_mk": "KOMUNIKASI DALAM KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK203",
+      "nm_mk": "MIKROBIOLOGI DAN PARASITOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML407",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML405",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML404",
+      "nm_mk": "KEMUHAMMADIYAHAN",
+      "sks_mk": 1,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK308",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH I",
+      "sks_mk": 5,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML406",
+      "nm_mk": "AL ISLAM",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK307",
+      "nm_mk": "DOKUMENTASI KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK309",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH II",
+      "sks_mk": 5,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK326",
+      "nm_mk": "KEPERAWATAN PROFESIONAL",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK306",
+      "nm_mk": "PENDIDIKAN KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK319",
+      "nm_mk": "KEPERAWATAN KOMUNITAS I",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML407",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK327",
+      "nm_mk": "PENGANTAR RISET KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML406",
+      "nm_mk": "AL ISLAM",
+      "sks_mk": 1,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK313",
+      "nm_mk": "KEPERAWATAN ANAK I",
+      "sks_mk": 5,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK315",
+      "nm_mk": "KEPERAWATAN MATERNITAS I",
+      "sks_mk": 4,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK325",
+      "nm_mk": "KEPEMIMPINAN & MANAJEMEN KEP.",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK310",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH III",
+      "sks_mk": 5,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK317",
+      "nm_mk": "KEPERAWATAN JIWA I",
+      "sks_mk": 2,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK321",
+      "nm_mk": "KEPERAWATAN KOMUNITAS III",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML410",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK321",
+      "nm_mk": "KEPERAWATAN KOMUNITAS III",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML409",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK323A",
+      "nm_mk": "KEPERAWATAN GAWAT DARURAT",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK320",
+      "nm_mk": "KEPERAWATAN KOMUNITAS II",
+      "sks_mk": 4,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK316A",
+      "nm_mk": "KEPERAWATAN MATERNITAS II",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK311A",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH IV",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK322",
+      "nm_mk": "KEPERAWATAN KELUARGA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK318",
+      "nm_mk": "KEPERAWATAN JIWA II",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK323A",
+      "nm_mk": "KEPERAWATAN GAWAT DARURAT",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK324",
+      "nm_mk": "KEPERAWATAN GERONTIK",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK317P",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN JIWA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK318",
+      "nm_mk": "KEPERAWATAN JIWA II",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK320",
+      "nm_mk": "KEPERAWATAN KOMUNITAS II",
+      "sks_mk": 4,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK316A",
+      "nm_mk": "KEPERAWATAN MATERNITAS II",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML410",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK322",
+      "nm_mk": "KEPERAWATAN KELUARGA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK324",
+      "nm_mk": "KEPERAWATAN GERONTIK",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK317P",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN JIWA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK311A",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH IV",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKML409",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK323",
+      "nm_mk": "KEPERAWATAN GAWAT DARURAT",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK311",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH IV",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK323A",
+      "nm_mk": "KEPERAWATAN GAWAT DARURAT",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK314",
+      "nm_mk": "KEPERAWATAN ANAK II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK316",
+      "nm_mk": "KEPERAWATAN MATERNITAS II",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK311A",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH IV",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK312",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH V",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK316A",
+      "nm_mk": "KEPERAWATAN MATERNITAS II",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "PERTIWI FITRI ASTUTI",
+    "jk": "P",
+    "nipd": "060992P           ",
+    "namapt": "STIKES Muhammadiyah Pekajangan",
+    "namajenjang": "D3",
+    "namaprodi": "Keperawatan",
+    "reg_pd": "CD148A21-59F3-4F16-B0B5-65A6861F0536",
+    "mulai_smt": "20061",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2009-07-27T00:00:00Z",
+    "no_seri_ijazah": "233701",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEU0NTU5OEUtODg0Ri00ODI0LUI5NzgtQzFDNDZCNjE2OUU1",
+    "link_prodi": "/data_prodi/OThEMTZFODItRjgyQS00MkE3LUIxMjMtRUUyMjc1RDIwRUJD"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20001",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20002",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20011",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20012",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20021",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20031",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20032",
+      "sks_smt": 2,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKDK111",
+      "nm_mk": "DASAR-DASAR AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK344",
+      "nm_mk": "PRAKTEK KOMPUTER I",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU503",
+      "nm_mk": "KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK636",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK413",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK516",
+      "nm_mk": "PENERJEMAHAN",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK437",
+      "nm_mk": "BAHASA INGGRIS SEKRETARIS I",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK546",
+      "nm_mk": "PRAKTEK KOMPUTER III",
+      "sks_mk": 2,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK539",
+      "nm_mk": "PUBLIC RELATIONS II",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK640",
+      "nm_mk": "TEKNOLOGI PERKANTORAN",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK233",
+      "nm_mk": "MANAJEMEN PERKANTORAN",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK538",
+      "nm_mk": "BAHASA INGGRIS SEKRETARIS II",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK132",
+      "nm_mk": "MANAJEMEN KEARSIPAN",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK634",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK641",
+      "nm_mk": "MANAJEMEN PERBEKALAN",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK437",
+      "nm_mk": "BAHASA INGGRIS SEKRETARIS I",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK623",
+      "nm_mk": "LAPORAN KULIAH KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK516",
+      "nm_mk": "PENERJEMAHAN",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK622",
+      "nm_mk": "KULIAH KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK623",
+      "nm_mk": "LAPORAN KULIAH KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "THERESIA DEWI HARYANTI",
+    "jk": "P",
+    "nipd": "KS200004665       ",
+    "namapt": "ASM Marsudirini Santa Maria",
+    "namajenjang": "D3",
+    "namaprodi": "Sekretari",
+    "reg_pd": "55D67E3E-B87B-4632-ACC5-CDC49DA7219D",
+    "mulai_smt": "20001",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2004-08-31T00:00:00Z",
+    "no_seri_ijazah": "2374/ASMI/S/XXX/2004",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkIxNEJBQTYtRTNBRS00ODBBLUIxQ0QtQzFFRTU5QTYxMzhF",
+    "link_prodi": "/data_prodi/OUNBMTlFMTQtMENDMi00NjEzLUEwMjUtRjJDOTRCMkYzOEUz"
+  }
+}

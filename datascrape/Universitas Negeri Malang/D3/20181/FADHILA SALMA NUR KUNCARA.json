@@ -1,0 +1,427 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "NTSB507-22403-16",
+      "nm_mk": "Gambar Teknik Bangunan dan CAD",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB505-22403-16",
+      "nm_mk": "Hidrologi dan Hidrolika",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB511-22403-16",
+      "nm_mk": "Ilmu Ukur Tanah",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK606-22403-14",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB504-22403-16",
+      "nm_mk": "Fisika Terapan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB502-22403-16",
+      "nm_mk": "Matematika Terapan 1",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK608-22403-14",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB529-22403-16",
+      "nm_mk": "Geometrik Jalan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB512-22403-16",
+      "nm_mk": "Statika",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB508-22403-17",
+      "nm_mk": "Konstruksi Gedung",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK601-22403-17",
+      "nm_mk": "Bahasa Inggris Profesi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6008-20403-2018",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB516-22403-17",
+      "nm_mk": "Teori dan Praktik Konstruksi Kayu",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB515-22403-17",
+      "nm_mk": "Aplikasi Komputer dan Teknologi Informasi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6001-21401-2018",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB517-22403-17",
+      "nm_mk": "Teori dan Prak. Utilitas Bangunan I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB503-22403-17",
+      "nm_mk": "Matematika Terapan II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB513-22403-17",
+      "nm_mk": "Mekanika Bahan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB525-22403-16",
+      "nm_mk": "Struktur Jembatan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB519-22403-16",
+      "nm_mk": "Konstruksi Jalan dan Jembatan",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB521-22403-16",
+      "nm_mk": "Dasar-dasar Tata Laksana Bangunan Sipil",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB518-22403-16",
+      "nm_mk": "Teori dan Praktikum Mekanika Tanah",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB523-22403-16",
+      "nm_mk": "Struktur Beton dan Baja",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB522-22403-16",
+      "nm_mk": "Utilitas Bangunan II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB509-22403-16",
+      "nm_mk": "Teknologi Bahan Bangunan 1",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB514-22403-16",
+      "nm_mk": "Analisa Struktur",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB530-22403-14",
+      "nm_mk": "Teknik Perkerasan Jalan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB527-22403-14",
+      "nm_mk": "Teknik Perbaikan Tanah",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB531-22403-14",
+      "nm_mk": "Konstruksi Bangunan Bertingkat dan Bangunan Industri",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB528-22403-14",
+      "nm_mk": "Rekayasa Pondasi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB506-22403-14",
+      "nm_mk": "Konstruksi Bangunan Air",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB539-22403-14",
+      "nm_mk": "Praktik Konstruksi Batu dan Beton",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB526-22403-14",
+      "nm_mk": "Teknologi Perancah dan Acuan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB510-22403-16",
+      "nm_mk": "Teknologi Bahan Bangunan II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB533-22403-14",
+      "nm_mk": "Metode Pelaksanaan Konstruksi I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB524-22403-16",
+      "nm_mk": "Struktur Beton Pratekan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB532-22403-14",
+      "nm_mk": "Teknologi Finishing",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB535-16",
+      "nm_mk": "Pemindahan Tanah Mekanis dan Alat Berat",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB501-16",
+      "nm_mk": "Bahasa Inggris Teknik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB537-16",
+      "nm_mk": "Manajemen Proyek",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB538-16",
+      "nm_mk": "Estimasi Biaya Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB543-16",
+      "nm_mk": "Praktik Industri",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB540-16",
+      "nm_mk": "Praktik Perkerasan Jalan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB536-16",
+      "nm_mk": "Konstruksi Prefabrikasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB541-16",
+      "nm_mk": "Praktik Konstruksi Baja",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB542-13",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB544-13",
+      "nm_mk": "Proyek Akhir",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB520-13",
+      "nm_mk": "Rekayasa Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB534-13",
+      "nm_mk": "Metode Pelaksanaan Konstruksi II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB544-22403-13",
+      "nm_mk": "Proyek Akhir",
+      "sks_mk": 4,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTSB544-22403-13",
+      "nm_mk": "Proyek Akhir",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "FADHILA SALMA NUR KUNCARA",
+    "jk": "P",
+    "nipd": "180522529538",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "D3",
+    "namaprodi": "Teknik Sipil dan Bangunan",
+    "reg_pd": "69A7FB84-5A22-4F17-966D-CFD8A82D29C1",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-10-15T00:00:00Z",
+    "no_seri_ijazah": "224032021000375",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/MzVGMjk1NDMtMTAzNi00MEJELUFFOEUtOEY4MTg5MDQ3RjRD"
+  }
+}

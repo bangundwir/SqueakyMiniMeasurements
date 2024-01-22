@@ -1,0 +1,413 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20213",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IN113",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN112",
+      "nm_mk": "PENGANTAR TEKNIK INFORMATIKA",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN111",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN124",
+      "nm_mk": "PEMROGRAMAN",
+      "sks_mk": 6,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN121",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN122",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN123",
+      "nm_mk": "STATISTIK & PROBABILITAS",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN133",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 4,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN134",
+      "nm_mk": "SISTEM DIGITAL",
+      "sks_mk": 4,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN131",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN132",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20183",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN211",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN212",
+      "nm_mk": "SISTEM BASIS DATA I",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN213",
+      "nm_mk": "KOMPUTASI",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN212",
+      "nm_mk": "SISTEM BASIS DATA",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN221",
+      "nm_mk": "ALGORITMA DAN STRUKTUR DATA",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN222",
+      "nm_mk": "KECERDASAN BUATAN",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN223",
+      "nm_mk": "ETIKA PROFESI & TECHNOPRENEURSHIP",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN232",
+      "nm_mk": "GRAFIKA KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN233",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN231",
+      "nm_mk": "TEKNOLOGI JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN234",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN234",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN311",
+      "nm_mk": "PEMODELAN DAN SIMULASI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN312",
+      "nm_mk": "KEAMANAN DATA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN313",
+      "nm_mk": "KEAMANAN JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN314",
+      "nm_mk": "RSNA 1",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MG161",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN231",
+      "nm_mk": "TEKNOLOGI JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM901",
+      "nm_mk": "IAD",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN322",
+      "nm_mk": "RSNA 2",
+      "sks_mk": 3,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KM904",
+      "nm_mk": "AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN232",
+      "nm_mk": "GRAFIKA KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN331",
+      "nm_mk": "RSNA 3",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN312",
+      "nm_mk": "KEAMANAN DATA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN321",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN461",
+      "nm_mk": "KERJA PRAKTEK I",
+      "sks_mk": 8,
+      "id_smt": "20213",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN412",
+      "nm_mk": "TUGAS AKHIR 1",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN462",
+      "nm_mk": "LAPORAN KERJA PRAKTEK I",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN463",
+      "nm_mk": "KERJA PRAKTEK II",
+      "sks_mk": 8,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN464",
+      "nm_mk": "LAPORAN KERJA PRAKTEK II",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN422",
+      "nm_mk": "TUGAS AKHIR 2",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IN431",
+      "nm_mk": "TUGAS AKHIR 3",
+      "sks_mk": 4,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TC813",
+      "nm_mk": "PUBLIKASI KARYA ILMIAH",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BAGAS HARYANTO",
+    "jk": "L",
+    "nipd": "672018338",
+    "namapt": "Universitas Kristen Satya Wacana",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "BF7BEB0B-CC06-4E83-AD22-7CF7EAABE761",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-11-10T00:00:00Z",
+    "no_seri_ijazah": "552012023002592",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBMDBFRjgtMjZDMy00NTk3LTg2ODMtMzhBRDZFMDUyNzdC",
+    "link_prodi": "/data_prodi/RDA5N0JFNDgtQ0RGNS00OUQzLThCNzYtRUYwQjA2MUZEMEQ2"
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MSN104",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS115P",
+      "nm_mk": "TUGAS MEKANIKA REKAYASA I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS115",
+      "nm_mk": "MEKANIKA REKAYASA I",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS112",
+      "nm_mk": "BAHAN BANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS111P",
+      "nm_mk": "PRAKTIKUM FISIKA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS105P",
+      "nm_mk": "PRAKTIKUM KOMPUTER DAN TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS105",
+      "nm_mk": "KOMPUTER DAN TEKNOLOGI INFORMASI",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS108",
+      "nm_mk": "MATEMATIKA TERAPAN I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB106",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS111",
+      "nm_mk": "FISIKA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS216",
+      "nm_mk": "HIDROLIKA",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS215",
+      "nm_mk": "MEKANIKA REKAYASA II",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS232",
+      "nm_mk": "ALAT BERAT DAN PTM",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS233P",
+      "nm_mk": "TUGAS KONSTRUKSI BANGUNAN GEDUNG I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS208",
+      "nm_mk": "MATEMATIKA TERAPAN II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS215P",
+      "nm_mk": "TUGAS MEKANIKA REKAYASA II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS427",
+      "nm_mk": "STRUKTUR BETON I",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS214",
+      "nm_mk": "MEKANIKA TANAH I",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS243P",
+      "nm_mk": "PRAKTIKUM UKUR TANAH I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS428",
+      "nm_mk": "STRUKTUR BAJA I",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK102",
+      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS243",
+      "nm_mk": "ILMU UKUR TANAH I",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS212P",
+      "nm_mk": "PRAKTIKUM BAHAN BANGUNAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS233",
+      "nm_mk": "KONSTRUKSI BANGUNAN GEDUNG I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS340P",
+      "nm_mk": "PRAKTIKUM KONSTRUKSI DASAR",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS355",
+      "nm_mk": "REKAYASA PONDASI",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS314",
+      "nm_mk": "MEKANIKA TANAH II",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS353",
+      "nm_mk": "REKAYASA JALAN I",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS315",
+      "nm_mk": "MEKANIKA REKAYASA III",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS343",
+      "nm_mk": "ILMU UKUR TANAH II",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS333",
+      "nm_mk": "KONSTRUKSI BANGUNAN GEDUNG II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS343P",
+      "nm_mk": "PRAKTIKUM ILMU UKUR TANAH II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS354",
+      "nm_mk": "STRUKTUR KAYU",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS354P",
+      "nm_mk": "TUGAS STRUKTUR KAYU",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS315P",
+      "nm_mk": "TUGAS MEKANIKA REKAYASA III",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS428P",
+      "nm_mk": "TUGAS STRUKTUR BAJA I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS428",
+      "nm_mk": "STRUKTUR BAJA I",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK102",
+      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK403",
+      "nm_mk": "BAHASA INDONESIA DAN TATA TULIS LAPORAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS441",
+      "nm_mk": "ANALISA STRUKTUR METODE MATRIK",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS443P",
+      "nm_mk": "PRAKTIKUM PERKERASAN JALAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS433",
+      "nm_mk": "REKAYASA JALAN II (PERKERASAN)",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS438P",
+      "nm_mk": "PRAKTIKUM UJI TANAH",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS451",
+      "nm_mk": "IRIGASI I",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS537P",
+      "nm_mk": "PRAKTIKUM PENGALIRAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS528",
+      "nm_mk": "STRUKTUR BAJA II",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS320",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS528P",
+      "nm_mk": "TUGAS STRUKTUR BAJA II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS551P",
+      "nm_mk": "TUGAS IRIGASI II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS535P",
+      "nm_mk": "TUGAS ESTIMASI BIAYA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS551",
+      "nm_mk": "IRIGASI II",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS355P",
+      "nm_mk": "TUGAS REKAYASA PONDASI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS527P",
+      "nm_mk": "TUGAS STRUKTUR BETON II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS538",
+      "nm_mk": "K3 HUKUM KETENAGAKERJAAN",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS527",
+      "nm_mk": "STRUKTUR BETON II",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS535",
+      "nm_mk": "ESTIMASI BIAYA",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS536",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS648",
+      "nm_mk": "PRAKTEK KERJA",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS451P",
+      "nm_mk": "TUGAS IRIGASI I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS233P",
+      "nm_mk": "TUGAS KONSTRUKSI BANGUNAN GEDUNG I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS547",
+      "nm_mk": "KULIAH KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS649",
+      "nm_mk": "PROYEK AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS216",
+      "nm_mk": "HIDROLIKA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS427P",
+      "nm_mk": "TUGAS STRUKTUR BETON I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS433P",
+      "nm_mk": "TUGAS REKAYASA JALAN II (PERKERASAN)",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS649",
+      "nm_mk": "PROYEK AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS648",
+      "nm_mk": "PRAKTEK KERJA",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS333P",
+      "nm_mk": "TUGAS KONSTRUKSI BANGUNAN GEDUNG II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS215P",
+      "nm_mk": "TUGAS MEKANIKA REKAYASA II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS648",
+      "nm_mk": "PRAKTEK KERJA",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS451P",
+      "nm_mk": "TUGAS IRIGASI I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS649",
+      "nm_mk": "PROYEK AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TDS648",
+      "nm_mk": "PRAKTEK KERJA",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DAMAR NENDI SAPUTRA",
+    "jk": "L",
+    "nipd": "21010110060068    ",
+    "namapt": "Universitas Diponegoro",
+    "namajenjang": "D3",
+    "namaprodi": "Teknologi Sipil",
+    "reg_pd": "3CA24DCA-08D1-44D3-A7E1-4E56888708E6",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-09-05T00:00:00Z",
+    "no_seri_ijazah": "F. 7325",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTREMDFCRjMtODI1NS00NzRCLUI5NkQtNDQyNjEzNUVFRDAx",
+    "link_prodi": "/data_prodi/RUU1QTBEQzQtMDZCQy00Rjc3LUJCNkYtRDA4N0M5NzkzNjg0"
+  }
+}

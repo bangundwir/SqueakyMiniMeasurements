@@ -1,0 +1,602 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20153",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 37,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20163",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UMKK601-83201-14",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL610-83201-14",
+      "nm_mk": "Rangkaian Listrik DC",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL601-83201-14",
+      "nm_mk": "Matematika 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL609-83201-14",
+      "nm_mk": "Fisika Listrik",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL613-83201-14",
+      "nm_mk": "Elektronika Analog 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL612-83201-14",
+      "nm_mk": "Pengukuran Listrik",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK601-83201-14",
+      "nm_mk": "Kesehatan dan Keselamatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL626-83201-14",
+      "nm_mk": "Lab PTE-01",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL604-83201-14",
+      "nm_mk": "Bahasa Inggris 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL606-83201-14",
+      "nm_mk": "Gambar Teknik",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMKK602-83201-14",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL627-83201-14",
+      "nm_mk": "Lab PTE-02",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK601-83201-14",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL614-83201-14",
+      "nm_mk": "Elektronika Analog 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK605-83207-14",
+      "nm_mk": "Kurikulum Pendidikan Kejuruan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL605-83201-14",
+      "nm_mk": "Bahasa Inggris 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL611-83201-14",
+      "nm_mk": "Rangkaian Listrik AC",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK633-83201-13",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL607-83201-14",
+      "nm_mk": "Pemrograman Komputer",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL602-83201-14",
+      "nm_mk": "Matematika 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL615-83201-14",
+      "nm_mk": "Elektronika Digital",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL629-83201-14",
+      "nm_mk": "Lab PTE-03",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL618-83201-14",
+      "nm_mk": "Pemrosesan Sinyal",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL617-83201-14",
+      "nm_mk": "Sensor dan Tranduser",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK606-83201-14",
+      "nm_mk": "Pengembangan Sumber Belajar",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL632-83201-14",
+      "nm_mk": "Manajemen Pendidikan Kejuruan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMKK603-83201-14",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL620-83201-14",
+      "nm_mk": "Mikroprosesor",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK632-83201-13",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK627-83201-13",
+      "nm_mk": "Bahasa Indonesia keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL630-83201-14",
+      "nm_mk": "Lab PTE-04",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL603-83201-14",
+      "nm_mk": "Matematika 3",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL628-83201-14",
+      "nm_mk": "Dasar Konversi Energi Listrik",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL616-83201-14",
+      "nm_mk": "Elektronika Daya",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL635-83201-13",
+      "nm_mk": "Komputasi Numerik",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK608-83201-14",
+      "nm_mk": "Evaluasi Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL682-83201-14",
+      "nm_mk": "Statistik",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL621-83201-14",
+      "nm_mk": "Sistem Kendali",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL619-83201-14",
+      "nm_mk": "Instrumentasi Industri",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK602-83201-14",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK607-83201-14",
+      "nm_mk": "Perencanaan Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL631-83201-14",
+      "nm_mk": "Lab PTE-05",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL622-83201-14",
+      "nm_mk": "Workshop PLC dan Pneumatik",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL618-83201-14",
+      "nm_mk": "Pemrosesan Sinyal",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL666-83201-14",
+      "nm_mk": "Lab ELKA-01",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL665-83201-14",
+      "nm_mk": "Audio Video",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL661-83201-14",
+      "nm_mk": "Sistem Kendali Digital",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL664-83201-14",
+      "nm_mk": "Mikroprosesor Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL670-83201-14",
+      "nm_mk": "Workshop Audio Video-SMK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL663-83201-14",
+      "nm_mk": "Teknik Antar Muka Komputer",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL662-83201-14",
+      "nm_mk": "Workshop Sistem Kendali Digital",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL635-83201-14",
+      "nm_mk": "Pembelajaran Berbasis Teknologi Informasi dan Komunikasi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL625-83201-14",
+      "nm_mk": "Komunikasi Data dan Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK609-83201-14",
+      "nm_mk": "Praktik Pembelajaran Mikro",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL668-83201-14",
+      "nm_mk": "Robotika",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL667-83201-14",
+      "nm_mk": "Sistem Cerdas",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL634-83201-14",
+      "nm_mk": "Workshop Pengelolaan Kelas",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL623-83201-14",
+      "nm_mk": "Workshop Otomasi Industri",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FTEK604-83201-14",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL624-83201-14",
+      "nm_mk": "Telekomunikasi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL669-83201-14",
+      "nm_mk": "Lab ELKA-02",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL668-83201-14",
+      "nm_mk": "Robotika",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL672-83201-14",
+      "nm_mk": "Workshop Elektronika Komunikasi-SMK",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL675-83201-14",
+      "nm_mk": "Perawatan dan Perbaikan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL667-83201-14",
+      "nm_mk": "Sistem Cerdas",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL669-83201-14",
+      "nm_mk": "Lab ELKA-02",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL672-83201-14",
+      "nm_mk": "Workshop Elektronika Komunikasi-SMK",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL677-83201-14",
+      "nm_mk": "Seminar Pra Skripsi",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL633-83201-14",
+      "nm_mk": "Workshop Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL620-83201-14",
+      "nm_mk": "Mikroprosesor",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL676-83201-14",
+      "nm_mk": "Praktik Industri",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL655-83201-14",
+      "nm_mk": "Kapita Selekta",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKPL601-83201-14",
+      "nm_mk": "Kajian dan Praktek Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL667-83201-15",
+      "nm_mk": "Sistem Cerdas",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL678-83201-14",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEL678-83201-14",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20173",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ABI ADHITAMA",
+    "jk": "L",
+    "nipd": "140534601959      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Teknik Elektro",
+    "reg_pd": "6CDE1DC7-F041-4BF2-9CFA-A308CA4F9A38",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-08-16T00:00:00Z",
+    "no_seri_ijazah": "43320/UN32/5/S1/2018",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QzgzNUE2MEMtNjMwNy00NTBELUI2MTMtNEM4Rjk2MDRFQkJG"
+  }
+}

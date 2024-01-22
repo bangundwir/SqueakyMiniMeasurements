@@ -1,0 +1,587 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "INS.KD.102",
+      "nm_mk": "Akhlak Tasawuf",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.104",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.103",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.108",
+      "nm_mk": "Filsafat Umum",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKK211",
+      "nm_mk": "SEJARAH PERADABAN ISLAM",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.107",
+      "nm_mk": "Ulumul Hadis",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.101",
+      "nm_mk": "Pengantar Psikologi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.106",
+      "nm_mk": "Ulumul Quran",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIPK109",
+      "nm_mk": "ILMU SOSIAL DASAR",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.213",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.218",
+      "nm_mk": "Pengantar Bimbingan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIPK212",
+      "nm_mk": "FILSAFAT ILMU",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKK201",
+      "nm_mk": "ULUMUL QURAN",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.211",
+      "nm_mk": "Metode Studi Islam",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAK.KU.203",
+      "nm_mk": "Tafsir",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIPK106",
+      "nm_mk": "ILMU TAUHID",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIPK101",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KL.201",
+      "nm_mk": "Psikologi Belajar",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKK202",
+      "nm_mk": "ULUMUL HADIS",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.210",
+      "nm_mk": "Fiqh I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKK211",
+      "nm_mk": "SEJARAH PERADABAN ISLAM",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAK.KU.202",
+      "nm_mk": "Hadis I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIPK103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.209",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIPK102",
+      "nm_mk": "PENGANTAR PSIKOLOGI",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIPK107",
+      "nm_mk": "AKHLAK TASAWUF",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAK.KU.201",
+      "nm_mk": "Ilmu Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.319",
+      "nm_mk": "Bimbingan Konseling Islam I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAK.KU.307",
+      "nm_mk": "Sejarah Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.314",
+      "nm_mk": "Hadis II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.303",
+      "nm_mk": "Psikologi Perkembangan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KP.307",
+      "nm_mk": "Praktek Ibadah",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.312",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.311",
+      "nm_mk": "Bahasa Arab",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.302",
+      "nm_mk": "Psikologi Sosial",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAK.KU.306",
+      "nm_mk": "Metode Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAK.KU.302",
+      "nm_mk": "Pengantar Ilmu Komunikasi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAK.KU.311",
+      "nm_mk": "Statistik Sosial",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.421",
+      "nm_mk": "Model-model Bimbingan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.414",
+      "nm_mk": "Sosiologi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.404",
+      "nm_mk": "Psikologi Komunikasi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.405",
+      "nm_mk": "Psikologi Konseling",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU416 ",
+      "nm_mk": "MODEL-MODEL KONSELING ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU419 ",
+      "nm_mk": "BIMBINGAN KONSELING INDIVIDU ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU417 ",
+      "nm_mk": "BIMBINGAN KONSELING ISLAM-2 ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU511 ",
+      "nm_mk": "PSIKOLOGI KOMUNIKASI ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS.KD.413",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.410",
+      "nm_mk": "Rijal Ad-Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU418 ",
+      "nm_mk": "TEORI DAN PENDEKATAN BK ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.422",
+      "nm_mk": "Teori dan Praktek Bimbingan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.420",
+      "nm_mk": "Bimbingan Konseling Islam II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU512 ",
+      "nm_mk": "PSOKOLOGI KONSELING ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU402 ",
+      "nm_mk": "SOSIOLOGI ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.415",
+      "nm_mk": "Fiqh II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU420 ",
+      "nm_mk": "FIQH II ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAKKU405 ",
+      "nm_mk": "RIJAL AD-DAKWAH ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STKD515 ",
+      "nm_mk": "METODE PENELITIAN ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.423",
+      "nm_mk": "Bimbingan Konseling Individu",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KL.502",
+      "nm_mk": "Pengantar IESQ",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.516",
+      "nm_mk": "Tafsir Tematik Ayat Bimbingan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.525",
+      "nm_mk": "Bimbingan Konseling Keluarga",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KL.503",
+      "nm_mk": "BK di Institusi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.524",
+      "nm_mk": "Manajemen Bimbingan Konseling Islam",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.514",
+      "nm_mk": "Studi Agama-Agama",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DAK.KU.512",
+      "nm_mk": "Filsafat Dakwah",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKP410",
+      "nm_mk": "TASHIH AL-QUR`AN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.506",
+      "nm_mk": "Kesehatan Mental",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.512",
+      "nm_mk": "Sosiologi Agama",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.528",
+      "nm_mk": "Teknik Laboratorium Bimbingan Konseling I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKI.KU.529",
+      "nm_mk": "Rehabilitasi dan Kesejahteraan Sosial",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU606",
+      "nm_mk": "Praktek Qiroatul Qutub",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU624",
+      "nm_mk": "TEKN. LABORATORIUM BK II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU625",
+      "nm_mk": "DASAR-DASAR KEPERAWATAN ROHANI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU622",
+      "nm_mk": "METODE PENELITIAN BK",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU621",
+      "nm_mk": "BIMBINGAN KONSELING SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BKIKU627",
+      "nm_mk": "PRAKTEK STUDI KASUS BK",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "EDI SUDRAJAT",
+    "jk": "L",
+    "nipd": "121200047         ",
+    "namapt": "STAIN Padangsidempuan",
+    "namajenjang": "S1",
+    "namaprodi": "Bimbingan Penyuluhan Islam",
+    "reg_pd": "E8471632-A937-4986-ABFB-F036EAA864D9",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mutasi",
+    "tgl_keluar": "2018-11-22T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTQ2REU1RUQtMUE5OS00MzZELThDQTgtQTFDMTAxMzcyMjZD",
+    "link_prodi": "/data_prodi/M0Y2OTM5MzYtQkQ1RS00MjBFLTk2NUYtQzZBRDk5NUVCNDlB"
+  }
+}

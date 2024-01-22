@@ -52,13 +52,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MJM205",
-      "nm_mk": "MANAJEMEN KEUANGAN I",
-      "sks_mk": 3,
-      "id_smt": "20021",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "AKT201",
       "nm_mk": "AKUNTANSI BIAYA",
       "sks_mk": 3,
@@ -66,8 +59,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKN206",
-      "nm_mk": "STATISTIKA I",
+      "kode_mk": "MJM205",
+      "nm_mk": "MANAJEMEN KEUANGAN I",
       "sks_mk": 3,
       "id_smt": "20021",
       "nilai_huruf": null
@@ -75,6 +68,13 @@
     {
       "kode_mk": "EKN203",
       "nm_mk": "EKONOMI PEMBANGUNAN PENGANTAR",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKN206",
+      "nm_mk": "STATISTIKA I",
       "sks_mk": 3,
       "id_smt": "20021",
       "nilai_huruf": null
@@ -94,13 +94,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MJM303",
-      "nm_mk": "MANAJEMEN KEUANGAN II",
-      "sks_mk": 3,
-      "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "AKT208",
       "nm_mk": "SISTEM INFORMASI MANAJEMEN",
       "sks_mk": 3,
@@ -115,8 +108,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKT302",
-      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH II",
+      "kode_mk": "MJM303",
+      "nm_mk": "MANAJEMEN KEUANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT401",
+      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN I",
       "sks_mk": 3,
       "id_smt": "20031",
       "nilai_huruf": null
@@ -129,8 +129,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKT401",
-      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN I",
+      "kode_mk": "AKT305",
+      "nm_mk": "PENGAUDITAN I",
       "sks_mk": 3,
       "id_smt": "20031",
       "nilai_huruf": null
@@ -143,8 +143,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKT305",
-      "nm_mk": "PENGAUDITAN I",
+      "kode_mk": "AKT302",
+      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH II",
       "sks_mk": 3,
       "id_smt": "20031",
       "nilai_huruf": null
@@ -152,13 +152,6 @@
     {
       "kode_mk": "AKT407",
       "nm_mk": "SISTEM PENGENDALIAN MANAJEMEN",
-      "sks_mk": 3,
-      "id_smt": "20032",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKT402",
-      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN II",
       "sks_mk": 3,
       "id_smt": "20032",
       "nilai_huruf": null
@@ -178,6 +171,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "AKT402",
+      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN II",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MJM202",
       "nm_mk": "KOMUNIKASI BISNIS",
       "sks_mk": 3,
@@ -185,22 +185,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKT203",
-      "nm_mk": "AKUNTANSI SEKTOR PUBLIK",
-      "sks_mk": 3,
+      "kode_mk": "MTU104",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
       "id_smt": "20041",
       "nilai_huruf": null
     },
     {
       "kode_mk": "EKN527",
       "nm_mk": "PASAR MODAL",
-      "sks_mk": 3,
-      "id_smt": "20041",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MJM201",
-      "nm_mk": "ETIKA BISNIS",
       "sks_mk": 3,
       "id_smt": "20041",
       "nilai_huruf": null
@@ -213,9 +206,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MTU104",
-      "nm_mk": "BAHASA INDONESIA",
-      "sks_mk": 2,
+      "kode_mk": "MJM201",
+      "nm_mk": "ETIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT203",
+      "nm_mk": "AKUNTANSI SEKTOR PUBLIK",
+      "sks_mk": 3,
       "id_smt": "20041",
       "nilai_huruf": null
     },
@@ -224,6 +224,13 @@
       "nm_mk": "METODOLOGI PENELITIAN BISNIS",
       "sks_mk": 3,
       "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT211",
+      "nm_mk": "AKUNTANSI PERBANKAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20042",
       "nilai_huruf": null
     },
     {
@@ -241,15 +248,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKN408",
-      "nm_mk": "EKONOMI INDUSTRI",
-      "sks_mk": 3,
-      "id_smt": "20042",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "AKT211",
-      "nm_mk": "AKUNTANSI PERBANKAN INDONESIA",
+      "kode_mk": "AKT405",
+      "nm_mk": "PERPAJAKAN II",
       "sks_mk": 3,
       "id_smt": "20042",
       "nilai_huruf": null
@@ -262,10 +262,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "AKT405",
-      "nm_mk": "PERPAJAKAN II",
+      "kode_mk": "EKN408",
+      "nm_mk": "EKONOMI INDUSTRI",
       "sks_mk": 3,
       "id_smt": "20042",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKN404",
+      "nm_mk": "EVALUASI PROYEK",
+      "sks_mk": 3,
+      "id_smt": "20051",
       "nilai_huruf": null
     },
     {
@@ -283,13 +290,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MJM314",
-      "nm_mk": "STUDI KELAYAKAN BISNIS",
-      "sks_mk": 3,
-      "id_smt": "20051",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "AKT408",
       "nm_mk": "TEORI AKUNTANSI",
       "sks_mk": 3,
@@ -297,8 +297,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKN404",
-      "nm_mk": "EVALUASI PROYEK",
+      "kode_mk": "MJM314",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
       "sks_mk": 3,
       "id_smt": "20051",
       "nilai_huruf": null

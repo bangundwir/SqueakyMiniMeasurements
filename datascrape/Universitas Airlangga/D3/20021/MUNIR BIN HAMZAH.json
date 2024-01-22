@@ -1,0 +1,80 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20022",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20031",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20041",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20042",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MAK000",
+      "nm_mk": "PENGENALAN KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KUR004",
+      "nm_mk": "RADIOGRAFI LANJUT II",
+      "sks_mk": 8,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPD015",
+      "nm_mk": "MEDICAL RECORD",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMP001",
+      "nm_mk": "ILMU KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAE007",
+      "nm_mk": "INGGRIS UNTUK RADIOGRAFER",
+      "sks_mk": 1,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUNIR BIN HAMZAH",
+    "jk": "L",
+    "nipd": "010211156A        ",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "D3",
+    "namaprodi": "Radiologi",
+    "reg_pd": "29B1D8A8-5678-41A1-B9D3-1E2B853CBA5E",
+    "mulai_smt": "20021",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2005-08-18T00:00:00Z",
+    "no_seri_ijazah": "1191/0113/01/SO/2005",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/QUI2NzAxMTQtN0VGNi00MTU4LUE2NkEtODI0OTlGMUQ1NzM4"
+  }
+}

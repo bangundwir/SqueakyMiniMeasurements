@@ -58,8 +58,22 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "2201415030218",
+      "nm_mk": "Material Teknik",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2201406530318",
       "nm_mk": "Fisika Teknik I",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2201419680318",
+      "nm_mk": "Pengantar Teknik Industri",
       "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -107,43 +121,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2201419680318",
-      "nm_mk": "Pengantar Teknik Industri",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2201415030218",
-      "nm_mk": "Material Teknik",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2201419270218",
-      "nm_mk": "Pengantar Ilmu Ekonomi",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "1201449750218",
       "nm_mk": "Foreign Language of Specific Purpose 2",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2201429850318",
-      "nm_mk": "Teori Probabilitas",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2201446140218",
-      "nm_mk": "Pemograman Komputer dan Database",
       "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -170,9 +149,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2201406540318",
-      "nm_mk": "Fisika Teknik II",
+      "kode_mk": "2201429850318",
+      "nm_mk": "Teori Probabilitas",
       "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2201446140218",
+      "nm_mk": "Pemograman Komputer dan Database",
+      "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -184,6 +170,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "2201406540318",
+      "nm_mk": "Fisika Teknik II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2201419270218",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2201417120318",
+      "nm_mk": "Optimasi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2201444450318",
       "nm_mk": "Analisa dan Estimasi Biaya",
       "sks_mk": 3,
@@ -191,8 +198,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2201417120318",
-      "nm_mk": "Optimasi",
+      "kode_mk": "2201427340318",
+      "nm_mk": "Statistik Industri",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -212,13 +219,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2201427340318",
-      "nm_mk": "Statistik Industri",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "2201404900218",
       "nm_mk": "Elektronika Industri",
       "sks_mk": 2,
@@ -233,30 +233,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2201404710218",
-      "nm_mk": "Ekonomi Teknik",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3201420870218",
-      "nm_mk": "Perancangan Teknik Industri I",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "3201434340318",
       "nm_mk": "Pengendalian dan Penjaminan Mutu",
       "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3201424240218",
-      "nm_mk": "Psikologi Industri",
-      "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -282,17 +261,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "4201420810218",
-      "nm_mk": "Perancangan Organisasi",
+      "kode_mk": "3201424240218",
+      "nm_mk": "Psikologi Industri",
       "sks_mk": 2,
-      "id_smt": "20201",
+      "id_smt": "20192",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3201420880318",
-      "nm_mk": "Perancangan Teknik Industri II",
-      "sks_mk": 3,
-      "id_smt": "20201",
+      "kode_mk": "2201404710218",
+      "nm_mk": "Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3201420870218",
+      "nm_mk": "Perancangan Teknik Industri I",
+      "sks_mk": 2,
+      "id_smt": "20192",
       "nilai_huruf": null
     },
     {
@@ -324,9 +310,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3201418260218",
-      "nm_mk": "Pemodelan Sistem",
+      "kode_mk": "4201420810218",
+      "nm_mk": "Perancangan Organisasi",
       "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3201420880318",
+      "nm_mk": "Perancangan Teknik Industri II",
+      "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -334,6 +327,13 @@
       "kode_mk": "1201400460118",
       "nm_mk": "Al Islam dan Kemuhammadiyahan III",
       "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3201418260218",
+      "nm_mk": "Pemodelan Sistem",
+      "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -366,22 +366,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "4201418750218",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
+      "kode_mk": "3201446170318",
+      "nm_mk": "Perancangan Teknik Industri III",
+      "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
     {
       "kode_mk": "3201434470318",
       "nm_mk": "Perancangan Tata Letak Pabrik",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3201413780318",
-      "nm_mk": "Manajemen Logistik",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -394,24 +387,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3201446170318",
-      "nm_mk": "Perancangan Teknik Industri III",
+      "kode_mk": "3201413780318",
+      "nm_mk": "Manajemen Logistik",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3201444460318",
-      "nm_mk": "Human Computer Interaction",
-      "sks_mk": 3,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3201420450318",
-      "nm_mk": "Penjadwalan Produksi",
-      "sks_mk": 3,
-      "id_smt": "20211",
+      "kode_mk": "4201418750218",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -436,6 +422,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "5201428510318",
+      "nm_mk": "Technopreneurship",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3201444460318",
+      "nm_mk": "Human Computer Interaction",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2201426260318",
       "nm_mk": "Sistem Informasi Manajemen",
       "sks_mk": 3,
@@ -443,8 +443,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "5201428510318",
-      "nm_mk": "Technopreneurship",
+      "kode_mk": "3201420450318",
+      "nm_mk": "Penjadwalan Produksi",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -464,16 +464,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3201427650318",
-      "nm_mk": "Strategi Bisnis",
-      "sks_mk": 3,
+      "kode_mk": "3201422560218",
+      "nm_mk": "Praktek Kerja Nyata",
+      "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3201422560218",
-      "nm_mk": "Praktek Kerja Nyata",
-      "sks_mk": 2,
+      "kode_mk": "3201427650318",
+      "nm_mk": "Strategi Bisnis",
+      "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
     },

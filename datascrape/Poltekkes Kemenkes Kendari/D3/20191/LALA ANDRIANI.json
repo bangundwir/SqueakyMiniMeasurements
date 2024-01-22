@@ -1,0 +1,384 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "GZ305",
+      "nm_mk": "GIZI KULINER DASAR",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ204",
+      "nm_mk": "Anatomi Fisiologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ104",
+      "nm_mk": "BAHASA INGGRIS DASAR",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ201",
+      "nm_mk": "Ilmu Gizi Dasar",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ101",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ108",
+      "nm_mk": "Pendidikan dan Budaya Anti Korupsi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ102",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ103",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ209",
+      "nm_mk": "Ilmu Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ306",
+      "nm_mk": "Gizi Dalam Daur Kehidupan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ211",
+      "nm_mk": "Manajemen Gizi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ303",
+      "nm_mk": "Patologi Manusia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ212",
+      "nm_mk": "Gizi Kesehatan Masyarakat Pesisir dam Kepulauan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ207",
+      "nm_mk": "Ilmu Pangan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ203",
+      "nm_mk": "Ilmu Kimia Pangan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ106",
+      "nm_mk": "SOSIO-ANTROPOLOGI GIZI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ205",
+      "nm_mk": "Biokimia Gizi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ208",
+      "nm_mk": "Mikrobiologi Pangan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ313",
+      "nm_mk": "Ilmu Teknologi Pangan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ210",
+      "nm_mk": "Statistika",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ311",
+      "nm_mk": "Penilaian Status Gizi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ107",
+      "nm_mk": "HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ410",
+      "nm_mk": "Sistem Intervensi Gizi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ312",
+      "nm_mk": "Epidemiologi Gizi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ105",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ407",
+      "nm_mk": "MSPMI I",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ407",
+      "nm_mk": "Manajemen Sistem Penyelenggaraan Makanan Institusi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ411",
+      "nm_mk": "Surveilans gizi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ401",
+      "nm_mk": "Dietetik Penyakit Infeksi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ311",
+      "nm_mk": "Surveilans Gizi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ316",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ315",
+      "nm_mk": "Aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ403",
+      "nm_mk": "Survey Konsumsi Pangan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ308",
+      "nm_mk": "Penyuluhan dan Konsultasi Gizi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ406",
+      "nm_mk": "PERENCANAAN PROGRAM GIZI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ314",
+      "nm_mk": "Pengawasan Mutu Pangan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ310",
+      "nm_mk": "EKONOMI PANGAN DAN GIZI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ402",
+      "nm_mk": "DIETETIK PENYAKIT TIDAK MENULAR",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ409",
+      "nm_mk": "IPE",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ317",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ319",
+      "nm_mk": "TUGAS AKHIR 1",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ405",
+      "nm_mk": "ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ408",
+      "nm_mk": "SPMI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ501",
+      "nm_mk": "PKL ASUHAN GIZI KLINIK",
+      "sks_mk": 5,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ503",
+      "nm_mk": "PKL SPMI (Sistem penyelenggaraan Makanan Institusi)",
+      "sks_mk": 5,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ320",
+      "nm_mk": "Tugas akhir 2",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GZ502",
+      "nm_mk": "PKL PIGM (Program Intervensi Gizi Masyarakat)",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LALA ANDRIANI",
+    "jk": "P",
+    "nipd": "P00331019018",
+    "namapt": "Poltekkes Kemenkes Kendari",
+    "namajenjang": "D3",
+    "namaprodi": "Gizi",
+    "reg_pd": "09BB1DA4-64C4-46A7-B363-FCEB0B3D130B",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-09-09T00:00:00Z",
+    "no_seri_ijazah": "134112022000416",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTA4RjAxMDEtQTI4MS00QUY5LUJEQkEtRjgzNkYxOTNBMUM4",
+    "link_prodi": "/data_prodi/REM1RTY2MDgtMEY0NS00RDFFLUJCRTUtMjEzNjNFQTFCMTg5"
+  }
+}

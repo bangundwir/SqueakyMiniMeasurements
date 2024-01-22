@@ -53,20 +53,6 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "EKO500",
-      "nm_mk": "Matematika Ekonomi",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO502",
-      "nm_mk": "MIKROEKONOMI I",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO504",
       "nm_mk": "MAKROEKONOMI I",
       "sks_mk": 3,
@@ -81,6 +67,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EKO500",
+      "nm_mk": "Matematika Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO502",
+      "nm_mk": "MIKROEKONOMI I",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PPS500",
       "nm_mk": "BAHASA INGGRIS",
       "sks_mk": 3,
@@ -88,8 +88,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO605",
-      "nm_mk": "Metodologi Penelitian",
+      "kode_mk": "EKO505",
+      "nm_mk": "MIKROEKONOMI II",
       "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -102,8 +102,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO505",
-      "nm_mk": "MIKROEKONOMI II",
+      "kode_mk": "EKO605",
+      "nm_mk": "Metodologi Penelitian",
       "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -113,6 +113,13 @@
       "nm_mk": "MAKROEKONOMI II",
       "sks_mk": 3,
       "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO633",
+      "nm_mk": "EKONOMI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
@@ -130,41 +137,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO633",
-      "nm_mk": "EKONOMI POLITIK",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO699",
-      "nm_mk": "Tesis",
-      "sks_mk": 6,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO60A",
-      "nm_mk": "Proposal Tesis",
-      "sks_mk": 1,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPS690",
-      "nm_mk": "Seminar",
-      "sks_mk": 1,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPS690",
-      "nm_mk": "Seminar",
-      "sks_mk": 1,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO60B",
       "nm_mk": "Publikasi Ilmiah",
       "sks_mk": 2,
@@ -186,6 +158,48 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PPS690",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPS690",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO699",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO60A",
+      "nm_mk": "Proposal Tesis",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO699",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO60B",
+      "nm_mk": "Publikasi Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EKO60A",
       "nm_mk": "Proposal Tesis",
       "sks_mk": 1,
@@ -193,20 +207,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO601",
-      "nm_mk": "Kolokium",
-      "sks_mk": 1,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO60B",
-      "nm_mk": "Publikasi Ilmiah",
-      "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO60C",
       "nm_mk": "Ujian Tesis",
       "sks_mk": 1,
@@ -214,38 +214,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO699",
-      "nm_mk": "Tesis",
-      "sks_mk": 6,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO60B",
-      "nm_mk": "Publikasi Ilmiah",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO601",
       "nm_mk": "Kolokium",
       "sks_mk": 1,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO699",
-      "nm_mk": "Tesis",
-      "sks_mk": 6,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKO60C",
-      "nm_mk": "Ujian Tesis",
-      "sks_mk": 1,
-      "id_smt": "20211",
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -263,9 +235,44 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EKO60C",
+      "nm_mk": "Ujian Tesis",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO699",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO601",
+      "nm_mk": "Kolokium",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EKO60B",
       "nm_mk": "Publikasi Ilmiah",
       "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO60A",
+      "nm_mk": "Proposal Tesis",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO601",
+      "nm_mk": "Kolokium",
+      "sks_mk": 1,
       "id_smt": "20212",
       "nilai_huruf": null
     },
@@ -277,20 +284,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO60A",
-      "nm_mk": "Proposal Tesis",
-      "sks_mk": 1,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PPS690",
-      "nm_mk": "Seminar",
-      "sks_mk": 1,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKO60C",
       "nm_mk": "Ujian Tesis",
       "sks_mk": 1,
@@ -298,8 +291,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKO601",
-      "nm_mk": "Kolokium",
+      "kode_mk": "EKO60B",
+      "nm_mk": "Publikasi Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPS690",
+      "nm_mk": "Seminar",
       "sks_mk": 1,
       "id_smt": "20212",
       "nilai_huruf": null

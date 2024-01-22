@@ -1,0 +1,513 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KMT002",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT012",
+      "nm_mk": "Sosio Antropologi Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT005",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT009",
+      "nm_mk": "Biologi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT090",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT004",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT006",
+      "nm_mk": "Dasar Ilmu Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT003",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT014",
+      "nm_mk": "Biomedik II",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT082",
+      "nm_mk": "Etika dan Hukum Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT092",
+      "nm_mk": "Dasar Kependudukan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT015",
+      "nm_mk": "Komunikasi",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT088",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT091",
+      "nm_mk": "Biostatistik Deskriptif dan Inferensial",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT013",
+      "nm_mk": "Biomedik I",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT017",
+      "nm_mk": "Dasar Adm. Kebijakan Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT026",
+      "nm_mk": "Analisis Kualitas Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT083",
+      "nm_mk": "Kepemimpinan dan Berfikir Sistem Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT024",
+      "nm_mk": "Dasar Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT094",
+      "nm_mk": "Epidemiologi Penyakit Tidak Menular",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT022",
+      "nm_mk": "Dasar Kesehatan dan Keselamatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT020",
+      "nm_mk": "Dasar Epidemiologi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT023",
+      "nm_mk": "Dasar Kesehatan Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT021",
+      "nm_mk": "Dasar Ilmu Gizi Kesehatan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT025",
+      "nm_mk": "Surveylans Kesehatan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT093",
+      "nm_mk": "Epidemiologi Penyakit Menular",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT097",
+      "nm_mk": "Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT029",
+      "nm_mk": "Dasar Kesehatan Reproduksi/KIA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT084",
+      "nm_mk": "Praktek Belajar Lapangan I",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT035",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT095",
+      "nm_mk": "Perencanaan dan Evaluasi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT041",
+      "nm_mk": "Ekonomi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT096",
+      "nm_mk": "Penentuan Status Gizi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT028",
+      "nm_mk": "Pembangunan Sektor Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT089",
+      "nm_mk": "Penulisan Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT030",
+      "nm_mk": "Dasar Pemberantasan Penyakit",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT057",
+      "nm_mk": "Pembiayaan dan Penganggaran Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT085",
+      "nm_mk": "Praktek Belajar Lapangan II",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT061",
+      "nm_mk": "SIK/SIM/Teknologi Informasi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT073",
+      "nm_mk": "Pengembangan Instrumen",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT033",
+      "nm_mk": "Manajemen Data",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT098",
+      "nm_mk": "Manajemen Bencana",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT099",
+      "nm_mk": "Manajemen K3",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT036",
+      "nm_mk": "Pengembangan dan Pengorg. Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMP001",
+      "nm_mk": "Praktikum Kesehatan Masyarakat",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT040",
+      "nm_mk": "Aplikasi Komputer Kesehatan Masy.",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT069",
+      "nm_mk": "Teknologi Pengembangan Media",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT071",
+      "nm_mk": "Pendidikan Kesehatan Masyarakat Institus",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT106",
+      "nm_mk": "Teknik Pengambilan Keputusan Program Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT067",
+      "nm_mk": "Dinamika Kelompok",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT108",
+      "nm_mk": "Entomologi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT070",
+      "nm_mk": "Pendidikan dan Latihan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMP004",
+      "nm_mk": "Praktikum Promkes",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT068",
+      "nm_mk": "Renval Pendidikan Kesehatan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT072",
+      "nm_mk": "Epidemiologi Perilaku Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT079",
+      "nm_mk": "Metode Penelitian  Promosi kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT077",
+      "nm_mk": "Pemberdayaan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT107",
+      "nm_mk": "Current Issue Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT086",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT075",
+      "nm_mk": "Strategi Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT076",
+      "nm_mk": "Desai Mtd &amp;amp;amp; Aplik Media Promosi Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT074",
+      "nm_mk": "Studi Kualitatif",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT087",
+      "nm_mk": "Magang",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMT042",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ANI NUR 'AZIZAH",
+    "jk": "P",
+    "nipd": "0617012541",
+    "namapt": "Universitas Pekalongan",
+    "namajenjang": "S1",
+    "namaprodi": "Kesehatan Masyarakat",
+    "reg_pd": "B4E28A3D-4D17-466C-97B6-C92C24CC7BB9",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-07-31T00:00:00Z",
+    "no_seri_ijazah": "132012021000209",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QkE1NzUzMDItMThEMC00NkNCLTkzQ0EtOTMxRERCNkI4OUI4",
+    "link_prodi": "/data_prodi/RkUyQjk0RkQtNDJGQS00NzJDLUEyNDEtQzQyNzQ1NzNFMzk1"
+  }
+}

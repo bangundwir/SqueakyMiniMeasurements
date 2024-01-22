@@ -33,6 +33,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "WAT A.03",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "WAT A.04",
       "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 2,
@@ -54,8 +61,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "WAT D.01",
+      "nm_mk": "KONSEP DASAR KEPERAWATAN (KDK)",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "WAT A.01",
       "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT D.03",
+      "nm_mk": "METODOLOGI KEPERAWATAN",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -75,41 +96,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT D.03",
-      "nm_mk": "METODOLOGI KEPERAWATAN",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "WAT D.01",
-      "nm_mk": "KONSEP DASAR KEPERAWATAN (KDK)",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "WAT A.03",
-      "nm_mk": "KEWARGANEGARAAN",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "WAT D.02 (2)",
-      "nm_mk": "KEPERAWATAN DASAR II",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "WAT B.02",
-      "nm_mk": "GIZI DAN DIET",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "WAT C.03",
       "nm_mk": "ETIKA KEPERAWATAN",
       "sks_mk": 2,
@@ -124,8 +110,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT D.04",
-      "nm_mk": "DOKUMENTASI KEPERAWATAN",
+      "kode_mk": "WAT B.03",
+      "nm_mk": "PATOFISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT D.02 (2)",
+      "nm_mk": "KEPERAWATAN DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT B.02",
+      "nm_mk": "GIZI DAN DIET",
       "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -145,8 +145,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT B.03",
-      "nm_mk": "PATOFISIOLOGI",
+      "kode_mk": "WAT D.04",
+      "nm_mk": "DOKUMENTASI KEPERAWATAN",
       "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -187,16 +187,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT E.08",
-      "nm_mk": "KEPERAWATAN MATERNITAS",
-      "sks_mk": 3,
+      "kode_mk": "WAT D.11",
+      "nm_mk": "Teknologi Informasi Dalam Keperawatan",
+      "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT D.11",
-      "nm_mk": "Teknologi Informasi Dalam Keperawatan",
-      "sks_mk": 2,
+      "kode_mk": "WAT E.08",
+      "nm_mk": "KEPERAWATAN MATERNITAS",
+      "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -222,13 +222,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT D.06",
-      "nm_mk": "MANAJEMEN KEPERAWATAN",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "WAT D.09",
       "nm_mk": "METODOLOGI PENULISAN KARYA ILMIAH",
       "sks_mk": 2,
@@ -236,15 +229,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT F.03",
-      "nm_mk": "KEPERAWATAN GERONTIK",
+      "kode_mk": "WAT D.06",
+      "nm_mk": "MANAJEMEN KEPERAWATAN",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT E.07",
-      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN ANAK",
+      "kode_mk": "WAT A.05",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT F.03",
+      "nm_mk": "KEPERAWATAN GERONTIK",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -271,10 +271,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT A.05",
-      "nm_mk": "KEWIRAUSAHAAN",
+      "kode_mk": "WAT E.07",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN ANAK",
       "sks_mk": 2,
       "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT F.01",
+      "nm_mk": "KEPERAWATAN KELUARGA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT E.13",
+      "nm_mk": "Praktik Klinik Keperawatan Gawat Darurat dan Managemen Bencana I",
+      "sks_mk": 2,
+      "id_smt": "20201",
       "nilai_huruf": null
     },
     {
@@ -292,15 +306,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT F.01",
-      "nm_mk": "KEPERAWATAN KELUARGA",
-      "sks_mk": 2,
+      "kode_mk": "WAT E.03",
+      "nm_mk": "Praktik Klimik Keperawatan Medikal Bedah I",
+      "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT F.03",
-      "nm_mk": "KEPERAWATAN KOMUNITAS",
+      "kode_mk": "WAT D.10",
+      "nm_mk": "Keperawatan Komplementer",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -313,37 +327,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "WAT D.10",
-      "nm_mk": "Keperawatan Komplementer",
+      "kode_mk": "WAT F.03",
+      "nm_mk": "KEPERAWATAN KOMUNITAS",
       "sks_mk": 2,
       "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "WAT E.03",
-      "nm_mk": "Praktik Klimik Keperawatan Medikal Bedah I",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "WAT E.13",
-      "nm_mk": "Praktik Klinik Keperawatan Gawat Darurat dan Managemen Bencana I",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "WAT F.02",
-      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN KELUARGA",
-      "sks_mk": 2,
-      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
       "kode_mk": "WAT  E.05",
       "nm_mk": "PRAKTIK KLINIK KEPERAWATAN MEDIKAL BEDAH II",
       "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT F.02",
+      "nm_mk": "PRAKTIK KLINIK KEPERAWATAN KELUARGA",
+      "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
     },

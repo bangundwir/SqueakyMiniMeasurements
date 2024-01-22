@@ -1,0 +1,576 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KB0811101",
+      "nm_mk": "Pengantar Ilmu Sejarah",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK0812103",
+      "nm_mk": "Ilmu Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0811106",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0811103",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0811101",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0811104",
+      "nm_mk": "Orkes",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0811102",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811104",
+      "nm_mk": "Sejarah Asia Selatan I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811103",
+      "nm_mk": "Sejarah Asia Tenggara I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811102",
+      "nm_mk": "Sejarah Masa Pra Aksara",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0812108",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB0811201",
+      "nm_mk": "PENGANTAR ILMU SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811225",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811212",
+      "nm_mk": "KULIAH KERJA LAPANGAN 1",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811206",
+      "nm_mk": "Sejarah Asia Tenggara II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK0811203",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811211",
+      "nm_mk": "SEJARAH ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811224",
+      "nm_mk": "SEJARAH INDONESIA KUNO",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0811210",
+      "nm_mk": "KOMPUTER LANJUT",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811207",
+      "nm_mk": "SEJARAH ASIA SELATAN II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811209",
+      "nm_mk": "SEJARAH EROPA I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB0811201",
+      "nm_mk": "PENDIDIKAN ILMU SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811427",
+      "nm_mk": "SEJARAH LOKAL",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811208",
+      "nm_mk": "SEJARAH ASIA TIMUR I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812336",
+      "nm_mk": "SEJARAH SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812338",
+      "nm_mk": "SEJARAH ASIA TIMUR II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811314",
+      "nm_mk": "Studi MasyarakatIndonesia",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812337",
+      "nm_mk": "SEJARAH ASIA BARAT DAYA 1",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812340",
+      "nm_mk": "KULIAH KERJA LAPANGAN 2",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812548",
+      "nm_mk": "SEJARAH INTELEKTUAL",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK0811309",
+      "nm_mk": "Ilmu Alamiah Dasar",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811317",
+      "nm_mk": "Sejarah Eropa 2",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811315",
+      "nm_mk": "Sejarah Perekonomian",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811322",
+      "nm_mk": "Bimbingan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811316",
+      "nm_mk": "Sejarah Indonesia Madya 1",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812339",
+      "nm_mk": "SEJARAH AFRIKA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811426",
+      "nm_mk": "SEJARAH ASIA BARAT DAYA 2",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811434",
+      "nm_mk": "SEJARAH POLITIK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811431",
+      "nm_mk": "SEJARAH KEBUDAYAAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811653",
+      "nm_mk": "FILSAFAT SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB0811402",
+      "nm_mk": "STRATEGI BELAJAR MENGAJAR SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811429",
+      "nm_mk": "SEJ INDONESIA MADYA 2",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK0811405",
+      "nm_mk": "PROFESI KEPENDIDIKAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811428",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB0812605",
+      "nm_mk": "PEMBELAJARAN NILAI KARAKTER",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811430",
+      "nm_mk": "SEJARAH AUSTRALIA & OCEANIA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK0811406",
+      "nm_mk": "TEKNOLOGI PEMBELAJARAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812542",
+      "nm_mk": "SEJARAH INDONESIA BARU I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811769",
+      "nm_mk": "KAJIAN KURIKULUM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812546",
+      "nm_mk": "PERENCANAAN PEMBELAJARAN SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812545",
+      "nm_mk": "EVALUASI PENGAJARAN SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB0812503",
+      "nm_mk": "PEMBELAJARAN IPS TERPADU",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812564",
+      "nm_mk": "BAHASA SUMBER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812547",
+      "nm_mk": "METODOLOGI DAN HISTORIOGRAFI I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811767",
+      "nm_mk": "STUDI KEPARIWISATAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812543",
+      "nm_mk": "SEJARAH DUNIA MUTAKHIR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812550",
+      "nm_mk": "SEJARAH AMERIKA I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812544",
+      "nm_mk": "ANTROPOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812672",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811657",
+      "nm_mk": "KULIAH KERJA LAPANGAN 3",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB0811701",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB0812604",
+      "nm_mk": "METODE PENELITIAN KUALITATIF",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812671",
+      "nm_mk": "SEJARAH AMERIKA 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB0811603",
+      "nm_mk": "METODE PENELITIAN KUANTITATIF",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB0811604",
+      "nm_mk": "PENGAJARAN MIKRO 1",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811655",
+      "nm_mk": "METODOLOGI DAN HISTORIOGRAFI 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811654",
+      "nm_mk": "SEJARAH INDONESIA BARU 2",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0812653",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811861",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB0811706",
+      "nm_mk": "PROGRAM PENGALAMAN LAPANGAN",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811760",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811759",
+      "nm_mk": "SEJARAH INDONESIA MUTAKHIR",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB0811861",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "YESSI DIANA SAPUTRI",
+    "jk": "P",
+    "nipd": "K4412082          ",
+    "namapt": "Universitas Sebelas Maret",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Sejarah",
+    "reg_pd": "53CDECDC-9511-41DB-9B30-7F85BF4ABB88",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-05-17T00:00:00Z",
+    "no_seri_ijazah": "466/R/UN27.02/S1/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUJGM0FDMUQtMzZGNC00MzM4LUFDMEUtMTA2RDY5N0MzMzAx",
+    "link_prodi": "/data_prodi/MzY5MUZCMzgtMTE0NC00RjU5LUJBNTgtMjI3OUUzRUUyOTIw"
+  }
+}

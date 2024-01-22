@@ -48,6 +48,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "PTN 2 308",
+      "nm_mk": "Ilmu Ekonomi Perusahaan Peternakan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PTN 2 305 P",
       "nm_mk": "Ilmu Tanaman Pakan",
       "sks_mk": 3,
@@ -104,20 +111,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 2 308",
-      "nm_mk": "Ilmu Ekonomi Perusahaan Peternakan",
-      "sks_mk": 2,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTN 2 313 P",
-      "nm_mk": "Produksi Ternak Perah",
-      "sks_mk": 3,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTN 2 314 P",
       "nm_mk": "Produksi Ternak Potong Dan Kerja",
       "sks_mk": 3,
@@ -160,6 +153,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PTN 2 313 P",
+      "nm_mk": "Produksi Ternak Perah",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PTN 2 312 P",
       "nm_mk": "Produksi Ternak Unggas",
       "sks_mk": 3,
@@ -177,6 +177,13 @@
       "kode_mk": "PTN 3 405",
       "nm_mk": "Kewirausahaan",
       "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTN 3 409 P",
+      "nm_mk": "Rancangan Percobaan Bidang Peternakan",
+      "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
     },
@@ -202,13 +209,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 3 409 P",
-      "nm_mk": "Rancangan Percobaan Bidang Peternakan",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTN 3 406 P",
       "nm_mk": "Ilmu Kesehatan Ternak",
       "sks_mk": 3,
@@ -223,29 +223,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNI 3 208",
-      "nm_mk": "Bahasa Inggris",
-      "sks_mk": 2,
+      "kode_mk": "PTN 3 413 P",
+      "nm_mk": "Integrasi Ternak dan Perkebunan",
+      "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
     },
     {
       "kode_mk": "PTN 3 415 P",
       "nm_mk": "Abatoir dan Teknik Pemotongan",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTN 3 421",
-      "nm_mk": "Praktik Kerja Lapangan (PKL)",
-      "sks_mk": 1,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTN 3 413 P",
-      "nm_mk": "Integrasi Ternak dan Perkebunan",
       "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -258,16 +244,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 3 412",
-      "nm_mk": "Metodologi Penelitian",
+      "kode_mk": "PTN 3 421",
+      "nm_mk": "Praktik Kerja Lapangan (PKL)",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI 3 208",
+      "nm_mk": "Bahasa Inggris",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 3 408 P",
-      "nm_mk": "Teknologi Pengolahan Limbah Peternakan",
-      "sks_mk": 3,
+      "kode_mk": "PTN 3 412",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -279,24 +272,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 4 406 P",
-      "nm_mk": "Teknologi Penggemukan Ternak",
+      "kode_mk": "PTN 3 408 P",
+      "nm_mk": "Teknologi Pengolahan Limbah Peternakan",
       "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "UNI 1 221",
-      "nm_mk": "Matematika - I",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTN 4 490",
-      "nm_mk": "Seminar Usul Penelitian",
-      "sks_mk": 1,
-      "id_smt": "20181",
+      "id_smt": "20172",
       "nilai_huruf": null
     },
     {
@@ -307,8 +286,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 4 491",
-      "nm_mk": "Seminar Hasil Penelitian",
+      "kode_mk": "PTN 4 406 P",
+      "nm_mk": "Teknologi Penggemukan Ternak",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTN 4 490",
+      "nm_mk": "Seminar Usul Penelitian",
       "sks_mk": 1,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -321,10 +307,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 4 490",
-      "nm_mk": "Seminar Usul Penelitian",
+      "kode_mk": "PTN 4 491",
+      "nm_mk": "Seminar Hasil Penelitian",
       "sks_mk": 1,
-      "id_smt": "20182",
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI 1 221",
+      "nm_mk": "Matematika - I",
+      "sks_mk": 2,
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
@@ -345,6 +338,13 @@
       "kode_mk": "UNI 4 422",
       "nm_mk": "KKN",
       "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTN 4 490",
+      "nm_mk": "Seminar Usul Penelitian",
+      "sks_mk": 1,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -370,16 +370,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 4 499",
-      "nm_mk": "Skripsi",
-      "sks_mk": 4,
+      "kode_mk": "PTN 4 491",
+      "nm_mk": "Seminar Hasil Penelitian",
+      "sks_mk": 1,
       "id_smt": "20191",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTN 4 491",
-      "nm_mk": "Seminar Hasil Penelitian",
-      "sks_mk": 1,
+      "kode_mk": "PTN 4 499",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
       "id_smt": "20191",
       "nilai_huruf": null
     },

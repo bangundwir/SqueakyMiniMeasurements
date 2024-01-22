@@ -1,0 +1,560 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BB620A0112",
+      "nm_mk": "SOSIOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0312",
+      "nm_mk": "BAHASA ARAB HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0412",
+      "nm_mk": "HUKUM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A0114",
+      "nm_mk": "PENGANTAR ILMU HUKUM",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A0213",
+      "nm_mk": "ILMU NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0112",
+      "nm_mk": "PENGANTAR ILMU KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB620A0212",
+      "nm_mk": "SOSIOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB620A0312",
+      "nm_mk": "ANTROPOLOGI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK620A0312",
+      "nm_mk": "STUDI ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK620A0113",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1533",
+      "nm_mk": "HUKUM INTERNATIONAL",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A0932",
+      "nm_mk": "ILMU PERUNDANG-UNDANGAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2552",
+      "nm_mk": "HUKUM LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK620A0632",
+      "nm_mk": "STUDI ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1033",
+      "nm_mk": "HUKUM TATA NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1233",
+      "nm_mk": "HUKUM ADMINISTRASI NEGARA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1232",
+      "nm_mk": "HUKUM WAKAF DAN ZAKAT",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2852",
+      "nm_mk": "HUKUM ANTAR TATA HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1432",
+      "nm_mk": "HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1332",
+      "nm_mk": "HUKUM PIDANA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2452",
+      "nm_mk": "HUKUM PERBANKAN (UMUM & SYARIAH)",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK620A0742",
+      "nm_mk": "STUDI KEMUHAMMADIYAHAN II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0542",
+      "nm_mk": "HUKUM ACARA PERATUN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1942",
+      "nm_mk": "HUKUM HAK AZASI MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3262",
+      "nm_mk": "HUKUM PERS",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2342",
+      "nm_mk": "HUKUM EKONOMI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1743",
+      "nm_mk": "HUKUM AGRARIA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2052X",
+      "nm_mk": "HUKUM INVESTASI DAN PASAR MODAL",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2142",
+      "nm_mk": "HUKUM KETENAGAKERJAAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0962",
+      "nm_mk": "HUKUM WARIS ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0443",
+      "nm_mk": "HUKUM ACARA PERDATA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0372",
+      "nm_mk": "ETIKA PROFESI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3152",
+      "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1852",
+      "nm_mk": "HUKUM KONSUMEN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0272",
+      "nm_mk": "FILSAFAT HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2952",
+      "nm_mk": "HUKUM HAK DAN KEKAYAAN INTELEKTUAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2052",
+      "nm_mk": "HUKUM INVESTASI PASAR MODAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1952",
+      "nm_mk": "HUKUM TELEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2952",
+      "nm_mk": "HUKUM HAK DAN KEKAYAAN INTELEKTUAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3052",
+      "nm_mk": "HUKUM WARIS PERDATA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2052",
+      "nm_mk": "HUKUM INVESTASI PASAR MODAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3152",
+      "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2352",
+      "nm_mk": "ASPEK HUKUM DALAM PERDAGANGAN BEBAS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A2352",
+      "nm_mk": "ASPEK HUKUM DALAM PERDAGANGAN BEBAS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0752",
+      "nm_mk": "PENULISAN KARYA ILMIAH (KEMHRN HUKUM I)",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3052",
+      "nm_mk": "HUKUM WARIS PERDATA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0752",
+      "nm_mk": "PENULISAN KARYA ILMIAH (KEMHRN HUKUM I)",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0272",
+      "nm_mk": "FILSAFAT HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1852",
+      "nm_mk": "HUKUM KONSUMEN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A1952",
+      "nm_mk": "HUKUM TELEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0652",
+      "nm_mk": "HUKUM ACARA PERADILAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0372",
+      "nm_mk": "ETIKA PROFESI HUKUM",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0652",
+      "nm_mk": "HUKUM ACARA PERADILAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3462",
+      "nm_mk": "FILSAFAT HUKUM ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A0863",
+      "nm_mk": "HUKUM ACARA PIDANA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3972",
+      "nm_mk": "HUKUM KONTRAK DLM PERKEMB",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3872",
+      "nm_mk": "HUKUM ASURANSI(UMUM & SYARIAH)",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0163",
+      "nm_mk": "METODE PENELITIAN HUKUM",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A6282",
+      "nm_mk": "HUKUM KEPAILITAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3772",
+      "nm_mk": "HUKUM JAMINAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A3362",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A6182",
+      "nm_mk": "YURISPRUDENSI DLM PERKEMBANGAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A1482",
+      "nm_mk": "KEMAHIRAN HUKUM.III(LITIGASI)",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0472",
+      "nm_mk": "PENULISAN SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A1582",
+      "nm_mk": "KEMAHIRAN HUKUM IV(BBH)",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB620A1382",
+      "nm_mk": "KEMAHIRAN HKM.II(NON LITIGASI)",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK620A6382",
+      "nm_mk": "HUKUM PENGANGKATAN ANAK",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0472",
+      "nm_mk": "PENULISAN SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0472",
+      "nm_mk": "PENULISAN SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB620A0472",
+      "nm_mk": "PENULISAN SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TINA HASTUTI NASUTION",
+    "jk": "P",
+    "nipd": "1206200284        ",
+    "namapt": "Universitas Muhammadiyah Sumatera Utara",
+    "namajenjang": "S1",
+    "namaprodi": "Hukum",
+    "reg_pd": "118F3359-6E15-4D1A-92CC-6039852F0A25",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-04-26T00:00:00Z",
+    "no_seri_ijazah": "45759/S1/UMSU/0620/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QUMxQUNEMkMtQzQ5OS00NUFDLUI3OTAtNzZGNUU3Mjk2REY5",
+    "link_prodi": "/data_prodi/MUZGNzA1MDgtRTlFQS00Q0VCLThBNDAtRjM4REVBRUZBNjM2"
+  }
+}

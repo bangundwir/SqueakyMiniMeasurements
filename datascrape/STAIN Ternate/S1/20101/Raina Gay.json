@@ -1,0 +1,520 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TAR.097.01",
+      "nm_mk": "fisika dasar I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.111.01",
+      "nm_mk": "Civic Education",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.050.01",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.113.01",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.060.01",
+      "nm_mk": "dasar-dasar pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.160.01",
+      "nm_mk": "matematika dasar I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.115.01",
+      "nm_mk": "Bahasa Arab I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.116.01",
+      "nm_mk": "Ilmu Sosial Dasar",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.138.01",
+      "nm_mk": "kimia dasar I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.114.01",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.169.01",
+      "nm_mk": "metode studi islam",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.451.04",
+      "nm_mk": "Ulumul Hadits",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.139.01",
+      "nm_mk": "kimia dasar II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.207.01",
+      "nm_mk": "pengetahuan lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.114.02",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.223.03",
+      "nm_mk": "Ulumul Quran",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.098.01",
+      "nm_mk": "fisika dasar II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.115.02",
+      "nm_mk": "Bahasa Arab II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.048.01",
+      "nm_mk": "biologi sel",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.161.01",
+      "nm_mk": "matematika dasar II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.114.03",
+      "nm_mk": "Bahasa Inggris III",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.044.01",
+      "nm_mk": "Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.104.01",
+      "nm_mk": "Genetika",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.080.01",
+      "nm_mk": "Filsafat Umum",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.204.01",
+      "nm_mk": "Pengetahuan Laboratorium",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.020.01",
+      "nm_mk": "Baca Tulis Al-Qur'an",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.253.01",
+      "nm_mk": "Struktur Hewan",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.115.03",
+      "nm_mk": "Bahasa Arab III",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.335.01",
+      "nm_mk": "Ushul Fiqh",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.207.01",
+      "nm_mk": "Ilmu Kalam",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.053.01",
+      "nm_mk": "botani tumbuhan rendah",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.179.01",
+      "nm_mk": "mikrobiologi",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.199.01",
+      "nm_mk": "pengembangan kurikulum biologi",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.278.01",
+      "nm_mk": "zoologi avertebrata",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.071.01",
+      "nm_mk": "Etika Profesi Guru",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.046.01",
+      "nm_mk": "biologi laut",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.239.01",
+      "nm_mk": "statistik dasar",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.249.01",
+      "nm_mk": "strategi pembelajaran biologi",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.185.01",
+      "nm_mk": "morfologi tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.110.01",
+      "nm_mk": "hadits tarbawi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.074.01",
+      "nm_mk": "evaluasi pembelajaran biologi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.262.01",
+      "nm_mk": "telaah kurikulum bio sltp/mts",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.178.01",
+      "nm_mk": "micro teaching",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.102.01",
+      "nm_mk": "fisiologi tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.280.01",
+      "nm_mk": "zoologi vertebrata",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.067.01",
+      "nm_mk": "embriologi dan perkembangan hewan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.065.01",
+      "nm_mk": "ekologi hewan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.257.01",
+      "nm_mk": "tafsir tarbawi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.054.01",
+      "nm_mk": "botani tumbuhan tinggi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.225.01",
+      "nm_mk": "psikologi pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.100.01",
+      "nm_mk": "fisiologi hewan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.069.01",
+      "nm_mk": "entomologi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.263.01",
+      "nm_mk": "telaah kurikulum bio sma/ma",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.015.01",
+      "nm_mk": "anatomi tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.171.01",
+      "nm_mk": "metodologi penelitian",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.216.01",
+      "nm_mk": "ppl",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.063.01",
+      "nm_mk": "desain pembelajaran biologi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.218.01",
+      "nm_mk": "praktek ibadah kemasyarakatan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.013.01",
+      "nm_mk": "anatomi fisiologi tubuh manusia",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.051.01",
+      "nm_mk": "bioteknologi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.144.01",
+      "nm_mk": "komputer dan pengenalan internet",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.193.01",
+      "nm_mk": "pendidikan gizi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.141.01",
+      "nm_mk": "kkli",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STA.582.01",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TAR.143.01",
+      "nm_mk": "Komprehensif",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Raina Gay",
+    "jk": "P",
+    "nipd": "10.137.125",
+    "namapt": "STAIN Ternate",
+    "namajenjang": "S1",
+    "namaprodi": "Tadris Biologi",
+    "reg_pd": "2BAA2908-D05A-45A5-85A6-1E3024598C3E",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": null,
+    "no_seri_ijazah": "In.27.1/R/PP.01.1/A-00768/2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTA3Q0Y1NzktMjYwRS00QjlCLTg2MTQtMTlGMjkxMkVGQzJF",
+    "link_prodi": "/data_prodi/MERBRDU2REMtNDM2Ni00NkZELTkyMUYtMzBGRURBODE1NUIz"
+  }
+}

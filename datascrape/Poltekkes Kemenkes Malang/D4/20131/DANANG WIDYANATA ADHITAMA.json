@@ -1,0 +1,415 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "WAT.D4.17",
+      "nm_mk": "KEBUTUHAN DASAR MANUSIA II (KDM II)",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.10",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.32",
+      "nm_mk": "KEBIJAKAN KESEHATAN NASIONAL (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.19",
+      "nm_mk": "KOMUNIKASI DALAM KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.06",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.11",
+      "nm_mk": "PATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.20",
+      "nm_mk": "PROMOSI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.12",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.08",
+      "nm_mk": "MIKROBIOLOGI DAN PARASITOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.09",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.21",
+      "nm_mk": "PROSES DAN DOKUMENTASI KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.29",
+      "nm_mk": "KEPERAWATAN KELUARGA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.37",
+      "nm_mk": "PRAKTIK KEPERAWATAN 1 : KEBUTUHAN DASAR MANUSIA  (KDM)",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.ML.47",
+      "nm_mk": "PENGEMBANGAN KEPRIBADIAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.28",
+      "nm_mk": "KEPERAWATAN MATERNITAS",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.14",
+      "nm_mk": "PEMBERDAYAAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.27",
+      "nm_mk": "KEPERAWATAN ANAK",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.ML.48",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.22",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH I (KMB I)",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.13",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.31",
+      "nm_mk": "KEPERAWATAN GERONTIK",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.35",
+      "nm_mk": "MANAJEMEN DAN KEPEMIMPINAN DALAM KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.ML.50",
+      "nm_mk": "HOME CARE",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.26",
+      "nm_mk": "KEPERAWATAN JIWA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.38",
+      "nm_mk": "PRAKTIK KEPERAWATAN 2 : KEPERAWATAN MEDIKAL BEDAH I (KMB I)",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.30",
+      "nm_mk": "KEPERAWATAN KOMUNITAS",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.23",
+      "nm_mk": "KEPERAWATAN MEDIKAL BEDAH II (KMB II)",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.24",
+      "nm_mk": "KEPERAWATAN KEDARURATAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.41",
+      "nm_mk": "PRAKTEK KEPERAWATAN 5 : KEPERAWATAN ANAK",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.25",
+      "nm_mk": "MANAJEMEN BENCANA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.ML.59",
+      "nm_mk": "PENDIDIKAN BUDAYA ANTI KORUPSI",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.39",
+      "nm_mk": "PRAKTIK KEPERAWATAN 3  : KEPERAWATAN MEDIKAL BEDAH II (KMB II)",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.40",
+      "nm_mk": "PRAKTEK KEPERAWATAN 4 : KEPERAWATAN MATERNITAS",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.43",
+      "nm_mk": "PRAKTEK KEPERAWATAN 7 : KEPERAWATAN KELUARGA &amp;amp; KEPERAWATAN GERONTIK",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.45",
+      "nm_mk": "Praktek Keperawatan 9 : Keperawatan Gawat Darurat",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.46",
+      "nm_mk": "PRAKTEK KEPERAWATAN 10 : MANAJEMEN DAN KEPEMIMPINAN DALAM KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.44",
+      "nm_mk": "PRAKTEK KEPERAWATAN 8 : KEPERAWATAN KOMUNITAS",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.42",
+      "nm_mk": "PRAKTEK KEPERAWATAN 6 : KEPERAWATAN JIWA",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.PO.52",
+      "nm_mk": "KEPERAWATAN PERIOPERATIF I",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.ML.49",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.PO.51",
+      "nm_mk": "ILMU BEDAH",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.PO.54",
+      "nm_mk": "KEPERAWATAN PERIOPERATIF III",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.33",
+      "nm_mk": "STATISTIK KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.34",
+      "nm_mk": "RISET KEPERAWATAN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.PO.53",
+      "nm_mk": "KEPERAWATAN PERIOPERATIF II",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.PO.55",
+      "nm_mk": "KEPERAWATAN PERIOPERATIF IV",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.PO.56",
+      "nm_mk": "PRAKTEK KEPERAWATAN PERIOPERATIF I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.PO.57",
+      "nm_mk": "PRAKTEK KEPERAWATAN PERIOPERATIF II",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT Str.G.01",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WAT.D4.PO.58",
+      "nm_mk": "PRAKTEK KEPERAWATAN PERIOPERATIF III",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DANANG WIDYANATA ADHITAMA",
+    "jk": "L",
+    "nipd": "1301460063",
+    "namapt": "Poltekkes Kemenkes Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Keperawatan",
+    "reg_pd": "5BCEC087-02DB-474C-9FAA-90DEECC110D3",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-07-28T00:00:00Z",
+    "no_seri_ijazah": "405017.002833",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjFFRDUyODQtODkwRi00Rjg2LUE5QTctQTdBQjBCMjQ1RjMy",
+    "link_prodi": "/data_prodi/M0Q5NUM5QzMtNENFNS00OUNDLUI4N0QtRjAyNTA5MTU2M0ND"
+  }
+}

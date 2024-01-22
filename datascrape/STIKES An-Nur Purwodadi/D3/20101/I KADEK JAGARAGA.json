@@ -1,0 +1,370 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "A.1.MPB.01.1A",
+      "nm_mk": "KONSEP DASAR KEPERAWATAN",
+      "sks_mk": 6,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPK.03.1",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.03.1",
+      "nm_mk": "PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPK.01.1",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPB.02.1A",
+      "nm_mk": "KEBUTUHAN DASAR MANUSIA I",
+      "sks_mk": 6,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.07.1",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.01.1B",
+      "nm_mk": "ANATOMI FISIOLOGI",
+      "sks_mk": 5,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPB.04.1",
+      "nm_mk": "ETIKA KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.02.1A",
+      "nm_mk": "FISIKA DAN BIOLOGI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPK.02.1",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPB.06.2",
+      "nm_mk": "KOMUNIKASI KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.05.2",
+      "nm_mk": "MIKROBIOLOGIDAN PARASITOLOGI",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPB.03.2A",
+      "nm_mk": "KDM II",
+      "sks_mk": 7,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.06.2",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.09.2",
+      "nm_mk": "PATOFISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.01.2A",
+      "nm_mk": "KMB I",
+      "sks_mk": 8,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MBB.02.2",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPB.09.2A",
+      "nm_mk": "DOKUMENTASI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.04.3",
+      "nm_mk": "KEPERAWATAN MATERNITAS I",
+      "sks_mk": 5,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.14.4",
+      "nm_mk": "KEPERAWATAN KOMUNITAS II",
+      "sks_mk": 5,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MBB.02.2",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MBB.02.3",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.09.4A",
+      "nm_mk": "KMB III",
+      "sks_mk": 8,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.04.3",
+      "nm_mk": "ILMU GIZI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPB.08.3",
+      "nm_mk": "PROMOSI KESEHATAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.09.4A",
+      "nm_mk": "KMB III",
+      "sks_mk": 8,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.11.4",
+      "nm_mk": "KEPERAWATAN KELUARGA",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.15.3",
+      "nm_mk": "KEGAWADARURATAN",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.03.4",
+      "nm_mk": "KEPERAWATAN ANAK I",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MBB.04.4",
+      "nm_mk": "BAHASA INGGRIS IV",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.14.4",
+      "nm_mk": "KEPERAWATAN KOMUNITAS II",
+      "sks_mk": 5,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MBB.02.4",
+      "nm_mk": "BAHASA INGGRIS IV",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.02.4",
+      "nm_mk": "KEPERAWATAN JIWA I",
+      "sks_mk": 5,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPB.05.5B",
+      "nm_mk": "KEPERAWATAN PROFESIONAL",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.13.6A",
+      "nm_mk": "KOMUNITAS",
+      "sks_mk": 6,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKK.08.5A",
+      "nm_mk": "PATOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.12.5",
+      "nm_mk": "KEPERAWATAN GERONTIK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MBB.01.5A",
+      "nm_mk": "MANAJEMEN KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MPB.07.5A",
+      "nm_mk": "RISET KEPERAWATAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.06.6A",
+      "nm_mk": "KEPERAWATAN JIWA II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.07.6",
+      "nm_mk": "KEPERAWATAN ANAK II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.08.6",
+      "nm_mk": "KEPERAWATAN MATERNITAS II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.18.6",
+      "nm_mk": "KARYA TULIS ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.1.MKB.16.6",
+      "nm_mk": "KMB V",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "A.I.MKB.15.5A",
+      "nm_mk": "KOMUNITAS III",
+      "sks_mk": 9,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "I KADEK JAGARAGA",
+    "jk": "L",
+    "nipd": "10011530          ",
+    "namapt": "STIKES An-Nur Purwodadi",
+    "namajenjang": "D3",
+    "namaprodi": "Keperawatan",
+    "reg_pd": "5E268E5F-0E45-46C2-9077-FDC43BE8DB45",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2013-07-01T00:00:00Z",
+    "no_seri_ijazah": "0343/D-III/AN",
+    "sert_prof": null,
+    "link_pt": "/data_pt/M0RGMzg3NjAtMkQ3QS00NzdDLUE0MTQtNzZGRjMzNkY4RDdC",
+    "link_prodi": "/data_prodi/RDZFRjM3NTYtMTkzOC00NUU2LUFDOUQtQzNBQjYzMTFCNzcz"
+  }
+}

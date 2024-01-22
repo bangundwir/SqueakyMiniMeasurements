@@ -1,0 +1,597 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20172",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PSI1G",
+      "nm_mk": "GANGGUAN PSIKIATRI DEWASA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1E",
+      "nm_mk": "MATRIKULASI MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1K",
+      "nm_mk": "PRAKTEK KLINIK KASUS GAWAT DARURAT PSI 1",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1D",
+      "nm_mk": "EPIDEMIOLOGI KLINIK & KEDOKTERAN BUKTI",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1J",
+      "nm_mk": "TES PSIKOMETRI",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1B",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1F",
+      "nm_mk": "KETRAMPILAN KLINIK DASAR & TKN WWNCR",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1H",
+      "nm_mk": "KEDARURATAN PSIKIATRI",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1C",
+      "nm_mk": "BIOSTATISTIK & KOMPUTER STATISTIK",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1A",
+      "nm_mk": "FILSAFAT ILMU PENGETAHUAN & ETIKA PROFES",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI1I",
+      "nm_mk": "PSIKOLOGI UMUM",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2C",
+      "nm_mk": "TEORI DASAR PSIKOANALISA",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2D",
+      "nm_mk": "PSIKIATRI BILOGI & NEUROPSIKIATRIK",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2G",
+      "nm_mk": "SEMINAR ILMIAH 1",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2I",
+      "nm_mk": "PRAKTEK KLINIK KASUS GAWAT DARURAT PSI 2",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2H",
+      "nm_mk": "PRAKTEK KLINIK KASUS PSIKIATRI DEWASA 2",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2F",
+      "nm_mk": "PSIKIATRI FORENSIK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2E",
+      "nm_mk": "TERAPI BIOLOGIK & MEKANIK (ECT)",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2A",
+      "nm_mk": "PSIKOPATOLOGI FENOMENOLOGIK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI2B",
+      "nm_mk": "SIKLUS KEHIDUPAN & TEORI PERKEMBANGAN",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3D",
+      "nm_mk": "PSIKOTERAPI BERORIENTASI DINAMIK",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3I",
+      "nm_mk": "SEMINAR ILMIAH 2",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3J",
+      "nm_mk": "PRAKTEK KLINIK KASUS PSIKIATRI DEWASA 3",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3F",
+      "nm_mk": "ANALISIS TRANSAKSIONAL",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3H",
+      "nm_mk": "PRAKTEK PSIKOTERAPI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3A",
+      "nm_mk": "PSIKOPATOLOGI DINAMIK 1",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3E",
+      "nm_mk": "TERAPI KOGNITIF PERILAKU 1",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3C",
+      "nm_mk": "HIPNOTERAPI",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3G",
+      "nm_mk": "TEORI GESTALT,EKSISTENSI,TERPI KELUARGA",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3B",
+      "nm_mk": "PSIKIATRI TRANSKULTURAL",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI3K",
+      "nm_mk": "PRAKTEK KLINIK KASUS GWT DARURAT PSI 3",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4C",
+      "nm_mk": "CONSULTATION LIAISON PSYCHIATRY 1",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4G",
+      "nm_mk": "SEMINAR ILMIAH 3",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4E",
+      "nm_mk": "TES PSIKOMETRI",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4J",
+      "nm_mk": "PRAKTEK KLINIK KASUS PSIKIATRI DEWASA 4",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4B",
+      "nm_mk": "PSIKOPATOLOGI DINAMIK",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4F",
+      "nm_mk": "PSIKIATRI KOMUNITAS 1",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4I",
+      "nm_mk": "PRAKTEK PSIKIATRI BERORIENTASI DINAMIK",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4D",
+      "nm_mk": "TERAPI BIOLOGIK DAN MEKANIK",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4H",
+      "nm_mk": "PRAKTEK TERAPI PERILAKU",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4K",
+      "nm_mk": "PRAKTEK KLINIK KASUS GWT DARURAT PSI 4",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI4A",
+      "nm_mk": "GANGGUAN PSIKIATRI DEWASA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5H",
+      "nm_mk": "PRAKTEK KLINIK KASUS PSI DEWASA & ANAK 1",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5A",
+      "nm_mk": "GANGGUAN PSIKIATRI DEWASA 3",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5F",
+      "nm_mk": "PSIKODINAMIK ANAK & KELUARGA",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5G",
+      "nm_mk": "SEMINAR ILMIAH 4",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5C",
+      "nm_mk": "PSIKIATRI ADIKSI",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5I",
+      "nm_mk": "PRAKTEK KLINIK KASUS GWT DARURAT PSI 5",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5B",
+      "nm_mk": "CONSULTATION LIAISON PSYCHIATRY 2",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5D",
+      "nm_mk": "PSIKIATRI ANAK I",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI5E",
+      "nm_mk": "PSIKIATRI KOMUNITAS 2",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6G",
+      "nm_mk": "PRAKTEK KLINIS KASUS NEUROPSYCHIATRY",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6I",
+      "nm_mk": "PRAKTEK KLINIK KASUS GWT DARURAT PSI 5",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6F",
+      "nm_mk": "PRAKTEK KLINIS KASUS PSIKOGERIATRI",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6D",
+      "nm_mk": "SEMINAR ILMIAH 5",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6H",
+      "nm_mk": "PRAKTEK KLINIS KASUS PSI DEWASA & ANAK 2",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6B",
+      "nm_mk": "PSIKOGERIATRI",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6E",
+      "nm_mk": "PRAKTEK KLINIS KASUS HIV - AIDS",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6A",
+      "nm_mk": "PSIKIATRI ANAK 2",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI6C",
+      "nm_mk": "CLP PADA ANAK & DEWASA 1",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7H",
+      "nm_mk": "PRAKTEK KLINIK KASUS PSI DEWASA & ANAK 3",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7D",
+      "nm_mk": "CLP PADA ANAK & DEWASA 2",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7B",
+      "nm_mk": "PSIKIATRI ANAK 3",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7E",
+      "nm_mk": "SEMINAR ILMIAH 6",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7A",
+      "nm_mk": "SEMINAR TESIS 1",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7I",
+      "nm_mk": "PRAKTEK KLINIK KASUS GAWAT DARURAT PSI 6",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7C",
+      "nm_mk": "PSIKIATRI KOMUNITAS 3",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7G",
+      "nm_mk": "BIO STATISTIK & KOMPUTER STATISTIK 2",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI7F",
+      "nm_mk": "METODOLOGI PENELITIAN 2",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI8A",
+      "nm_mk": "SEMINAR TESIS 2",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI8C",
+      "nm_mk": "PRAKTEK CLP PADA ANAK & DEWASA 3",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI8G",
+      "nm_mk": "UJIAN AKHIR KETRAMPILAN KLINIS",
+      "sks_mk": 7,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI8D",
+      "nm_mk": "METODOLOGI PENELITIAN 2",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI8F",
+      "nm_mk": "PRAKTEK KLINIK KASUS GWT DARURAT 7",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI8B",
+      "nm_mk": "SEMINAR ILMIAH 7",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSI8E",
+      "nm_mk": "PRAKTEK KLINIK KASUS PSI DEWASA & ANAK 4",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "dr ICHDINAVIA HARSAYA",
+    "jk": "P",
+    "nipd": "22040517320011",
+    "namapt": "Universitas Diponegoro",
+    "namajenjang": "Sp-1",
+    "namaprodi": "Psikiatri",
+    "reg_pd": "F69F5E73-8B00-48C7-A81D-696139BE6955",
+    "mulai_smt": "20172",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-01-25T00:00:00Z",
+    "no_seri_ijazah": "11172420220005",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTREMDFCRjMtODI1NS00NzRCLUI5NkQtNDQyNjEzNUVFRDAx",
+    "link_prodi": "/data_prodi/Q0IwODU3RTQtMTQ5Qi00RkU5LUI0QTctQTUwNUUyM0E2NTUw"
+  }
+}

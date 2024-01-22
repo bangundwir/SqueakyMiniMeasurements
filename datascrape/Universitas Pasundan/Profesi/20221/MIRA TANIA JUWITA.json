@@ -1,0 +1,61 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "DJ2071023",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DJ2071015",
+      "nm_mk": "Pendalaman Materi",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DJ2071034",
+      "nm_mk": "Praktik Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MIRA TANIA JUWITA",
+    "jk": "P",
+    "nipd": "225071106",
+    "namapt": "Universitas Pasundan",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "9D7D10ED-C388-47B4-B98C-41BEEB98F640",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-15T00:00:00Z",
+    "no_seri_ijazah": "0410082315480242",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEFBMzk4QTItNkM2OC00RUUwLTg2RkEtM0VBNjVCNTREQzk3",
+    "link_prodi": "/data_prodi/MDFCRjlEQzctQTZGOC00QTRFLTg2MDctNUY0QkFEMDE5QjMw"
+  }
+}

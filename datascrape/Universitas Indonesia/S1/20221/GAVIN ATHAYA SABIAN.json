@@ -1,0 +1,208 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UIGE600004",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMA601002",
+      "nm_mk": "Kalkulus 1",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMA601003",
+      "nm_mk": "Aljabar Linier Elementer",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMF600002",
+      "nm_mk": "Pengantar Sains Data",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCBI601112",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601101",
+      "nm_mk": "Fisika Dasar 1",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601142",
+      "nm_mk": "Praktikum Fisika Dasar 1",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCCH601101",
+      "nm_mk": "Kimia umum",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIGE600003",
+      "nm_mk": "MPK Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601242",
+      "nm_mk": "Praktikum Fisika Dasar II",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601201",
+      "nm_mk": "Fisika Dasar II",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601254",
+      "nm_mk": "Elektronika I",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCMA601005",
+      "nm_mk": "Kalkulus 2",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601245",
+      "nm_mk": "Praktikum Elektronika I",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH601213",
+      "nm_mk": "Fisika Matematika 1",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UIGE600006",
+      "nm_mk": "MPK Terintegrasi",
+      "sks_mk": 5,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH602111",
+      "nm_mk": "Fisika Matematika II",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH602135",
+      "nm_mk": "Termodinamika",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH602144",
+      "nm_mk": "Praktikum Fisika Lanjut I",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH602156",
+      "nm_mk": "Elektronika II",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH602133",
+      "nm_mk": "Fisika Modern",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH602112",
+      "nm_mk": "Fisika Matematika III",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH602258",
+      "nm_mk": "Fisika Pengukuran",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCPH602147",
+      "nm_mk": "Praktikum Elektronika II",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GAVIN ATHAYA SABIAN",
+    "jk": "L",
+    "nipd": "2206030104",
+    "namapt": "Universitas Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Fisika",
+    "reg_pd": "B41B96D8-1B65-41CA-BFD0-D153A74AD51F",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEQxRTYzRTktQ0JGQi00NTQ2LUEyNDItODc1QzMxMDA4M0E1",
+    "link_prodi": "/data_prodi/MkI2QTMxRDQtN0NGMi00QkFGLUFGNTgtNTM0MzlFNDU2QUE5"
+  }
+}

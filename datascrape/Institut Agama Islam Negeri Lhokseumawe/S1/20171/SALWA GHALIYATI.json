@@ -63,15 +63,15 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "MKU11109",
-      "nm_mk": "PENGANTAR ILMU HUKUM",
+      "kode_mk": "MKP11110",
+      "nm_mk": "METODE PENULISAN KARYA ILMIAH",
       "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKP11110",
-      "nm_mk": "METODE PENULISAN KARYA ILMIAH",
+      "kode_mk": "MKU11109",
+      "nm_mk": "PENGANTAR ILMU HUKUM",
       "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -98,13 +98,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKD11107",
-      "nm_mk": "USHUL FIQH I",
-      "sks_mk": 2,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKD11103",
       "nm_mk": "BAHASA INGGRIS I",
       "sks_mk": 2,
@@ -112,9 +105,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKD11101",
-      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "kode_mk": "MKD11107",
+      "nm_mk": "USHUL FIQH I",
       "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD11105",
+      "nm_mk": "ULUMUL QURAN",
+      "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
     },
@@ -126,9 +126,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKD11105",
-      "nm_mk": "ULUMUL QURAN",
-      "sks_mk": 3,
+      "kode_mk": "MKD11101",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
     },
@@ -147,36 +147,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKD21116",
-      "nm_mk": "USHUL FIQH II",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKD21120",
       "nm_mk": "STATISTIK",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKD21111",
-      "nm_mk": "BAHASA ARAB II",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU21121",
-      "nm_mk": "PENGANTAR TATA HUKUM INDONESIA",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKD21113",
-      "nm_mk": "BAHASA INDONESIA",
       "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
@@ -203,6 +175,34 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKD21111",
+      "nm_mk": "BAHASA ARAB II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU21121",
+      "nm_mk": "PENGANTAR TATA HUKUM INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD21113",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD21116",
+      "nm_mk": "USHUL FIQH II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKD21118",
       "nm_mk": "MATEMATIKA DASAR",
       "sks_mk": 2,
@@ -224,43 +224,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKU31132",
+      "nm_mk": "QAWAIDUL FIQHIYYAH",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD31122",
+      "nm_mk": "USHUL FIQH III",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKD31123",
       "nm_mk": "TAFSIR",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU31130",
-      "nm_mk": "SOSIOLOGI HUKUM ISLAM",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU31128",
-      "nm_mk": "HUKUM ADAT",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU31129",
-      "nm_mk": "FIQH MUAMALAH",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU31131",
-      "nm_mk": "SEJARAH PERADILAN AGAMA DI INDONESIA",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU31127",
-      "nm_mk": "HUKUM PIDANA",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -280,24 +259,38 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKD31122",
-      "nm_mk": "USHUL FIQH III",
+      "kode_mk": "MKU31127",
+      "nm_mk": "HUKUM PIDANA",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU31132",
-      "nm_mk": "QAWAIDUL FIQHIYYAH",
+      "kode_mk": "MKU31130",
+      "nm_mk": "SOSIOLOGI HUKUM ISLAM",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU61160",
-      "nm_mk": "HIBAH DAN WASIAT DI INDONESIA",
+      "kode_mk": "MKU31129",
+      "nm_mk": "FIQH MUAMALAH",
       "sks_mk": 2,
-      "id_smt": "20182",
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU31131",
+      "nm_mk": "SEJARAH PERADILAN AGAMA DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU31128",
+      "nm_mk": "HUKUM ADAT",
+      "sks_mk": 2,
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
@@ -315,6 +308,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MKU41135",
+      "nm_mk": "TAFSIR AHKAM I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU41139",
+      "nm_mk": "TARIKH TASYRI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKU41141",
       "nm_mk": "HUKUM PERKAWINAN DI INDONESIA",
       "sks_mk": 2,
@@ -322,8 +329,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU41135",
-      "nm_mk": "TAFSIR AHKAM I",
+      "kode_mk": "MKU61160",
+      "nm_mk": "HIBAH DAN WASIAT DI INDONESIA",
       "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -332,13 +339,6 @@
       "kode_mk": "MKU41136",
       "nm_mk": "HADIS AHKAM I",
       "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU41133",
-      "nm_mk": "METODOLOGI PENELITIAN HUKUM ISLAM",
-      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -357,15 +357,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU41139",
-      "nm_mk": "TARIKH TASYRI",
-      "sks_mk": 2,
+      "kode_mk": "MKU41133",
+      "nm_mk": "METODOLOGI PENELITIAN HUKUM ISLAM",
+      "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU51145",
-      "nm_mk": "FIQH MUNAKAHAT II",
+      "kode_mk": "MKU51152",
+      "nm_mk": "HUKUM ACARA PIDANA",
       "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -378,8 +378,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU51152",
-      "nm_mk": "HUKUM ACARA PIDANA",
+      "kode_mk": "MKU51145",
+      "nm_mk": "FIQH MUNAKAHAT II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU51144",
+      "nm_mk": "HUKUM ACARA PERADILAN ISLAM",
       "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -406,13 +413,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU51146",
-      "nm_mk": "FIQH SIYASAH",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MKU51143",
       "nm_mk": "HUKUM WARIS DI INDONESIA",
       "sks_mk": 2,
@@ -420,8 +420,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU51144",
-      "nm_mk": "HUKUM ACARA PERADILAN ISLAM",
+      "kode_mk": "MKU51146",
+      "nm_mk": "FIQH SIYASAH",
       "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -438,13 +438,6 @@
       "nm_mk": "HUKUM ACARA PERDATA",
       "sks_mk": 2,
       "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKP61163",
-      "nm_mk": "PRAKTIK PERADILAN",
-      "sks_mk": 2,
-      "id_smt": "20192",
       "nilai_huruf": null
     },
     {
@@ -469,8 +462,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKU61157",
-      "nm_mk": "PERWAQAFAN DI INDONESIA",
+      "kode_mk": "MKP61163",
+      "nm_mk": "PRAKTIK PERADILAN",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -478,6 +471,20 @@
     {
       "kode_mk": "MKU61155",
       "nm_mk": "KRIMINOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU61157",
+      "nm_mk": "PERWAQAFAN DI INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU61154",
+      "nm_mk": "LEGAL DRAFTING",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -499,13 +506,6 @@
     {
       "kode_mk": "MKU61156",
       "nm_mk": "MASAIL FIQHIYYAH",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKU61154",
-      "nm_mk": "LEGAL DRAFTING",
       "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null

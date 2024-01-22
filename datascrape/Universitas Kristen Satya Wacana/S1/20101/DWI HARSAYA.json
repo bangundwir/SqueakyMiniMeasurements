@@ -1,0 +1,80 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RN006",
+      "nm_mk": "INTEGRATED COURSE REMIDIATION",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RN007",
+      "nm_mk": "LOGIC & ELEMENTARY MAT. REMIDIATION",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HS121",
+      "nm_mk": "BIOLOGICAL CHEMISTRY",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HS112",
+      "nm_mk": "INTEGRATED ENGLISH COURSE",
+      "sks_mk": 10,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HS120",
+      "nm_mk": "PHYSIC IN NURSING",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DWI HARSAYA",
+    "jk": "L",
+    "nipd": "462010071         ",
+    "namapt": "Universitas Kristen Satya Wacana",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Keperawatan",
+    "reg_pd": "438B6F1C-3E58-42D3-BA8B-D0EC60EBDF42",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Mengundurkan diri",
+    "tgl_keluar": "2012-10-30T00:00:00Z",
+    "no_seri_ijazah": " ",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBMDBFRjgtMjZDMy00NTk3LTg2ODMtMzhBRDZFMDUyNzdC",
+    "link_prodi": "/data_prodi/NzJFQjRGMEEtRTQ4NS00OEI1LUFGNTUtNEZBQjY0NDk1NTU4"
+  }
+}

@@ -43,44 +43,9 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "EK12420",
-      "nm_mk": "BAHASA INGGRIS",
-      "sks_mk": 2,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK12430",
-      "nm_mk": "MATEMATIKA EKONOMI I",
-      "sks_mk": 2,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "DU11142",
       "nm_mk": "LOGIKA DAN BAHASA",
       "sks_mk": 2,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK12311",
-      "nm_mk": "PENGANTAR EKONOMI MIKRO",
-      "sks_mk": 2,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK12330",
-      "nm_mk": "PENGANTAR BISNIS",
-      "sks_mk": 4,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EK12351",
-      "nm_mk": "PENGANTAR AKUNTANSI I/LAB",
-      "sks_mk": 4,
       "id_smt": "20031",
       "nilai_huruf": null
     },
@@ -99,17 +64,38 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "DU11021",
-      "nm_mk": "PENDIDIKAN PANCASILA",
-      "sks_mk": 2,
-      "id_smt": "20032",
+      "kode_mk": "EK12351",
+      "nm_mk": "PENGANTAR AKUNTANSI I/LAB",
+      "sks_mk": 4,
+      "id_smt": "20031",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EK12352",
-      "nm_mk": "PENGANTAR AKUNTANSI II/LAB",
+      "kode_mk": "EK12330",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 4,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK12311",
+      "nm_mk": "PENGANTAR EKONOMI MIKRO",
       "sks_mk": 2,
-      "id_smt": "20032",
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK12430",
+      "nm_mk": "MATEMATIKA EKONOMI I",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK12420",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20031",
       "nilai_huruf": null
     },
     {
@@ -127,8 +113,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EK12314",
-      "nm_mk": "PENG.EKONOMI MAKRO",
+      "kode_mk": "DU11021",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK12352",
+      "nm_mk": "PENGANTAR AKUNTANSI II/LAB",
       "sks_mk": 2,
       "id_smt": "20032",
       "nilai_huruf": null
@@ -137,6 +130,13 @@
       "kode_mk": "EK12433",
       "nm_mk": "MATEMATIKA EKONOMI II",
       "sks_mk": 4,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK12314",
+      "nm_mk": "PENG.EKONOMI MAKRO",
+      "sks_mk": 2,
       "id_smt": "20032",
       "nilai_huruf": null
     },
@@ -155,13 +155,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM32471",
-      "nm_mk": "MANAJEMEN SDM",
-      "sks_mk": 4,
-      "id_smt": "20041",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EM23121",
       "nm_mk": "MANAJEMEN KEUANGAN/LAB",
       "sks_mk": 4,
@@ -176,9 +169,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM32501",
-      "nm_mk": "MANAJEMEN OPERASI/LAB",
-      "sks_mk": 4,
+      "kode_mk": "EM23401",
+      "nm_mk": "AKUNTANSI BIAYA/LAB",
+      "sks_mk": 2,
       "id_smt": "20041",
       "nilai_huruf": null
     },
@@ -190,9 +183,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM23401",
-      "nm_mk": "AKUNTANSI BIAYA/LAB",
-      "sks_mk": 2,
+      "kode_mk": "EM32471",
+      "nm_mk": "MANAJEMEN SDM",
+      "sks_mk": 4,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM32501",
+      "nm_mk": "MANAJEMEN OPERASI/LAB",
+      "sks_mk": 4,
       "id_smt": "20041",
       "nilai_huruf": null
     },
@@ -218,22 +218,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EK32381",
-      "nm_mk": "PENGANTAR EKONOMI PEMBANGUNAN",
-      "sks_mk": 2,
-      "id_smt": "20042",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EM33351",
-      "nm_mk": "SISTEM INFOR. MANAJEMEN",
-      "sks_mk": 2,
-      "id_smt": "20042",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EM32542",
-      "nm_mk": "TEORI EKONOMI II",
+      "kode_mk": "DU11031",
+      "nm_mk": "PENDDKAN KEWARGANEGARAAN",
       "sks_mk": 2,
       "id_smt": "20042",
       "nilai_huruf": null
@@ -246,24 +232,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "DU11031",
-      "nm_mk": "PENDDKAN KEWARGANEGARAAN",
+      "kode_mk": "EK32381",
+      "nm_mk": "PENGANTAR EKONOMI PEMBANGUNAN",
       "sks_mk": 2,
       "id_smt": "20042",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM43371",
-      "nm_mk": "MANAJEMEN STRATEGIK",
-      "sks_mk": 4,
-      "id_smt": "20051",
+      "kode_mk": "EM32542",
+      "nm_mk": "TEORI EKONOMI II",
+      "sks_mk": 2,
+      "id_smt": "20042",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM33491",
-      "nm_mk": "PERPAJAKAN",
+      "kode_mk": "EM33351",
+      "nm_mk": "SISTEM INFOR. MANAJEMEN",
       "sks_mk": 2,
-      "id_smt": "20051",
+      "id_smt": "20042",
       "nilai_huruf": null
     },
     {
@@ -281,9 +267,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EM33491",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EM33191",
       "nm_mk": "MANAJEMEN DISTRIBUSI",
       "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM43371",
+      "nm_mk": "MANAJEMEN STRATEGIK",
+      "sks_mk": 4,
       "id_smt": "20051",
       "nilai_huruf": null
     },
@@ -304,6 +304,13 @@
     {
       "kode_mk": "EM33511",
       "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM33101",
+      "nm_mk": "MANAJEMEN PEMASARAN JASA",
       "sks_mk": 2,
       "id_smt": "20052",
       "nilai_huruf": null
@@ -330,15 +337,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM33021",
-      "nm_mk": "BISNIS INTERNASIONAL",
+      "kode_mk": "EM44311",
+      "nm_mk": "MJN.PEMASAR.INTERNASIONAL",
       "sks_mk": 2,
       "id_smt": "20052",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM33101",
-      "nm_mk": "MANAJEMEN PEMASARAN JASA",
+      "kode_mk": "EM33021",
+      "nm_mk": "BISNIS INTERNASIONAL",
       "sks_mk": 2,
       "id_smt": "20052",
       "nilai_huruf": null
@@ -351,16 +358,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM44311",
-      "nm_mk": "MJN.PEMASAR.INTERNASIONAL",
-      "sks_mk": 2,
-      "id_smt": "20052",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EM44312",
       "nm_mk": "SEMINAR MJN. PEMASARAN",
       "sks_mk": 4,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK32031",
+      "nm_mk": "ETIKA BISNIS DAN PROFESI",
+      "sks_mk": 2,
       "id_smt": "20061",
       "nilai_huruf": null
     },
@@ -372,15 +379,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "DU11051",
-      "nm_mk": "ILMU BUDAYA DASAR",
+      "kode_mk": "EM33041",
+      "nm_mk": "ELECTRONIC COMMERCE",
       "sks_mk": 2,
       "id_smt": "20061",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EM33041",
-      "nm_mk": "ELECTRONIC COMMERCE",
+      "kode_mk": "DU11051",
+      "nm_mk": "ILMU BUDAYA DASAR",
       "sks_mk": 2,
       "id_smt": "20061",
       "nilai_huruf": null
@@ -400,23 +407,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EK32031",
-      "nm_mk": "ETIKA BISNIS DAN PROFESI",
+      "kode_mk": "DU11013",
+      "nm_mk": "PENDDKAN AGAMA KHATOLIK",
       "sks_mk": 2,
-      "id_smt": "20061",
+      "id_smt": "20062",
       "nilai_huruf": null
     },
     {
       "kode_mk": "EM43281",
       "nm_mk": "S K R I P S I",
       "sks_mk": 6,
-      "id_smt": "20062",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "DU11013",
-      "nm_mk": "PENDDKAN AGAMA KHATOLIK",
-      "sks_mk": 2,
       "id_smt": "20062",
       "nilai_huruf": null
     }

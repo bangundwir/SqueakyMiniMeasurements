@@ -43,6 +43,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "KIE301",
+      "nm_mk": "Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "KIB301",
       "nm_mk": "Uang, Bank Sentral dan Lembaga Keuangan ( Konvensional dan Syariah )",
       "sks_mk": 2,
@@ -89,20 +96,6 @@
       "nm_mk": "Ekonomi Makro",
       "sks_mk": 3,
       "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KIE301",
-      "nm_mk": "Ekonomi Mikro",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KLA201",
-      "nm_mk": "Lab dan Aplikasi Akuntansi",
-      "sks_mk": 2,
-      "id_smt": "20182",
       "nilai_huruf": null
     },
     {
@@ -155,10 +148,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UBN6200",
-      "nm_mk": "Bahasa Indonesia",
+      "kode_mk": "KLA201",
+      "nm_mk": "Lab dan Aplikasi Akuntansi",
       "sks_mk": 2,
-      "id_smt": "20191",
+      "id_smt": "20182",
       "nilai_huruf": null
     },
     {
@@ -183,15 +176,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EIP6305",
-      "nm_mk": "Pajak Penghasilan",
-      "sks_mk": 3,
+      "kode_mk": "UBN6200",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EIP6302",
-      "nm_mk": "Ketentuan Umum dan Tata Cara Perpajakan",
+      "kode_mk": "ELP6202",
+      "nm_mk": "Laboratorium Aplikasi Pajak Penghasilan Orang Pribadi dan Badan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EIP6305",
+      "nm_mk": "Pajak Penghasilan",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -211,17 +211,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "ELP6202",
-      "nm_mk": "Laboratorium Aplikasi Pajak Penghasilan Orang Pribadi dan Badan",
-      "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EIB6312",
-      "nm_mk": "Manajemen Treasury",
+      "kode_mk": "EIP6302",
+      "nm_mk": "Ketentuan Umum dan Tata Cara Perpajakan",
       "sks_mk": 3,
-      "id_smt": "20192",
+      "id_smt": "20191",
       "nilai_huruf": null
     },
     {
@@ -234,6 +227,13 @@
     {
       "kode_mk": "EIA6303",
       "nm_mk": "Teknik Pemeriksaan Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EIB6312",
+      "nm_mk": "Manajemen Treasury",
       "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -274,15 +274,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EIB6306",
-      "nm_mk": "Analisis Kredit Perbankan",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EIB6315",
-      "nm_mk": "Manajemen Resiko Perbankan",
+      "kode_mk": "EIB6308",
+      "nm_mk": "Analisis Aktiva dan Pasiva Bank",
       "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -295,15 +288,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EIB6308",
-      "nm_mk": "Analisis Aktiva dan Pasiva Bank",
+      "kode_mk": "EIP6304",
+      "nm_mk": "Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah",
       "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EIP6304",
-      "nm_mk": "Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah",
+      "kode_mk": "EIB6315",
+      "nm_mk": "Manajemen Resiko Perbankan",
       "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -316,10 +309,31 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EIB6306",
+      "nm_mk": "Analisis Kredit Perbankan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EIB6304",
       "nm_mk": "Operasi Bank dan Jasa-jasa Keuangan",
       "sks_mk": 3,
       "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EIP6317",
+      "nm_mk": "Perpajakan Internasional",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EIE6303",
+      "nm_mk": "Ekonometrika Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -330,8 +344,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EIE6303",
-      "nm_mk": "Ekonometrika Keuangan",
+      "kode_mk": "EIM6319",
+      "nm_mk": "Analisis Teknikal dan Fundamental",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -365,27 +379,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EIM6319",
-      "nm_mk": "Analisis Teknikal dan Fundamental",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EIP6317",
-      "nm_mk": "Perpajakan Internasional",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EPB6244",
-      "nm_mk": "Seminar",
-      "sks_mk": 2,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EPG6341",
       "nm_mk": "Good Corporate Governance",
       "sks_mk": 3,
@@ -396,6 +389,13 @@
       "kode_mk": "EIB6320",
       "nm_mk": "Letter of Credit dan Surat Kredit Dokumenter Dalam Negeri",
       "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EPB6244",
+      "nm_mk": "Seminar",
+      "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },

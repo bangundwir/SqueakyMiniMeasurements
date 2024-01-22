@@ -69,8 +69,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EKP107",
+      "nm_mk": "Aplikasi Komputer I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EKP101",
       "nm_mk": "Matematika Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP111",
+      "nm_mk": "Pengantar Akuntansi I",
       "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
@@ -90,52 +104,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP111",
-      "nm_mk": "Pengantar Akuntansi I",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP107",
-      "nm_mk": "Aplikasi Komputer I",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKP109",
       "nm_mk": "Pengantar Manajemen",
       "sks_mk": 2,
       "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP106",
-      "nm_mk": "Pengantar Ekonomi Makro",
-      "sks_mk": 3,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP109",
-      "nm_mk": "Pengantar Manajemen",
-      "sks_mk": 2,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP114",
-      "nm_mk": "Aplikasi Komputer Lanjutan",
-      "sks_mk": 2,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP116",
-      "nm_mk": "Administrasi Pembangunan",
-      "sks_mk": 2,
-      "id_smt": "20092",
       "nilai_huruf": null
     },
     {
@@ -160,8 +132,36 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EKP116",
+      "nm_mk": "Administrasi Pembangunan",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP114",
+      "nm_mk": "Aplikasi Komputer Lanjutan",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP106",
+      "nm_mk": "Pengantar Ekonomi Makro",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EKP118",
       "nm_mk": "Pengantar Akuntansi II",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP109",
+      "nm_mk": "Pengantar Manajemen",
       "sks_mk": 2,
       "id_smt": "20092",
       "nilai_huruf": null
@@ -181,13 +181,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP207",
-      "nm_mk": "Ekonomi Keislaman II",
-      "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKP211",
       "nm_mk": "Ekonomi SDM",
       "sks_mk": 3,
@@ -195,16 +188,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP215",
-      "nm_mk": "Ekonomi Makro I",
+      "kode_mk": "EKP203",
+      "nm_mk": "Statistik Ekonomi I",
       "sks_mk": 3,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP205",
-      "nm_mk": "Bahasa Inggris Ekonomi Lanjutan",
-      "sks_mk": 2,
       "id_smt": "20101",
       "nilai_huruf": null
     },
@@ -223,15 +209,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP203",
-      "nm_mk": "Statistik Ekonomi I",
+      "kode_mk": "EKP215",
+      "nm_mk": "Ekonomi Makro I",
       "sks_mk": 3,
       "id_smt": "20101",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP210",
-      "nm_mk": "Eko Keu Pusat dan Daerah",
+      "kode_mk": "EKP205",
+      "nm_mk": "Bahasa Inggris Ekonomi Lanjutan",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP207",
+      "nm_mk": "Ekonomi Keislaman II",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP208",
+      "nm_mk": "Ekonomi Pembangunan I",
       "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -251,8 +251,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP208",
-      "nm_mk": "Ekonomi Pembangunan I",
+      "kode_mk": "EKP210",
+      "nm_mk": "Eko Keu Pusat dan Daerah",
       "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -279,13 +279,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP315",
-      "nm_mk": "SISTEM PERBANDINGAN EKONOMI",
-      "sks_mk": 3,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKP305",
       "nm_mk": "EKONOMI REGIONAL",
       "sks_mk": 3,
@@ -300,15 +293,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP307",
-      "nm_mk": "EKONOMI MONETER I",
+      "kode_mk": "EKP315",
+      "nm_mk": "SISTEM PERBANDINGAN EKONOMI",
       "sks_mk": 3,
       "id_smt": "20111",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP311",
-      "nm_mk": "OPERASIONAL RISET",
+      "kode_mk": "EKP309",
+      "nm_mk": "EKONOMI PUBLIK II",
       "sks_mk": 3,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -321,6 +314,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EKP307",
+      "nm_mk": "EKONOMI MONETER I",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EKP313",
       "nm_mk": "KEWARGANEGARAAN",
       "sks_mk": 2,
@@ -328,15 +328,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP309",
-      "nm_mk": "EKONOMI PUBLIK II",
+      "kode_mk": "EKP311",
+      "nm_mk": "OPERASIONAL RISET",
       "sks_mk": 3,
       "id_smt": "20111",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP314",
-      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "kode_mk": "EKP310",
+      "nm_mk": "EKONOMI SDA DAN LINGKUNGAN",
       "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -349,9 +349,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP316",
-      "nm_mk": "PEMIKIRAN SISTEM EKONOMI",
-      "sks_mk": 2,
+      "kode_mk": "EKP301",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP314",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP308",
+      "nm_mk": "EKONOMI PERKOTAAN",
+      "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -359,6 +373,20 @@
       "kode_mk": "EKP302",
       "nm_mk": "EKONOMI KEUANGAN INTERNASIONAL",
       "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP316",
+      "nm_mk": "PEMIKIRAN SISTEM EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP304",
+      "nm_mk": "EKONOMI INDUSTRI",
+      "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -377,27 +405,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP301",
-      "nm_mk": "METODE PENELITIAN",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP308",
-      "nm_mk": "EKONOMI PERKOTAAN",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP310",
-      "nm_mk": "EKONOMI SDA DAN LINGKUNGAN",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKP304",
       "nm_mk": "EKONOMI INDUSTRI",
       "sks_mk": 2,
@@ -405,15 +412,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP304",
-      "nm_mk": "EKONOMI INDUSTRI",
-      "sks_mk": 2,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP405",
-      "nm_mk": "PERENCANAAN PEMBANGUNAN",
+      "kode_mk": "EKP407",
+      "nm_mk": "SEMINAR EKONOMI MONETER",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -426,8 +426,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKP407",
-      "nm_mk": "SEMINAR EKONOMI MONETER",
+      "kode_mk": "EKP405",
+      "nm_mk": "PERENCANAAN PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKP413",
+      "nm_mk": "Eko. Keuangan & Investasi",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -442,13 +449,6 @@
     {
       "kode_mk": "EKP401",
       "nm_mk": "EKONOMETRIKA",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKP413",
-      "nm_mk": "Eko. Keuangan & Investasi",
       "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null

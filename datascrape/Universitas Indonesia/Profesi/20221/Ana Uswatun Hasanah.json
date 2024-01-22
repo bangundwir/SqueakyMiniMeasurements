@@ -1,0 +1,96 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PMAP701218",
+      "nm_mk": "Modul Pembekalan Apoteker",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMAP701220",
+      "nm_mk": "PKPA Rumah Sakit",
+      "sks_mk": 8,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UILS600016",
+      "nm_mk": "Kolaborasi dan Kerjasama Tim Kesehatan II",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMAP701223",
+      "nm_mk": "PKPA Puskesmas",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMAP701222",
+      "nm_mk": "PKPA Distribusi Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMAP701224",
+      "nm_mk": "Ujian Komprehensif",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMAP701221",
+      "nm_mk": "PKPA Apotek",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PMAP701219",
+      "nm_mk": "PKPA  Industri",
+      "sks_mk": 8,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Ana Uswatun Hasanah",
+    "jk": "P",
+    "nipd": "1806135962",
+    "namapt": "Universitas Indonesia",
+    "namajenjang": "Profesi",
+    "namaprodi": "Profesi Apoteker",
+    "reg_pd": "7A0E2FCB-275C-484B-9B32-218BDBAAFC2F",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEQxRTYzRTktQ0JGQi00NTQ2LUEyNDItODc1QzMxMDA4M0E1",
+    "link_prodi": "/data_prodi/QUJGNTdFREItNTAyNy00QTM5LTgyMjItNjRERjk0NEEwODJD"
+  }
+}

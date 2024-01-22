@@ -1,0 +1,601 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "INS 4103",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4110",
+      "nm_mk": "Pengantar Ekonomi Mikro",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4108",
+      "nm_mk": "Sejarah Peradaban Islam",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4117",
+      "nm_mk": "Manajemen Syariah",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4107",
+      "nm_mk": "Dasar dasar Ekonomi Islam",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4125",
+      "nm_mk": "Pengantar Akuntansi-1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4106",
+      "nm_mk": "Filsafat Umum",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4102",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4128",
+      "nm_mk": "Komputer",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4110",
+      "nm_mk": "Ulumul Quran",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4109",
+      "nm_mk": "Fiqh",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4111",
+      "nm_mk": "Ulumul Hadits",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4111",
+      "nm_mk": "Pengantar Ekonomi Makro",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4108",
+      "nm_mk": "Perkembangan Pemikiran Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4109",
+      "nm_mk": "Sejarah Pemikiran Ekonomi Islam",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4105",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4104",
+      "nm_mk": "Bahasa Arab",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4126",
+      "nm_mk": "Pengantar Akuntansi-2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4101",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4112",
+      "nm_mk": "Akhlak Tasawuf",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4103",
+      "nm_mk": "Kajian Ayat dan Hadits Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4112",
+      "nm_mk": "Ekonomi Mikro Islam",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4104",
+      "nm_mk": "Fiqh Muamalah",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4107",
+      "nm_mk": "Metodologi Studi Islam",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4113",
+      "nm_mk": "Ekonomi Makro Islam",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4106",
+      "nm_mk": "Fiqh Zakat dan Wakaf",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4116",
+      "nm_mk": "Pengantar Bisnis Syariah",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4114",
+      "nm_mk": "Lembaga Keuangan Syariah",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4129",
+      "nm_mk": "Statistik Deskripstif",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 12",
+      "nm_mk": "Akuntansi Syariah",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4102",
+      "nm_mk": "Bahasa Inggris Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 07",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4118",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4105",
+      "nm_mk": "Fiqh Muamalah Kontemporer",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 20",
+      "nm_mk": "Matematika Keuangan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4101",
+      "nm_mk": "Bahasa Arab Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4130",
+      "nm_mk": "Statistik Inferensial",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 02",
+      "nm_mk": "Hukum Jaminan dan Perjanjian Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 01",
+      "nm_mk": "Ekonomi Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 13",
+      "nm_mk": "Akuntansi Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4121",
+      "nm_mk": "Manajemen Strategi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4120",
+      "nm_mk": "Manajemen Keuangan Syariah",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4115",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY-P2",
+      "nm_mk": "Tindak Perdata dan Pidana Perbankan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 14",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4122",
+      "nm_mk": "Studi Kelayakan Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 04",
+      "nm_mk": "Sistem Operasional Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 06",
+      "nm_mk": "Manajemen Pemasaran Produk Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 05",
+      "nm_mk": "Manajemen Keuangan Internasioal",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4127",
+      "nm_mk": "Akuntansi Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Psy 11",
+      "nm_mk": "Sistem Informasi Manajemen Keuangan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 08",
+      "nm_mk": "Manajemen Dana Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 15",
+      "nm_mk": "ANALISA LAPORAN KEUANGAN BANK SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 09",
+      "nm_mk": "Manajemen Pembiayaan Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 21",
+      "nm_mk": "Metodologi Penelitan Perbankan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4123",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Psy P3",
+      "nm_mk": "DESAIN KONTRAK PERJANJIAN SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4119",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4131",
+      "nm_mk": "Aplikasi Statistik",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 18",
+      "nm_mk": "Praktik Mini Bank Syariah Funding",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 19",
+      "nm_mk": "Praktik Mini Bank Syariah- Financing",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY-P9",
+      "nm_mk": "Analisis Kelayakan Bisnis Usaha Kecil",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 03",
+      "nm_mk": "Etika Perbankan Syariah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 22",
+      "nm_mk": "Seminar Proposal",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 16",
+      "nm_mk": "Auditing Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EBI 4124",
+      "nm_mk": "Asuransi dan Reasuransi  Syariah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY-P1",
+      "nm_mk": "Pegadaian Syariah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY-P6",
+      "nm_mk": "Eksternalitas Bisnis Syariah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 10",
+      "nm_mk": "Manajemen Resiko Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSY 17",
+      "nm_mk": "Aset Liabilitas Manajemen Bank Syariah",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4114",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4113",
+      "nm_mk": "Praktek Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "INS 4116",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "INTAN AYU WIDIASTUTI",
+    "jk": "P",
+    "nipd": "17401153142",
+    "namapt": "IAIN Tulungagung",
+    "namajenjang": "S1",
+    "namaprodi": "Perbankan Syariah (PS)",
+    "reg_pd": "29856533-1680-457C-AFD2-DCBE0A97CF41",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Pindahan Alih Bentuk",
+    "nm_pt_asal": "STAIN Tulungagung",
+    "nm_prodi_asal": "Perbankan Syariah (PS)",
+    "ket_keluar": "Mutasi",
+    "tgl_keluar": "2021-10-01T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEVDRDZBOTQtMzVCOS00M0JFLTlEODktNTg3NTNCMjRBMUZG",
+    "link_prodi": "/data_prodi/MzA5MTVGRTAtNjk4MC00NTMwLTlBNTYtNzA4MjEzRjRDNEEz"
+  }
+}

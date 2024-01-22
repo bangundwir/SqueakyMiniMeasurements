@@ -1,0 +1,319 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "CHAR6030",
+      "nm_mk": "Character Building: Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATH6119",
+      "nm_mk": "Linear Algebra",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATH6118",
+      "nm_mk": "Discrete Mathematics",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6360L",
+      "nm_mk": "Algorithm and Programming",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENGL6198",
+      "nm_mk": "English in Focus",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6363",
+      "nm_mk": "Program Design Methods",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6360T",
+      "nm_mk": "Algorithm and Programming",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHAR6031",
+      "nm_mk": "Character Building: Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6369T",
+      "nm_mk": "Human and Computer Interaction",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6362T",
+      "nm_mk": "Data Structures",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6362L",
+      "nm_mk": "Data Structures",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENTR6519",
+      "nm_mk": "Entrepreneurship: Ideation",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6369L",
+      "nm_mk": "Human and Computer Interaction",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENGL6201",
+      "nm_mk": "English Savvy",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATH6120",
+      "nm_mk": "Calculus",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHAR6032004",
+      "nm_mk": "Pengembangan Karakter: Agama",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6372004T",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISYS6028004T",
+      "nm_mk": "Sistem Basis Data",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISYS6028004L",
+      "nm_mk": "Sistem Basis Data",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6674004",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 5,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6365004",
+      "nm_mk": "Perancangan dan Analisis Algoritma",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6372004L",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6675004",
+      "nm_mk": "Rekayasa Piranti Lunak",
+      "sks_mk": 5,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6364004T",
+      "nm_mk": "Pemograman Berorientasi Obyek",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6397004L",
+      "nm_mk": "Pengalaman Pengguna",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6364004L",
+      "nm_mk": "Pemograman Berorientasi Obyek",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6397004T",
+      "nm_mk": "Pengalaman Pengguna",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6764004",
+      "nm_mk": "Statistika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6712004",
+      "nm_mk": "Metodologi Penelitian Ilmu Komputer",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6767004",
+      "nm_mk": "Pemrograman Aplikasi Perangkat Bergerak",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENTR6521002",
+      "nm_mk": "Kewirausahaan: Validasi Pasar",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6390004",
+      "nm_mk": "Teknik Kompilasi",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LANG6089004",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6713004",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6678004",
+      "nm_mk": "Analisis Big Data untuk Bisnis",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6768004",
+      "nm_mk": "Sistem Multimedia",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6679004",
+      "nm_mk": "Pemrograman Web",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "R.M. RENDRA ADIKARA",
+    "jk": "L",
+    "nipd": "2440115653",
+    "namapt": "Universitas Bina Nusantara",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika (Kampus Kota Malang)",
+    "reg_pd": "628E0F80-8199-4AE8-8BC0-D7F325E9DD90",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkM5MTc1NUUtNTBFNS00QUNGLUI0NTQtMzdBMDU4QkE5QkNC",
+    "link_prodi": "/data_prodi/NkVCQ0IzMDUtQ0E4My00N0ZCLTkzRDEtNEZGNzlFOTI5MDRD"
+  }
+}

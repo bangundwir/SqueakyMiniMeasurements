@@ -1,0 +1,192 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "CHAR6013001",
+      "nm_mk": "Pengembangan Karakter: Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STAT6171001",
+      "nm_mk": "Statistika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATH6030001",
+      "nm_mk": "Aljabar Linear",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATH6025001",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6542001",
+      "nm_mk": "Dasar Keamanan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LANG6027001",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6047001",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CPEN6247001",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATH6031001",
+      "nm_mk": "Kalkulus",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MATH6183001",
+      "nm_mk": "Komputasi Sains",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6048001",
+      "nm_mk": "Struktur Data",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHAR6014001",
+      "nm_mk": "Pengembangan Karakter: Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENTR6509005",
+      "nm_mk": "Kewirausahaan: Membuat Ide",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6047001",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 6,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "CHAR6015001",
+      "nm_mk": "Pengembangan Karakter: Agama",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6544001",
+      "nm_mk": "Pengujian Penetrasi Jaringan",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SCIE6063001",
+      "nm_mk": "Fisika Komputasi",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6049001",
+      "nm_mk": "Perancangan dan Analisis Algoritma",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6798001",
+      "nm_mk": "Metode Perancangan Program",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6062001",
+      "nm_mk": "Teknik Kompilasi",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "COMP6065001",
+      "nm_mk": "Intelegensia Semu",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "CHRISTOPHER KAMIDIN",
+    "jk": "L",
+    "nipd": "2602065225",
+    "namapt": "Universitas Bina Nusantara",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "5310C807-BEDF-4CAA-B6C3-8FA7A97E708E",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkM5MTc1NUUtNTBFNS00QUNGLUI0NTQtMzdBMDU4QkE5QkNC",
+    "link_prodi": "/data_prodi/Q0E1OTAxQ0EtRDk5NS00QTQ3LTlEMzMtQjQ2MTAwQTNFMTI5"
+  }
+}

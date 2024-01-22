@@ -1,0 +1,609 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKU6301",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6104",
+      "nm_mk": "Praktikum Kimia Umum",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6207",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU6207",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6203",
+      "nm_mk": "Kimia Umum",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU6211",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6102",
+      "nm_mk": "Praktikum Biologi Dasar",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK6201",
+      "nm_mk": "Ilmu Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU6210",
+      "nm_mk": "Statistika",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6201",
+      "nm_mk": "Biologi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6210",
+      "nm_mk": "Struktur-Fungsi Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6205",
+      "nm_mk": "Fisika Umum",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6107",
+      "nm_mk": "Praktikum Keanekaragaman Tumbuhan",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU6214",
+      "nm_mk": "Pendidikan Sosial Budaya",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6211",
+      "nm_mk": "Praktikum Struktur-Fungsi Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6208",
+      "nm_mk": "Biokimia",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU6208",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK6204",
+      "nm_mk": "Sosio dan Anthropologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6206",
+      "nm_mk": "Keanekaragaman Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6109",
+      "nm_mk": "Praktikum Biokimia",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6106",
+      "nm_mk": "Praktikum Fisika Umum",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6130",
+      "nm_mk": "Praktikum Teknik Laboratorium",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK6203",
+      "nm_mk": "Manajemen Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6208",
+      "nm_mk": "Keanekaragaman Hewan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6311",
+      "nm_mk": "Struktur-Fungsi Hewan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6111",
+      "nm_mk": "Praktikum Biologi Sel dan Molekuler",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6214",
+      "nm_mk": "Ekologi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6223",
+      "nm_mk": "Pendidikan Biologi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6115",
+      "nm_mk": "Prakt. Ekologi *)",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6109",
+      "nm_mk": "Prakt. Keanekaragaman Hewan*)",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDK6202",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6212",
+      "nm_mk": "Prakt. Struktur-Fungsi Hewan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6263",
+      "nm_mk": "English For Biology",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AMF6201",
+      "nm_mk": "Wawasan dan Kajian MIPA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6201",
+      "nm_mk": "Kurikulum dan Pembelajaran Biologi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6210",
+      "nm_mk": "Biologi Sel dan Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6220",
+      "nm_mk": "Genetika",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6327",
+      "nm_mk": "Biometri",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6121",
+      "nm_mk": "Prakt. Genetika",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6264",
+      "nm_mk": "English For Biology Education",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6216",
+      "nm_mk": "Keanekaragaman Mikroba",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLP6101",
+      "nm_mk": "Pengenalan Lapangan Persekolahan I",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6216",
+      "nm_mk": "Ilmu Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6117",
+      "nm_mk": "Praktikum Keanekaragaman Mikroba",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6302",
+      "nm_mk": "Strategi Pembelajaran Biologi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6225",
+      "nm_mk": "Pengelolaan Laboratorium",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU6209",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6246",
+      "nm_mk": "Academic Writing for Biology Education",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6222",
+      "nm_mk": "Evolusi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6105",
+      "nm_mk": "Praktikum Penilaian Pembelajaran Biologi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6131",
+      "nm_mk": "Studi Ekskursi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6227",
+      "nm_mk": "Praktikum Mikroteknik",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6225",
+      "nm_mk": "Metodologi Penetian Biologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6214",
+      "nm_mk": "Reproduksi dan Embriologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6204",
+      "nm_mk": "Penilaian Pembelajaran Biologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6318",
+      "nm_mk": "Biologi Manusia",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6126",
+      "nm_mk": "Praktikum Metodologi Penelitian Biologi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6119",
+      "nm_mk": "Praktikum Biologi  Manusia",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6254",
+      "nm_mk": "Workshop Aplikasi Komputer Pembelajaran Biologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6215",
+      "nm_mk": "Praktikum Reproduksi dan Embriologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6123",
+      "nm_mk": "Praktikum Evolusi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6229",
+      "nm_mk": "Praktik Pembelajaran Mikro 3)",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6228",
+      "nm_mk": "Seminar Pendidikan Biologi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6119",
+      "nm_mk": "Praktikum Biologi Laut",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6326",
+      "nm_mk": "Metodologi Penelitian Pendidikan Biologi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6125",
+      "nm_mk": "Kultur Jaringan Tumbuhan",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6121",
+      "nm_mk": "Praktikum Bioteknologi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6226",
+      "nm_mk": "Praktikum Kultur Jaringan Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIP6220",
+      "nm_mk": "Bioteknologi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6230",
+      "nm_mk": "Pendidikan Kependudukan dan Lingkungan Hidup",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6218",
+      "nm_mk": "Biologi Laut",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6224",
+      "nm_mk": "Perilaku Organisme",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPL6301",
+      "nm_mk": "PPL",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MDU626",
+      "nm_mk": "Tugas Akhir Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU6313",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6633",
+      "nm_mk": "Tugas Akhir Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO6633",
+      "nm_mk": "Tugas Akhir Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Icha Galuh Puspita",
+    "jk": "P",
+    "nipd": "17304244001",
+    "namapt": "Universitas Negeri Yogyakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Biologi",
+    "reg_pd": "DE7F3FBA-CF0C-4616-A344-DDCCA29A3D4B",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": "",
+    "nm_prodi_asal": "",
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-08-31T00:00:00Z",
+    "no_seri_ijazah": "842052021000408",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTA0QUFGRjgtNUY4MS00NzU2LUI5MTQtNzNEQ0ZFRDMzOTMy",
+    "link_prodi": "/data_prodi/Q0I2MEVEMEYtMTJGRi00QUExLUI2MEYtNzU1RENCRTJERjdB"
+  }
+}

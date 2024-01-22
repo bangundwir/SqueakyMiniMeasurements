@@ -1,0 +1,206 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MNJ6306",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6334",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6310",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6329",
+      "nm_mk": "Manajemen Kinerja",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6305",
+      "nm_mk": "Internet of Things (IoT)",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6307",
+      "nm_mk": "Manajemen Keuangan Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU6213",
+      "nm_mk": "Kreativitas, Inovasi dan Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6308",
+      "nm_mk": "Manajemen Operasional",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6339",
+      "nm_mk": "Keuangan Syariah",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6316",
+      "nm_mk": "Studi Kelayakan Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6313",
+      "nm_mk": "Metodologi Penelitian Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6347",
+      "nm_mk": "Manajemen Hubungan Pelanggan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6315",
+      "nm_mk": "Manajemen Risiko",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6311",
+      "nm_mk": "Perilaku Keorganisasian",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6344",
+      "nm_mk": "E-Service",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6355",
+      "nm_mk": "Manajemen Perubahan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6322",
+      "nm_mk": "Manajemen Investasi",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6353",
+      "nm_mk": "Manajemen Konflik",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6370",
+      "nm_mk": "Manajemen Strategik",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6327",
+      "nm_mk": "Riset Sumber Daya Manusia",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6356",
+      "nm_mk": "Pelatihan dan Pengembangan SDM",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6320",
+      "nm_mk": "Sistem Informasi Manajemen Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ6878",
+      "nm_mk": "Skripsi",
+      "sks_mk": 8,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NARJI",
+    "jk": "L",
+    "nipd": "21808149027",
+    "namapt": "Universitas Negeri Yogyakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "A55904F0-C8CA-41B0-BC78-19D0BB0686A1",
+    "mulai_smt": "20212",
+    "nm_jns_daftar": "RPL Perolehan SKS",
+    "nm_pt_asal": "UNIVERSITAS NEGERI YOGYAKARTA",
+    "nm_prodi_asal": "S1 Manajemen",
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-09-08T00:00:00Z",
+    "no_seri_ijazah": "612012023000371",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTA0QUFGRjgtNUY4MS00NzU2LUI5MTQtNzNEQ0ZFRDMzOTMy",
+    "link_prodi": "/data_prodi/OEZFOEM1RTctMDNCMS00MTk1LThGMDAtRkUzMEE2MDBDNUUx"
+  }
+}

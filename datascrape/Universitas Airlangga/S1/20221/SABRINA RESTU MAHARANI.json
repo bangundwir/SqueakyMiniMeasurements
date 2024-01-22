@@ -1,0 +1,91 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KPD111",
+      "nm_mk": "Konsep Dasar Keperawatan I",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNM106",
+      "nm_mk": "Komunikasi dan Pengembangan Diri",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPD116",
+      "nm_mk": "Ilmu Biomedik Dasar",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPD114",
+      "nm_mk": "Farmakologi Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPD115",
+      "nm_mk": "Proses Keperawatan dan Berfikir Kritis",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPD113",
+      "nm_mk": "Falsafah dan Teori Keperawatan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNM107",
+      "nm_mk": "Pengantar Kolaborasi Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHP103",
+      "nm_mk": "Logika dan Pemikiran Kritis",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SABRINA RESTU MAHARANI",
+    "jk": "P",
+    "nipd": "132221146",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "S1",
+    "namaprodi": "Keperawatan",
+    "reg_pd": "F970E445-D7B6-4F5C-9BF3-4D87E8E94604",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/MkJGQzFCMjgtRTNBMi00RUI3LUI2RjEtQ0M5N0REMUQwOENF"
+  }
+}

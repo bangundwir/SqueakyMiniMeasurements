@@ -1,0 +1,742 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MFU1101",
+      "nm_mk": "FARMASETIKA I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU1102",
+      "nm_mk": "KIMIA FARMASI DASAR",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU1104",
+      "nm_mk": "PENGANTAR ILMU KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFD1101",
+      "nm_mk": "MATEMATIKA DAN STATISTIKA FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU1102P",
+      "nm_mk": "PRAKTIKUM KIMIA FARMASI DASAR",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU1103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU1101",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFD1103",
+      "nm_mk": "PARASITOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFD1102P",
+      "nm_mk": "PRAKTIKUM ANATOMI FISIOLOGI MANUSIA",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFD1102",
+      "nm_mk": "ANATOMI DAN FISIOLOGI MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU1103",
+      "nm_mk": "KIMIA ORGANIK I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1203P",
+      "nm_mk": "PRAKTIKUM KIMIA ORGANIK II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1205P",
+      "nm_mk": "PRAKTIKUM MIKROBIOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1201P",
+      "nm_mk": "PRAKTIKUM FARMASETIKA II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1201",
+      "nm_mk": "FARMASETIKA II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1202P",
+      "nm_mk": "PRAKTIKUM FARMASI FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1203",
+      "nm_mk": "KIMIA ORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK07",
+      "nm_mk": "FARMASI FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1206P",
+      "nm_mk": "PRAKTIKUM FARMAKOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1204P",
+      "nm_mk": "PRAKTIKUM KIMIA ANALISA I",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1204",
+      "nm_mk": "KIMIA ANALISA I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1206",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1205",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU1102",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK03",
+      "nm_mk": "BIOLOGI SEL DAN MOLEKULER",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2101P",
+      "nm_mk": "PRAKTIKUM ANALISIS INSTRUMENT",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU 1202",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2102",
+      "nm_mk": "FORMULASI TEKNOLOGI SEDIAAN PADAT",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 2102P",
+      "nm_mk": "PRAKTIKUM BIOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2102P",
+      "nm_mk": "PRAKTIKUM FORMULASI TEKNOLOGI SEDIAAN PADAT",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 2103P",
+      "nm_mk": "PRAKTIKUM FARMAKOGNOSI",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK06",
+      "nm_mk": "FARMAKOGNOSI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU1104",
+      "nm_mk": "BOTANI FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2101",
+      "nm_mk": "ANALISIS INSTRUMEN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU 2102",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK04",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU2205P",
+      "nm_mk": "PRAKTIKUM FARMAKOKINETIKA",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2206",
+      "nm_mk": "PATOFISIOLOGI DAN INTEPRETASI DATA KLINIK",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2204P",
+      "nm_mk": "PRAKTIKUM ANALISIS FARMASI",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 3104",
+      "nm_mk": "TOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 3104P",
+      "nm_mk": "PRAKTIKUM TOKSIKOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU2205",
+      "nm_mk": "FARMAKOKINETIKA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU2201",
+      "nm_mk": "FARMAKOLOGI MOLEKULER",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU2203",
+      "nm_mk": "FITOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU2203P",
+      "nm_mk": "PRAKTIKUM FITOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2205",
+      "nm_mk": "IMUNOLOGI DAN BIOTEKNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK22",
+      "nm_mk": "ANALISIS FARMASI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK18",
+      "nm_mk": "BIOFARMASETIKA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFD1101",
+      "nm_mk": "MATEMATIKA DAN STATISTIKA FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK03",
+      "nm_mk": "BIOLOGI SEL DAN MOLEKULER",
+      "sks_mk": 2,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFD1102",
+      "nm_mk": "ANATOMI DAN FISIOLOGI MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 3101",
+      "nm_mk": "STABILITAS OBAT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3106P",
+      "nm_mk": "PRAKTIKUM FARMAKOTERAPI I",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3108P",
+      "nm_mk": "PRAKTIKUM FORMULASI TEKNOLOGI SEDIAAN STERIL",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3108P",
+      "nm_mk": "PRAKTIKUM FORMULASI TEKNOLOGI SEDIAAN STERIL",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3108",
+      "nm_mk": "FORMULASI TEKNOLOGI SEDIAAN STERIL",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3109",
+      "nm_mk": "FARMAKOTERAPI DASAR",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK27",
+      "nm_mk": "FARMAKOTERAPI I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1201",
+      "nm_mk": "FARMASETIKA II",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 1201",
+      "nm_mk": "FARMASETIKA II",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05PL07",
+      "nm_mk": "FARMASI RUMAH SAKIT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MF3105P",
+      "nm_mk": "PRAKTIKUM FARMASETIKA II",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3108",
+      "nm_mk": "FORMULASI TEKNOLOGI SEDIAAN STERIL",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3106P",
+      "nm_mk": "PRAKTIKUM FARMAKOTERAPI I",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05PL07",
+      "nm_mk": "FARMASI RUMAH SAKIT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU2202",
+      "nm_mk": "KIMIA MEDISINAL",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 3101",
+      "nm_mk": "STABILITAS OBAT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK27",
+      "nm_mk": "FARMAKOTERAPI I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2203",
+      "nm_mk": "MANAJEMEN FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3210P",
+      "nm_mk": "PRAKTIKUM FARMAKOTERAPI IV",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK 3204",
+      "nm_mk": "KONSELING DAN PELAYANAN INFORMASI OBAT",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3208P",
+      "nm_mk": "PRAKTIKUM FARMAKOTERAPI II",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK33",
+      "nm_mk": "FARMAKOEPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK 3201",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SFA122",
+      "nm_mk": "STATISTIKA FARMASI",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3209",
+      "nm_mk": "FARMAKOTERAPI III",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK28",
+      "nm_mk": "FARMAKOTERAPI II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK30",
+      "nm_mk": "TEKNOLOGI INFORMASI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3210",
+      "nm_mk": "FARMAKOTERAPI IV",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3209P",
+      "nm_mk": "PRAKTIKUM FARMAKOTERAPI III",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU 4201",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU 2202",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK 4102",
+      "nm_mk": "PRAKTIKUM KERJA APOTEK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP5007",
+      "nm_mk": "MANAJEMEN PERAPOTEKAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 3105",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK4105",
+      "nm_mk": "SWAMEDIKASI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP5006",
+      "nm_mk": "MONITORING EFEK SAMPING OBAT",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "05KK27",
+      "nm_mk": "FARMAKOTERAPI I",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK 4103",
+      "nm_mk": "PRAKTIKUM KERJA RUMAH SAKIT",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU 3201",
+      "nm_mk": "ETIKA DAN YURISPRUDENSI FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK2204",
+      "nm_mk": "Analisis Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK3210",
+      "nm_mk": "FARMAKOTERAPI IV",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFU2203",
+      "nm_mk": "FITOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFP 3201",
+      "nm_mk": "KOSMETOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK 4201",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MFK 3102",
+      "nm_mk": "FARMAKOEKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "CATUR ESTIAWAN KUSFINDYASMORO",
+    "jk": "L",
+    "nipd": "050118A032",
+    "namapt": "Universitas Ngudi Waluyo",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "93694F2D-52A6-46FF-8DD0-BA8AC494E8B2",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-08-12T00:00:00Z",
+    "no_seri_ijazah": "482012022001205",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RkE0RTQ1OTctODcxNC00QjA1LUE5OEMtMThEM0JGODE1MEU5",
+    "link_prodi": "/data_prodi/QTYwRDJCMUYtMjk5Qi00OTYwLTk2NjgtNzczQTA4NDQ0MDAy"
+  }
+}

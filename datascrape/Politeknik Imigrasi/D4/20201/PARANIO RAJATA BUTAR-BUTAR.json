@@ -1,0 +1,501 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20192",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "HKU-1102",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU-1101",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1105",
+      "nm_mk": "Pengantar Manajemen dan Organisasi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1104",
+      "nm_mk": "Pengantar Ilmu Administrasi Publik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1103",
+      "nm_mk": "Pengantar Ilmu Hukum",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU-1104",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1101",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU-1103",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1102",
+      "nm_mk": "Pengantar Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1208",
+      "nm_mk": "Organisasi dan Tata Laksana",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-1201",
+      "nm_mk": "Hukum Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-1202",
+      "nm_mk": "Sosiologi dan Antropologi Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1207",
+      "nm_mk": "Pengantar Hukum Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-1203",
+      "nm_mk": "Dokumen Perjalanan Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1209",
+      "nm_mk": "General English",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1206",
+      "nm_mk": "Pengantar Teknologi Informasi dan Komunikasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-1204",
+      "nm_mk": "Pemeriksaan Keimigrasian di TPI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-1210",
+      "nm_mk": "Praktik Pengenalan Lapangan (PPL)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-2112",
+      "nm_mk": "Pengantar Hukum Siber",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-2106",
+      "nm_mk": "Visa dan Izin Tinggal Keimigrasian Dasar (INTALKIM)",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-2102",
+      "nm_mk": "Hukum Internasional",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-2103",
+      "nm_mk": "English for Law",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-2107",
+      "nm_mk": "SIMKIM",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-2105",
+      "nm_mk": "Pengawasan Keimigrasian & Intelijen Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-2111",
+      "nm_mk": "Pelayanan Publik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-2104",
+      "nm_mk": "Bahasa Belanda",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-2101",
+      "nm_mk": "Hukum Pidana",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-2210",
+      "nm_mk": "Praktek Pengawasan Keimigrasian & Intelijen Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-2206",
+      "nm_mk": "Hukum Tata Negara",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-2207",
+      "nm_mk": "English for Law",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-2213",
+      "nm_mk": "Praktik Kerja Lapangan (PKL)",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-2209",
+      "nm_mk": "Penindakan Keimigrasian (WASDAKIM)",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-2208",
+      "nm_mk": "Pengantar Penyidikan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-2212",
+      "nm_mk": "Manajemen Pendetensian (RUDENIM)",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-2211",
+      "nm_mk": "Visa dan Izin Tinggal Keimigrasian Lanjutan (INTALKIM)",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-2208",
+      "nm_mk": "Bahasa Belanda",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-2205",
+      "nm_mk": "Hukum Acara Pidana",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-3216",
+      "nm_mk": "Hukum Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-3110",
+      "nm_mk": "Hukum Diplomatik dan Konsuler",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-3111",
+      "nm_mk": "Perjanjian Internasional",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-3113",
+      "nm_mk": "Bahasa Belanda",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-3114",
+      "nm_mk": "Manajemen Pendetensian (RUDENIM)",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-3109",
+      "nm_mk": "Hukum Administrasi Negara",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-3115",
+      "nm_mk": "Kerjasama Keimigrasian (KERMAKIM)",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-3115",
+      "nm_mk": "Kepemimpinan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-3112",
+      "nm_mk": "Transnational Organized Crime",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-3113",
+      "nm_mk": "Praktek Penyidikan Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-3217",
+      "nm_mk": "Kehumasan dan Informasi Keimigrasian (INFOKIM)",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-3217",
+      "nm_mk": "Statistik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-3214",
+      "nm_mk": "Filsafat Hukum",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-3216",
+      "nm_mk": "Manajemen Perbatasan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-3216",
+      "nm_mk": "Kebijakan Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-3218",
+      "nm_mk": "Metodologi Penelitian Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-3114",
+      "nm_mk": "Hubungan Internasional",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-3215",
+      "nm_mk": "Kriminologi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-3219",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-3218",
+      "nm_mk": "Tata Naskah Dinas",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-4119",
+      "nm_mk": "Forensik Dokumen Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-4120",
+      "nm_mk": "Pendidikan Bela Negara dan Integritas",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKT-3218",
+      "nm_mk": "Tata Naskah Dinas",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-4118",
+      "nm_mk": "Metodologi Penelitian Hukum",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKK-4120",
+      "nm_mk": "Kapita Selekta Keimigrasian",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKS-4117",
+      "nm_mk": "Ilmu Perundang-Undangan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "PARANIO RAJATA BUTAR-BUTAR",
+    "jk": "L",
+    "nipd": "2019.1762.1.01",
+    "namapt": "Politeknik Imigrasi",
+    "namajenjang": "D4",
+    "namaprodi": "Hukum Keimigrasian",
+    "reg_pd": "B6456F4A-2613-4538-8F16-1EF5BFC65CC3",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjBGNkNBRTYtQ0NFRC00NjAxLThCOUYtNzQwQzc3RjMzN0Uz",
+    "link_prodi": "/data_prodi/NkNEMjA3RTktMDdGQi00ODg4LTkwNzktOUQyOEJGRkM1Njg2"
+  }
+}

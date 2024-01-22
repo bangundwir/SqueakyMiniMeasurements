@@ -97,15 +97,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6207-20201-2018",
-      "nm_mk": "Fisika Listrik",
+      "kode_mk": "NTRO6066-20201-2018",
+      "nm_mk": "Etika Profesi",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6066-20201-2018",
-      "nm_mk": "Etika Profesi",
+      "kode_mk": "NTRO6207-20201-2018",
+      "nm_mk": "Fisika Listrik",
       "sks_mk": 2,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -114,6 +114,13 @@
       "kode_mk": "NTRO6211-20201-2018",
       "nm_mk": "Kimia Listrik",
       "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6220-20201-2018",
+      "nm_mk": "Pengantar Teknik Elektro",
+      "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -139,43 +146,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6220-20201-2018",
-      "nm_mk": "Pengantar Teknik Elektro",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6011-20201-2018",
-      "nm_mk": "Kalkulus II",
+      "kode_mk": "NTRO6012-20201-2018",
+      "nm_mk": "Fisika Mekanik",
       "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6013-20201-2018",
-      "nm_mk": "Elektronika Analog I",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6018-20201-2018",
-      "nm_mk": "Praktikum Dasar 3",
-      "sks_mk": 1,
       "id_smt": "20182",
       "nilai_huruf": null
     },
     {
       "kode_mk": "NTRO6214-20201-2018",
       "nm_mk": "Manajemen Industri",
-      "sks_mk": 2,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6012-20201-2018",
-      "nm_mk": "Fisika Mekanik",
       "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -223,6 +202,34 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "NTRO6013-20201-2018",
+      "nm_mk": "Elektronika Analog I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6018-20201-2018",
+      "nm_mk": "Praktikum Dasar 3",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6011-20201-2018",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6021-20201-2018",
+      "nm_mk": "Komunikasi Data",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "NTRO6024-20201-2018",
       "nm_mk": "Metode Numerik",
       "sks_mk": 2,
@@ -265,13 +272,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6027-20201-2018",
-      "nm_mk": "Praktikum Dasar 4",
-      "sks_mk": 1,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NTRO6028-20201-2018",
       "nm_mk": "Praktikum Dasar 5",
       "sks_mk": 1,
@@ -286,9 +286,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6021-20201-2018",
-      "nm_mk": "Komunikasi Data",
-      "sks_mk": 2,
+      "kode_mk": "NTRO6027-20201-2018",
+      "nm_mk": "Praktikum Dasar 4",
+      "sks_mk": 1,
       "id_smt": "20191",
       "nilai_huruf": null
     },
@@ -314,20 +314,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6032-20201-2018",
-      "nm_mk": "Konversi Energi Listrik",
-      "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6031-20201-2018",
-      "nm_mk": "Metodologi Penelitian",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NTRO6035-20201-2018",
       "nm_mk": "Sistem Kendali Kontinyu",
       "sks_mk": 3,
@@ -349,15 +335,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6033-20201-2018",
-      "nm_mk": "Medan Elektromagnetik",
-      "sks_mk": 3,
+      "kode_mk": "NTRO6031-20201-2018",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
     {
       "kode_mk": "NTRO6029-20201-2018",
       "nm_mk": "Matematika Teknik II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6033-20201-2018",
+      "nm_mk": "Medan Elektromagnetik",
       "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -370,6 +363,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "NTRO6032-20201-2018",
+      "nm_mk": "Konversi Energi Listrik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "NTRO6049-20201-2018",
       "nm_mk": "Sistem Kendali Digital",
       "sks_mk": 3,
@@ -377,9 +377,37 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "NTRO6051-20201-2018",
+      "nm_mk": "Machine Learning",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6053-20201-2018",
+      "nm_mk": "Praktikum Lanjut B2",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "NTRO6047-20201-2018",
       "nm_mk": "Sistem Antarmuka",
       "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6050-20201-2018",
+      "nm_mk": "Robotika I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6045-20201-2018",
+      "nm_mk": "Sosioteknologi",
+      "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -398,20 +426,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6045-20201-2018",
-      "nm_mk": "Sosioteknologi",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6050-20201-2018",
-      "nm_mk": "Robotika I",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NTRO6052-20201-2018",
       "nm_mk": "Praktikum Lanjut B1",
       "sks_mk": 1,
@@ -426,37 +440,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6053-20201-2018",
-      "nm_mk": "Praktikum Lanjut B2",
-      "sks_mk": 1,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6051-20201-2018",
-      "nm_mk": "Machine Learning",
+      "kode_mk": "NTRO6061-2018",
+      "nm_mk": "Elektronika Medik",
       "sks_mk": 2,
-      "id_smt": "20201",
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
       "kode_mk": "NTRO6060-2018",
       "nm_mk": "Robotika II",
       "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6064-2018",
-      "nm_mk": "Praktikum Lanjut B3",
-      "sks_mk": 1,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6061-2018",
-      "nm_mk": "Elektronika Medik",
-      "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -471,6 +464,13 @@
       "kode_mk": "NTRO6085-2018",
       "nm_mk": "Pemrograman Web dan Aplikasi Bergerak",
       "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6064-2018",
+      "nm_mk": "Praktikum Lanjut B3",
+      "sks_mk": 1,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -510,13 +510,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6090-20201-2018",
-      "nm_mk": "Praktik Industri",
-      "sks_mk": 4,
-      "id_smt": "20211",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NTRO6079-20201-2018",
       "nm_mk": "Teknologi berbasis Lingkungan",
       "sks_mk": 3,
@@ -524,6 +517,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "NTRO6090-20201-2018",
+      "nm_mk": "Praktik Industri",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "NTRO6069-20201-2018",
       "nm_mk": "Seminar Praskripsi",
       "sks_mk": 1,
@@ -594,16 +594,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6069-20201-2018",
-      "nm_mk": "Seminar Praskripsi",
-      "sks_mk": 1,
+      "kode_mk": "NTRO6100-20201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
       "id_smt": "20231",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTRO6100-20201-2018",
-      "nm_mk": "Skripsi",
-      "sks_mk": 4,
+      "kode_mk": "NTRO6069-20201-2018",
+      "nm_mk": "Seminar Praskripsi",
+      "sks_mk": 1,
       "id_smt": "20231",
       "nilai_huruf": null
     }

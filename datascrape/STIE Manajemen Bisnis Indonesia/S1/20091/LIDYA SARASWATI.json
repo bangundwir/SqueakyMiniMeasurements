@@ -1,0 +1,85 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "APB405",
+      "nm_mk": "SEMINAR AKUNTANSI PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ABB501",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ABB501",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ABB501",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ABB501",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LIDYA SARASWATI",
+    "jk": "P",
+    "nipd": "08020180          ",
+    "namapt": "STIE Manajemen Bisnis Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "6D5231CD-7929-46E0-B22D-F880A1D9DD35",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Pindahan",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-04-15T00:00:00Z",
+    "no_seri_ijazah": "AKT/0301/2012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MzE1QzUwNzktNEQ2NC00OTU5LTk4ODgtNzdBMTdENTQwNUI4",
+    "link_prodi": "/data_prodi/MjZGNjYyQTgtMDY1Ni00NjdBLThEMDktNTgwQzA3N0VGRUUw"
+  }
+}

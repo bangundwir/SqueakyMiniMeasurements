@@ -1,0 +1,737 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KK429A0511",
+      "nm_mk": "PRAKTIKUM BIOKIMIA TANAMAN",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A0311",
+      "nm_mk": "PRAKTIKUM MORFOLOGI DAN ANATOMI TUMBUHAN",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A0612",
+      "nm_mk": "MIKROBIOLOGI PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A3612",
+      "nm_mk": "MORFOLOGI DAN ANATOMI TUMBUHAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK429A0812",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK429A0312",
+      "nm_mk": "BHS INDONESIA PENULISAN KARYA ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB429A0112",
+      "nm_mk": "ILMU KEALAMAN DASAR",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK429A0912",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK429A1012",
+      "nm_mk": "STUDI ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A0412XX",
+      "nm_mk": "BIOKIMIA TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK429A0113",
+      "nm_mk": "PEND PANCASILA KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A0112",
+      "nm_mk": "PENGANTAR ILMU PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A0711",
+      "nm_mk": "PRAKTIKUM MIKROBIOLOGI PERTANIAN",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2332",
+      "nm_mk": "DASAR PERLINDUNGAN TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A1631",
+      "nm_mk": "PRAKTIKUM EKOLOGI TANAMAN",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK429A0732",
+      "nm_mk": "STUDI ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2532",
+      "nm_mk": "STATISTIKA PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2431",
+      "nm_mk": "PRAKDASAR PERLINDUNGAN TANAMAN",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A0531",
+      "nm_mk": "PRAK TEKNOLOGI PERBANYAKAN TANAMAN",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A1632",
+      "nm_mk": "EKOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A0432",
+      "nm_mk": "TEKNOLOGI PERBANYAKAN TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4832",
+      "nm_mk": "DASAR PEMULIAAN TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A0331",
+      "nm_mk": "PRAK DASAR PEMULIAAN TANAMAN",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A1832",
+      "nm_mk": "PENGANTAR BIOTEKNOLOGI PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1652",
+      "nm_mk": "TBT HORTIKULTURA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2031",
+      "nm_mk": "PRAKTIKUM DASAR ILMU TANAH",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A1532",
+      "nm_mk": "DASAR ILMU TANAH",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1751",
+      "nm_mk": "PRAK TBT HORTIKULTURA",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1972",
+      "nm_mk": "HPT PANGAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0143",
+      "nm_mk": "RANCANGAN PERCOBAAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A0541",
+      "nm_mk": "PRAKT TBT PANGAN",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A0642",
+      "nm_mk": "TBT PANGAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2941",
+      "nm_mk": "PRAKTIKUM ILMU HPT",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK429A0642",
+      "nm_mk": "STUDI KEMUHAMMADIYAHAN II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2761",
+      "nm_mk": "PRAKTIKUM HPT PANGAN",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2642",
+      "nm_mk": "ILMU GULMA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2662",
+      "nm_mk": "HPT PANGAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0341",
+      "nm_mk": "PRAKTIKUM PERTANIAN ORGANIK",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2052",
+      "nm_mk": "ILMU GULMA",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1971",
+      "nm_mk": "PRAKT HPT PANGAN",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2741",
+      "nm_mk": "PRAKTIKUM ILMU GULMA",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A0542",
+      "nm_mk": "TBT PANGAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2842",
+      "nm_mk": "ILMU HPT",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0241",
+      "nm_mk": "PRAK PERTANIAN ORGANIK",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A3162",
+      "nm_mk": "NEMATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB429A0242",
+      "nm_mk": "STUDI KEMUHAMMADIYAHAN II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2051",
+      "nm_mk": "PRAKTIKUM ILMU GULMA",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A3062",
+      "nm_mk": "VIROLOGI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A2151",
+      "nm_mk": "PRAKTIKUM ILMU HPT",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A0741",
+      "nm_mk": "PRAKTIKUM TBT PANGAN",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0242",
+      "nm_mk": "PERTANIAN ORGANIK",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1452",
+      "nm_mk": "PENGOLAHAN TANAH DAN AIR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0552",
+      "nm_mk": "KESUBURAN TANAH DAN PEMUPUKAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1852",
+      "nm_mk": "METODE PENELITIAN PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A1932",
+      "nm_mk": "DASAR ILMU TANAH",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A1632",
+      "nm_mk": "EKOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1052",
+      "nm_mk": "TBT PERKEBUNAN KELAPA SAWIT & KARET",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1351",
+      "nm_mk": "PRAK PENGOLAHAN HAMA PENYAKIT TERPADU",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0651",
+      "nm_mk": "PRAKTIKUM KESUBURAN TANAH DAN PEMUPUKAN",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A1932",
+      "nm_mk": "DASAR ILMU TANAH",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0752",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1252",
+      "nm_mk": "PENGOLAHAN HAMA PENYAKIT TERPADU",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1151",
+      "nm_mk": "PRAK. TBT PERKEBUNAN KELAPA SAWIT &amp;amp; KARET",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1351",
+      "nm_mk": "PRAK PENGOLAHAN HAMA PENYAKIT TERPADU",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1551",
+      "nm_mk": "PRAK PENGOLAHAN TANAH DAN AIR",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1151",
+      "nm_mk": "PRAK. TBT PERKEBUNAN KELAPA SAWIT &amp;amp; KARET",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1852",
+      "nm_mk": "METODE PENELITIAN PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1452",
+      "nm_mk": "PENGOLAHAN TANAH DAN AIR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0752",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0452",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN (PKL)",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A1632",
+      "nm_mk": "EKOLOGI TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0552",
+      "nm_mk": "KESUBURAN TANAH DAN PEMUPUKAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0651",
+      "nm_mk": "PRAKTIKUM KESUBURAN TANAH DAN PEMUPUKAN",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1551",
+      "nm_mk": "PRAK PENGOLAHAN TANAH DAN AIR",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1252",
+      "nm_mk": "PENGOLAHAN HAMA PENYAKIT TERPADU",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1052",
+      "nm_mk": "TBT PERKEBUNAN KELAPA SAWIT & KARET",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB429A0452",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN (PKL)",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2561",
+      "nm_mk": "PRATIKUM HPT PERKEBUNAN",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2361",
+      "nm_mk": "PRAK. HAMA DAN PENY. PASCA PANEN",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2062",
+      "nm_mk": "PENGENDALIAN HAYATI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1962",
+      "nm_mk": "PENYULUHAN PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2961",
+      "nm_mk": "PRAKTIKUM HPT HORTIKULTURA",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2862",
+      "nm_mk": "HPT HORTIKULTURA",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2262",
+      "nm_mk": "HAMA DAN PENYE. PASCA PANEN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2462",
+      "nm_mk": "HPT PERKEBUNAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK429A3261",
+      "nm_mk": "PRAKTIKUM NEMATOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A2161",
+      "nm_mk": "PRAKTIKUM PENGENDALIAN HAYATI",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4072",
+      "nm_mk": "PENGELOLAAN LIMBAH PERKEBUNAN & AMDAL",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4272",
+      "nm_mk": "EVALUASI KESESUAIAN LAHAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4172",
+      "nm_mk": "AGROINDUSTRI PERKEBUNAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A1652",
+      "nm_mk": "TBT HORTIKULTURA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4372",
+      "nm_mk": "PESTISIDA DAN TEKNIK APLIKASI",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4471",
+      "nm_mk": "PRAK. PESTISIDA DAN TEKNIK APLIKASI",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4671",
+      "nm_mk": "SEMINAR HASIL PENELITIAN",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4571",
+      "nm_mk": "SEMINAR USULAN PENELITIAN",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB429A4774",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "EMIL GUNAWAN MARPAUNG",
+    "jk": "L",
+    "nipd": "1204290129        ",
+    "namapt": "Universitas Muhammadiyah Sumatera Utara",
+    "namajenjang": "S1",
+    "namaprodi": "Agroteknologi",
+    "reg_pd": "2D4F3000-1CE7-4426-A290-7EEF13E9630A",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-06-23T00:00:00Z",
+    "no_seri_ijazah": "42547/S1/UMSU/0429/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QUMxQUNEMkMtQzQ5OS00NUFDLUI3OTAtNzZGNUU3Mjk2REY5",
+    "link_prodi": "/data_prodi/MjI5NjJGNkYtRjZCQi00NjBFLUIyQjEtMzMzMkRGOUNFQUVB"
+  }
+}

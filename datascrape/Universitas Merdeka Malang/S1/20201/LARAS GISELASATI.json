@@ -1,0 +1,417 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "330001",
+      "nm_mk": "FILSAFAT ILMU DAN LOGIKA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330217",
+      "nm_mk": "SISTEM SOSIAL BUDAYA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330531",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330643",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330109",
+      "nm_mk": "ENGLISH FOR COMMUNICATION PROFESSION",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330221",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330303",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330002",
+      "nm_mk": "PENGANTAR ILMU KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330304",
+      "nm_mk": "PENDIDIKAN AGAMA LANJUTAN",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330555",
+      "nm_mk": "JURNALISTIK",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330653",
+      "nm_mk": "ETIKA DAN HUKUM KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330596",
+      "nm_mk": "MEDIA PENYIARAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330558",
+      "nm_mk": "PERIKLANAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330597",
+      "nm_mk": "PUBLIC RELATIONS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330222",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN LANJUTAN",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330402",
+      "nm_mk": "SISTEM POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330572",
+      "nm_mk": "KOMUNIKASI ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330541",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330655",
+      "nm_mk": "KOMUNIKASI KELOMPOK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330404",
+      "nm_mk": "DESIGN GRAFIS",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330598",
+      "nm_mk": "PUBLIC SPEAKING",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330544",
+      "nm_mk": "KOMUNIKASI MASSA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330657",
+      "nm_mk": "KOMUNIKASI INTERPERSONAL",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330403",
+      "nm_mk": "FOTOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330660",
+      "nm_mk": "PRAKTIKUM MICE",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330535",
+      "nm_mk": "TEORI KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330405",
+      "nm_mk": "METODE PENELITIAN SOSIAL DAN KOMUNIKASI",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330665",
+      "nm_mk": "COPY WRITING",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330658",
+      "nm_mk": "PUBLIKASI PUBLIC RELATIONS",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330565",
+      "nm_mk": "KEMANDIRIAN DAN KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330659",
+      "nm_mk": "PRAKTIKUM PERANCANGAN PROGRAM INTERNAL PUBLIC RELATIONS",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330667",
+      "nm_mk": "TEKNIK PENULISAN ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330130",
+      "nm_mk": "PSIKOLOGI KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330670",
+      "nm_mk": "CORPORATE SOCIAL RESPONSIBILITY",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330668",
+      "nm_mk": "PRAKTIKUM PERANCANGAN PROGRAM EKSTERNAL PR",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330548",
+      "nm_mk": "KOMUNIKASI PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330671",
+      "nm_mk": "PRAKTIKUM PENYIAR",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330550",
+      "nm_mk": "PERKEMBANGAN TEKNOLOGI KOM.",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330669",
+      "nm_mk": "PRAKTIKUM DESAIN IDENTITAS KORPORASI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330594",
+      "nm_mk": "PRAKTEK KERJA MAGANG",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330211",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330551",
+      "nm_mk": "KOMUNIKASI SOSIAL PEMBANGUNAN",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330554",
+      "nm_mk": "KOMUNIKASI POLITIK",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330677",
+      "nm_mk": "READING COURSE",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330568",
+      "nm_mk": "SEMINAR KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330664",
+      "nm_mk": "MEDIA PERIKLANAN",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330650",
+      "nm_mk": "KOMUNIKASI ANTAR BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330678",
+      "nm_mk": "MEDIA DAN KAJIAN BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330583",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330679",
+      "nm_mk": "KRISIS KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330673",
+      "nm_mk": "BISNIS PENYIARAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LARAS GISELASATI",
+    "jk": "P",
+    "nipd": "20033000030",
+    "namapt": "Universitas Merdeka Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Komunikasi",
+    "reg_pd": "DB330665-12F7-41FC-804D-6172CD14FAB2",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODRCMjU0NTUtNkVGQi00RjdDLUIxQjEtRTFEMUNBNEM2QUM4",
+    "link_prodi": "/data_prodi/ODhGMDdBNTktQTIzQy00N0EwLUI2MEQtODFCMTY2Nzg3NzlD"
+  }
+}

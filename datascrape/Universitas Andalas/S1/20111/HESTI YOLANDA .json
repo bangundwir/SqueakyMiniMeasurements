@@ -1,0 +1,374 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PAM 111",
+      "nm_mk": "BAHASA INGGRIS MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU141",
+      "nm_mk": "AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SSI 121",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM 123",
+      "nm_mk": "PENGANTAR MATEMATIKA",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAP 111",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM 121",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK 111",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM122",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM112",
+      "nm_mk": "KONSEP TEKNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM162 ",
+      "nm_mk": "STATISTIKA ELEMENTER ",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAB333",
+      "nm_mk": "ILMU LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM172",
+      "nm_mk": "PENGANTAR TEORI BILANGAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM152",
+      "nm_mk": "PENGENALAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU151",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM251",
+      "nm_mk": "METODE DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM253",
+      "nm_mk": "PEMROGRAMAN KOMPUTER II",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM241",
+      "nm_mk": "STATISTIKA ELEMENTER",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM211",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM231",
+      "nm_mk": "ALJABAR LINIER ELEMENTER",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM294*",
+      "nm_mk": "STATISTIKA NON PARAMETRIK",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM122 ",
+      "nm_mk": "KALKULUS II ",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM252 ",
+      "nm_mk": "METODE NUMERIK ",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM272 ",
+      "nm_mk": "MATEMATIKA DISKRIT ",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM341 ",
+      "nm_mk": "ANALISIS RIIL I ",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM331 ",
+      "nm_mk": "ALJABAR I ",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM351 ",
+      "nm_mk": "MATEMATIKA POPULASI ",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM353 ",
+      "nm_mk": "PENGANTAR MATEMATIKA KEUANGAN ",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM262 ",
+      "nm_mk": "STATISTIKA MATEMATIKA I ",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM362 ",
+      "nm_mk": "PENGENDALIAN MUTU STATISTIK ",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM332 ",
+      "nm_mk": "ALJABAR II ",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM342",
+      "nm_mk": "ANALISIS RIIL II",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM344 ",
+      "nm_mk": "GEOMETRI ",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAP 111",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM363 ",
+      "nm_mk": "ANALISIS REGRESI ",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM361 ",
+      "nm_mk": "STATISTIKA MATEMATIKA II ",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM355 ",
+      "nm_mk": "ALGORITMA DAN STRUKTUR DATA ",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM451 ",
+      "nm_mk": "PEMODELAN MATEMATIKA ",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM382 ",
+      "nm_mk": "METODE PENELITIAN ",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM272 ",
+      "nm_mk": "MATEMATIKA DISKRIT ",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM344 ",
+      "nm_mk": "GEOMETRI ",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM242 ",
+      "nm_mk": "FUNGSI KOMPLEK ",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAM354 ",
+      "nm_mk": "AKTUARIA ",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HESTI YOLANDA ",
+    "jk": "P",
+    "nipd": "1110433028        ",
+    "namapt": "Universitas Andalas",
+    "namajenjang": "S1",
+    "namaprodi": "Matematika",
+    "reg_pd": "59CAB6BA-4DA3-46FD-A73D-0CFADB6A99AF",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-12-08T00:00:00Z",
+    "no_seri_ijazah": "109625/0122/F.30/S1/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTgwNENDNjYtQ0IxOS00RTkzLThCM0YtMUFGNzFBRDQ2OUZG",
+    "link_prodi": "/data_prodi/ODBDNjhFMTMtRkRCMC00MkQzLTk3RDYtOTU3N0FGRTJBNkRE"
+  }
+}

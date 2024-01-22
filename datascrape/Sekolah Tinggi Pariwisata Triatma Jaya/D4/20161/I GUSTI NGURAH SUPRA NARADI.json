@@ -1,0 +1,192 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKKPKD",
+      "nm_mk": "PENGANTAR KANTOR DEPAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKKKD",
+      "nm_mk": "KASIR KANTOR DEPAN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBBBIP3",
+      "nm_mk": "BAHASA INGGRIS PROFESI 3",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBHAM",
+      "nm_mk": "HUBUNGAN ANTAR MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBOKD",
+      "nm_mk": "OPERASIONAL KANTOR DEPAN",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKPTG",
+      "nm_mk": "PENGANTAR TATA GRAHA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKAKH",
+      "nm_mk": "AKUNTANSI HOTEL",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKMDK",
+      "nm_mk": "MANAJEMEN DIVISI KAMAR",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKPEI",
+      "nm_mk": "PENGANTAR EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBOTG",
+      "nm_mk": "OPERASIONAL TATA GRAHA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKMKO",
+      "nm_mk": "MANAJEMEN KONVENSI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKMKU",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKDAM",
+      "nm_mk": "DASAR-DASAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKMEP",
+      "nm_mk": "METODELOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKMAH",
+      "nm_mk": "MANAJEMEN PERHOTELAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBBKOB",
+      "nm_mk": "KORESPONDENSI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBSLH",
+      "nm_mk": "STUDI LINGKUNGAN HIDUP",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBBBAP3",
+      "nm_mk": "BAHASA ASING PILIHAN 3",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKPEP",
+      "nm_mk": "PERATURAN KEPARIWISATAAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBBBAI",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBAPK2",
+      "nm_mk": "APLIKASI  KOMPUTER 2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "I GUSTI NGURAH SUPRA NARADI",
+    "jk": "L",
+    "nipd": "20141414105",
+    "namapt": "Sekolah Tinggi Pariwisata Triatma Jaya",
+    "namajenjang": "D4",
+    "namaprodi": "Perhotelan",
+    "reg_pd": "117504A3-3DAD-451C-B14C-BBB12BD6AE23",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Pindahan",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": "2019-12-02T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NDU3RkU4OTItNDQ1NS00N0UxLUFBMzQtQ0M5QTRBMkZBODE1",
+    "link_prodi": "/data_prodi/NkI0NzIzN0MtRTA2Mi00NkMwLUE1MDctMkVBNEIxODg0ODI3"
+  }
+}

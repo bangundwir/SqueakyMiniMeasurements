@@ -108,7 +108,7 @@ async function startNewSearch(repeatCount: number) {
 }
 
 // Start the first search with a specified repeat count
-const repeatCount = 1000; // Replace with the number of times you want to repeat the scraping
+const repeatCount = 10; // Replace with the number of times you want to repeat the scraping
 startNewSearch(repeatCount);
 
 //3333333333333333333333333333

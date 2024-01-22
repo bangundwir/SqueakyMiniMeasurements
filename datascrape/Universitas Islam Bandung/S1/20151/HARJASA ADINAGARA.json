@@ -111,6 +111,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "M13103",
+      "nm_mk": "PANCASILA & KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "M13111",
       "nm_mk": "METODE STATISTIKA",
       "sks_mk": 3,
@@ -132,16 +139,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13103",
-      "nm_mk": "PANCASILA & KEWARGANEGARAAN",
-      "sks_mk": 2,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13118",
-      "nm_mk": "PRAK.ALGORITMA DAN PEMROGRAMAN",
-      "sks_mk": 1,
+      "kode_mk": "M13116",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
     },
@@ -153,16 +153,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13116",
-      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
-      "sks_mk": 3,
+      "kode_mk": "M13106",
+      "nm_mk": "KALKULUS DIFFERENSIAL",
+      "sks_mk": 4,
       "id_smt": "20152",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13106",
-      "nm_mk": "KALKULUS DIFFERENSIAL",
-      "sks_mk": 4,
+      "kode_mk": "M13118",
+      "nm_mk": "PRAK.ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 1,
       "id_smt": "20152",
       "nilai_huruf": null
     },
@@ -181,15 +181,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13122",
-      "nm_mk": "PENGANTAR MATEMATIKA EKONOMI & INDUSTRI",
+      "kode_mk": "M13104",
+      "nm_mk": "BAHASA INGGRIS",
       "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13104",
-      "nm_mk": "BAHASA INGGRIS",
+      "kode_mk": "M13122",
+      "nm_mk": "PENGANTAR MATEMATIKA EKONOMI & INDUSTRI",
       "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -216,6 +216,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "M13211",
+      "nm_mk": "PENGANTAR PELUANG",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13205",
+      "nm_mk": "ALJABAR LINEAR ELEMENTER 2",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "M13209",
       "nm_mk": "PRAKTIKUM METODE NUMERIK I",
       "sks_mk": 1,
@@ -230,44 +244,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13205",
-      "nm_mk": "ALJABAR LINEAR ELEMENTER 2",
+      "kode_mk": "M13244",
+      "nm_mk": "PROGRAM LINEAR",
       "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13211",
-      "nm_mk": "PENGANTAR PELUANG",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13212",
-      "nm_mk": "PENGANTAR STRUKTUR ALJABAR I",
-      "sks_mk": 2,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13214",
-      "nm_mk": "METODE NUMERIK 2",
-      "sks_mk": 3,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13204",
-      "nm_mk": "KALKULUS PEUBAH BANYAK",
-      "sks_mk": 4,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13216",
-      "nm_mk": "PRAK. METODE NUMERIK 2",
-      "sks_mk": 1,
       "id_smt": "20162",
       "nilai_huruf": null
     },
@@ -286,8 +265,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13244",
-      "nm_mk": "PROGRAM LINEAR",
+      "kode_mk": "M13204",
+      "nm_mk": "KALKULUS PEUBAH BANYAK",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13216",
+      "nm_mk": "PRAK. METODE NUMERIK 2",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13212",
+      "nm_mk": "PENGANTAR STRUKTUR ALJABAR I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13214",
+      "nm_mk": "METODE NUMERIK 2",
       "sks_mk": 3,
       "id_smt": "20162",
       "nilai_huruf": null
@@ -300,8 +300,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "M13301",
+      "nm_mk": "PAI SEJARAN & PERADABAN ISLAM",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "M13305",
       "nm_mk": "PENGANTAR ANALISIS 2",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13307",
+      "nm_mk": "PENGANTAR STRUKTUR ALJABAR 2",
       "sks_mk": 2,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -310,6 +324,13 @@
       "kode_mk": "M13363",
       "nm_mk": "PRAK.BAHASA PEMROGRAMAN",
       "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13311",
+      "nm_mk": "STATISTIKA MATEMATIKA",
+      "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
     },
@@ -342,51 +363,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13311",
-      "nm_mk": "STATISTIKA MATEMATIKA",
-      "sks_mk": 3,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13307",
-      "nm_mk": "PENGANTAR STRUKTUR ALJABAR 2",
-      "sks_mk": 2,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13301",
-      "nm_mk": "PAI SEJARAN & PERADABAN ISLAM",
-      "sks_mk": 1,
-      "id_smt": "20171",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13366",
-      "nm_mk": "TEORI GRAF",
-      "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13312",
-      "nm_mk": "DASAR- DASAR PENELITIAN",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "M13368",
       "nm_mk": "MANAJEMEN SISTEM INFORMASI",
       "sks_mk": 3,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13308",
-      "nm_mk": "KULIAH KERJA LAPANGAN (KKL)",
-      "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -405,9 +384,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13302",
-      "nm_mk": "PAI FILSAFAT & PEMIKIRAN ISLAM",
-      "sks_mk": 1,
+      "kode_mk": "M13312",
+      "nm_mk": "DASAR- DASAR PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13366",
+      "nm_mk": "TEORI GRAF",
+      "sks_mk": 3,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -419,9 +405,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "M13302",
+      "nm_mk": "PAI FILSAFAT & PEMIKIRAN ISLAM",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "M13306",
       "nm_mk": "PEMODELAN MATEMATIKA",
       "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13308",
+      "nm_mk": "KULIAH KERJA LAPANGAN (KKL)",
+      "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -430,6 +430,20 @@
       "nm_mk": "PENGANTAR ANALISIS 2",
       "sks_mk": 2,
       "id_smt": "20173",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13307",
+      "nm_mk": "PENGANTAR STRUKTUR ALJABAR 2",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13355",
+      "nm_mk": "MATEMATIKA KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
@@ -447,6 +461,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "M13403",
+      "nm_mk": "ANALISIS REAL 2",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "M13407",
       "nm_mk": "DASAR-DASAR PEMBELAJARAN MATEMATIKA",
       "sks_mk": 2,
@@ -454,9 +475,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13403",
-      "nm_mk": "ANALISIS REAL 2",
-      "sks_mk": 2,
+      "kode_mk": "M13353",
+      "nm_mk": "ANALISIS JARINGAN",
+      "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null
     },
@@ -482,30 +503,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13307",
-      "nm_mk": "PENGANTAR STRUKTUR ALJABAR 2",
-      "sks_mk": 2,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13353",
-      "nm_mk": "ANALISIS JARINGAN",
+      "kode_mk": "M13486",
+      "nm_mk": "Kriptografi",
       "sks_mk": 3,
-      "id_smt": "20181",
+      "id_smt": "20182",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "M13355",
-      "nm_mk": "MATEMATIKA KEUANGAN",
+      "kode_mk": "M13306",
+      "nm_mk": "PEMODELAN MATEMATIKA",
       "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13212",
-      "nm_mk": "PENGANTAR STRUKTUR ALJABAR I",
-      "sks_mk": 2,
       "id_smt": "20182",
       "nilai_huruf": null
     },
@@ -524,6 +531,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "M13212",
+      "nm_mk": "PENGANTAR STRUKTUR ALJABAR I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "M13108",
       "nm_mk": "ALJABAR LINEAR ELEMENTER I",
       "sks_mk": 3,
@@ -535,34 +549,6 @@
       "nm_mk": "MATEMATIKA ASURANSI SYARIAH",
       "sks_mk": 3,
       "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13486",
-      "nm_mk": "Kriptografi",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13306",
-      "nm_mk": "PEMODELAN MATEMATIKA",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13207",
-      "nm_mk": "METODE NUMERIK I",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13211",
-      "nm_mk": "PENGANTAR PELUANG",
-      "sks_mk": 3,
-      "id_smt": "20191",
       "nilai_huruf": null
     },
     {
@@ -587,6 +573,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "M13211",
+      "nm_mk": "PENGANTAR PELUANG",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13207",
+      "nm_mk": "METODE NUMERIK I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "M13205",
+      "nm_mk": "ALJABAR LINEAR ELEMENTER 2",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "M13201",
       "nm_mk": "PAI FIQIH MUAMALAT",
       "sks_mk": 1,
@@ -596,13 +603,6 @@
     {
       "kode_mk": "M13309",
       "nm_mk": "FUNGSI KOMPLEKS",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "M13205",
-      "nm_mk": "ALJABAR LINEAR ELEMENTER 2",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null

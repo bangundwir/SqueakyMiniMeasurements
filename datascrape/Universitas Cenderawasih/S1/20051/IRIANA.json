@@ -1,32 +1,171 @@
 {
   "datastatuskuliah": [
     {
-      "id_smt": "20191",
-      "sks_smt": 0,
-      "nm_stat_mhs": "Non-Aktif                           "
+      "id_smt": "20051",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
     },
     {
-      "id_smt": "20221",
-      "sks_smt": 0,
-      "nm_stat_mhs": "Non-Aktif                           "
+      "id_smt": "20052",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20061",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
     }
   ],
-  "datastudi": [],
+  "datastudi": [
+    {
+      "kode_mk": "AKT4314",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4011",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4312",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4313",
+      "nm_mk": "PENGANTAR AKUNTANSI I",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4012",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4013",
+      "nm_mk": "ETNOGRAFI PAPUA",
+      "sks_mk": 2,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4311",
+      "nm_mk": "PENGANTAR EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4524",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4335",
+      "nm_mk": "STATISTIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU4014",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4325",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4421",
+      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH I",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4321",
+      "nm_mk": "PENGANTAR AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4318",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN4336",
+      "nm_mk": "METODE KUANTITATIF DALAM BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4334",
+      "nm_mk": "TEORI EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4337",
+      "nm_mk": "STATISTIK II",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN4335",
+      "nm_mk": "PERILAKU KEORGANISASIAN",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT4331",
+      "nm_mk": "AKUNTANSI KEUANGAN MENENGAH II",
+      "sks_mk": 8,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    }
+  ],
   "dataumum": {
     "nm_pd": "IRIANA",
     "jk": "P",
-    "nipd": "0516              ",
+    "nipd": "05501333          ",
     "namapt": "Universitas Cenderawasih",
     "namajenjang": "S1",
     "namaprodi": "Akuntansi",
-    "reg_pd": "DDB1D54F-618A-46EF-A6A6-9939621591BD",
+    "reg_pd": "E0F5D7C2-FEB1-4942-8E2A-F658BE85BE07",
     "mulai_smt": "20051",
     "nm_jns_daftar": "Peserta didik baru",
     "nm_pt_asal": null,
     "nm_prodi_asal": null,
     "ket_keluar": "Lulus",
-    "tgl_keluar": null,
-    "no_seri_ijazah": null,
+    "tgl_keluar": "2010-03-17T00:00:00Z",
+    "no_seri_ijazah": "0101/UC/04.4/2010",
     "sert_prof": null,
     "link_pt": "/data_pt/RjJBNjhDMUYtNTE2Qi00QTZELTkyRTQtMzRFNUMxMUJCNjhE",
     "link_prodi": "/data_prodi/QUM0QjNFOTQtNDZFRS00M0UwLTg1MDEtMDQ2RThDMUFDRjI4"

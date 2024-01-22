@@ -1,0 +1,541 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IT011104",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PP000207",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011310",
+      "nm_mk": "MATEMATIKA DASAR 1",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011302",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN 1",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HM011102",
+      "nm_mk": "ILMU SOSIAL DASAR",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011416",
+      "nm_mk": "PENGANTAR TEKNOLOGI SISTEM INFORMASI **",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011119",
+      "nm_mk": "PRAKTIKUM ALGORITMA PEMROGRAMAN 1",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011206",
+      "nm_mk": "FISIKA & KIMIA DASAR 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011303",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN 2",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011232",
+      "nm_mk": "TEORI ORGANISASI UMUM 1",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011207",
+      "nm_mk": "FISIKA & KIMIA DASAR 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PP000206",
+      "nm_mk": "PENDIDIKAN PANCASILA (*)",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011121",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011309",
+      "nm_mk": "KONSEP SISTEM INFORMASI (* /**",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011105",
+      "nm_mk": "BAHASA INGGRIS 2",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HM011101",
+      "nm_mk": "ILMU BUDAYA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011311",
+      "nm_mk": "MATEMATIKA DASAR 2",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011120",
+      "nm_mk": "PRAKTIKUM ALGORITMA PEMROGRAMAN 2",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011214",
+      "nm_mk": "MATEMATIKA SISTEM INFORMASI 1",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011228",
+      "nm_mk": "STRUKTUR ORGANISASI DATA 1",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011230",
+      "nm_mk": "TEKNIK PEMROGRAMAN TERSTRUKTUR 1 **",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011208",
+      "nm_mk": "TEORI ORGANISASI UMUM 2",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011226",
+      "nm_mk": "STATISTIKA 1 **",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011317",
+      "nm_mk": "PENGANTAR ORGANISASI DAN ARSITEKTUR KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011209",
+      "nm_mk": "MANAJEMEN SISTEM INFORMASI MANAJ1 (*",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011201",
+      "nm_mk": "PENGANTAR AKUNTANSI KEUANGAN 1",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011127",
+      "nm_mk": "INOVASI SISTEM INFORMASI DAN TI MODEREN",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011212",
+      "nm_mk": "MATEMATIKA LANJUT 1 (*/**",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011201",
+      "nm_mk": "PENGANTAR AKUNTANSI KEUANGAN 2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011102",
+      "nm_mk": "BAHASA INDONESIA 1",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011227",
+      "nm_mk": "STATISTIKA 2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011215",
+      "nm_mk": "MATEMATIKA SISTEM INFORMASI 2",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PP000200",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011229",
+      "nm_mk": "STRUKTUR ORGANISASI DATA 2 (*",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011128",
+      "nm_mk": "MANAJEMEN LAYANAN SISTEM INFORMASI",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011213",
+      "nm_mk": "MATEMATIKA LANJUT 2 **",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011210",
+      "nm_mk": "MANAJEMEN SISTEM INFORMASI MANAJ2 (*",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011325",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011231",
+      "nm_mk": "TEKNIK PEMROGRAMAN TERSTRUKTUR 2 **",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011103",
+      "nm_mk": "BAHASA INDONESIA 2",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011308",
+      "nm_mk": "GRAF DAN ANALISIS ALGORITMA **",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011305",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER *",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011135",
+      "nm_mk": "PENGANTAR TEKNOLOGI SISTEM CERDAS",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011222",
+      "nm_mk": "SISTEM BERBASIS PENGETAHUAN **",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011204",
+      "nm_mk": "GRAFIK KOMPUTER DAN PENGOLAHAN CITRA **",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011312",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK **",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011229",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011317",
+      "nm_mk": "SISTEM BASIS DATA 1 **",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011302",
+      "nm_mk": "ANALISIS PERENCANGAN SISTEM INFO (* / **",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011331",
+      "nm_mk": "DISAIN DAN MANAJEMEN JARINGAN KOMPUTER (*",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011207",
+      "nm_mk": "PENULISAN ILMIAH KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011318",
+      "nm_mk": "SISTEM BASIS DATA 2 (*/**",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011224",
+      "nm_mk": "SISTEM PENUNJANG KEPUTUSAN (*",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IT011318",
+      "nm_mk": "PENGANTAR TEKNIK KOMPILASI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011130",
+      "nm_mk": "PENGANTAR ANIMASI DAN DISAIN GRAFIS",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011303",
+      "nm_mk": "ANALISIS KINERJA SISTEM",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011326",
+      "nm_mk": "TESTING DAN IMPLEMENTASI SISTEM (*",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011133",
+      "nm_mk": "AUDIT TEKNOLOGI SISTEM INFORMASI",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011104",
+      "nm_mk": "BAHASA INGGRIS BISNIS 1",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011211",
+      "nm_mk": "PEMROGRAMAN BERBASIS WEB **",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011315",
+      "nm_mk": "PENGELOLAAN PROYEK SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011332",
+      "nm_mk": "SISTEM KEAMANAN DAN TEKNOLOGI INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011208",
+      "nm_mk": "KONSEP SISTEM INFORMASI LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK011225",
+      "nm_mk": "SISTEM TERDISTRIBUSI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011201",
+      "nm_mk": "PENGANTAR BISNIS TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011609",
+      "nm_mk": "SKRIPSI / EVALUASI KOMPREHENSIP",
+      "sks_mk": 6,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011206",
+      "nm_mk": "ETIKA DAN PROFESIONALISME TSI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB011105",
+      "nm_mk": "BAHASA INGGRIS BISNIS 2",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HANA NURBAITI HASANAH",
+    "jk": "P",
+    "nipd": "13115012",
+    "namapt": "Universitas Gunadarma",
+    "namajenjang": "S1",
+    "namaprodi": "Sistem Informasi",
+    "reg_pd": "BD5489D8-4A3A-492E-B529-E56510A93E5F",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Lainnya",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-08-31T00:00:00Z",
+    "no_seri_ijazah": "572012019007992",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Qzg4MkIyNDMtNzYwNS00MkQ2LTlBRkEtQTJDOEQ1NkQwOUVE",
+    "link_prodi": "/data_prodi/QjlGRkQ0QzktRUVBMC00RDc3LTlGNDQtMkQ1RjA1NjZDRTMw"
+  }
+}

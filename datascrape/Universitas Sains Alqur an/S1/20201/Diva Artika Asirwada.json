@@ -1,0 +1,440 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK.07.01.103",
+      "nm_mk": "Matematika 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.104",
+      "nm_mk": "Analisa Struktur 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKN.07.01.001",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU.07.01.008",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.101",
+      "nm_mk": "Teknologi Bahan Konstruksi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKN.07.01.003",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.102",
+      "nm_mk": "Fisika Untuk Teknik Sipil",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.105",
+      "nm_mk": "Komputer Grafis Struktur Bangunan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU.07.01.006",
+      "nm_mk": "Aswaja An-Nahdliyah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.202",
+      "nm_mk": "Matematika 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.07.01.207",
+      "nm_mk": "Rekayasa Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.201",
+      "nm_mk": "Hidrologi Terapan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKN.07.01.004",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.206",
+      "nm_mk": "Bahasa Pemrograman",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.204",
+      "nm_mk": "Kimia Untuk Teknik Sipil",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.203",
+      "nm_mk": "Analisa Struktur 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU.07.01.005",
+      "nm_mk": "Tajwid & tahsin al-Quran",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.205",
+      "nm_mk": "Statistik & Probabilitas",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB.07.01.208",
+      "nm_mk": "Ilmu Ukur Tanah",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKN.07.01.002",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.307",
+      "nm_mk": "Perencanan Geometrik Jalan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.301",
+      "nm_mk": "Matematika 3",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.306",
+      "nm_mk": "Irigasi & Bang Air",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.304",
+      "nm_mk": "Analisa Tegangan Bahan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.302",
+      "nm_mk": "Mekanika Tanah 1",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.303",
+      "nm_mk": "Mek. Fluida & Hidrolika 1",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU.07.01.001",
+      "nm_mk": "Tahfidzul Qur'an Dasar",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.305",
+      "nm_mk": "Rekayasa Pondasi 1",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.402",
+      "nm_mk": "Mekanika Tanah 2",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.405",
+      "nm_mk": "Struktur Baja 1",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU.07.01.002",
+      "nm_mk": "Tahfidzul Quran Ayat Profesi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.408",
+      "nm_mk": "Perencanaan Perkerasan Jalan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.403",
+      "nm_mk": "Mekflud & Hidrolika 2",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.308",
+      "nm_mk": "Analisa Struktur 3",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.404",
+      "nm_mk": "Struktur Beton 1",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.407",
+      "nm_mk": "Rekayasa Pondasi 2",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU.07.01.003",
+      "nm_mk": "Al-Qur'an & Saintek",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.501",
+      "nm_mk": "Analisa Kuantitatif",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.503",
+      "nm_mk": "Struktur Baja 2",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.509",
+      "nm_mk": "Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.508",
+      "nm_mk": "Amdal",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.504",
+      "nm_mk": "Pengelolaan Sumber Daya Air",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.507",
+      "nm_mk": "Manajemen Konstruksi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK..07.01.505",
+      "nm_mk": "Sistem Transportasi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.01.502",
+      "nm_mk": "Struktur Beton 2",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU.07.01.009",
+      "nm_mk": "Komputer Untuk Teknik Sipil",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBPP-07.01.002",
+      "nm_mk": "Lapangan Terbang",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK.07.07.605",
+      "nm_mk": "Pelabuhan Laut",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBKP-07.01.039",
+      "nm_mk": "Struktur Jembatan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBKP-07.01.040",
+      "nm_mk": "Rekayasa Perencanaan & Pengendalian Proyek",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBKP-07.01.038",
+      "nm_mk": "Rekayasa Jalan Rel",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBKP-07.01.037",
+      "nm_mk": "Rekayasa Lalu-lintas",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBKP-07.01.034",
+      "nm_mk": "Hukum Pembangunan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBKP-07.01.036",
+      "nm_mk": "Drainase Perkotaan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBKP-07.01.035",
+      "nm_mk": "Metedologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Diva Artika Asirwada",
+    "jk": "P",
+    "nipd": "2020140088",
+    "namapt": "Universitas Sains Alqur an",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Sipil",
+    "reg_pd": "BE767B45-0F21-45C4-8E3B-6E3859F8C26F",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkQwQUMzMzgtMDRENC00MEU3LTgyRUQtRUZCRjVCNjZFOTU2",
+    "link_prodi": "/data_prodi/OUFFMDQwMDItMzdGMi00NkE1LTg0MDQtOTlFMjY3MjFGMDU2"
+  }
+}

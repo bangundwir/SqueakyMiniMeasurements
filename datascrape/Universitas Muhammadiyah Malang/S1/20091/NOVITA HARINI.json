@@ -45,9 +45,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "2102324500309",
+      "nm_mk": "Psikologi Perkembangan I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2202306010209",
       "nm_mk": "Filsafat",
       "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102324320309",
+      "nm_mk": "Psikologi Kepribadian I",
+      "sks_mk": 3,
       "id_smt": "20091",
       "nilai_huruf": null
     },
@@ -87,41 +101,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2102324320309",
-      "nm_mk": "Psikologi Kepribadian I",
-      "sks_mk": 3,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2102324500309",
-      "nm_mk": "Psikologi Perkembangan I",
-      "sks_mk": 3,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3102332190209",
-      "nm_mk": "Asesmen Kecerdasan",
-      "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2102327420309",
-      "nm_mk": "Statistik Psikologi",
-      "sks_mk": 3,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3202317040309",
-      "nm_mk": "Observasi",
-      "sks_mk": 3,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "2102332220309",
       "nm_mk": "Psikopatologi",
       "sks_mk": 3,
@@ -143,8 +122,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3102332200209",
-      "nm_mk": "Asesmen Bakat Minat",
+      "kode_mk": "3102332190209",
+      "nm_mk": "Asesmen Kecerdasan",
       "sks_mk": 2,
       "id_smt": "20101",
       "nilai_huruf": null
@@ -157,8 +136,43 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2102332240309",
-      "nm_mk": "Metodologi Penelitian Psikologi",
+      "kode_mk": "3202317040309",
+      "nm_mk": "Observasi",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102327420309",
+      "nm_mk": "Statistik Psikologi",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102332200209",
+      "nm_mk": "Asesmen Bakat Minat",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102332280309",
+      "nm_mk": "Asesmen Kepribadian",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102332270209",
+      "nm_mk": "Asesmen Gangguan Psikologi",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102324400309",
+      "nm_mk": "Psikologi Konseling",
       "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -171,23 +185,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3102332280309",
-      "nm_mk": "Asesmen Kepribadian",
+      "kode_mk": "2102332240309",
+      "nm_mk": "Metodologi Penelitian Psikologi",
       "sks_mk": 3,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2102324400309",
-      "nm_mk": "Psikologi Konseling",
-      "sks_mk": 3,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3102332210409",
-      "nm_mk": "Konstruksi Alat Ukur Psikologi",
-      "sks_mk": 4,
       "id_smt": "20102",
       "nilai_huruf": null
     },
@@ -195,6 +195,13 @@
       "kode_mk": "3102332260209",
       "nm_mk": "Asesmen Keberbakatan",
       "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102332210409",
+      "nm_mk": "Konstruksi Alat Ukur Psikologi",
+      "sks_mk": 4,
       "id_smt": "20102",
       "nilai_huruf": null
     },
@@ -213,20 +220,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3102332270209",
-      "nm_mk": "Asesmen Gangguan Psikologi",
-      "sks_mk": 2,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3102332300309",
-      "nm_mk": "Intervensi Kelompok",
-      "sks_mk": 3,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "3102332320209",
       "nm_mk": "Konseling Kasus Khusus",
       "sks_mk": 2,
@@ -237,13 +230,6 @@
       "kode_mk": "2102332290309",
       "nm_mk": "Metodologi Penelitian Psikologi Lanjut",
       "sks_mk": 3,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2102301660209",
-      "nm_mk": "Assesmen Sumber Daya Manusia",
-      "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
     },
@@ -262,22 +248,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3202312320209",
-      "nm_mk": "Konseling Karir",
-      "sks_mk": 2,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3102332310209",
-      "nm_mk": "Konseling Keluarga",
-      "sks_mk": 2,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "5202324100209",
-      "nm_mk": "Psikologi Bermain",
+      "kode_mk": "2102301660209",
+      "nm_mk": "Assesmen Sumber Daya Manusia",
       "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -297,9 +269,37 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3102332350309",
-      "nm_mk": "Intervensi Komunitas",
+      "kode_mk": "3102332310209",
+      "nm_mk": "Konseling Keluarga",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5202324100209",
+      "nm_mk": "Psikologi Bermain",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3202312320209",
+      "nm_mk": "Konseling Karir",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102332300309",
+      "nm_mk": "Intervensi Kelompok",
       "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1202300470109",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
+      "sks_mk": 1,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -307,6 +307,13 @@
       "kode_mk": "2102332230209",
       "nm_mk": "Psikologi Positif",
       "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102332340309",
+      "nm_mk": "Desain dan Teknik Pelatihan",
+      "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -325,29 +332,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3102332340309",
-      "nm_mk": "Desain dan Teknik Pelatihan",
+      "kode_mk": "3102332350309",
+      "nm_mk": "Intervensi Komunitas",
       "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1202300470109",
-      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
-      "sks_mk": 1,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "4102311980209",
-      "nm_mk": "Kode Etik Psikologi",
-      "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
     },
     {
       "kode_mk": "2102324330209",
       "nm_mk": "Psikologi Kepribadian II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4102311980209",
+      "nm_mk": "Kode Etik Psikologi",
       "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -360,6 +360,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "1202320010209",
+      "nm_mk": "Pengembangan Kreativitas",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2102324520209",
       "nm_mk": "Psikologi Proyektif",
       "sks_mk": 2,
@@ -367,10 +374,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1202320010209",
-      "nm_mk": "Pengembangan Kreativitas",
+      "kode_mk": "3102332330209",
+      "nm_mk": "Penanganan Individu Berkebutuhan Khusus",
       "sks_mk": 2,
-      "id_smt": "20112",
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102326660609",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102324320309",
+      "nm_mk": "Psikologi Kepribadian I",
+      "sks_mk": 3,
+      "id_smt": "20121",
       "nilai_huruf": null
     },
     {
@@ -391,27 +412,6 @@
       "kode_mk": "5202312600409",
       "nm_mk": "Kuliah Kerja Nyata",
       "sks_mk": 4,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2102324320309",
-      "nm_mk": "Psikologi Kepribadian I",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3102332330209",
-      "nm_mk": "Penanganan Individu Berkebutuhan Khusus",
-      "sks_mk": 2,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3102326660609",
-      "nm_mk": "Skripsi",
-      "sks_mk": 6,
       "id_smt": "20121",
       "nilai_huruf": null
     },

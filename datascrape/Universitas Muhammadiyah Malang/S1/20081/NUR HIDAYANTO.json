@@ -73,8 +73,22 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "1104200440208",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan I",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "4104211280208",
       "nm_mk": "Kepribadian Perawat Muslim",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4104217310208",
+      "nm_mk": "Pancasila dan Kewiraan",
       "sks_mk": 2,
       "id_smt": "20081",
       "nilai_huruf": null
@@ -108,16 +122,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2104201270308",
-      "nm_mk": "Anatomi Manusia",
-      "sks_mk": 3,
+      "kode_mk": "2104212360208",
+      "nm_mk": "Konsep Dasar Keperawatan I",
+      "sks_mk": 2,
       "id_smt": "20081",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1104202030208",
-      "nm_mk": "Bahasa Inggris Keperawatan I",
-      "sks_mk": 2,
+      "kode_mk": "2104201270308",
+      "nm_mk": "Anatomi Manusia",
+      "sks_mk": 3,
       "id_smt": "20081",
       "nilai_huruf": null
     },
@@ -129,43 +143,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2104212360208",
-      "nm_mk": "Konsep Dasar Keperawatan I",
+      "kode_mk": "1104202030208",
+      "nm_mk": "Bahasa Inggris Keperawatan I",
       "sks_mk": 2,
       "id_smt": "20081",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "4104217310208",
-      "nm_mk": "Pancasila dan Kewiraan",
-      "sks_mk": 2,
-      "id_smt": "20081",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "1104200440208",
-      "nm_mk": "Al Islam dan Kemuhammadiyahan I",
-      "sks_mk": 1,
-      "id_smt": "20081",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2104202420308",
-      "nm_mk": "Biokimia",
-      "sks_mk": 3,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "2104206560408",
-      "nm_mk": "Fisiologi",
-      "sks_mk": 4,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3104212200208",
-      "nm_mk": "Komunikasi Keperawatan",
+      "kode_mk": "1104202040208",
+      "nm_mk": "Bahasa Inggris Keperawatan II",
       "sks_mk": 2,
       "id_smt": "20082",
       "nilai_huruf": null
@@ -185,13 +171,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1104202040208",
-      "nm_mk": "Bahasa Inggris Keperawatan II",
-      "sks_mk": 2,
-      "id_smt": "20082",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "1204200450208",
       "nm_mk": "Al Islam dan Kemuhammadiyahan II",
       "sks_mk": 1,
@@ -203,6 +182,34 @@
       "nm_mk": "Kebutuhan Dasar Manusia I",
       "sks_mk": 2,
       "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2104206560408",
+      "nm_mk": "Fisiologi",
+      "sks_mk": 4,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3104212200208",
+      "nm_mk": "Komunikasi Keperawatan",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2104202420308",
+      "nm_mk": "Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2104208770208",
+      "nm_mk": "Ilmu Gizi dan Terapi Diet",
+      "sks_mk": 2,
+      "id_smt": "20091",
       "nilai_huruf": null
     },
     {
@@ -220,22 +227,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2104208770208",
-      "nm_mk": "Ilmu Gizi dan Terapi Diet",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "1104202050208",
       "nm_mk": "Bahasa Inggris Keperawatan III",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3104205230208",
-      "nm_mk": "Epidemologi",
       "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
@@ -244,6 +237,13 @@
       "kode_mk": "2104209400208",
       "nm_mk": "Ilmu Sospol dan Masalah Kesehatan",
       "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2104201270308",
+      "nm_mk": "Anatomi Manusia",
+      "sks_mk": 3,
       "id_smt": "20091",
       "nilai_huruf": null
     },
@@ -262,24 +262,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2104201270308",
-      "nm_mk": "Anatomi Manusia",
-      "sks_mk": 3,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3104211210208",
-      "nm_mk": "Keperawatan Medikal Bedah I",
+      "kode_mk": "3104205230208",
+      "nm_mk": "Epidemologi",
       "sks_mk": 2,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3104210550308",
-      "nm_mk": "Kebutuhan Dasar Manusia II",
-      "sks_mk": 3,
-      "id_smt": "20101",
+      "id_smt": "20091",
       "nilai_huruf": null
     },
     {
@@ -290,15 +276,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104211050308",
-      "nm_mk": "Keperawatan Keluarga Sakinah",
-      "sks_mk": 3,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3104210910208",
-      "nm_mk": "Keperawatan Anak I",
+      "kode_mk": "3104211210208",
+      "nm_mk": "Keperawatan Medikal Bedah I",
       "sks_mk": 2,
       "id_smt": "20101",
       "nilai_huruf": null
@@ -311,9 +290,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104211180208",
-      "nm_mk": "Keperawatan Maternitas I",
-      "sks_mk": 2,
+      "kode_mk": "3104211050308",
+      "nm_mk": "Keperawatan Keluarga Sakinah",
+      "sks_mk": 3,
       "id_smt": "20101",
       "nilai_huruf": null
     },
@@ -325,10 +304,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104208910208",
-      "nm_mk": "Ilmu Kesehatan Anak",
+      "kode_mk": "3104210910208",
+      "nm_mk": "Keperawatan Anak I",
       "sks_mk": 2,
-      "id_smt": "20111",
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3104210550308",
+      "nm_mk": "Kebutuhan Dasar Manusia II",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3104211180208",
+      "nm_mk": "Keperawatan Maternitas I",
+      "sks_mk": 2,
+      "id_smt": "20101",
       "nilai_huruf": null
     },
     {
@@ -367,6 +360,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "3104208910208",
+      "nm_mk": "Ilmu Kesehatan Anak",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "2104223910208",
       "nm_mk": "Psikiatri",
       "sks_mk": 2,
@@ -374,9 +374,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "5104212600408",
-      "nm_mk": "Kuliah Kerja Nyata",
-      "sks_mk": 4,
+      "kode_mk": "1104202060208",
+      "nm_mk": "Bahasa Inggris Keperawatan IV",
+      "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -388,9 +388,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "1104202060208",
-      "nm_mk": "Bahasa Inggris Keperawatan IV",
-      "sks_mk": 2,
+      "kode_mk": "3104211000408",
+      "nm_mk": "Keperawatan Jiwa II",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5104212600408",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
       "id_smt": "20112",
       "nilai_huruf": null
     },
@@ -409,22 +416,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3104211000408",
-      "nm_mk": "Keperawatan Jiwa II",
-      "sks_mk": 4,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "3104210990208",
-      "nm_mk": "Keperawatan Jiwa I",
+      "kode_mk": "2104217060208",
+      "nm_mk": "Obstetri & Gynekologi",
       "sks_mk": 2,
       "id_smt": "20121",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "2104217060208",
-      "nm_mk": "Obstetri & Gynekologi",
+      "kode_mk": "3104210990208",
+      "nm_mk": "Keperawatan Jiwa I",
       "sks_mk": 2,
       "id_smt": "20121",
       "nilai_huruf": null
@@ -451,9 +451,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "3493",
-      "nm_mk": "SKRIPSI",
-      "sks_mk": 4,
+      "kode_mk": "28287",
+      "nm_mk": "FARMAKOLOGI&PRN PRWT DLM PENGO",
+      "sks_mk": 3,
       "id_smt": "20131",
       "nilai_huruf": null
     },
@@ -465,9 +465,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "28287",
-      "nm_mk": "FARMAKOLOGI&PRN PRWT DLM PENGO",
-      "sks_mk": 3,
+      "kode_mk": "3493",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
       "id_smt": "20131",
       "nilai_huruf": null
     },

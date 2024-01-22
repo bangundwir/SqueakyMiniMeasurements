@@ -1,0 +1,506 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20151",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FUG1A3",
+      "nm_mk": "FISIKA I",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1J3",
+      "nm_mk": "KIMIA",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BUG1A2",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUG1A4",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BUG1D2",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FUG1B1",
+      "nm_mk": "PRAKTIKUM  FISIKA  I",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1K3",
+      "nm_mk": "PENGENALAN TEKNIK TELEKOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUG1B4",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1A2",
+      "nm_mk": "PENDIDIKAN AGAMA DAN ETIKA - ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KUG1B1",
+      "nm_mk": "PRAKTIKUM ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BUG1E2",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FUG1D1",
+      "nm_mk": "PRAKTIKUM FISIKA II",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1H2",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KUG1A3",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FUG1C3",
+      "nm_mk": "FISIKA II",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1I2",
+      "nm_mk": "KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2B4",
+      "nm_mk": "RANGKAIAN LISTRIK",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUH1G3",
+      "nm_mk": "MATRIKS DAN RUANG VEKTOR",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH2A3",
+      "nm_mk": "JARINGAN DAN TEKNIK PENYAMBUNGAN TELEKOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2J3",
+      "nm_mk": "MATEMATIKA DISKRIT B",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2E2",
+      "nm_mk": "EKONOMI TEKNIK B",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH2B1",
+      "nm_mk": "PRAKTIKUM TEKNIK TELEKOMUNIKASI I",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2H3",
+      "nm_mk": "ALJABAR BOOLEAN DAN RANGKAIAN LOGIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH2E1",
+      "nm_mk": "PRAKTIKUM TEKNIK TELEKOMUNIKASI II",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2K3",
+      "nm_mk": "VARIABEL KOMPLEKS",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DUH2B2",
+      "nm_mk": "GELADI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUH1F3",
+      "nm_mk": "PROBABILITAS DAN STATISTIKA A",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2F3",
+      "nm_mk": "ELEKTROMAGNETIKA",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH2D3",
+      "nm_mk": "MIKROPROSESOR",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2G4",
+      "nm_mk": "ELEKTRONIKA",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2L3",
+      "nm_mk": "PENGOLAHAN SINYAL WAKTU KONTINU",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3A4",
+      "nm_mk": "SISTEM KOMUNIKASI",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DUH2A2",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3B3",
+      "nm_mk": "ELEKTROMAGNETIKA TELEKOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3C3",
+      "nm_mk": "JARINGAN KOMUNIKASI DATA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH3A3",
+      "nm_mk": "PENGOLAHAN SINYAL WAKTU DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3D3",
+      "nm_mk": "PEMROGRAMAN BERBASIS OBJEK",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3E1",
+      "nm_mk": "PRAKTIKUM TEKNIK TELEKOMUNIKASI III",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2I3",
+      "nm_mk": "PERSAMAAN DIFERENSIAL DAN APLIKASI",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH2D2",
+      "nm_mk": "STUDIUM GENERAL",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3I3",
+      "nm_mk": "ELEKTRONIKA TELEKOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4M3",
+      "nm_mk": "APLIKASI BERGERAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH3B2",
+      "nm_mk": "KERJA PRAKTEK",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3J3",
+      "nm_mk": "REKAYASA TRAFIK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3H3",
+      "nm_mk": "SISTEM KOMUNIKASI OPTIK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3F1",
+      "nm_mk": "PRAKTIKUM TEKNIK TELEKOMUNIKASI IV",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3G3",
+      "nm_mk": "ANTENA DAN PROPAGASI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH3K3",
+      "nm_mk": "KEAMANAN JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH4A2",
+      "nm_mk": "PENULISAN KARYA ILMIAH DAN PROPOSAL",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4A3",
+      "nm_mk": "SISTEM KOMUNIKASI SELULER",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUH1G3",
+      "nm_mk": "PANCASILA & KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4A3",
+      "nm_mk": "SISTEM KOMUNIKASI SELULER",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4F3",
+      "nm_mk": "JARINGAN NIRKABEL",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH3C3",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4L3",
+      "nm_mk": "KOMUNIKASI OPTIK LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4F3",
+      "nm_mk": "JARINGAN NIRKABEL",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUH1G3",
+      "nm_mk": "PANCASILA AND CITIZENSHIP",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4H3",
+      "nm_mk": "KOMUNIKASI NIRKABEL PITA LEBAR",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4L3",
+      "nm_mk": "KOMUNIKASI OPTIK LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH3C3",
+      "nm_mk": "MANAJEMEN PROYEK",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4H3",
+      "nm_mk": "KOMUNIKASI NIRKABEL PITA LEBAR",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEH4A2",
+      "nm_mk": "PENULISAN KARYA ILMIAH DAN PROPOSAL",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TTH4B4",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BAGAS SIDIQ HARYANTO",
+    "jk": "L",
+    "nipd": "1101154277",
+    "namapt": "Universitas Telkom",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Telekomunikasi",
+    "reg_pd": "FA0410F9-E2B3-4216-A07F-11503A4E160D",
+    "mulai_smt": "20151",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2019-08-30T00:00:00Z",
+    "no_seri_ijazah": "0807/AKD1.15/SFTE/2019",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODYxRDlBNjQtOTQ5NS00Njg4LUE1MjgtODk5RkNDQTFDMUU4",
+    "link_prodi": "/data_prodi/RUY2RTI3ODAtQjM1Mi00OTBELTgyNzgtN0VGMzM5MjlCMEMw"
+  }
+}

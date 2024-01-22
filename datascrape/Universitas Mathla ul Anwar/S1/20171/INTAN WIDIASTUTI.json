@@ -1,0 +1,685 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "204",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.107",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.301.1",
+      "nm_mk": "PRAKTIKUM KIMIA ORGANIK I",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.216",
+      "nm_mk": "ANATOMI FISIOLOGI MANUSIA I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "212",
+      "nm_mk": "KIMIA ORGANIK I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.105",
+      "nm_mk": "MPK TERINTEGRASI I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.201",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.32.205.1",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.101",
+      "nm_mk": "DIROSAH ISLAMIYAH I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.31.201",
+      "nm_mk": "MATEMATIKA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.32.205",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.302.1",
+      "nm_mk": "PRAKTIKUM KIMIA ORGANIK II",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.102",
+      "nm_mk": "DIROSAH ISLAMIYAH II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.213",
+      "nm_mk": "ANATOMI FISIOLOGI TUMBUHAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.213.1",
+      "nm_mk": "PRAKTIKUM ANATOMI FISIOLOGI TUMBUHAN",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.217",
+      "nm_mk": "ANATOMI DAN FISIOLOGI MANUSIA II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.106",
+      "nm_mk": "MPK TERINTEGRASI II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.15.301",
+      "nm_mk": "MORFOLOGI DAN SISTEMATIKA TUMBUHAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.103",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.302",
+      "nm_mk": "KIMIA ORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.233",
+      "nm_mk": "PENGANTAR FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.31.301",
+      "nm_mk": "STATISTIKA FARMASI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.108",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.328.1",
+      "nm_mk": "PRAKTIKUM FARMAKOGNOSI",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.301",
+      "nm_mk": "FARMASETIKA I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.311.1",
+      "nm_mk": "PRAKTIKUM FARMAKOLOGI DAN TOKSIKOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.101",
+      "nm_mk": "MPK TERINTEGRASI III",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.306",
+      "nm_mk": "KIMIA FISIK I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "207",
+      "nm_mk": "PARASITOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.311",
+      "nm_mk": "KIMIA ANALITIK III",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.309",
+      "nm_mk": "KIMIA ANALITIK I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.15.310.1",
+      "nm_mk": "PRAKTIKUM MIKROBIOLOGI FARMASI",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.310",
+      "nm_mk": "MIKROBIOLOGI FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.328",
+      "nm_mk": "FARMAKOGNOSI II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.302",
+      "nm_mk": "FARMASETIKA DASAR II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.310.1",
+      "nm_mk": "PRAKTIKUM KIMIA ANALITIK II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.330.1",
+      "nm_mk": "PRAKTIKUM PERIPTAAN SINTESIS ORGANIK",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.310",
+      "nm_mk": "KIMIA ANALITIK II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.310",
+      "nm_mk": "KROMATOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.307",
+      "nm_mk": "KIMIA FISIK II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.307.1",
+      "nm_mk": "PRAKTIKUM KIMIA FISIK II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.330",
+      "nm_mk": "PERIPTAAN SINTESIS ORGANIK",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.15.331",
+      "nm_mk": "BIOTEKNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.31.302",
+      "nm_mk": "PENGETAHUAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.310.1",
+      "nm_mk": "PRAKTIKUM KROMATOGRAFI",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.302.1",
+      "nm_mk": "PRAKTIKUM FARMASETIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.15.329.1",
+      "nm_mk": "PRAKTIKUM PARASITOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.308",
+      "nm_mk": "FORTEK. SEDIAAN OBAT PADAT",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.324",
+      "nm_mk": "ANALISIS KOSMETIK",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.311",
+      "nm_mk": "KIMIA ANALITIK III",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.331",
+      "nm_mk": "STABILITAS OBAT",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.327",
+      "nm_mk": "FARMAKOGNOSI IXXX",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.315",
+      "nm_mk": "ANALISIS HAYATI",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.305",
+      "nm_mk": "FITOKIMIA I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.322",
+      "nm_mk": "ANALISIS KOSMETIK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.307",
+      "nm_mk": "FARMASI FISIK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.14.322",
+      "nm_mk": "KIMIA ORGANIK FISIK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.514",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.328",
+      "nm_mk": "FILSAFAT ILMU",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.317.1",
+      "nm_mk": "PRAKTIKUM FORTEK SEDIAAN STERIL",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.313.1",
+      "nm_mk": "PRAKTIKUM FORTEK SEDIAAN CAIR &amp; SEMI PADAT",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.313",
+      "nm_mk": "FORTEK SEDIAAN CAIR & SEMI PADAT",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.401",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.407",
+      "nm_mk": "PATOFISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.317",
+      "nm_mk": "FORTEK SEDIAAN STERIL",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.314",
+      "nm_mk": "UU ETIKA KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.306.1",
+      "nm_mk": "PRAKTIKUM FITOKIMIA II",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.15.403",
+      "nm_mk": "KULTUR JARINGAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.112",
+      "nm_mk": "ENTERPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.306",
+      "nm_mk": "FITOKIMIA II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.309",
+      "nm_mk": "FARMAKOLOGI DAN TOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.402",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.319",
+      "nm_mk": "IMUNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.140",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.325",
+      "nm_mk": "KIMIA MEDISINAL",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.222",
+      "nm_mk": "BIOLOGI SEL & MOLEKULAR",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.331",
+      "nm_mk": "STABILITAS OBAT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.105",
+      "nm_mk": "MPK TERINTEGRASI I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.327",
+      "nm_mk": "RANCANGAN OBAT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "U.00.110",
+      "nm_mk": "ENTREPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.404",
+      "nm_mk": "SIDANG SKRIPSI",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.230",
+      "nm_mk": "FARMAKOLOGI DAN TOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.470",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.402",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G.20.250",
+      "nm_mk": "KIMIA ORGANIK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "INTAN WIDIASTUTI",
+    "jk": "P",
+    "nipd": "G20170060",
+    "namapt": "Universitas Mathla ul Anwar",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "33B0B828-6E1B-4F3A-A367-62BF1AF82AC4",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/REUwMjkxMzktOUI5Mi00RDRBLUI5Q0QtMTNBOTgxQzUxRDZF",
+    "link_prodi": "/data_prodi/QTdEMkZEM0YtODhFQi00MDI0LThCNTItOUU3MzAwRjc1QUQ5"
+  }
+}

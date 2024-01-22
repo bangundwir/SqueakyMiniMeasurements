@@ -1,0 +1,56 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PPG7403",
+      "nm_mk": "Praktik Pengalaman Lapangan (PPL)",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPG7304",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPG7501",
+      "nm_mk": "Pendalaman Materi Pedagogi dan Bidang Studi",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TANTRI RAHAYU",
+    "jk": "P",
+    "nipd": "22121298158",
+    "namapt": "Universitas Negeri Yogyakarta",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "F7AB4576-3847-49A7-A8B8-9EFB7ED281CF",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-06T00:00:00Z",
+    "no_seri_ijazah": "0010382302720320",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTA0QUFGRjgtNUY4MS00NzU2LUI5MTQtNzNEQ0ZFRDMzOTMy",
+    "link_prodi": "/data_prodi/MTIyOTY5OTUtQ0VCMS00NDI1LTlGNTgtNEQzMDEwNEU3MTE4"
+  }
+}

@@ -43,6 +43,13 @@
   ],
   "datastudi": [
     {
+      "kode_mk": "8A1063",
+      "nm_mk": "MATEMATIKA I",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "8A1012",
       "nm_mk": "AGAMA",
       "sks_mk": 2,
@@ -92,30 +99,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "8A1063",
-      "nm_mk": "MATEMATIKA I",
-      "sks_mk": 3,
-      "id_smt": "20021",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "8A2062",
-      "nm_mk": "ILMU LINGKUNGAN",
-      "sks_mk": 2,
-      "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "8A2033",
       "nm_mk": "METODE STATISTIKA",
       "sks_mk": 3,
-      "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "8A2074",
-      "nm_mk": "KIMIA DASAR II",
-      "sks_mk": 4,
       "id_smt": "20022",
       "nilai_huruf": null
     },
@@ -143,6 +129,20 @@
     {
       "kode_mk": "8A2022",
       "nm_mk": "KEWIRAAN",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8A2074",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 4,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8A2062",
+      "nm_mk": "ILMU LINGKUNGAN",
       "sks_mk": 2,
       "id_smt": "20022",
       "nilai_huruf": null
@@ -176,22 +176,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "8A3052",
-      "nm_mk": "MIKROBIOLOGI UMUM",
-      "sks_mk": 2,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "8A3013",
       "nm_mk": "KIMIA ANALITIK I",
-      "sks_mk": 3,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "8A3023",
-      "nm_mk": "KIMIA FISIKA I",
       "sks_mk": 3,
       "id_smt": "20031",
       "nilai_huruf": null
@@ -204,8 +190,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "8A3023",
+      "nm_mk": "KIMIA FISIKA I",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "8A3092",
       "nm_mk": "KIMIA AIR",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8A3052",
+      "nm_mk": "MIKROBIOLOGI UMUM",
       "sks_mk": 2,
       "id_smt": "20031",
       "nilai_huruf": null
@@ -218,29 +218,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "8A4043",
-      "nm_mk": "KIMIA ORGANIK 2",
-      "sks_mk": 3,
+      "kode_mk": "8A4062",
+      "nm_mk": "STATISTIKA UNTUK KIMIA",
+      "sks_mk": 2,
       "id_smt": "20032",
       "nilai_huruf": null
     },
     {
       "kode_mk": "8A4092",
       "nm_mk": "KIMIA BAHAN BERBAHAYA DAN BERACUN",
-      "sks_mk": 2,
-      "id_smt": "20032",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "8A4023",
-      "nm_mk": "KIMIA FISIKA II",
-      "sks_mk": 3,
-      "id_smt": "20032",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "8A4062",
-      "nm_mk": "STATISTIKA UNTUK KIMIA",
       "sks_mk": 2,
       "id_smt": "20032",
       "nilai_huruf": null
@@ -260,9 +246,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "8A4023",
+      "nm_mk": "KIMIA FISIKA II",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "8A6082",
       "nm_mk": "TEKNOLOGI KIMIA KELAPA SAWIT",
       "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8A4043",
+      "nm_mk": "KIMIA ORGANIK 2",
+      "sks_mk": 3,
       "id_smt": "20032",
       "nilai_huruf": null
     },
@@ -281,8 +281,29 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "8A5023",
+      "nm_mk": "KIMIA ANORGANIK 3",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "8A5014",
       "nm_mk": "BIOKIMIA I",
+      "sks_mk": 4,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8A5043",
+      "nm_mk": "KIMIA ORGANIK FISIK",
+      "sks_mk": 3,
+      "id_smt": "20041",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "8A1054",
+      "nm_mk": "KIMIA DASAR 1",
       "sks_mk": 4,
       "id_smt": "20041",
       "nilai_huruf": null
@@ -302,37 +323,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "8A5043",
-      "nm_mk": "KIMIA ORGANIK FISIK",
+      "kode_mk": "8A6113",
+      "nm_mk": "KINETIKA KIMIA",
       "sks_mk": 3,
-      "id_smt": "20041",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "8A1054",
-      "nm_mk": "KIMIA DASAR 1",
-      "sks_mk": 4,
-      "id_smt": "20041",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "8A5023",
-      "nm_mk": "KIMIA ANORGANIK 3",
-      "sks_mk": 3,
-      "id_smt": "20041",
+      "id_smt": "20042",
       "nilai_huruf": null
     },
     {
       "kode_mk": "8A6132",
       "nm_mk": "KIMIA PULP DAN KERTAS",
       "sks_mk": 2,
-      "id_smt": "20042",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "8A6113",
-      "nm_mk": "KINETIKA KIMIA",
-      "sks_mk": 3,
       "id_smt": "20042",
       "nilai_huruf": null
     },
@@ -386,15 +386,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "8A7113",
-      "nm_mk": "SINTESA KIMIA ORGANIK",
+      "kode_mk": "8A3013",
+      "nm_mk": "KIMIA ANALITIK I",
       "sks_mk": 3,
       "id_smt": "20051",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "8A3013",
-      "nm_mk": "KIMIA ANALITIK I",
+      "kode_mk": "8A7113",
+      "nm_mk": "SINTESA KIMIA ORGANIK",
       "sks_mk": 3,
       "id_smt": "20051",
       "nilai_huruf": null

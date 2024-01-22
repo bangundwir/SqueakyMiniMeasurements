@@ -1,0 +1,73 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20212",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "71102",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "71101",
+      "nm_mk": "STATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "71103",
+      "nm_mk": "MANAJEMEN  SUMBER DAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "71105",
+      "nm_mk": "TEORI ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AWAN YULIANTO",
+    "jk": "L",
+    "nipd": "21071000089",
+    "namapt": "Universitas Merdeka Malang",
+    "namajenjang": "S2",
+    "namaprodi": "Manajemen",
+    "reg_pd": "EC434F27-0114-47E8-A828-95724CB9D0A0",
+    "mulai_smt": "20212",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODRCMjU0NTUtNkVGQi00RjdDLUIxQjEtRTFEMUNBNEM2QUM4",
+    "link_prodi": "/data_prodi/OTQ0MDgwRTktMjVDNC00OUJDLTgyQ0UtNDJFQjM4MDQ1NTI4"
+  }
+}

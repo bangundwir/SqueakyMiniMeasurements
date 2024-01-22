@@ -1,0 +1,188 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TS64061",
+      "nm_mk": "EST.BIAYA KONSTR.& KONTROL",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS62021",
+      "nm_mk": "PERENCANAAN PENJADW & PENGEND PROYEK",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS63131",
+      "nm_mk": "TEKNIK KONSTRUKSI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS72031",
+      "nm_mk": "ASPEK HUKUM & ADMINISTRASI PRYEK",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS62011",
+      "nm_mk": "MANAJEMEN KONSTRUKSI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS72121",
+      "nm_mk": "TOPIK KHUSUS",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS61141",
+      "nm_mk": "METODOLOGI PENELITIN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS64011",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS63121",
+      "nm_mk": "METODE KONSTRUKSI DAN ALAT ALAT BERAT",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS61031",
+      "nm_mk": "MATEMATIKA TERAPAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS63051",
+      "nm_mk": "TEKNOLOGI BETON",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS63051",
+      "nm_mk": "TEKNOLOGI BETON",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS63121",
+      "nm_mk": "METODE KONSTRUKSI DAN ALAT ALAT BERAT",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS64011",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS61031",
+      "nm_mk": "MATEMATIKA TERAPAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS61141",
+      "nm_mk": "METODOLOGI PENELITIN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS74021",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS62021",
+      "nm_mk": "PERENCANAAN PENJADW & PENGEND PROYEK",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TS74021",
+      "nm_mk": "TESIS",
+      "sks_mk": 6,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TAUFAN NUGRAHA",
+    "jk": "L",
+    "nipd": "327131031         ",
+    "namapt": "Universitas Tarumanagara",
+    "namajenjang": "S2",
+    "namaprodi": "Teknik Sipil",
+    "reg_pd": "9FCD6488-819B-4207-AD63-311B5EC513C2",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-07-30T00:00:00Z",
+    "no_seri_ijazah": "0001/MTS-UNTAR/II/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/Q0U4NUIzQTYtNTIwNS00QjlCLTg1N0YtQThBNkQ3NzcwRDlE",
+    "link_prodi": "/data_prodi/OThEQ0QyMDItQzJEMC00RTk1LThERUItNTFBMjA3ODAwOUFB"
+  }
+}
