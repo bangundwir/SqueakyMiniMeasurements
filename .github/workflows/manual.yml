@@ -1,25 +1,27 @@
-name: Student Data Scraping
+name: Scraping
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
+    - uses: actions/checkout@v3
       with:
-        node-version: 20
+        fetch-depth: 0
 
-    - name: Install Dependencies
-      run: npm install
+    - name: Setup Bun
+      run: |
+        curl -fsSL https://bun.sh/install | bash
+        echo "$HOME/.bun/bin" >> $GITHUB_PATH
 
-    - name: Run Scraping Script
-      run: npm start  # Replace with the actual command to run your script
+    - name: Install dependencies
+      run: bun install
+
+    - name: Run script with Bun
+      run: bun run index.ts
