@@ -1,0 +1,538 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "AK.20.08",
+      "nm_mk": "Fisika Dasar untuk Analisis Kimia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.07",
+      "nm_mk": "Analisis Jenis",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.08.P",
+      "nm_mk": "Praktik Fisika Dasar untuk Analisis Kimia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.06",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.10",
+      "nm_mk": "Bahasa Indonesia dan Teknik Penulisan Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.07.P",
+      "nm_mk": "Praktik Analisis Jenis",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.09.P",
+      "nm_mk": "Praktikum Bahasa Inggris I",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.11.P",
+      "nm_mk": "Praktik Komputasi Data dan Statistika untuk Analisis Kimia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.05.P",
+      "nm_mk": "Praktikum Keselamatan dan Kesehatan Kerja dan Lingkungan (K3L)",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.04.P",
+      "nm_mk": "Praktikum Pengetahuan dan Penanganan Bahan Kimia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.02",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.02.P",
+      "nm_mk": "Praktik Kimia Dasar",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.01",
+      "nm_mk": "Matematika Terapan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.03.P",
+      "nm_mk": "Praktik Dasar Kerja Laboratorium",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.10.P",
+      "nm_mk": "PRAKTIKUM PANCASILA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.13.P",
+      "nm_mk": "PRAKTIKUM AGAMA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.12",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.17.P",
+      "nm_mk": "PRAKTIK ANALISIS ELEKTROKIMIA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.13",
+      "nm_mk": "AGAMA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.10",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.16",
+      "nm_mk": "ANALISIS TITRIMETRI",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.14.P",
+      "nm_mk": "PRAKTIK KIMIA FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.17",
+      "nm_mk": "ANALISIS ELEKTROKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.15",
+      "nm_mk": "KIMIA ORGANIK I",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.16.P",
+      "nm_mk": "PRAKTIK ANALISIS TITRIMETRI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.15.P",
+      "nm_mk": "PRAKTIK KIMIA ORGANIK I",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.12.P",
+      "nm_mk": "PRAKTIKUM BAHASA INDONESIA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.14",
+      "nm_mk": "KIMIA FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PAK.14.18.P",
+      "nm_mk": "PRAKTIKUM STATISTIKA TERAPAN UNTUK ANALISIS KIMIA",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.26.P",
+      "nm_mk": "PRAKTIK TEKNIK PEMISAHAN KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.27",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.23.P",
+      "nm_mk": "PRAKTIK ANALISIS MIKROBIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.21.P",
+      "nm_mk": "PRAKTIK ANALISIS GRAVIMETRI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.21",
+      "nm_mk": "ANALISIS GRAVIMETRI",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.24.P",
+      "nm_mk": "PRAKTIK ANALISIS SPEKTROFOTOMETRI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.24",
+      "nm_mk": "ANALISIS SPEKTROFOTOMETRI",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.28.P",
+      "nm_mk": "PRAKTIKUM DASAR TEKNOLOGI KIMIA",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.22.P",
+      "nm_mk": "PRAKTIK KIMIA ORGANIK II",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.22",
+      "nm_mk": "KIMIA ORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.28",
+      "nm_mk": "DASAR TEKNOLOGI KIMIA",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.25",
+      "nm_mk": "DASAR - DASAR INDUSTRI 4.0",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.29",
+      "nm_mk": "Analisis Kromatografi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.35.P",
+      "nm_mk": "Praktik Kimia Analisis Organik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.33",
+      "nm_mk": "Analisis Elektrokimia (+sensor sederhana)",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.35",
+      "nm_mk": "Kimia Analisis Organik",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.34",
+      "nm_mk": "Transformasi Industri 4.0 (manufacture process)",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.33.P",
+      "nm_mk": "Praktik Analisis Elektrokimia (+sensor sederhana)",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.24.P",
+      "nm_mk": "PRAKTIK ANALISIS SPEKTROFOTOMETRI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.30.P",
+      "nm_mk": "Praktik Analisis Kimia Pangan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.31.P",
+      "nm_mk": "Praktik Bahan dan Produk Industri Kimia",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.32.P",
+      "nm_mk": "Praktikum Bahasa Inggris II",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.34.P",
+      "nm_mk": "Praktik Transformasi Industri 4.0 (manufacture process)",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.29.P",
+      "nm_mk": "Praktik Analisis Kromatografi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.47.P",
+      "nm_mk": "Praktikum Kimia Lingkungan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.44",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.39.P",
+      "nm_mk": "Praktik Analisis Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.45.P",
+      "nm_mk": "Praktikum Manajemen Supervisi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.46.P",
+      "nm_mk": "Praktik Petrokimia",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.35.P",
+      "nm_mk": "Praktik Kimia Analisis Organik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.38.P",
+      "nm_mk": "Praktikum Kimia Organik Bahan Alam",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.36",
+      "nm_mk": "Kimia Polimer",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.37.P",
+      "nm_mk": "Praktikum Kewirausahaan dan E-Commerce",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.42.P",
+      "nm_mk": "Praktikum Jaminan Mutu Analisis",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.43.P",
+      "nm_mk": "Praktik Industri Kecil Kimia",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.40.P",
+      "nm_mk": "Praktik Validasi Metode Uji untuk Analisis Kimia",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.41",
+      "nm_mk": "Pengantar Biokimia",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.50.P",
+      "nm_mk": "Ujian Sidang Komprehensif",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.49.P",
+      "nm_mk": "Seminar",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AK.20.48.P",
+      "nm_mk": "PRAKTIK KERJA INDUSTRI",
+      "sks_mk": 15,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KIANDRA TABINA INDRADI",
+    "jk": "P",
+    "nipd": "2018638",
+    "namapt": "Politeknik AKA Bogor",
+    "namajenjang": "D3",
+    "namaprodi": "Analisis Kimia",
+    "reg_pd": "700B2A4E-9464-4127-82AE-222286E31770",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-09-19T00:00:00Z",
+    "no_seri_ijazah": "244022023001498",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDg1N0RFN0QtMDlFMi00ODlGLUFFREEtNjg3MkQxNENGQzVG",
+    "link_prodi": "/data_prodi/MENGQ0MyM0UtMTkyNy00QTRGLTkyNDItMkFFQTI2QzJCNDJB"
+  }
+}

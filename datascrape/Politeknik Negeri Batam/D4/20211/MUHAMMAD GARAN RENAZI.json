@@ -1,0 +1,295 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RE101",
+      "nm_mk": "PENGANTAR TEKNIK ROBOTIKA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE102",
+      "nm_mk": "PEMROGRAMAN PROSEDURAL",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE103",
+      "nm_mk": "PRINSIP TEKNIK LISTRIK DAN ELEKTRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE106",
+      "nm_mk": "KALKULUS TERAPAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE105",
+      "nm_mk": "LAB PERALATAN MESIN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE107",
+      "nm_mk": "KESEHATAN DAN KESELAMATAN KERJA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE104",
+      "nm_mk": "COMPUTER AIDED DESIGN AND DRAFTING",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE207",
+      "nm_mk": "DESIGN THINKING",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE201",
+      "nm_mk": "PROYEK RAPID PROTOTYPING",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE203",
+      "nm_mk": "AKTUATOR DAN SISTEM PENGGERAK",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE202",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE206",
+      "nm_mk": "SISTEM ELEKTRONIKA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE205",
+      "nm_mk": "MATEMATIKA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE204",
+      "nm_mk": "STATIKA DAN DINAMIKA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE305",
+      "nm_mk": "SISTEM KENDALI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK4RE",
+      "nm_mk": "PENDIDIKAN BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE303",
+      "nm_mk": "DESAIN DAN SIMULASI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE302",
+      "nm_mk": "PENGANTAR ROBOTIKA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE306",
+      "nm_mk": "MANAJEMEN PROYEK TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE304",
+      "nm_mk": "COMPUTER AIDED MANUFACTURING",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE301",
+      "nm_mk": "DESAIN DAN FABRIKASI ROBOTIKA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE404",
+      "nm_mk": "SENSOR DAN AKUISISI DATA",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE405",
+      "nm_mk": "CLOUD ROBOTICS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE407",
+      "nm_mk": "PENULISAN TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE401",
+      "nm_mk": "PROYEK INOVASI AGILE",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE402",
+      "nm_mk": "ROBOT OPERATING SYSTEM",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE403",
+      "nm_mk": "PROGRAMMABLE LOGIC CONTROLLERS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE406",
+      "nm_mk": "BAHASA INGGRIS: KOMUNIKASI TERTULIS",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK2RE",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE505",
+      "nm_mk": "PRINSIP REKAYASA KUALITAS",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE504",
+      "nm_mk": "BAHASA INGGRIS: PRESENTASI",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE502",
+      "nm_mk": "DATA FLOW PROGRAMMING",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE501",
+      "nm_mk": "APLIKASI ROBOTIKA",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE506",
+      "nm_mk": "MATA KULIAH PILIHAN 1 (APLIKASI WEBSITE)",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RE503",
+      "nm_mk": "ROBOT MANIPULATOR",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUHAMMAD GARAN RENAZI",
+    "jk": "L",
+    "nipd": "4222101003",
+    "namapt": "Politeknik Negeri Batam",
+    "namajenjang": "D4",
+    "namaprodi": "Teknik Robotika",
+    "reg_pd": "DBC445B8-240D-4B2E-A609-EE16F303BE4B",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OENBNTJGRjYtQTI5Qi00RTM1LUI5N0QtNTY5RDU1RDExNEU2",
+    "link_prodi": "/data_prodi/NDU5NDM1OTMtOTIzMy00NEUyLTg5RTgtRDk0MzVBQTRCQzc0"
+  }
+}

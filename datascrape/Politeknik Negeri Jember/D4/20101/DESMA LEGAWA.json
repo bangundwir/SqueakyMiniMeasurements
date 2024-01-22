@@ -1,0 +1,511 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RMD1405",
+      "nm_mk": "BIOMEDIK ANATOMI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1411",
+      "nm_mk": "PEMROGRAMAN DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1401",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1406",
+      "nm_mk": "TERMINOLOGI MEDIS 1",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1403",
+      "nm_mk": "ILMU KEALAMAN DASAR",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1410",
+      "nm_mk": "LOGIKA DAN ALGORITMA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1404",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1409",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1408",
+      "nm_mk": "Pengantar Manajemen Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1402",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD1407",
+      "nm_mk": "Administrasi Kesehatan Masyarakat",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2407",
+      "nm_mk": "GENERAL CODING",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2410",
+      "nm_mk": "PSIKOLOGI SOSIAL",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2402",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2401",
+      "nm_mk": "ILMU SOSIAL DAN BUDAYA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2403",
+      "nm_mk": "BIOMEDIK FISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2406",
+      "nm_mk": "COMPREHENSION MR 1",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2408",
+      "nm_mk": "MODEL DAN SISTEM INFORMASI (SIK)",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2404",
+      "nm_mk": "BIOMEDIK PATOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2405",
+      "nm_mk": "BIOSTATISTIKA DESKRIPTIF",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2411",
+      "nm_mk": "TERMINOLOGI MEDIS 2",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD2409",
+      "nm_mk": "PENGELOLAAN SISTEM REKAM MEDIK 1",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3401",
+      "nm_mk": "PENGELOLAAN SISTEM REKAM MEDIS 2",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3405",
+      "nm_mk": "SOSIOLOGI SOSIAL",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3410",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3406",
+      "nm_mk": "Comprehension MR 2",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3409",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3403",
+      "nm_mk": "ANALISIS DATA PELAYANAN KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3404",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBYEK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3402",
+      "nm_mk": "PRAKTEK KLINIK REKAM MEDIS 1",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3407",
+      "nm_mk": "SISTEM BASIS DATA 1",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD3408",
+      "nm_mk": "MORDIBITAS CODING",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4407",
+      "nm_mk": "Pemrograman Berbasis Web",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4409",
+      "nm_mk": "Mortalitas &Tindakan Coding",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4402",
+      "nm_mk": "Biomedik Farmakologi",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4404",
+      "nm_mk": "Manajemen Kearsipan & Desain Form",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4406",
+      "nm_mk": "Sistem Informasi Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4410",
+      "nm_mk": "Praktek Klinik Rekam Medis 2",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4403",
+      "nm_mk": "Sistem Basis Data 2",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4401",
+      "nm_mk": "Pengelolaan Sistem Rekam Medis 3",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4408",
+      "nm_mk": "Comprehension MR 3",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD4405",
+      "nm_mk": "Electronic Health Record 1 /EHR1",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5407",
+      "nm_mk": "PUBLIC RELATION/CUSTOMER SERVICE",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5401",
+      "nm_mk": "PRAKTEK KLINIK REKAM MEDIS 3",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5402",
+      "nm_mk": "KONSEP JARINGAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5405",
+      "nm_mk": "EPIDEMIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5410",
+      "nm_mk": "SISTEM INFORMASI GEOGRAFIS",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5408",
+      "nm_mk": "ANALISIS DATA MEDIS INFERENSIAL",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5406",
+      "nm_mk": "MANAJEMEN UKRM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5409",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5509",
+      "nm_mk": "SISTEM PEMBIAYAAN YANKES",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD5403",
+      "nm_mk": "HUKUM KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6410",
+      "nm_mk": "Proposal Tugas Akhir",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6407",
+      "nm_mk": "EVALUASI SISTEM PELAYANAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6404",
+      "nm_mk": "Etik dan Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6403",
+      "nm_mk": "Analisis dan Perancangan Sist. Inf. Kes",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6406",
+      "nm_mk": "Risk Manajemen (Audit Koding)",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6405",
+      "nm_mk": "ELECTRONIC HEALTH RECORD 2 /EHR 2",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6402",
+      "nm_mk": "Pendidikan Kesehatan Masyarakat",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6409",
+      "nm_mk": "Manajemen Mutu Pelayanan",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6401",
+      "nm_mk": "Sistem Pembiayaan Berbasis Diagnosis",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD6408",
+      "nm_mk": "Basis Data 3 (Terdistribusi)",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMD8401",
+      "nm_mk": "Kerja Industri ( Magang )",
+      "sks_mk": 8,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DESMA LEGAWA",
+    "jk": "L",
+    "nipd": "E4110183          ",
+    "namapt": "Politeknik Negeri Jember",
+    "namajenjang": "D4",
+    "namaprodi": "Rekam Medik",
+    "reg_pd": "5264FCD1-E6CA-4513-8B79-B6868EB77B6E",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-07-02T00:00:00Z",
+    "no_seri_ijazah": "6522/0137/2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzhEREJBRTgtM0ExMS00MTU2LTlGREItOUY1N0Q0MEJCNEMw",
+    "link_prodi": "/data_prodi/NUJDMUUyNzMtRkFGQS00RUY2LTkyOUMtNTJFNzc4Qjk3MTA5"
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PPLB6045-86202-2018",
+      "nm_mk": "Anatomi Fisiologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FFIP603-86202-2018",
+      "nm_mk": "Sosio dan Antropologi Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6006-86202-2018",
+      "nm_mk": "Bahasa Inggris Profesi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FFIP6002-86202-2018",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6011-86202-2018",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6001-86202-2018",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6613-86202-2018",
+      "nm_mk": "Ortodidaktik",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6004-86202-2018",
+      "nm_mk": "Ortopedagogik",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6018-86202-2018",
+      "nm_mk": "Pendidikan Anak Dengan Hambatan Penglihatan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6007-86205-2018",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6019-86202-2018",
+      "nm_mk": "Assesmen ABK",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FFIP6001-86202-2018",
+      "nm_mk": "Filsafat dan Teori Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6620-86202-2018",
+      "nm_mk": "Pengembangan Kurikulum ABK",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6654-86202-2018",
+      "nm_mk": "Pendidikan Anak Dengan Hambatan Fisik dan Motorik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6003-86202-2018",
+      "nm_mk": "Pendidikan Jasmani Adaptif",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6001-86202-2018",
+      "nm_mk": "Psikologi ABK",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6012-86201-2018",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6649-2018",
+      "nm_mk": "Pendidikan anak dengan hambatan intelektual",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6648-2018",
+      "nm_mk": "Pendidikan Anak Dengan Hambatan Pendengaran",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6008-2018",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6010-2018",
+      "nm_mk": "Braille",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6012-2018",
+      "nm_mk": "Bina Gerak",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6024-2018",
+      "nm_mk": "Media Pembelajaran ABK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6655-2018",
+      "nm_mk": "Magang 1",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6007-2018",
+      "nm_mk": "Pendidikan Inklusif",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6644-2018",
+      "nm_mk": "Massage",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6021-2018",
+      "nm_mk": "Manajemen Pendidikan Khusus",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6617-2018",
+      "nm_mk": "Strategi Pembelajaran ABK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6022-2018",
+      "nm_mk": "Bimbingan Konseling ABK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6026-2018",
+      "nm_mk": "Evaluasi Pembelajaran ABK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6037-2018",
+      "nm_mk": "Pembelajaran Seni ABK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6013-2018",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6009-13201-2018",
+      "nm_mk": "Pendidikan Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6032-2018",
+      "nm_mk": "Statistik Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6034-2018",
+      "nm_mk": "Pembelajaran IPA ABK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6009-2018",
+      "nm_mk": "Speech Therapy",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6014-2018",
+      "nm_mk": "Perspektif Pendidikan Anak Autis",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6626-86202-2018",
+      "nm_mk": "Pembelajaran Bahasa ABK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6036-86202-2018",
+      "nm_mk": "Pembelajaran Matematika ABK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6634-86202-2018",
+      "nm_mk": "Pendidikan Anak Berbakat",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6025-86202-2018",
+      "nm_mk": "Pengembangan Bahan Ajar ABK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPLP6090-86202-2018",
+      "nm_mk": "Pengenalan Lapangan Persekolahan (PLP)",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6609-86202-2018",
+      "nm_mk": "Neuroscience",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKKNUM6090-2018",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6008-86202-2018",
+      "nm_mk": "Perspektif Pendidikan Anak Berkesulitan Belajar",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6023-86202-2018",
+      "nm_mk": "Komputer Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6607-86202-2018",
+      "nm_mk": "Gizi dan Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6640-86202-2018",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6002-86202-2018",
+      "nm_mk": "Tes Psikologi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6661-86202-2018",
+      "nm_mk": "Komunikasi Augmentatif",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6035-86202-2018",
+      "nm_mk": "Pembelajaran IPS ABK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB651-86202-2018",
+      "nm_mk": "Bina Gerak",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6043-86202-2018",
+      "nm_mk": "Perspektif Pendidikan Anak Tuna Ganda",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6040-86202-2018",
+      "nm_mk": "Teknologi Asistif",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6029-86202-2018",
+      "nm_mk": "Pembelajaran Mikro",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6028-86202-2018",
+      "nm_mk": "Penelitian Pendidikan khusus",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLBUM6041-2020",
+      "nm_mk": "Seminar PLB/PKH",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLBUM6047-2020",
+      "nm_mk": "Analisis Pengubahan Tingkah laku",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLBUM6011-2020",
+      "nm_mk": "Orientasi dan Mobilitas",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLBUM6031-2020",
+      "nm_mk": "Pembelajaran Kecakapan Hidup / Magang 2",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLB6100-86202-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TANIA IZZATUNNISA",
+    "jk": "P",
+    "nipd": "190154603218",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Luar Biasa",
+    "reg_pd": "72314A3B-7D0E-4D63-8B8F-122278AF99C4",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-04-14T00:00:00Z",
+    "no_seri_ijazah": "862022023000194",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/OENFMTg5QTItNzREMS00QkEzLUIxRDQtRDkyRDgzOTlGMUI0"
+  }
+}

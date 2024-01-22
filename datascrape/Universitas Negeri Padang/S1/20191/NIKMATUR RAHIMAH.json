@@ -1,0 +1,434 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FMA1.60.1304",
+      "nm_mk": "Kimia Umum",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FMA1.60.1302",
+      "nm_mk": "Kalkulus",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP2.60.2402",
+      "nm_mk": "Manajemen Bencana",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FMA1.60.1301",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.2104",
+      "nm_mk": "Bahasa Inggris Untuk Kimia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.2105",
+      "nm_mk": "Matematika Kimia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FMA1.60.2104",
+      "nm_mk": "Fisika Umum",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.2102",
+      "nm_mk": "Administrasi Dan Supervisi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1405",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1404",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.1201",
+      "nm_mk": "Dasar-dasar Ilmu Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.2103",
+      "nm_mk": "Kimia dasar",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.3201",
+      "nm_mk": "Kimia Sekolah 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.3104",
+      "nm_mk": "Struktur Senyawa Anorganik",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.3101",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.3103",
+      "nm_mk": "Kimia Analisis 1",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.3102",
+      "nm_mk": "Kimia Organik 1",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.5102",
+      "nm_mk": "Media Pembelajaran dan IT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.3101",
+      "nm_mk": "Kimia Fisika 1",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.4101",
+      "nm_mk": "Evaluasi pembelajaran Kimia",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.4103",
+      "nm_mk": "Kima Organik 2",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.4102",
+      "nm_mk": "Kimia Fisika 2",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.4201",
+      "nm_mk": "Bimbingan Dan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.4105",
+      "nm_mk": "Dasar-daasar Reaksi Anorganik",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.4201",
+      "nm_mk": "Kimia Sekolah 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.5103",
+      "nm_mk": "Kimia Fisika 3",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.5101",
+      "nm_mk": "Strategi Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1402",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.5105",
+      "nm_mk": "Kimia Unsur",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.3202",
+      "nm_mk": "Perencanaan Pembelajaran Kimia",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.5104",
+      "nm_mk": "Kimia Organik III",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.5106",
+      "nm_mk": "Biokimia Dasar",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1403",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.5201",
+      "nm_mk": "Kimia Sekolah 3",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.6201",
+      "nm_mk": "Micro teaching",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.6202",
+      "nm_mk": "Keterampilan Pengelolalaan Laboratorium Kimia Sekolah",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.5401",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.6304",
+      "nm_mk": "Biokimia Metabolisme",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2.61.6304",
+      "nm_mk": "Kimia   Bahan Alam",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2.61.1102",
+      "nm_mk": "aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.6101",
+      "nm_mk": "Metodologi Penelitian Kependidikan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.6102",
+      "nm_mk": "Seminar Kimia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.6302",
+      "nm_mk": "Statistika Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2.61.6303",
+      "nm_mk": "Multirepresentasi kimia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.6303",
+      "nm_mk": "Analisa Spektrometri",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.6401",
+      "nm_mk": "Program Pengalaman Lapangan 2 (PPL 2)",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.7301",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.7401",
+      "nm_mk": "Proglam Pengalaman Lapangan 3 (PPL 3)",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.7302",
+      "nm_mk": "Kimia Terapan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.61.5101",
+      "nm_mk": "Program Pengalaman Lapangan 1 (PPL1)",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.7301",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.61.7301",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NIKMATUR RAHIMAH",
+    "jk": "P",
+    "nipd": "19035159",
+    "namapt": "Universitas Negeri Padang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Kimia",
+    "reg_pd": "F35FFDBB-3327-4FBC-B99E-92CECD1A0995",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTc4NEI5MjctMzQ3QS00MjVELThEQ0YtN0NFOEZENEUwMDAy",
+    "link_prodi": "/data_prodi/NUExMEY0RjItM0M2NC00NjI3LTlDMkItM0FENjNFOTk4MzRF"
+  }
+}

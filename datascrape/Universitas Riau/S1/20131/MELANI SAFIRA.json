@@ -1,0 +1,504 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UXN1005",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC9210",
+      "nm_mk": "PRAKTIKUM KIMIA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC9212",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9035",
+      "nm_mk": "DASAR-DASAR PENDIDIKAN MIPA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC9211",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ING101",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC9209",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UXN1001",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPA7102",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9201",
+      "nm_mk": "ILMU PENGETAHUAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPC9208",
+      "nm_mk": "MATEMATIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9043",
+      "nm_mk": "DASAR-DASAR KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPA7101",
+      "nm_mk": "BELAJAR DAN PEMBELAJARAN",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9006",
+      "nm_mk": "PRAKTKIMIA ANALITIK I",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9003",
+      "nm_mk": "KIMIA ORGANIK I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9036",
+      "nm_mk": "STRATEGI PEMBELAJARAN KIMIA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9002",
+      "nm_mk": "KIMIA FISIKA I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9005",
+      "nm_mk": "KIMIA ANALITIK I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM9004",
+      "nm_mk": "KIMIA ANORGANIK I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9010",
+      "nm_mk": "Kimia Analitik II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9037",
+      "nm_mk": "Telaah Kurikulum Kimia",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9007",
+      "nm_mk": "Kimia Fisik II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9009",
+      "nm_mk": "Kimia Anorganik II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9039",
+      "nm_mk": "Pengembangan Program Pengajaran Kimia",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9020",
+      "nm_mk": "Statistik Kimia",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9012",
+      "nm_mk": "Prakt. Kimia Organik I",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9008",
+      "nm_mk": "Kimia Organik II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPA 7204",
+      "nm_mk": "Profesi Kependidikam",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9051",
+      "nm_mk": "Penelitian Tindakan Kelas",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9025",
+      "nm_mk": "Penelitian Pengajaran Kimia",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9031",
+      "nm_mk": "Radiokimia",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9019",
+      "nm_mk": "Prakt. Kimia Anorganik",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9013",
+      "nm_mk": "Kapita Selekta Kimia I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9011",
+      "nm_mk": "Prakt. Kimia Analitik II",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9019",
+      "nm_mk": "Prakt. Kimia Anorganik",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9017",
+      "nm_mk": "Ikatan Kimia",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9022",
+      "nm_mk": "Biokimia I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9053",
+      "nm_mk": "Teknik Laboratorium",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9015",
+      "nm_mk": "Kimia Organik III",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9053",
+      "nm_mk": "Teknik Laboratorium",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9015",
+      "nm_mk": "Kimia Organik III",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9013",
+      "nm_mk": "Kapita Selekta Kimia I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9022",
+      "nm_mk": "Biokimia I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9011",
+      "nm_mk": "Prakt. Kimia Analitik II",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9017",
+      "nm_mk": "Ikatan Kimia",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9018",
+      "nm_mk": "Prakt. Kimia Organik II",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9031",
+      "nm_mk": "Radiokimia",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9051",
+      "nm_mk": "Penelitian Tindakan Kelas",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9025",
+      "nm_mk": "Penelitian Pengajaran Kimia",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9018",
+      "nm_mk": "Prakt. Kimia Organik II",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9023",
+      "nm_mk": "Biokimia II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9040",
+      "nm_mk": "Program Pengalaman Lapangan I",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9021",
+      "nm_mk": "Kapita Selekta Kimia II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9026",
+      "nm_mk": "Prakt. Biokimia",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9032",
+      "nm_mk": "Analisa Instrumen",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9033",
+      "nm_mk": "Prakt. Analisa Instrumen",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9027",
+      "nm_mk": "Prakt. Kimia Fisik",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9014",
+      "nm_mk": "Kimia Fisik III",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9052",
+      "nm_mk": "Penentuan Struktur Senyawa",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9041",
+      "nm_mk": "Program Pengalaman Lapangan II",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9030",
+      "nm_mk": "Seminar Hasil Penelitian",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM 9057",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MELANI SAFIRA",
+    "jk": "P",
+    "nipd": "1305113550",
+    "namapt": "Universitas Riau",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Kimia",
+    "reg_pd": "6C649227-9A9B-4469-BF15-09E8BC46BE8E",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-01-31T00:00:00Z",
+    "no_seri_ijazah": "0480/05/S1/2018",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTUxOEY0OUQtQzk4RS00OUIwLUEzOTQtRTc1NzUzQjAzQzkz",
+    "link_prodi": "/data_prodi/MjY2MTY4QzEtMTJCOS00Nzk5LUE2NTEtNzRDNDYyQkUyMTAx"
+  }
+}

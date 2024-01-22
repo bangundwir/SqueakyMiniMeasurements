@@ -1,0 +1,12 @@
+entrypoint = "index.ts"
+modules = ["bun-1.0:v1-20230911-f253fb1", "python-3.10:v25-20230920-d4ad2e4"]
+
+hidden = [".config", "bun.lockb"]
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+build = ["sh", "-c", "mkdir .build && bun build index.ts > .build/index.js"]
+run = ["bun", ".build/index.js"]
+deploymentTarget = "cloudrun"

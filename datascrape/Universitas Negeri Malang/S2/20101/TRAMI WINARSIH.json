@@ -1,0 +1,198 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKU500-84104-10",
+      "nm_mk": "Metodologi Penelitian Kuantitatif",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD510-84104-10",
+      "nm_mk": "Landasan Pendidikan",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA522-84104-10",
+      "nm_mk": "Kurikulum Pendidikan Kimia",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA501-84104-10",
+      "nm_mk": "Ikatan Kimia",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA504-84104-10",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA521-84104-10",
+      "nm_mk": "Filsafat Sains",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA507-84104-10",
+      "nm_mk": "Penentuan Struktur",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA540-84104-10",
+      "nm_mk": "Praktikum Kimia",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA506-84104-10",
+      "nm_mk": "Biokimia",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES591-84104-10",
+      "nm_mk": "Seminar Usulan Tesis",
+      "sks_mk": 0,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA524-84104-10",
+      "nm_mk": "Penelitian dan Pengembangan Pendidikan Kimia",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD512-84104-10",
+      "nm_mk": "Problematik Pendidikan Bidang Studi",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES591-84104-10",
+      "nm_mk": "Seminar Usulan Tesis",
+      "sks_mk": 0,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPL580-84104-10",
+      "nm_mk": "Praktek Pengalaman Lapangan",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES590-84104-10",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES590-84104-08",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES590-84104-10",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES590-84104-12",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES590-84104-12",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "TRAMI WINARSIH",
+    "jk": "P",
+    "nipd": "100331507355      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S2",
+    "namaprodi": "Pendidikan Kimia",
+    "reg_pd": "8063DD22-5A61-442F-BA63-2F5A35FD0497",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-01-15T00:00:00Z",
+    "no_seri_ijazah": "05439/UN32/6/S2/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/NzYzNEYxMDQtQzY4My00OUU5LTlGQjUtQTE0MENCNEQ1OUY3"
+  }
+}

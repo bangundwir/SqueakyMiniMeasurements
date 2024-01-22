@@ -1,0 +1,534 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20213",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FMIA6001-45201-2018",
+      "nm_mk": "Dasar-Dasar Sains",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6151-45201-2018",
+      "nm_mk": "Kalkulus I untuk Fisika",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6131-45201-2018",
+      "nm_mk": "Praktikum Fisika Dasar I",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6201-45201-2018",
+      "nm_mk": "Biologi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6007-45201-2018",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6301-45201-2018",
+      "nm_mk": "Bahasa Inggris untuk Fisika",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6302-45201-2018",
+      "nm_mk": "Dasar-dasar Instrumentasi Fisika",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6101-45201-2018",
+      "nm_mk": "Fisika Dasar I",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6102-45201-2018",
+      "nm_mk": "Fisika Dasar II",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6132-45201-2018",
+      "nm_mk": "Praktikum Fisika Dasar II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6008-45201-2018",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6153-45201-2018",
+      "nm_mk": "Elektronika I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6133-45201-2018",
+      "nm_mk": "Praktikum Elektronika I",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6103-45201-2018",
+      "nm_mk": "Fisika Dasar III",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6001-45201-2018",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6152-45201-2018",
+      "nm_mk": "Kalkulus II untuk Fisika",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6155-45201-2018",
+      "nm_mk": "Fisika Matematika I",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6135-45201-2018",
+      "nm_mk": "Praktikum Elektromagnetika",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6157-45201-2018",
+      "nm_mk": "Fisika Komputasi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6105-45201-2018",
+      "nm_mk": "Getaran dan Gelombang",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6136-45201-2018",
+      "nm_mk": "Praktikum Fisika Komputasi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6202-45201-2018",
+      "nm_mk": "Kimia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6134-45201-2018",
+      "nm_mk": "Praktikum Elektronika II",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6154-45201-2018",
+      "nm_mk": "Elektronika II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6009-45201-2018",
+      "nm_mk": "Pendidikan Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6104-45201-2018",
+      "nm_mk": "Mekanika",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6107-45201-2018",
+      "nm_mk": "Termodinamika",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6106-45201-2018",
+      "nm_mk": "Mekanika Fluida",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6108-45201-2018",
+      "nm_mk": "Fisika Modern",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6156-45201-2018",
+      "nm_mk": "Fisika Matematika II",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6303-45201-2018",
+      "nm_mk": "Instrumentasi Fisika",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6137-45201-2018",
+      "nm_mk": "Praktikum Cloud Computing untuk Fisika Komputasi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6138-45201-2018",
+      "nm_mk": "Praktikum Fisika Modern",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6158-45201-2018",
+      "nm_mk": "Fisika Komputasi Awan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6139-45201-2018",
+      "nm_mk": "Praktikum Instrumentasi Fisika",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6104-45201-2018",
+      "nm_mk": "Mekanika",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6108-45201-2018",
+      "nm_mk": "Fisika Modern",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6111-2018",
+      "nm_mk": "Fisika Statistik",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6109-2018",
+      "nm_mk": "Elektromagnetika",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6112-2018",
+      "nm_mk": "Fisika Kuantum",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6140-2018",
+      "nm_mk": "Praktikum Gelombang dan Optik",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6010-47201-2018",
+      "nm_mk": "Manajemen Inovasi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6159-2018",
+      "nm_mk": "Metode Penelitian Fisika",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6110-2018",
+      "nm_mk": "Optika",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6306-2018",
+      "nm_mk": "Fisika Bumi dan Antariksa",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6141-2018",
+      "nm_mk": "Fisika Eksperimen",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6304-2018",
+      "nm_mk": "Fisika Material",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6305-2018",
+      "nm_mk": "Elektrodinamika",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6113-2018",
+      "nm_mk": "Fisika Inti",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6114-2018",
+      "nm_mk": "Fisika Zat Padat",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKKN6090-45201-2018",
+      "nm_mk": "Kuliah Kerja  Nyata",
+      "sks_mk": 4,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6903-45201-2018",
+      "nm_mk": "Geofisika",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPKL6090-45201-2018",
+      "nm_mk": "Praktik Kerja Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6604-45201-2018",
+      "nm_mk": "Sintesis dan Fabrikasi Bahan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6601-45201-2018",
+      "nm_mk": "Kristalografi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6307-45201-2018",
+      "nm_mk": "Seminar Fisika",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6605-45201-2018",
+      "nm_mk": "Nanomaterial",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6100-45201-2018",
+      "nm_mk": "Skripsi Fisika",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6100-45201-2018",
+      "nm_mk": "Skripsi Fisika",
+      "sks_mk": 6,
+      "id_smt": "20213",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6100-45201-2018",
+      "nm_mk": "Skripsi Fisika",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6100-45201-2018",
+      "nm_mk": "Skripsi Fisika",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS6100-45201-2018",
+      "nm_mk": "Skripsi Fisika",
+      "sks_mk": 6,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MELANI FITRI ANGGRAENI",
+    "jk": "P",
+    "nipd": "180322615007",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Fisika",
+    "reg_pd": "562BBDA5-951D-4624-BC7B-B51D3C612BFB",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QzBEOEE0QzMtOUI4RS00MzMwLTg2QUMtMDM4REY0NEM4N0VG"
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FMA1.60.1101",
+      "nm_mk": "Dasar-dasar Sains",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.1002",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FMA1.60.1304",
+      "nm_mk": "Kimia Umum",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1101",
+      "nm_mk": "Pengantar Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1102",
+      "nm_mk": "Pengantar Coding",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1401",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.1001",
+      "nm_mk": "Pengelolaan dan keselamatan kerja laboratorium",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1402",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.1004",
+      "nm_mk": "Kalkulus",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.2002",
+      "nm_mk": "Statistika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.2006",
+      "nm_mk": "Fisika Umum",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.2403",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.2004",
+      "nm_mk": "kimia dasar",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.2001",
+      "nm_mk": "Matematika Kimia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.2404",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.62.2001",
+      "nm_mk": "Pengantar Psikologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.2005",
+      "nm_mk": "Bahasa inggris untuk kimia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.2405",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.3001",
+      "nm_mk": "Kimia organik 1",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.3005",
+      "nm_mk": "Biokimia Dasar",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP2.60.3102",
+      "nm_mk": "Bahasa Jepang",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.3004",
+      "nm_mk": "Struktur Senyawa Anorganik",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.3002",
+      "nm_mk": "Kimia Fisika 1",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.3003",
+      "nm_mk": "Kimia analitik 1",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.4002",
+      "nm_mk": "Kimia Analitik 2",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.4003",
+      "nm_mk": "Kimia Fisika 2",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.4005",
+      "nm_mk": "Kimia industri",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2.62.5010",
+      "nm_mk": "Aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.4001",
+      "nm_mk": "Kimia Organik 2",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.4004",
+      "nm_mk": "Dasar Reaksi Anorganik",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.4006",
+      "nm_mk": "Biokimia Metabolisme",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.5004",
+      "nm_mk": "Kimia Unsur",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.5008",
+      "nm_mk": "Analisis Intrumen 1",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.5010",
+      "nm_mk": "Kunjungan Industri",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2.62.6024",
+      "nm_mk": "Kapita Selekta Kimia Organik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.5003",
+      "nm_mk": "Kimia Organik 3",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.5007",
+      "nm_mk": "Biokimia Molekuler",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.5001",
+      "nm_mk": "Kimia Fisika 3",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.5009",
+      "nm_mk": "Metodologi Penelitian Kimia",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2.62.6027",
+      "nm_mk": "Kimia Bahan Alam",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2.62.7018",
+      "nm_mk": "Kimia Polimer Organik",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.6011",
+      "nm_mk": "Analisis Instrumen 2",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.6009",
+      "nm_mk": "Seminar Literatur Kimia",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.3004",
+      "nm_mk": "Struktur Senyawa Anorganik",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.6003",
+      "nm_mk": "Kimia Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.5401",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2.62.7022",
+      "nm_mk": "Analisa Terapan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.7012",
+      "nm_mk": "Analisis Struktur Molekul",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.6008",
+      "nm_mk": "Kimia Terapan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.6004",
+      "nm_mk": "Praktek Industri",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.7013",
+      "nm_mk": "Kimia Organik Fisika",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.7014",
+      "nm_mk": "Kimia Inti dan Radiokimia",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.7010",
+      "nm_mk": "Tugas Akhir 1",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.7008",
+      "nm_mk": "Elektrokimia",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.8005",
+      "nm_mk": "Tugas Akhir 2",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM1.62.7009",
+      "nm_mk": "Kimia Komputasi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ANES VANESA",
+    "jk": "P",
+    "nipd": "20036083",
+    "namapt": "Universitas Negeri Padang",
+    "namajenjang": "S1",
+    "namaprodi": "Kimia",
+    "reg_pd": "749517C0-7185-4C2C-92D1-BCAEF82DAB61",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTc4NEI5MjctMzQ3QS00MjVELThEQ0YtN0NFOEZENEUwMDAy",
+    "link_prodi": "/data_prodi/Q0UxMTFDMzgtRDg3RS00ODlDLTg3MUUtQUJDRjU5OTE3MTQz"
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Lulus"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SJP122 ",
+      "nm_mk": "PENGANTAR LINGUISTIK UMUM ",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB109",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP103 ",
+      "nm_mk": "NIHONGO KISO I ",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU151",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB107",
+      "nm_mk": "SEJARAH KEBUDAYAAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP107",
+      "nm_mk": "KAIWA I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP111",
+      "nm_mk": "HYOUKI I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP120 ",
+      "nm_mk": "CHOKAI I ",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB102 ",
+      "nm_mk": "MANUSIA DAN KEBUDAYAAN INDONESIA ",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU141 ",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM ",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB104",
+      "nm_mk": "DASAR-DASAR ILMU BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP108 ",
+      "nm_mk": "KAIWA II ",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKU102",
+      "nm_mk": "ILMU ALAMIAH DASAR",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB106",
+      "nm_mk": "MASYARAKAT DAN KESENIAN INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP123",
+      "nm_mk": "PENGANTAR KESUSASTERAAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP205",
+      "nm_mk": "NIHONGO KISO II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP135",
+      "nm_mk": "ON IN RON ( FONOLOGI )",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP220",
+      "nm_mk": "CHOKAI II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB208",
+      "nm_mk": "DASAR-DASAR STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB101",
+      "nm_mk": "DASAR-DASAR FILSAFAT",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP112",
+      "nm_mk": "HYOKI II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP236 ",
+      "nm_mk": "KEITARON ",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP209 ",
+      "nm_mk": "KAIWA III ",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB203 ",
+      "nm_mk": "SEJARAH PEMIKIRAN MODERN ",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP121 ",
+      "nm_mk": "CHOKAI III ",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP217 ",
+      "nm_mk": "SAKUBUN I ",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP 227",
+      "nm_mk": "TEORI SASTRA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP228a ",
+      "nm_mk": "NIHONJIJO ",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB211 ",
+      "nm_mk": "PENGANTAR JURNALISTIK ",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP205",
+      "nm_mk": "NIHONGO KISO II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP101 ",
+      "nm_mk": "BAHASA INGGRIS I ",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP102",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP230",
+      "nm_mk": "TERJEMAHAN I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP235",
+      "nm_mk": "SINTAKSIS",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP210 ",
+      "nm_mk": "KAIWA IV ",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP226",
+      "nm_mk": "NIHONGO KISO IV",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP222",
+      "nm_mk": "CHOKAI IV",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP218 ",
+      "nm_mk": "SAKUBUN II ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP 341 ",
+      "nm_mk": "KAJIAN DRAMA ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP229",
+      "nm_mk": "KAJIAN PROSA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP338 ",
+      "nm_mk": "IMIRON ",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP237 ",
+      "nm_mk": "GOI ",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP238",
+      "nm_mk": "KAJIAN PUISI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP327 ",
+      "nm_mk": "CHUKYU SAKUBUN I ",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIB205",
+      "nm_mk": "KEBUDAYAAN MINANGKABAU",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP231 ",
+      "nm_mk": "TERJEMAHAN II ",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP323 ",
+      "nm_mk": "CHUKYU KAIWA I ",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP302",
+      "nm_mk": "CHUKYU NIHONGO II",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP309",
+      "nm_mk": "PRAGMATIK",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP328 ",
+      "nm_mk": "CHUKYU SAKUBUN II ",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP302",
+      "nm_mk": "CHUKYU NIHONGO II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP332",
+      "nm_mk": "DOKAI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP308",
+      "nm_mk": "METODE PENELITIAN LINGUISTIK",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP310",
+      "nm_mk": "FOLKLOR",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP311",
+      "nm_mk": "SOSIOLINGUISTIK",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP324 ",
+      "nm_mk": "CHUKYU KAIWA II ",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP232",
+      "nm_mk": "MEDIA AUDIO VISUAL",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP451",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP464a",
+      "nm_mk": "PSIKOLINGUISTIK",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP462",
+      "nm_mk": "SEMINAR LINGUISTIK",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP321",
+      "nm_mk": "CHUKYU NIHONGO I",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP411",
+      "nm_mk": "METODE PENGAJARAN BAHASA JEPANG",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SJP453",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ELMA SUSANTI ",
+    "jk": "P",
+    "nipd": "1210752018        ",
+    "namapt": "Universitas Andalas",
+    "namajenjang": "S1",
+    "namaprodi": "Sastra Jepang",
+    "reg_pd": "8D0953B2-7B43-48E0-96F7-D69768EE5CC7",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-10-20T00:00:00Z",
+    "no_seri_ijazah": "108787/0122/F.01/S1/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTgwNENDNjYtQ0IxOS00RTkzLThCM0YtMUFGNzFBRDQ2OUZG",
+    "link_prodi": "/data_prodi/MTRGNTRCMDgtNTBDNi00RjVGLTlBQzktOUVDMUU0REU5ODMz"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RSK177003",
+      "nm_mk": "Sistem Grounding",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK177004",
+      "nm_mk": "Ekonomi Sistem Tenaga Listrik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK177009",
+      "nm_mk": "Lab Aplikasi Teknologi Informasi Sistem Tenaga",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK177002",
+      "nm_mk": "Kontrol Sistem Tenaga",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK177005",
+      "nm_mk": "Sistem Manajemen Energi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK177001",
+      "nm_mk": "Manajemen Proyek Instalasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK177006",
+      "nm_mk": "Penggunaan Komputer pada Analisis Sistem Tenaga II",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK177008",
+      "nm_mk": "Komunikasi dan Pengolahan Data",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK177007",
+      "nm_mk": "Penggunaan Motor Listrik II",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176002",
+      "nm_mk": "Analisis Sistem Tenaga II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176006",
+      "nm_mk": "Instrumentasi Sistem Tenaga",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176009",
+      "nm_mk": "PLC II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176003",
+      "nm_mk": "Lab Sistem Tenaga II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176001",
+      "nm_mk": "Gardu Induk",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176005",
+      "nm_mk": "Operasi dan Pemeliharaan Sistem Tenaga",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176007",
+      "nm_mk": "Pembangkit Tenaga Listrik II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176004",
+      "nm_mk": "Kualitas Daya",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK176008",
+      "nm_mk": "Penggunaan Komputer pada Analisis Sistem Tenaga I",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK178002",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK178001",
+      "nm_mk": "Praktek Kerja Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK178002",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HANIF BAGASKARA",
+    "jk": "L",
+    "nipd": "2041157010",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Sistem Kelistrikan",
+    "reg_pd": "1AA5BE91-4ACC-4CBC-9399-262FA6C09463",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Alih Jenjang",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-07-13T00:00:00Z",
+    "no_seri_ijazah": "203032022000903",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/MzM3RDkzOEItNDRFNi00N0JBLTgxNDgtQzgwMkQ4M0VEMDMz"
+  }
+}

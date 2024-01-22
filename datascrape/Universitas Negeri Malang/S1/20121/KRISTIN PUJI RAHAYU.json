@@ -1,0 +1,653 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20133",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20143",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20153",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20163",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "GEO106-51201-12",
+      "nm_mk": "Kartografi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO102-51201-12",
+      "nm_mk": "Geomorfologi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK432-51201-12",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK433-51201-12",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO105-51201-12",
+      "nm_mk": "Geografi Sosial",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO111-51201-12",
+      "nm_mk": "KKL I",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO104-51201-12",
+      "nm_mk": "Geografi Penduduk dan Tenaga Kerja",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO110-51201-12",
+      "nm_mk": "Praktikum Kartografi Dasar",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO109-51201-12",
+      "nm_mk": "Praktikum Geologi Dasar",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO103-51201-12",
+      "nm_mk": "Geologi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO108-51201-12",
+      "nm_mk": "Praktikum Geomorfologi Dasar",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO101-51201-12",
+      "nm_mk": "Filsafat/Pengantar Geografi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO107-51201-12",
+      "nm_mk": "Geografi Regional",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK428-51201-12",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK427-51201-12",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO221-51201-12",
+      "nm_mk": "Praktikum Hidrologi",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK421-51201-12",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO213-51201-12",
+      "nm_mk": "Geografi Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO219-51201-12",
+      "nm_mk": "Praktikum Geografi Tanah",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO215-51201-12",
+      "nm_mk": "Hidrologi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO218-51201-12",
+      "nm_mk": "Praktikum Meteorologi Klimatologi",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO214-51201-12",
+      "nm_mk": "Penginderaan Jauh",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO211-51201-12",
+      "nm_mk": "Meteorologi Klimatologi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO212-51201-12",
+      "nm_mk": "Geografi Tanah",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO216-51201-12",
+      "nm_mk": "Geografi Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO217-51201-12",
+      "nm_mk": "Oceanografi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO220-51201-12",
+      "nm_mk": "Praktikum Penginderaan Jauh",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO331-51201-12",
+      "nm_mk": "Praktikum Konservasi Lahan dan Air",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO328-51201-12",
+      "nm_mk": "Handasah",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO322-51201-12",
+      "nm_mk": "Statistik",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO324-51201-12",
+      "nm_mk": "Fotogrametri",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO326-51201-12",
+      "nm_mk": "Geomorfologi Fluvial",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO327-51201-12",
+      "nm_mk": "Geologi Struktur dan Proses",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO325-51201-12",
+      "nm_mk": "Konservasi Lahan dan Air",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO329-51201-12",
+      "nm_mk": "Geografi Pedesaan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO333-51201-12",
+      "nm_mk": "Praktikum Handasah",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO323-51201-12",
+      "nm_mk": "Kartografi Tematik",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO332-51201-12",
+      "nm_mk": "Praktikum Geologi Struktur dan Proses",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO335-51201-12",
+      "nm_mk": "KKL II",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO330-51201-12",
+      "nm_mk": "Praktikum Kartografi Tematik",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO334-51201-12",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO443-51201-12",
+      "nm_mk": "Praktikum Sistem Informasi Geografi",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO445-51201-12",
+      "nm_mk": "Praktikum Evaluasi Sumber Daya Lahan",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO441-51201-12",
+      "nm_mk": "Geografi Perkotaan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO437-51201-12",
+      "nm_mk": "Dasar-Dasar Perencanaan Wilayah",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO440-51201-12",
+      "nm_mk": "Geografi Industri",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO438-51201-12",
+      "nm_mk": "Evaluasi Sumber Daya Lahan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO435-51201-12",
+      "nm_mk": "Sistem Informasi Geografi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO436-51201-12",
+      "nm_mk": "Geohidrologi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO434-51201-12",
+      "nm_mk": "Biogeografi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO439-51201-12",
+      "nm_mk": "Geografi Budaya",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO444-51201-12",
+      "nm_mk": "Praktikum Geohidrologi",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO446-51201-12",
+      "nm_mk": "Praktikum Kualitas Air",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO442-51201-12",
+      "nm_mk": "Kualitas Air",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW502-51201-12",
+      "nm_mk": "Evaluasi Sumber Daya Lahan Lanjutan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO552-51201-12",
+      "nm_mk": "Praktikum Hidrometeorologi Terapan",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO551-51201-12",
+      "nm_mk": "Mineralogi",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW501-51201-12",
+      "nm_mk": "Perencanaan Pembangunan Wilayah",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO553-51201-12",
+      "nm_mk": "Metodologi Penelitian Geografi I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO550-51201-12",
+      "nm_mk": "Geografi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO547-51201-12",
+      "nm_mk": "Pengelolaan DAS",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO549-51201-12",
+      "nm_mk": "Hidrometeorologi Terapan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO654-51201-12",
+      "nm_mk": "Mitigasi Bencana",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO548-51201-12",
+      "nm_mk": "Geografi Pariwisata dan Transportasi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW615-51201-12",
+      "nm_mk": "Sistem Informasi Geografi Terapan Pemetaan dan Potensi Wilayah",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEM603-51201-12",
+      "nm_mk": "Metodologi Penelitian Geografi II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW612-51201-12",
+      "nm_mk": "Survei Pemetaan Geomorfologi dan Geologi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW603-51201-12",
+      "nm_mk": "Pengelolaan Potensi Sumberdaya Lahan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW607-51201-12",
+      "nm_mk": "Penginderaan Jauh Terapan untuk Sumber Daya Lahan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEM602-51201-12",
+      "nm_mk": "Statistik Terapan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW611-51201-12",
+      "nm_mk": "Survei Pemetaan Tanah",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW608-51201-12",
+      "nm_mk": "Praktikum Penginderaan Jauh Terapan untuk Sumber Daya Lahan",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPW616-51201-12",
+      "nm_mk": "Praktikum Sistem Informasi Geografi Terapan Pemetaan & Potensi Wilayah",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEM604-51201-12",
+      "nm_mk": "Studi Lapangan",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEM601-51201-12",
+      "nm_mk": "Perencanaan Wilayah Pedesaan-Perkotaan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKKN602-51201-13",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20143",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO701-51201-12",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEO703-51201-12",
+      "nm_mk": "Praktik Kerja Lapangan (PKL)",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NGEO699-51201-13",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KRISTIN PUJI RAHAYU",
+    "jk": "P",
+    "nipd": "120722420587      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Geografi",
+    "reg_pd": "241EC122-DA1E-419C-9595-0CFE5838ADD3",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-05-27T00:00:00Z",
+    "no_seri_ijazah": "10840/UN32/8/S1/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/MjNDRTM5NUYtOEUyQy00M0FFLTlDOUMtNzY0RUE4MzYwOTQx"
+  }
+}

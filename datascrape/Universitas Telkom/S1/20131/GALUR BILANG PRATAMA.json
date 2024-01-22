@@ -1,0 +1,198 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MUG1E3",
+      "nm_mk": "ALJABAR LINIER",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BUG1A2",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FUG1A3",
+      "nm_mk": "FISIKA I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FUG1B1",
+      "nm_mk": "PRAKTIKUM FISIKA I",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUG1A4",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1Q3",
+      "nm_mk": "PENGANTAR SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1A2",
+      "nm_mk": "PENDIDIKAN AGAMA DAN ETIKA - ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUG1B4",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KUG1A3",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1H2",
+      "nm_mk": "PENGETAHUAN LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HUG1I2",
+      "nm_mk": "KONSEP PENGEMBANGAN SAINS TEKNOLOGI",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FUG1D1",
+      "nm_mk": "PRAKTIKUM FISIKA II",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FUG1C3",
+      "nm_mk": "FISIKA II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BUG1D2",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KUG1B1",
+      "nm_mk": "PRAKTIKUM ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUG2D3",
+      "nm_mk": "PROBABILITAS DAN STATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISG2B3",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISG2D4",
+      "nm_mk": "DASAR JARINGAN DAN TELEKOMUNIKASI",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISG2C4",
+      "nm_mk": "STRUKTUR DATA DAN PEMROGRAMAN LANJUT",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GALUR BILANG PRATAMA",
+    "jk": "L",
+    "nipd": "1106130164        ",
+    "namapt": "Universitas Telkom",
+    "namajenjang": "S1",
+    "namaprodi": "Sistem Informasi",
+    "reg_pd": "2F0F3265-48B2-4A65-A021-02AB04552AD7",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-07-13T00:00:00Z",
+    "no_seri_ijazah": "0353/AKD1.15/SFRI/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODYxRDlBNjQtOTQ5NS00Njg4LUE1MjgtODk5RkNDQTFDMUU4",
+    "link_prodi": "/data_prodi/NUZDOEQ1MTQtQjM4Ri00NURBLUI4QkYtQzZBRTY0QTg0QjhG"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BIM540-86101-10",
+      "nm_mk": "Penilaian Program Bimbingan dan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM532-86101-10",
+      "nm_mk": "Testing dalam Bimbingan dan Konseling",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM541-86101-10",
+      "nm_mk": "Studi Mandiri Bidang Studi Spesialisasi",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD512-86101-10",
+      "nm_mk": "Problematik Pendidikan Bidang Studi",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPL581-86101-10",
+      "nm_mk": "Praktek Bimbingan dan Konseling",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES590-86101-10",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TES590-86101-08",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HARIADI KUSUMO",
+    "jk": "L",
+    "nipd": "209621529794      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S2",
+    "namaprodi": "Bimbingan Dan Konseling",
+    "reg_pd": "AB95BC7D-8A60-4E9A-A113-BB087D5736A0",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-07-13T00:00:00Z",
+    "no_seri_ijazah": "02756/UN32/6/S2/2012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/NDQ1MkYyMkQtMEI4OS00RkVDLUEwRUYtRTQ4RUYxRTY1NkZE"
+  }
+}

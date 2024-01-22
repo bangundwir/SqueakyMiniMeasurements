@@ -1,0 +1,518 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TEI1.62.1028",
+      "nm_mk": "Bengkel Elektromekanik dan Bengkel Listrik",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.1023",
+      "nm_mk": "Fisika terapan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.1024",
+      "nm_mk": "Pengukuran dan Instrumen",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.1025",
+      "nm_mk": "Standar Kelistrikan dan K3",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.1027",
+      "nm_mk": "Matematika Teknik 1",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.1026",
+      "nm_mk": "Praktikum Pengukuran Listrik dan Instrumentasi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.1029",
+      "nm_mk": "Ilmu Bahan dan Piranti",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1401",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.2018",
+      "nm_mk": "Praktek Rangkaian Listrik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.2020",
+      "nm_mk": "Praktek Algoritma dan Pemograman",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.2023",
+      "nm_mk": "Gambar teknik dan listrik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.2021",
+      "nm_mk": "Bahasa Inggris Teknik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.2017",
+      "nm_mk": "Praktek Bahan dan Piranti",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.2022",
+      "nm_mk": "Matematika Teknik 2",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.2024",
+      "nm_mk": "Rangkaian Listrik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.2019",
+      "nm_mk": "Algoritma dan Pemograman",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.3022",
+      "nm_mk": "Mesin listrik",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.1027",
+      "nm_mk": "Matematika Teknik 1",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.3028",
+      "nm_mk": "Praktek Rangkaian Elektronika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1403",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.4021",
+      "nm_mk": "Sistem pengaturan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.3023",
+      "nm_mk": "Teknik digital",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6017",
+      "nm_mk": "Tata tulis karya ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.3101",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.3024",
+      "nm_mk": "Rangkaian elektronika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP2.60.2402",
+      "nm_mk": "Manajemen Bencana",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.4022",
+      "nm_mk": "Praktek Mesin Listrik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.3029",
+      "nm_mk": "Mikrokontroler",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.4023",
+      "nm_mk": "Instalasi Listrik Industri",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.4024",
+      "nm_mk": "Praktek Teknik Digital",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.4028",
+      "nm_mk": "Praktikum Mikrokontroler",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.4020",
+      "nm_mk": "Elektronika daya",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.4027",
+      "nm_mk": "Programable Logic Controller",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5031",
+      "nm_mk": "Praktek PLC",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5028",
+      "nm_mk": "Sistem Tenaga Listrik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5029",
+      "nm_mk": "Sistem Kendali Cerdas",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5033",
+      "nm_mk": "Sistem Kendali Mesin Listrik",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6014",
+      "nm_mk": "Praktek kualitas daya",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5026",
+      "nm_mk": "Kualitas daya listrik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1402",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5034",
+      "nm_mk": "Teknik Antarmuka",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5032",
+      "nm_mk": "Praktek Sistem Pengaturan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5030",
+      "nm_mk": "Praktek Elektronika Daya",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5025",
+      "nm_mk": "Praktek Instalasi listrik industri",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.3025",
+      "nm_mk": "Pengolahan Sinyal",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.5401",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6016",
+      "nm_mk": "Praktek sistem kendali cerdas",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.5015",
+      "nm_mk": "Sistem Kendali Mesin Listrik",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6015",
+      "nm_mk": "Praktek  kendali mesin listrik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.7006",
+      "nm_mk": "Proyek mini",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6023",
+      "nm_mk": "Parktikum Teknik Antarmuka",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.4026",
+      "nm_mk": "Manajemen Proyek dan Industri",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.7011",
+      "nm_mk": "Praktek Mekatronika",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6020",
+      "nm_mk": "Mekatronika",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.3027",
+      "nm_mk": "Praktek Pengolahan Sinyal",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6019",
+      "nm_mk": "Teknik Otomasi Industri",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.7013",
+      "nm_mk": "Praktek SCADA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6018",
+      "nm_mk": "SCADA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.7001",
+      "nm_mk": "Kerja Praktek",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.7010",
+      "nm_mk": "Praktek Teknik otomasi industri",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.6022",
+      "nm_mk": "Robotika",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.7014",
+      "nm_mk": "Praktek Robotika",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.8001",
+      "nm_mk": "Tugas akhir",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEI1.62.8001",
+      "nm_mk": "Tugas akhir",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Siti Nurdiyanti",
+    "jk": "P",
+    "nipd": "19130029",
+    "namapt": "Universitas Negeri Padang",
+    "namajenjang": "D4",
+    "namaprodi": "Teknik Elektro Industri",
+    "reg_pd": "9DC73733-4A85-42A3-AA0E-881FE2DDDFB0",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTc4NEI5MjctMzQ3QS00MjVELThEQ0YtN0NFOEZENEUwMDAy",
+    "link_prodi": "/data_prodi/OTIzRjU0QTAtNEY5Ri00N0VELTlGNDMtQzhCQjgzNkZGMTFE"
+  }
+}

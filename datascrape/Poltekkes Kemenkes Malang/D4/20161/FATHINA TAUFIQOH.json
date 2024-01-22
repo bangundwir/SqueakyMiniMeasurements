@@ -1,0 +1,443 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "Bd.6.102",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.401",
+      "nm_mk": "Konsep Kebidanan",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.101",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.201",
+      "nm_mk": "Anatomi Fisiologi",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.203",
+      "nm_mk": "Biokimia dan Fisika Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BD  .6.202",
+      "nm_mk": "Biologi Reproduksi Dan Mikrobiologi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.103",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.204",
+      "nm_mk": "Kebutuhan Dasar Manusia",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.402",
+      "nm_mk": "Etikolegal Dalam Praktek Kebidanan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML2",
+      "nm_mk": "Gizi  Dalam Kesehatan Reproduksi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.501",
+      "nm_mk": "Ilmu Sosial Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.206",
+      "nm_mk": "Keterampilan Dasar Kebidanan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.2011",
+      "nm_mk": "Farmakologi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML.8",
+      "nm_mk": "Pendidikan Budaya Anti Korupsi (PBAK)",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.205",
+      "nm_mk": "Komunikasi Dalam Praktek Kebidanan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.301",
+      "nm_mk": "Asuhan Kebidanan Kehamilan",
+      "sks_mk": 5,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.303",
+      "nm_mk": "Asuhan Kebidanan Nifas dan Ibu Menyusui",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.208",
+      "nm_mk": "Ilmu Kesehatan Anak",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML.5",
+      "nm_mk": "Praktek Klinik KDK",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.304",
+      "nm_mk": "Asuhan Kebidanan Neonatus, Bayi, Balita, Dan Anak Pra Sekolah",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.209",
+      "nm_mk": "Obstetri",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.302",
+      "nm_mk": "Asuhan Kebidanan Persalinan dan Bayi Baru Lahir",
+      "sks_mk": 5,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.307",
+      "nm_mk": "Praktek Kebidanan Fisiologi: Kehamilan, Persalinan, Nifas, KB/KR, Neonatus, Bayi, Balita dan Anak Pra Sekolah",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML.3",
+      "nm_mk": "Psikologi Dalam Kesehatan Reproduksi",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.207",
+      "nm_mk": "Asuhan Keluarga Berencana dan Kesehatan Reproduksi",
+      "sks_mk": 5,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.210",
+      "nm_mk": "Ginekologi",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.314",
+      "nm_mk": "Teknologi Tepat Guna dalam Pelayanan Kebidanan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML.10",
+      "nm_mk": "Kegawatdaruratan Dasar",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML.6",
+      "nm_mk": "Pengembangan Kepribadian",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.311",
+      "nm_mk": "Pengorganisasian dan Pengembangan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.405",
+      "nm_mk": "Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.308",
+      "nm_mk": "Praktek Kebidanan Kegawatdaruratan Maternal Neonatal & Praktek Kebidanan pada Kasus Ginekologi",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.406",
+      "nm_mk": "Sistem Informasi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.408",
+      "nm_mk": "Epidemiologi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.403",
+      "nm_mk": "Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML.9",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML.4",
+      "nm_mk": "Manajemen Penanggulangan Bencana",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.305",
+      "nm_mk": "Asuhan Kebidanan Kegawatdaruratan Maternal Neonatal",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.104",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.306",
+      "nm_mk": "Asuhan Kebidanan Komunitas",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 6. ML.1",
+      "nm_mk": "Women Empowering dalam Kontek Kebidanan",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.309",
+      "nm_mk": "Praktek Klinik Kebidanan Komprehensif",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.312",
+      "nm_mk": "Metodik Khusus",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.502",
+      "nm_mk": "Mutu Layanan Kebidanan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.404",
+      "nm_mk": "Metode Penelitian dan Biostatistik",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.407",
+      "nm_mk": "Organisasi Manajemen Dalam Pelayanan Kebidanan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.MKP.2",
+      "nm_mk": "Terapi Komplementer dalam Asuhan Kebidanan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd. 6. 504",
+      "nm_mk": "Proposal Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.310",
+      "nm_mk": "Praktik Kebidanan Komunitas Komprehensif",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.ML.7",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.503",
+      "nm_mk": "Humaniora",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.M L.1 1",
+      "nm_mk": "PKK Komprehensif",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.313",
+      "nm_mk": "Praktik Kebidanan Komunitas",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "Bd.6.505",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "FATHINA TAUFIQOH",
+    "jk": "P",
+    "nipd": "1602450062",
+    "namapt": "Poltekkes Kemenkes Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Kebidanan",
+    "reg_pd": "F91C04E8-EA8C-4CEC-89BA-FBC3A7C98A07",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-07-25T00:00:00Z",
+    "no_seri_ijazah": "153012020000731",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjFFRDUyODQtODkwRi00Rjg2LUE5QTctQTdBQjBCMjQ1RjMy",
+    "link_prodi": "/data_prodi/OEMxQjJFOEQtREU1OS00ODAzLUI0RkYtMTQzNDY3MjM0Rjgz"
+  }
+}

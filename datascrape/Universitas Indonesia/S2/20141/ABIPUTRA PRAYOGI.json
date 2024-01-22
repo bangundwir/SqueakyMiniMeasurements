@@ -1,0 +1,80 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Sedang Double Degree"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Sedang Double Degree"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ENMT800006",
+      "nm_mk": "Analisa Kerusakan + Lab",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENMT800103",
+      "nm_mk": "Komposit Lanjut",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENMT800002",
+      "nm_mk": "Kinetika & Transformasi Fasa",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENMT800001",
+      "nm_mk": "Material Teknik",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ENMT800104",
+      "nm_mk": "Metalurgi Las",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ABIPUTRA PRAYOGI",
+    "jk": "L",
+    "nipd": "1006717256        ",
+    "namapt": "Universitas Indonesia",
+    "namajenjang": "S2",
+    "namaprodi": "Teknik Metalurgi dan Material",
+    "reg_pd": "17147F69-67F7-45A3-94DD-E4296AA9F010",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-07-21T00:00:00Z",
+    "no_seri_ijazah": "0218/S2-FT/2/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEQxRTYzRTktQ0JGQi00NTQ2LUEyNDItODc1QzMxMDA4M0E1",
+    "link_prodi": "/data_prodi/REQ4NDIwMzktRUUzNS00MDUyLUE0QkMtQ0U2NTgwQ0JDODMw"
+  }
+}

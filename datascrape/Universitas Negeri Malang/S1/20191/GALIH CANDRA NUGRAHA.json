@@ -1,0 +1,502 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "NKIM6003-47201-2018",
+      "nm_mk": "Kimia Dasar I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FMIA6001-47201-2018",
+      "nm_mk": "Dasar-Dasar Sains",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6007-47201-2018",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6001-47201-2018",
+      "nm_mk": "Matematika Kimia",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6002-47201-2018",
+      "nm_mk": "Fisika untuk Kimia",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6007-47201-2018",
+      "nm_mk": "Biologi untuk Kimia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6201-47201-2018",
+      "nm_mk": "Struktur dan Ikatan Kimia",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6004-47201-2018",
+      "nm_mk": "Praktikum Kimia Dasar I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6008-47201-2018",
+      "nm_mk": "Statistika",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6005-47201-2018",
+      "nm_mk": "Kimia Dasar II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6006-47201-2018",
+      "nm_mk": "Praktikum Kimia Dasar II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6301-47201-2018",
+      "nm_mk": "Konsep-Konsep Dasar Kimia Organik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6008-26201-2018",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6001-47201-2018",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6501-47201-2018",
+      "nm_mk": "Mikrobiologi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6009-47201-2018",
+      "nm_mk": "Bahasa Inggris untuk Kimia I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6202-47201-2018",
+      "nm_mk": "Struktur dan Sifat-Sifat Zat",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6401-2018",
+      "nm_mk": "Dasar-Dasar Kimia Analitik",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6302-2018",
+      "nm_mk": "Kimia Organik Deskriptif",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6009-47201-2018",
+      "nm_mk": "Pendidikan Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6402-2018",
+      "nm_mk": "Praktikum Dasar-Dasar Kimia Analitik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6102-2018",
+      "nm_mk": "Kesetimbangan Fasa dan Kimia",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6204-47201-2018",
+      "nm_mk": "Praktikum Kimia Anorganik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6010-2018",
+      "nm_mk": "Manajemen Inovasi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6203-2018",
+      "nm_mk": "Kimia Anorganik Deskriptif",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6101-47201-2018",
+      "nm_mk": "Gas dan Termodinamika Kimia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6405-2018",
+      "nm_mk": "Kimia Analisis Instrumentasi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6403-2018",
+      "nm_mk": "Pemisahan Kimia",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6104-2018",
+      "nm_mk": "Praktikum Pengukuran Sifat Kimia Fisika Bahan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6205-2018",
+      "nm_mk": "Kimia Anorganik Fisik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6103-2018",
+      "nm_mk": "Elektrokimia dan Kinetika Kimia",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6304-2018",
+      "nm_mk": "Senyawa Polifungsi dan Biomolekul",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6303-2018",
+      "nm_mk": "Praktikum Analisis dan Identifikasi Senyawa Organik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6108-2018",
+      "nm_mk": "Kimia Polimer",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6019-2018",
+      "nm_mk": "Proses Industri Kimia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6404-47201-2018",
+      "nm_mk": "Praktikum Pemisahan Kimia",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6305-47201-2018",
+      "nm_mk": "Praktikum Sintesis dan Isolasi Senyawa Organik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6406-47201-2018",
+      "nm_mk": "Praktikum Kimia Analisis Instrumentasi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6016-47201-2018",
+      "nm_mk": "Kimia Ramah Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6017-47201-2018",
+      "nm_mk": "Studi Literatur Kimia",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6206-47201-2018",
+      "nm_mk": "Kimia Koordinasi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6407-47201-2018",
+      "nm_mk": "Aplikasi Kimia Analisis",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6106-47201-2018",
+      "nm_mk": "Termodinamika Terapan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6502-47201-2018",
+      "nm_mk": "Struktur dan Fungsi Biomolekul",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6306-47201-2018",
+      "nm_mk": "Kimia Organik Fisik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6105-47201-2018",
+      "nm_mk": "Praktikum Kimia Fisika Terapan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6010-47201-2018",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6018-47201-2018",
+      "nm_mk": "Manajemen Laboratorium",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6307-47201-2018",
+      "nm_mk": "Penentuan Struktur Organik",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6207-47201-2018",
+      "nm_mk": "Kimia Zat Padat",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6408-47201-2018",
+      "nm_mk": "Kimia Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6107-47201-2018",
+      "nm_mk": "Kimia Komputasi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6503-47201-2018",
+      "nm_mk": "Metabolisme",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6410-47201-2018",
+      "nm_mk": "Analisis Limbah",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6505-47201-2018",
+      "nm_mk": "Praktikum Biokimia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6309-47201-2018",
+      "nm_mk": "Sintesis organik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6090-47201-2018",
+      "nm_mk": "Praktek Kerja Lapangan",
+      "sks_mk": 3,
+      "id_smt": "20213",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6011-47201-2018",
+      "nm_mk": "Seminar Kimia",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6118-47201-2018",
+      "nm_mk": "Teknologi Kimia",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKKN6090-22201-2018",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NKIM6012-47201-2018",
+      "nm_mk": "Skripsi Kimia",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GALIH CANDRA NUGRAHA",
+    "jk": "L",
+    "nipd": "190332622431",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Kimia",
+    "reg_pd": "6D5936A7-344B-4D17-995A-09EA2270398B",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-06-05T00:00:00Z",
+    "no_seri_ijazah": "472012023000134",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/OUU1NkQ3RDAtMzA2Ni00QjEyLUI1OTAtNDRCRDlGOTBCMjFG"
+  }
+}

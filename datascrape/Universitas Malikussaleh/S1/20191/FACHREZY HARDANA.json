@@ -1,0 +1,443 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UNM0312",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0712",
+      "nm_mk": "SISTEM PERTANIAN BERKELANJUTAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PER0513",
+      "nm_mk": "BIOLOGI PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNM0212",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNM0113",
+      "nm_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PER0413",
+      "nm_mk": "PENGANTAR STATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PER0613",
+      "nm_mk": "KIMIA PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0623",
+      "nm_mk": "PERLINDUNGAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0423",
+      "nm_mk": "GENETIKA TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0223",
+      "nm_mk": "BOTANI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0523",
+      "nm_mk": "MIKROBIOLOGI PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0323",
+      "nm_mk": "BIOKIMIA TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0243",
+      "nm_mk": "EKOLOGI TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0723",
+      "nm_mk": "DASAR-DASAR ILMU TANAH",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PER0112",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0813",
+      "nm_mk": "AGROKLIMATOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0733",
+      "nm_mk": "PEMULIAAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0533",
+      "nm_mk": "KESUBURAN TANAH DAN PEMUPUKAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0333",
+      "nm_mk": "DASAR-DASAR AGRONOMI",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0233",
+      "nm_mk": "IRIGASI DAN DRAINASE",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0433",
+      "nm_mk": "ILMU HAMA DAN PENYAKIT TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0133",
+      "nm_mk": "PERANCANGAN PERCOBAAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0633",
+      "nm_mk": "FISIOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU0622",
+      "nm_mk": "TEKNOLOGI INFORMASI DAN KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0543",
+      "nm_mk": "ILMU GULMA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0643",
+      "nm_mk": "SURVEI TANAH DAN EVALUASI LAHAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0563",
+      "nm_mk": "BIOTEKNOLOGI PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0363",
+      "nm_mk": "PENGENDALIAN TERPADU HPT",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0663",
+      "nm_mk": "TEKNOLOGI BUDIDAYA TANAMAN BUAH, SAYURAN, DAN HIAS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0443",
+      "nm_mk": "KULTUR JARINGAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0743",
+      "nm_mk": "TEKNOLOGI BENIH",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET1053",
+      "nm_mk": "TEKNOLOGI AGROFORESTERI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0353",
+      "nm_mk": "PEMANFAATAN DAN PENGELOLAAN PESTISIDA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0153",
+      "nm_mk": "TEKNOLOGI BUDIDAYA TANAMAN  HORTIKULTURA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0453",
+      "nm_mk": "PERTANIAN ORGANIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0573",
+      "nm_mk": "TEKNOLOGI BUDIDAYA TANAMAN PANGAN UTAMA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB0552",
+      "nm_mk": "MANAJEMEN AGRIBISNIS",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0653",
+      "nm_mk": "WIRAUSAHA PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0253",
+      "nm_mk": "PENGELOLAAN SUMBER DAYA LAHAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET1063",
+      "nm_mk": "TEKNOLOGI BUDIDAYA TANAMAN TEBU DAN SERAT",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0263",
+      "nm_mk": "KONSERVASI TANAH DAN AIR",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET 0462",
+      "nm_mk": "METODOLOGI PENULISAN DAN PENYAJIAN ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0863",
+      "nm_mk": "TEKNOLOGI BUDIDAYA TANAMAN KAKAO DAN KOPI",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0963",
+      "nm_mk": "TEKNOLOGI BIOENERGI",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0163",
+      "nm_mk": "MANAJEMEN PERBENIHAN DAN PRODUKSI BENIH",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0173",
+      "nm_mk": "ALAT DAN MESIN PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PER0373",
+      "nm_mk": "PRAKTEK KERJA LAPANG",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PER0273",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0973",
+      "nm_mk": "TEKNOLOGI PENGOLAHAN HASIL PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0473",
+      "nm_mk": "TEKNOLOGI PENANGANAN PASCAPANEN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0181",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0284",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AET0284",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB0752",
+      "nm_mk": "SOSIOLOGI PERTANIAN",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "FACHREZY HARDANA",
+    "jk": "L",
+    "nipd": "190310027",
+    "namapt": "Universitas Malikussaleh",
+    "namajenjang": "S1",
+    "namaprodi": "Agroekoteknologi",
+    "reg_pd": "B681A1FF-FE02-446A-B995-EEF70DC5DE4C",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjBCOUI4OEYtODVGMi00Mzc4LUJDNkYtNzlFNTlBNDE5NEE3",
+    "link_prodi": "/data_prodi/Q0M2MkJGOUUtRTM2NS00NTk5LUFGNDAtMkI3ODEzNTVDM0VG"
+  }
+}

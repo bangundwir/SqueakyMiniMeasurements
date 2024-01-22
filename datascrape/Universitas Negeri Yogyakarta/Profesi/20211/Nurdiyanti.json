@@ -1,0 +1,66 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PPG7403",
+      "nm_mk": "Praktik Pengalaman Lapangan (PPL)",
+      "sks_mk": 4,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPG7304",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPG7501",
+      "nm_mk": "Pendalaman Materi Pedagogi dan Bidang Studi",
+      "sks_mk": 5,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Nurdiyanti",
+    "jk": "P",
+    "nipd": "20121299913",
+    "namapt": "Universitas Negeri Yogyakarta",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "FE596C0C-8E0A-4C66-8FE6-4BDC41832209",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-06T00:00:00Z",
+    "no_seri_ijazah": "0010382302720186",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTA0QUFGRjgtNUY4MS00NzU2LUI5MTQtNzNEQ0ZFRDMzOTMy",
+    "link_prodi": "/data_prodi/MTIyOTY5OTUtQ0VCMS00NDI1LTlGNTgtNEQzMDEwNEU3MTE4"
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "32052MMT3",
+      "nm_mk": "MENGGAMBAR TEKNIK & TUGAS",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052PFS1",
+      "nm_mk": "PRAKTIKUM FISIKA TEKNIK I",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10000AKA3",
+      "nm_mk": "PENDIDIKAN AGAMA KATOLIK",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MIS3",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MIK2",
+      "nm_mk": "TEKNOLOGI INFORMASI & KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MFS2",
+      "nm_mk": "FISIKA TEKNIK I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MMS2",
+      "nm_mk": "PROSES MANUFAKTUR I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MKS2",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052PPK1",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MKA2",
+      "nm_mk": "KIMIA TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MKK3",
+      "nm_mk": "MEKANIKA KEKUATAN MATERIAL",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MMM3",
+      "nm_mk": "GAMBAR MESIN & TUGAS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MKD2",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10000PDK3",
+      "nm_mk": "PANCASILA DAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MFD2",
+      "nm_mk": "FISIKA TEKNIK II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MSA2",
+      "nm_mk": "STATIKA TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MMD2",
+      "nm_mk": "PROSES MANUFAKTUR II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052PMS1",
+      "nm_mk": "PRAKTIKUM PROSES MANUFAKTUR I",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10000BHI3",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MML2",
+      "nm_mk": "MATERIAL TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052ATK3",
+      "nm_mk": "MATEMATIKA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052IFI2",
+      "nm_mk": "METALURGI FISIK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052ERM3",
+      "nm_mk": "TERMODINAMIKA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052NME3",
+      "nm_mk": "ELEMEN MESIN 1",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052KDE3",
+      "nm_mk": "KINEMATIKA & DINAMIKA TEKNIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MUS2",
+      "nm_mk": "METROLOGI & KONTROL KUALITAS",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052NPA2",
+      "nm_mk": "PERPINDAHAN PANAS",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20000DE13",
+      "nm_mk": "DIGITAL ENTREPRENEURSHIP 1",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20000DE23",
+      "nm_mk": "DIGITAL ENTREPRENEURSHIP 2",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MNP2",
+      "nm_mk": "MESIN MESIN PENDINGIN",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052ALI3",
+      "nm_mk": "MEKANIKA FLUIDA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052SNS2",
+      "nm_mk": "STATISTIKA DAN PROBABILITAS",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20000DE33",
+      "nm_mk": "DIGITAL ENTREPRENEURSHIP 3",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MIT2",
+      "nm_mk": "MANAJEMEN INDUSTRI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052PIF1",
+      "nm_mk": "PRAKTIKUM METALURGI FISIK",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052ENU2",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052NM23",
+      "nm_mk": "ELEMEN MESIN 2",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MID2",
+      "nm_mk": "MANAJEMEN TEKNOLOGI DAN INOVASI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052PME2",
+      "nm_mk": "PENGANTAR TEKNIK MESIN",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052ITE2",
+      "nm_mk": "EKONOMI TEKNIK",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052KAM2",
+      "nm_mk": "MEKATRONIKA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052PAD1",
+      "nm_mk": "PRAKTIKUM FENOMENA DASAR MESIN",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052GTR3",
+      "nm_mk": "GETARAN MEKANIK",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052RBA2",
+      "nm_mk": "MOTOR BAKAR",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052NLI2",
+      "nm_mk": "MESIN-MESIN LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052KKE2",
+      "nm_mk": "TEKNIK KENDALI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052NFL2",
+      "nm_mk": "MESIN-MESIN FLUIDA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MIE2",
+      "nm_mk": "MESIN KONVERSI ENERGI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052EDE2",
+      "nm_mk": "CAPSTONE DESIGN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MNI2",
+      "nm_mk": "METODOLOGI PENELITIAN & PENULISAN ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052TNM2",
+      "nm_mk": "TEKNIK PERAWATAN MESIN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052IOT3",
+      "nm_mk": "TEKNOLOGI OTOMOTIF",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052SVC3",
+      "nm_mk": "SISTEM DRIVE DAN CHASIS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052KTR2",
+      "nm_mk": "TEKNIK TRANSPORTASI",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052SKM2",
+      "nm_mk": "SISTEM PENGGERAK MULA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052SNT2",
+      "nm_mk": "K3 & TEKNOLOGI LINGKUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052AKE3",
+      "nm_mk": "REKAYASA KENDARAAN DAN ALAT BERAT",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052NOT3",
+      "nm_mk": "KELISTRIKAN OTOMOTIF",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052SIK2",
+      "nm_mk": "KOROSI",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32052MKP3",
+      "nm_mk": "KERJA PRAKTEK & ETIKA PROFESI",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Lorensius Damu",
+    "jk": "L",
+    "nipd": "2020521010",
+    "namapt": "Universitas Fajar",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Mesin",
+    "reg_pd": "9E9A6C92-848D-4AC8-8CF8-A258D44B872B",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/Qjc5RjNDNDQtMkRENS00MDE0LThGNTEtOEZDMzk0NkMzNEM4",
+    "link_prodi": "/data_prodi/MDE0OTMzN0EtRUJFNi00QjQ0LTg4MDItOUE1QkRBMjhBN0RE"
+  }
+}

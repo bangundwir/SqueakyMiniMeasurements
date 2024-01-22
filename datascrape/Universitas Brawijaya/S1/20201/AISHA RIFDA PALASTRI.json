@@ -1,0 +1,714 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20213",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "DEA61009",
+      "nm_mk": "Pengantar Kewirausahaan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61011",
+      "nm_mk": "Perilaku Manusia",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK60001",
+      "nm_mk": "Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61002",
+      "nm_mk": "Biologi Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK60008",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61004",
+      "nm_mk": "Etika&amp;amp;Perundang-Undangan Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61010",
+      "nm_mk": "Pengenalan Kefarmasian",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61003",
+      "nm_mk": "Praktikum Biologi Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61008",
+      "nm_mk": "Praktikum Kimia Farmasi Dasar",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61007",
+      "nm_mk": "Kimia Farmasi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61001",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61005",
+      "nm_mk": "Fisika Farmasi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61006",
+      "nm_mk": "Praktikum Fisika Farmasi Dasar",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK60006",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62014",
+      "nm_mk": "Anatomi Histologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62019",
+      "nm_mk": "Kimia Analisis Farmasi Non Inst.",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62020",
+      "nm_mk": "Prak. Kimia Analisis Farmasi Non Inst.",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62021",
+      "nm_mk": "Fisiologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62022",
+      "nm_mk": "Praktikum Fisiologi",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62016",
+      "nm_mk": "Praktikum Botani Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62018",
+      "nm_mk": "Praktikum Biokimia",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62015",
+      "nm_mk": "Botani Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62017",
+      "nm_mk": "Biokimia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62012",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62013",
+      "nm_mk": "Praktikum Kimia Organik",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61030",
+      "nm_mk": "Farmasi Fisik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61023",
+      "nm_mk": "Farmakologi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61036",
+      "nm_mk": "Praktikum Mikrobiologi - Parasitologi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61025",
+      "nm_mk": "Farmakognosi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61027",
+      "nm_mk": "Biologi Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61037",
+      "nm_mk": "Patofisiologi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61026",
+      "nm_mk": "Praktikum Farmakognosi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61032",
+      "nm_mk": "Preskripsi I",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61033",
+      "nm_mk": "Praktikum Preskripsi I",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61034",
+      "nm_mk": "Kimia Analisis Farmasi Instrumen",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61029",
+      "nm_mk": "Patologi Klinik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61028",
+      "nm_mk": "Praktikum Biologi Molekuler",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61024",
+      "nm_mk": "Praktikum Farmakologi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61031",
+      "nm_mk": "Praktikum Farmasi Fisik",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61035",
+      "nm_mk": "Mikrobiologi - Parasitologi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62039",
+      "nm_mk": "Farter.Sis. Pernafasan &amp;amp; Pencernaan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62041",
+      "nm_mk": "Kimia Analisa Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62046",
+      "nm_mk": "PrakTek.Farmasi Sediaan Likuid &amp;amp; Semisolid",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62042",
+      "nm_mk": "Prak. Kimia Analisa Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62038",
+      "nm_mk": "Ilmu Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62043",
+      "nm_mk": "Biofarmasi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62047",
+      "nm_mk": "Fitokimia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62045",
+      "nm_mk": "Tek. Farmasi Sediaan Likuid &amp;amp; Semisolid",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62044",
+      "nm_mk": "Manajemen Apotek &amp;amp; Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62084",
+      "nm_mk": "Standarisasi Obat Tradisional",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62048",
+      "nm_mk": "Praktikum Fitokimia",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62040",
+      "nm_mk": "Prak.Farter Sist.Pernafasan&Pencernaan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61027",
+      "nm_mk": "Biologi Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20213",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62038",
+      "nm_mk": "Ilmu Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20213",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61054",
+      "nm_mk": "Kimia Medisinal",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61055",
+      "nm_mk": "Toksikologi Klinik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61086",
+      "nm_mk": "Kosmetologi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61051",
+      "nm_mk": "Imunologi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61050",
+      "nm_mk": "Prak.Farter.Sist.Saraf,Urogenital&amp;amp;Muskulos.",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61049",
+      "nm_mk": "Farter.Sis.Saraf,Urogenital &amp;amp; Muskulos.",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61053",
+      "nm_mk": "Praktikum Farmakokinetika",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61059",
+      "nm_mk": "Prak. Tek. Farmasi Sediaan Steril",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61057",
+      "nm_mk": "Prak. Tek. Farmasi Sediaan Solid",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61052",
+      "nm_mk": "Farmakokinetika",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61056",
+      "nm_mk": "Tek. Farmasi Sediaan Solid",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61058",
+      "nm_mk": "Tek. Farmasi Sediaan Steril",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62068",
+      "nm_mk": "Sis. Penghantaran Bentuk Sediaan Obat",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62071",
+      "nm_mk": "Patient Safety",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62065",
+      "nm_mk": "Praktek Komunikasi Informasi Edukasi",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62067",
+      "nm_mk": "Manajemen Farmasi Rumah Sakit",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62062",
+      "nm_mk": "Fitoterapi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62069",
+      "nm_mk": "Interaksi Obat",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62061",
+      "nm_mk": "Prak. Farter Sist. Endokrin,Reprod. & Sirkulasi",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62060",
+      "nm_mk": "Farter.Sis.Endokrin,Reprod&amp;amp;Sirkulasi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62064",
+      "nm_mk": "Komunikasi Informasi Edukasi",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62063",
+      "nm_mk": "Praktikum Fitoterapi",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62066",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK60007",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61055",
+      "nm_mk": "Toksikologi Klinik",
+      "sks_mk": 2,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA62066",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61074",
+      "nm_mk": "Prak. Farter Infeksi,Kanker &amp;amp; Gangguan Nutrisi",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61092",
+      "nm_mk": "Aromaterapi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61093",
+      "nm_mk": "Terapi Nutrisi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61076",
+      "nm_mk": "Layanan Kefarmasian Komunitas",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61087",
+      "nm_mk": "Analisis Makanan dan Minuman",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61075",
+      "nm_mk": "Layanan Kefarmasian Klinik",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61079",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61073",
+      "nm_mk": "Farter Infeksi,Kanker&amp;amp;Gangguan Nutrisi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61080",
+      "nm_mk": "Jaminan Kualitas Sediaan Farmasi",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61077",
+      "nm_mk": "Farmasi Lingkungan",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61072",
+      "nm_mk": "Praktikum Preskripsi II",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DEA61078",
+      "nm_mk": "PKNM",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AISHA RIFDA PALASTRI",
+    "jk": "P",
+    "nipd": "205070507111013",
+    "namapt": "Universitas Brawijaya",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "802E81AC-50B5-4609-802D-2CA0785BAA15",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTlBM0I3QUYtNjQ3MC00RDE4LThCMDYtMDk5NDFFNjYzQjA3",
+    "link_prodi": "/data_prodi/QkQwQUZEQ0MtNDEwQS00RjVBLThFOEItREE0Rjg1ODQ3Rjcz"
+  }
+}

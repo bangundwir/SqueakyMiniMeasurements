@@ -1,0 +1,513 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ISD423-86206-09",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD426-86206-09",
+      "nm_mk": "Dasar-dasar IPS SD",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK427-86206-10",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK432-86206-10",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK401-86206-10",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK402-86206-10",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 4,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD424-86206-09",
+      "nm_mk": "Dasar Keilmuan Bahasa Indonesia SD",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIP403-86206-09",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD415-86206-09",
+      "nm_mk": "Pengembangan Kurikulum SD",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK403-86206-10",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 4,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD427-86206-09",
+      "nm_mk": "Aritmatika SD",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD425-86206-09",
+      "nm_mk": "Dasar-dasar IPA SD",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD427-86206-09",
+      "nm_mk": "Dasar-dasar PKn SD",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD414-86206-09",
+      "nm_mk": "Bimbingan Penyuluhan di SD",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIP401-86206-09",
+      "nm_mk": "Ilmu Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK421-86206-10",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD433-86206-09",
+      "nm_mk": "Sains, Lingkungan, Teknologi dan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIP405-86206-08",
+      "nm_mk": "Antropologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD429-86206-08",
+      "nm_mk": "Geometri dan Pengukuran",
+      "sks_mk": 0,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD409-86206-08",
+      "nm_mk": "Strategi Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD413-86206-09",
+      "nm_mk": "Evaluasi Pendidikan SD",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD431-86206-09",
+      "nm_mk": "Dasar Keilmuan dan Pembelajaran Sastra Anak",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HSD446-86206-09",
+      "nm_mk": "Pendidikan Hak Asasi Manusia",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSD440-86206-09",
+      "nm_mk": "Teknik Penulisan Karya Ilmiah",
+      "sks_mk": 0,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK433-86206-10",
+      "nm_mk": "Pendidikan Kewarganegaraan SD",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIP404-86206-08",
+      "nm_mk": "Sosiologi Pendidikan SD",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD434-86206-09",
+      "nm_mk": "Pembelajaran IPA SD",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD430-86206-09",
+      "nm_mk": "Pembelajaran Matematika SD",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD432-86206-09",
+      "nm_mk": "Pembelajaran Bahasa Indonesia SD",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD420-86206-09",
+      "nm_mk": "Manajemen Pendidikan SD",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD419-86206-09",
+      "nm_mk": "Pendidikan Anak Usia Dini",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD417-86206-09",
+      "nm_mk": "Statistika Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD410-86206-09",
+      "nm_mk": "Sumber dan Media Pembelajaran SD",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIP402-86206-09",
+      "nm_mk": "Filsafat Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD418-86206-09",
+      "nm_mk": "Pendidikan Anak Berkebutuhan Khusus",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD437-86206-09",
+      "nm_mk": "Pembelajaran Pendidikan Kesenian SD",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD436-86206-10",
+      "nm_mk": "Pembelajaran IPS SD",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD437-86206-10",
+      "nm_mk": "Pembelajaran Pendidikan Kesenian SD",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HSD449-86206-10",
+      "nm_mk": "PRESPEKTIF GLOBAL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HSD447-86206-10",
+      "nm_mk": "PENDIDIKAN MULTIKULTURAL",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD422-86206-10",
+      "nm_mk": "Pembelajaran Terpadu SD",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSD441-86206-09",
+      "nm_mk": "Metodologi Penelitian Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD436-86206-09",
+      "nm_mk": "Pembelajaran IPS SD",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD422-86206-09",
+      "nm_mk": "Pembelajaran Terpadu SD",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD421-86206-09",
+      "nm_mk": "Manajemen Kelas",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD439-86206-10",
+      "nm_mk": "Problematika Pembelajaran SD",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSD441-86206-10",
+      "nm_mk": "Teknik Penulisan Karya Ilmiah",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD421-86206-10",
+      "nm_mk": "Manajemen Kelas",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD412-86206-10",
+      "nm_mk": "Difusi Inovasi Pendidikan SD",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WSD470-86206-09",
+      "nm_mk": "Model-model Pembelajaran IPS SD",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSD442-86206-09",
+      "nm_mk": "Keterampilan Dasar Pembelajaran",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WSD471-86206-09",
+      "nm_mk": "Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WSD473-86206-09",
+      "nm_mk": "Kajian Buku Teks IPS SD",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD438-86206-09",
+      "nm_mk": "Pembelajaran Pendidikan Keterampilan & Kerajinan Tangan SD",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WSD472-86206-09",
+      "nm_mk": "Sejarah dan Geografi",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WSD475-86206-09",
+      "nm_mk": "Penelitian IPS SD",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WSD476-86206-09",
+      "nm_mk": "Pengemb. Pembelajaran IPS SD",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "WSD474-86206-09",
+      "nm_mk": "Penilaian Pembelajaran IPS SD",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESC411-86206-11",
+      "nm_mk": "Komputer Pembelajaran SD",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSD438-86206-10",
+      "nm_mk": "Problematika Pembelajaran SD",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISD416-86206-10",
+      "nm_mk": "Pengembangan Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK428-86206-10",
+      "nm_mk": "Bahasa Inggris Profesi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSD406-86206-09",
+      "nm_mk": "Praktek Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSD403-86206-08",
+      "nm_mk": "Skripsi",
+      "sks_mk": 12,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ARLIS ISNAINI DAROJAT",
+    "jk": "P",
+    "nipd": "109151422289      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Guru Sekolah Dasar",
+    "reg_pd": "4A11F573-93CA-49C0-B36B-E59082713986",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2013-06-21T00:00:00Z",
+    "no_seri_ijazah": "24025/UN32/1/S1/2013",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/MUFGQzNDNzUtOTYxQS00MkFBLUJDQjQtNDA2NjM4OEQ5QjZF"
+  }
+}

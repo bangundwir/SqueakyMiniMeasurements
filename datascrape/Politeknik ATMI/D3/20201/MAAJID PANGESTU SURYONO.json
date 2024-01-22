@@ -1,0 +1,440 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKB1101",
+      "nm_mk": "MEKANIKA TEKNIK 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB1102",
+      "nm_mk": "TEKNIK MANUFAKTUR 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1101",
+      "nm_mk": "ETIKA 1",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB1103",
+      "nm_mk": "TEKNIK PENGUKURAN",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1106",
+      "nm_mk": "PENGETAHUAN KOMPUTER - AUTOCAD",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1102",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1103",
+      "nm_mk": "GAMBAR TEKNIK 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1102",
+      "nm_mk": "MATEMATIKA 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1105",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB1104",
+      "nm_mk": "ELEKTRONIKA 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK1101",
+      "nm_mk": "ILMU BAHAN 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB11102",
+      "nm_mk": "FRAIS DASAR",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB11104",
+      "nm_mk": "BANGKU",
+      "sks_mk": 5,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB11105",
+      "nm_mk": "LISTRIK DAN ELEKTRONIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB11106",
+      "nm_mk": "GAMBAR TEKNIK DASAR",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB11103",
+      "nm_mk": "GERINDA ALAT",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB11101",
+      "nm_mk": "BUBUT DASAR",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.8",
+      "nm_mk": "Teknik Pemrograman",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.10",
+      "nm_mk": "Etika 2",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.6",
+      "nm_mk": "Matematika 2",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.9",
+      "nm_mk": "Elemen Mesin 1",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.7",
+      "nm_mk": "Gambar Teknik 2",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.12",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.3",
+      "nm_mk": "Teknik Manufaktur 2",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.5",
+      "nm_mk": "Ilmu Bahan 2",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.2",
+      "nm_mk": "Teknik CNC",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.11",
+      "nm_mk": "Bahasa Inggris 2",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.1",
+      "nm_mk": "Mekanika Teknik 2 (Dinamika)",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.2.4",
+      "nm_mk": "Elektroteknik 2",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.4",
+      "nm_mk": "Praktik Kerja Las",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.9",
+      "nm_mk": "Praktik Gear Hobbing dan Sloting",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.6",
+      "nm_mk": "Praktik PPIC",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.8",
+      "nm_mk": "Praktik Perlakuan Panas",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.7",
+      "nm_mk": "Praktik Quality Control",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.2",
+      "nm_mk": "Praktik Kerja Frais Terapan (Manual/CNC)",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.5",
+      "nm_mk": "Praktik CAD",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.3",
+      "nm_mk": "Praktik Kerja Gerinda Alat Terapan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.2.1",
+      "nm_mk": "Praktik Kerja Bubut Terapan",
+      "sks_mk": 5,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.7",
+      "nm_mk": "Teknik Manufaktur 3",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.11",
+      "nm_mk": "Elemen Mesin 2",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.2",
+      "nm_mk": "Bahasa Inggris 3",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.12",
+      "nm_mk": "Pneumatik-Hidraulik",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.9",
+      "nm_mk": "Teknik Kendali 1",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.1",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.6",
+      "nm_mk": "Teknik Berkomunikasi dan Presentasi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.8",
+      "nm_mk": "Teknik Perancangan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.4",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.3",
+      "nm_mk": "Manajemen Industri",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.10",
+      "nm_mk": "Metal pressworking and plastik Processing",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPPD 1.3.5",
+      "nm_mk": "Perawatan dan Reparasi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.3.3",
+      "nm_mk": "Workshop Management",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.3.4",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 5,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.3.1",
+      "nm_mk": "Tool Making",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.3.2",
+      "nm_mk": "Fine Mechanic",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPD 1.3.13",
+      "nm_mk": "Advance Manufactur",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MAAJID PANGESTU SURYONO",
+    "jk": "L",
+    "nipd": "20201043",
+    "namapt": "Politeknik ATMI",
+    "namajenjang": "D3",
+    "namaprodi": "Teknik Mesin Industri",
+    "reg_pd": "8364EA31-7E98-45A8-964C-24E94C4797C3",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-11T00:00:00Z",
+    "no_seri_ijazah": "214022023000120",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEJGMDZBQUMtREFDQS00NTkzLTkwNDEtODlBQzYxM0JDMkI4",
+    "link_prodi": "/data_prodi/QTc2QUFGMzctMzVGMy00Qjg2LUE2MzQtMTUyMjBDQzczNjRC"
+  }
+}

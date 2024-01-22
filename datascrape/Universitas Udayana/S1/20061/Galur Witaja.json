@@ -1,0 +1,507 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20061",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20072",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20081",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MA104820",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU104120",
+      "nm_mk": "Ilmu Sosial Budaya Dasar",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK122731",
+      "nm_mk": "Logika Pemrograman",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU104320",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA101230",
+      "nm_mk": "Kalkulus I",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA103631",
+      "nm_mk": "Pengantar Teknologi Informasi",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU104520",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MU104420",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 0,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK222731",
+      "nm_mk": "Sistem Digital",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA201130",
+      "nm_mk": "Kalkulus II",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK222531",
+      "nm_mk": "Pemrograman Komputer I",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA201230",
+      "nm_mk": "Aljabar Linier Elementer",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK222431",
+      "nm_mk": "Logika Pemrograman II",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK222331",
+      "nm_mk": "Arsitektur Komputer I",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA203631",
+      "nm_mk": "Statistika Dasar",
+      "sks_mk": 0,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK322130",
+      "nm_mk": "Arsitektur Komputer II",
+      "sks_mk": 0,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA321531",
+      "nm_mk": "Pengantar Pemodelan Matematika",
+      "sks_mk": 0,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA391430",
+      "nm_mk": "Matematika Diskret",
+      "sks_mk": 0,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK322231",
+      "nm_mk": "Komputer Mikro",
+      "sks_mk": 0,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA392331",
+      "nm_mk": "Pengantar Basis Data",
+      "sks_mk": 0,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK422431",
+      "nm_mk": "Pemrograman Komputer II",
+      "sks_mk": 0,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA491131",
+      "nm_mk": "Analisis Numerik",
+      "sks_mk": 0,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK422630",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 0,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK422230",
+      "nm_mk": "Interaksi Manusia & Komputer",
+      "sks_mk": 0,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK422530",
+      "nm_mk": "Sistem Berkas",
+      "sks_mk": 0,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA022431",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20072",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK592530",
+      "nm_mk": "Pemrograman Berbasis Web",
+      "sks_mk": 0,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK591330",
+      "nm_mk": "Teori Bahasa & Otomata",
+      "sks_mk": 0,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK392530",
+      "nm_mk": "Rekayasa Perangkat Lunak",
+      "sks_mk": 0,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK591630",
+      "nm_mk": "Pengantar Kecerdasan Buatan",
+      "sks_mk": 0,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK391730",
+      "nm_mk": "Program Linier",
+      "sks_mk": 0,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK391630",
+      "nm_mk": "Probabilitas Terapan",
+      "sks_mk": 0,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK593411",
+      "nm_mk": "Praktikum Jaringan Komputer",
+      "sks_mk": 0,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK692320",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK691230",
+      "nm_mk": "Grafika Komputer",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK692130",
+      "nm_mk": "Analisis & Desain Sistem Informasi",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK491330",
+      "nm_mk": "Desain & Analisis algoritma",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK933330",
+      "nm_mk": "Network Administrator",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK033330",
+      "nm_mk": "Kriptografi",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK933130",
+      "nm_mk": "Keamanan Jaringan",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK691420",
+      "nm_mk": "Metodelogi Penelitian",
+      "sks_mk": 0,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK591230",
+      "nm_mk": "Riset Operasi",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK033130",
+      "nm_mk": "Basis Data Terdistribusi",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK492511",
+      "nm_mk": "Praktikum Basis Data Lanjut",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK793320",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK792230",
+      "nm_mk": "Analisis & Desain Berorientasi Objek",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK492430",
+      "nm_mk": "Basis Data Lanjut",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK795121",
+      "nm_mk": "Praktik Kerja Lapangan",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK933230",
+      "nm_mk": "Jaringan Komputer Lanjut",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK391411",
+      "nm_mk": "Praktikum Algoritma & Struktur Data",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK391130",
+      "nm_mk": "Algoritma & Struktur Data",
+      "sks_mk": 0,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK203830",
+      "nm_mk": "Arsitektur Komputer",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK691230",
+      "nm_mk": "Grafika Komputer",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK492630",
+      "nm_mk": "Interaksi Manusia & Komputer",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK202530",
+      "nm_mk": "Pemrograman Komputer",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA204230",
+      "nm_mk": "Statistika Dasar",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA494130",
+      "nm_mk": "Analisis Numerik",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK202611",
+      "nm_mk": "Praktikum Pemrograman Komputer",
+      "sks_mk": 0,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK895160",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 0,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK895160",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 0,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK895160",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 0,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Galur Witaja",
+    "jk": "L",
+    "nipd": "0608605064",
+    "namapt": "Universitas Udayana",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "D5732F02-C483-4EED-88CB-0323A89E174B",
+    "mulai_smt": "20061",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2011-10-18T00:00:00Z",
+    "no_seri_ijazah": "1902/UN14.1.28/DT.08.02/2011",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEFGNzM0OTgtMzgwMy00RjQ5LUFBNjQtQ0FGODJDNTU0Q0NF",
+    "link_prodi": "/data_prodi/NjI3NUJEQUYtOTYwOS00RTI4LThGRTctQzRBNzNBRjdBQkQx"
+  }
+}

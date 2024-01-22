@@ -1,0 +1,662 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KTU1001",
+      "nm_mk": "Pengantar Ilmu Kehutanan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU1000",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1004",
+      "nm_mk": "Praktikum Matematika dan Statistik Kehutanan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1041",
+      "nm_mk": "Ekologi Hutan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1043",
+      "nm_mk": "Klimatologi dan Hidrologi Hutan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1003",
+      "nm_mk": "Matematika dan Statistik Kehutanan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDU1006",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BDU1005",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1002",
+      "nm_mk": "Biologi Hutan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1021",
+      "nm_mk": "Ilmu Tanah Hutan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1022",
+      "nm_mk": "Praktikum Ilmu Tanah Hutan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2017",
+      "nm_mk": "Sosiologi Kehutanan dan Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1011",
+      "nm_mk": "Survei dan Pemetaan Hutan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1005",
+      "nm_mk": "Biometrika Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1025",
+      "nm_mk": "Fisiologi Pohon",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1012",
+      "nm_mk": "Praktikum Survei dan Pemetaan Hutan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1023",
+      "nm_mk": "Dendrologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1045",
+      "nm_mk": "Konservasi Tanah dan Air",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1013",
+      "nm_mk": "Pengantar Ekonomi Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1044",
+      "nm_mk": "Konservasi Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1046",
+      "nm_mk": "Praktikum Konservasi Tanah dan Air",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1024",
+      "nm_mk": "Praktikum Dendrologi",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1042",
+      "nm_mk": "Praktikum Ekologi Hutan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1032",
+      "nm_mk": "Praktikum Anatomi dan Identifikasi Kayu",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1031",
+      "nm_mk": "Anatomi dan Identifikasi Kayu",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2022",
+      "nm_mk": "Praktikum Silvikultur",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2031",
+      "nm_mk": "Sifat-sifat Dasar Kayu",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2021",
+      "nm_mk": "Silvikultur",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2012",
+      "nm_mk": "Praktikum Biometrika dan Inventarisasi Sumberdaya Hutan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2023",
+      "nm_mk": "Perlindungan dan Kesehatan Hutan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2001",
+      "nm_mk": "Metode Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2011",
+      "nm_mk": "Inventarisasi Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1201",
+      "nm_mk": "Praktek Pengantar Ilmu Kehutanan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU2000",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2024",
+      "nm_mk": "Praktikum Perlindungan dan Kesehatan Hutan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2032",
+      "nm_mk": "Praktikum Sifat-sifat Dasar Kayu",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2041",
+      "nm_mk": "Ekologi Ekosistem",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2013",
+      "nm_mk": "Hukum Agraria dan Perundang-undangan Kehutanan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU1202",
+      "nm_mk": "Praktek Tipe dan Pemanfaatan Hutan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2043",
+      "nm_mk": "Praktikum Pariwisata Alam",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2002",
+      "nm_mk": "Komunikasi dan Informasi Kehutanan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2025",
+      "nm_mk": "Pemuliaan Pohon",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2035",
+      "nm_mk": "Praktikum Pengolahan Primer Kayu",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2034",
+      "nm_mk": "Pengolahan Primer Kayu",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU2003",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2033",
+      "nm_mk": "Hasil Hutan Non Kayu",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2016",
+      "nm_mk": "Manajemen Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2014",
+      "nm_mk": "Pemanenan Hasil Hutan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU3033",
+      "nm_mk": "Praktikum Pengolahan Sekunder Kayu & Hasil Hutan Non Kayu",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU3021",
+      "nm_mk": "Rehabilitasi Hutan dan Lahan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU3032",
+      "nm_mk": "Pengolahan Sekunder Kayu",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK3051",
+      "nm_mk": "Ekologi Satwa Liar",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2015",
+      "nm_mk": "Praktikum Pemanenan Hasil Hutan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU2042",
+      "nm_mk": "Pariwisata Alam",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22213",
+      "nm_mk": "Praktik Pengukuran Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22215",
+      "nm_mk": "Desain Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22222",
+      "nm_mk": "Kewirausahaan Kehutanan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22309",
+      "nm_mk": "Perencanaan Pariwisata Alam",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22218",
+      "nm_mk": "Praktikum Perencanaan Sumberdaya Hutan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22316",
+      "nm_mk": "Riset dan Manajemen Satwa Liar",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22225",
+      "nm_mk": "Agroforestri",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22303",
+      "nm_mk": "Rehabilitasi Hutan dan Lahan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22217",
+      "nm_mk": "Perencanaan Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22219",
+      "nm_mk": "Kebijakan Kehutanan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22317",
+      "nm_mk": "Praktikum Riset dan Manajemen Satwa Liar",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22301",
+      "nm_mk": "Ekologi Perairan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22302",
+      "nm_mk": "Praktikum Ekologi Perairan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22216",
+      "nm_mk": "Praktikum Desain Penelitian",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22212",
+      "nm_mk": "Kehutanan Sosial",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22305",
+      "nm_mk": "Perilaku Satwa Liar",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22320",
+      "nm_mk": "Pencemaran Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22310",
+      "nm_mk": "Metode Penelitian Konservasi Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22321",
+      "nm_mk": "Praktikum Pencemaran Lingkungan",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22322",
+      "nm_mk": "Restorasi Satwa Liar",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22226",
+      "nm_mk": "Praktik Rencana Usaha Kehutanan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22311",
+      "nm_mk": "Pengelolaan Daerah Aliran Sungai",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22329",
+      "nm_mk": "Hidrologi Hutan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22315",
+      "nm_mk": "Praktikum Pengelolaan Kawasan Konservasi",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22314",
+      "nm_mk": "Pengelolaan Kawasan Konservasi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22330",
+      "nm_mk": "Analisis Mengenai Dampak Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU22309",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU222003",
+      "nm_mk": "Penerapan Teknologi Tepat Guna",
+      "sks_mk": 2,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU222002",
+      "nm_mk": "Komunikasi Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTU22301",
+      "nm_mk": "Proposal Penelitian Skripsi",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22328",
+      "nm_mk": "Praktik Konservasi Sumberdaya Hutan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KTK22323",
+      "nm_mk": "Konservasi Fauna Langka",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KIANDRA LARAS SABILLA",
+    "jk": "P",
+    "nipd": "20462008KT09391",
+    "namapt": "Universitas Gadjah Mada",
+    "namajenjang": "S1",
+    "namaprodi": "Kehutanan",
+    "reg_pd": "71B6B465-2F3C-442E-8485-AB8DBE7CBC11",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEVEMUQwQ0UtRjEyMi00QjM3LUE4NDktMjVGODFCMzM1Mzk1",
+    "link_prodi": "/data_prodi/RTI2NDNGMzYtQ0VBRi00MjM3LUJGMkQtQzhDRTFFMjJCN0JC"
+  }
+}

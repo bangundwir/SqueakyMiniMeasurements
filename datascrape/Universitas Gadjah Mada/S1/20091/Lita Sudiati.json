@@ -1,0 +1,763 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 25,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MSF1911",
+      "nm_mk": "MATEMATIKA DAN FISIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1211",
+      "nm_mk": "FARMASETIKA DASAR I",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1612",
+      "nm_mk": "PRAKTIKUM KIMIA ANALISIS I",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1311",
+      "nm_mk": "FARMASI FISIK II",
+      "sks_mk": 8,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKD1921",
+      "nm_mk": "ANATOMI FISIOLOGI MANUSIA",
+      "sks_mk": 5,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKD1922",
+      "nm_mk": "PRAKANATOMI FISIOLOGI MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKD1931",
+      "nm_mk": "PARASITOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1511",
+      "nm_mk": "KIMIA ORGANIK II",
+      "sks_mk": 5,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1312",
+      "nm_mk": "PRAKTIKUM FARMASI FISIK II",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1011",
+      "nm_mk": "FARMAKOGNOSI",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1611",
+      "nm_mk": "KIMIA FARMASI DASAR",
+      "sks_mk": 5,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1532",
+      "nm_mk": "PRAKBIOKIMIA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1221",
+      "nm_mk": "FARMASETIKA DASAR II",
+      "sks_mk": 5,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1531",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 5,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1321",
+      "nm_mk": "FARMASI FISIK II",
+      "sks_mk": 5,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1021",
+      "nm_mk": "FARMAKOGNOSI",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1522",
+      "nm_mk": "PRAKTIKUM BIOKIMA",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1941",
+      "nm_mk": "STATISTIKA FARMASI",
+      "sks_mk": 1,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1621",
+      "nm_mk": "KIMIA ANALISIS I",
+      "sks_mk": 5,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1322",
+      "nm_mk": "PRAKFARMASI FISIK II",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU1000",
+      "nm_mk": "AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1622",
+      "nm_mk": "PRAKKIMIA ANALISIS I",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1222",
+      "nm_mk": "PRAKFARMASETIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1521",
+      "nm_mk": "KIMIA ORGANIK II",
+      "sks_mk": 5,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2612",
+      "nm_mk": "PRAKTIKUM KROMATOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2611",
+      "nm_mk": "KROMATOGRAFI",
+      "sks_mk": 5,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2711",
+      "nm_mk": "FARMAKOLOGI DASAR",
+      "sks_mk": 5,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2622",
+      "nm_mk": "PRAKKROMATOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2621",
+      "nm_mk": "KROMATOGRAFI",
+      "sks_mk": 5,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU2000",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2812",
+      "nm_mk": "PRAKBIOLOGI MOLEKULER",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2411",
+      "nm_mk": "TEKNOLOGI SEDIAAN FARMASI",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKD1922",
+      "nm_mk": "PRAKANATOMI FISIOLOGI MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2012",
+      "nm_mk": "PRAKMIKROBIOLOGI FARMASI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2011",
+      "nm_mk": "MIKROBIOLOGI FARMASI",
+      "sks_mk": 5,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2811",
+      "nm_mk": "BIOLOGI MOLEKULER",
+      "sks_mk": 5,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD2712",
+      "nm_mk": "PRAKTIKUM FARMAKOLOGI DASAR",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2511",
+      "nm_mk": "KIMIA MEDISINAL",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2821",
+      "nm_mk": "IMUNOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAD1521",
+      "nm_mk": "KIMIA ORGANIK II",
+      "sks_mk": 5,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2112",
+      "nm_mk": "PRAKTIKUM KIMIA PRODUK ALAMI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2041",
+      "nm_mk": "FISIOLOGI TUMBUHAN",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2032",
+      "nm_mk": "PRAKTIKUM BUDIDAYA TANAMAN OBAT",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU2100",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2021",
+      "nm_mk": "KULTUR JARINGAN TANAMAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2721",
+      "nm_mk": "TOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2031",
+      "nm_mk": "BUDIDAYA TUMBUHAN OBAT",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2022",
+      "nm_mk": "PRAKKULTUR JARINGAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2111",
+      "nm_mk": "KIMIA PRODUK ALAMI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2822",
+      "nm_mk": "PRAKTIKUM IMUNOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA2042",
+      "nm_mk": "PRAKFISIOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3011",
+      "nm_mk": "KULTUR JARINGAN TANAMAN",
+      "sks_mk": 5,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3711",
+      "nm_mk": "FARMAKOLOGI MOLEKULER",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3112",
+      "nm_mk": "PRAKANALISIS KANDUNGAN TUMBUHAN OBAT",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3012",
+      "nm_mk": "PRAKTIKUM JARINGAN TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3911",
+      "nm_mk": "METODOLOGI DESIGN PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3111",
+      "nm_mk": "KIMIA BAHAN KELAUTAN",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3412",
+      "nm_mk": "PRAKTKN.FORM.SEDIAAN PADAT",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3311",
+      "nm_mk": "BIOFARMASETIKA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3411",
+      "nm_mk": "TFS PADAT",
+      "sks_mk": 5,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3022",
+      "nm_mk": "PRAKTIKUM ANALISIS JAMU",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3021",
+      "nm_mk": "ANALISIS JAMU",
+      "sks_mk": 5,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA0031",
+      "nm_mk": "PENGOBATAN KOMPLEMENTER",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3152",
+      "nm_mk": "PRAKTIKUM TEKNOLOGI FITOFARMASETIK",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3121",
+      "nm_mk": "STABDARISASI OBAT ALAM",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3811",
+      "nm_mk": "FARMAKOTERAPI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3132",
+      "nm_mk": "PRAKTIKUM STANDARISASI OBAT ALAM",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3611",
+      "nm_mk": "ELUSIDASI STRUKTUR",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3721",
+      "nm_mk": "FARMAKOTERAPI",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3131",
+      "nm_mk": "TEKNOLOGI FITOFARMASETIK",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU4100",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3122",
+      "nm_mk": "PRAKTIKUM AKTO",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3151",
+      "nm_mk": "TEKNOLOGI FERMENTASI",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3612",
+      "nm_mk": "PRAKTIKUM ELUSIDASI STRUKTUR",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3141",
+      "nm_mk": "1IMIA PRODUK ALAM KELAUTAN",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3421",
+      "nm_mk": "TFS CAIR SEMI PADAT",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA3422",
+      "nm_mk": "PRAKTIKUM TFS CAIR SEMI PADAT",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4611",
+      "nm_mk": "KIMIA LINGKUNGAN PENGOL.LIMBAH",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4021",
+      "nm_mk": "AROMATERAPI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF1701",
+      "nm_mk": "Kimia Organik I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4031",
+      "nm_mk": "ETNOBOTANI",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4111",
+      "nm_mk": "KOSMETIKA ALAMI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4121",
+      "nm_mk": "FITOTERAPI II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF2801",
+      "nm_mk": "TOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4311",
+      "nm_mk": "STABILITAS OBAT",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4711",
+      "nm_mk": "UJI KLINIK OBAT ALAM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4112",
+      "nm_mk": "PRAKKOSMETIKA ALAMI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4211",
+      "nm_mk": "MANAJEMEN FARMASI INDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4921",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAA4011",
+      "nm_mk": "PRODUK SUPLEMEN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF4001",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF1101",
+      "nm_mk": "MIKROBIOLOGI FARMASI",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF1801",
+      "nm_mk": "FARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF2502",
+      "nm_mk": "FTS CAIR-SEMI PADAT",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF2603",
+      "nm_mk": "KROMATOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF4001",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF2801",
+      "nm_mk": "TOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAP0310",
+      "nm_mk": "MANAJEMEN PERAPOTEKAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAF3401",
+      "nm_mk": "BIOFARMASETIKA",
+      "sks_mk": 5,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Lita Sudiati",
+    "jk": "P",
+    "nipd": "09284423FA08334",
+    "namapt": "Universitas Gadjah Mada",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "89C222B0-9C71-452B-A2EF-10689781D54D",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": null,
+    "no_seri_ijazah": "4841/FA/2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEVEMUQwQ0UtRjEyMi00QjM3LUE4NDktMjVGODFCMzM1Mzk1",
+    "link_prodi": "/data_prodi/QUZGMkRBOUEtRjMxMy00MUMyLUI3MzAtREEyQUQyM0MwRTQx"
+  }
+}

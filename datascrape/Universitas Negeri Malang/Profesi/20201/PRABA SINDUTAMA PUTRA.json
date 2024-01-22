@@ -1,0 +1,85 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 1,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "LOKPPG7001-202",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 12,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDMPPG7001-202",
+      "nm_mk": "Pendalaman Materi Pedagogik dan Bidang Studi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLPPG7002-202",
+      "nm_mk": "Praktik Pengalaman Lapangan 2",
+      "sks_mk": 8,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLPPG7003-202",
+      "nm_mk": "Praktik Pengalaman Lapangan 3",
+      "sks_mk": 8,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLPPG7001-202",
+      "nm_mk": "Praktik Pengalaman Lapangan 1",
+      "sks_mk": 8,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "PRABA SINDUTAMA PUTRA",
+    "jk": "L",
+    "nipd": "203113779988",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "EB9899F6-A666-49F1-B2B8-EA77C06AB905",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-09-15T00:00:00Z",
+    "no_seri_ijazah": "0010332202770405",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QjM1MDcyOUQtMkJFQy00QTZELUIxODYtNjM5ODc1NjI2NEJE"
+  }
+}

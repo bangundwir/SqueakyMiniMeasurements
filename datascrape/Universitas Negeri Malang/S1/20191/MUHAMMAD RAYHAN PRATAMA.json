@@ -1,0 +1,565 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "GEOG6005-51201-2018",
+      "nm_mk": "Geografi Manusia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6002-51201-2018",
+      "nm_mk": "Geologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6003-51201-2018",
+      "nm_mk": "Geomorfologi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6006-51201-2018",
+      "nm_mk": "Kartografi Dasar",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6004-51201-2018",
+      "nm_mk": "Pratikum Geomorfologi Dasar",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6007-51201-2018",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FISO6001-51201-2018",
+      "nm_mk": "Wawasan Ilmu Sosial",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6001-51201-2018",
+      "nm_mk": "Pengantar Geografi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6007-51201-2018",
+      "nm_mk": "Pratikum Kartografi Dasar",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6008-51201-2018",
+      "nm_mk": "Hidrologi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6009-51201-2018",
+      "nm_mk": "Pratikum Hidrologi",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6012-51201-2018",
+      "nm_mk": "Oceanografi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6018-51201-2018",
+      "nm_mk": "Geografi Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6015-51201-2018",
+      "nm_mk": "Penginderaan Jauh Dasar",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6011-51201-2018",
+      "nm_mk": "Pratikum Meteorologi Klimatologi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6001-51201-2018",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6010-51201-2018",
+      "nm_mk": "Meteorologi Klimatologi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6017-51201-2018",
+      "nm_mk": "Biogeografi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6020-51201-2018",
+      "nm_mk": "Geografi Penduduk",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6019-51201-2018",
+      "nm_mk": "Pengantar Perencanaan Wilayah",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6021-51201-2018",
+      "nm_mk": "Kuliah Kerja Lapangan I (KKL I)",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6016-51201-2018",
+      "nm_mk": "Pratikum Penginderaan Jauh Dasar",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6023-2018",
+      "nm_mk": "Praktikum Ilmu Ukur Tanah",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6033-2018",
+      "nm_mk": "Statistika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6030-2018",
+      "nm_mk": "Geografi Regional",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6028-2018",
+      "nm_mk": "Sistem Informasi Geografi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6014-2018",
+      "nm_mk": "Pratikum Geografi Tanah",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6008-2018",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6022-2018",
+      "nm_mk": "Ilmu Ukur Tanah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6013-2018",
+      "nm_mk": "Geografi Tanah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6026-2018",
+      "nm_mk": "Mineralogi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6032-2018",
+      "nm_mk": "Bahasa Inggris Profesi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6027-2018",
+      "nm_mk": "Geografi Desa Kota",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6029-2018",
+      "nm_mk": "Praktikum Sistem Informasi Geografi",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6031-2018",
+      "nm_mk": "Geografi Pariwisata",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6038-2018",
+      "nm_mk": "Kartografi Tematik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6034-2018",
+      "nm_mk": "Geografi Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6036-2018",
+      "nm_mk": "Konservasi Lahan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FISO6002-2018",
+      "nm_mk": "Praksis Sosial",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6025-2018",
+      "nm_mk": "Pratikum Fotogrametri",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6040-2018",
+      "nm_mk": "Kuliah Kerja Lapangan II (KKL II)",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6041-2018",
+      "nm_mk": "Metode Penelitian Geografi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6074-2018",
+      "nm_mk": "Geografi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6009-88204-2018",
+      "nm_mk": "Pendidikan Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6035-2018",
+      "nm_mk": "Statistik Spasial",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6024-2018",
+      "nm_mk": "Fotogrametri",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6037-2018",
+      "nm_mk": "Pratikum Konservasi Lahan",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6039-2018",
+      "nm_mk": "Praktikum Kartografi Tematik",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6046-2018",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6042-51201-2018",
+      "nm_mk": "Evaluasi Sumberdaya Lahan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6045-51201-2018",
+      "nm_mk": "Perencanaan Pembangunan Wilayah",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6047-51201-2018",
+      "nm_mk": "Geografi Kebencanaan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6069-51201-2018",
+      "nm_mk": "Ekonomi Pariwisata ***",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6068-51201-2018",
+      "nm_mk": "Metodologi Penelitian Pariwisata ***",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6043-51201-2018",
+      "nm_mk": "Pratikum Evaluasi Sumberdaya Lahan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6067-51201-2018",
+      "nm_mk": "Evaluasi Potensi Kepariwisataan ***",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6092-51201-2018",
+      "nm_mk": "Manajemen Pariwisata ***",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6093-51201-2018",
+      "nm_mk": "Pengembangan ODTW ***",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6044-51201-2018",
+      "nm_mk": "Perencanaan Pedesaan-Perkotaan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6095-51201-2018",
+      "nm_mk": "Wisata Budaya ***",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6048-51201-2018",
+      "nm_mk": "Kuliah Kerja Lapangan III (KKL III)",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6094-51201-2018",
+      "nm_mk": "Evaluasi Dampak Pariwisata ***",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6072-51201-2018",
+      "nm_mk": "Sistem Informasi Kepariwisataan ***",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6071-51201-2018",
+      "nm_mk": "Pemasaran Pariwisata ***",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6070-51201-2018",
+      "nm_mk": "Perencanaan Pengembangan Pariwisata ***",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6079-51201-2018",
+      "nm_mk": "Analisis Potensi Wilayah",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6073-51201-2018",
+      "nm_mk": "Ekowisata ***",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIV6010-83203-2018",
+      "nm_mk": "Manajemen Inovasi",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6100-51201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GEOG6100-51201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUHAMMAD RAYHAN PRATAMA",
+    "jk": "L",
+    "nipd": "190722638006",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Geografi",
+    "reg_pd": "FAF43DAA-C89C-40F7-8707-09E7C0F62AF6",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-04T00:00:00Z",
+    "no_seri_ijazah": "512012023000490",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/MjNDRTM5NUYtOEUyQy00M0FFLTlDOUMtNzY0RUE4MzYwOTQx"
+  }
+}

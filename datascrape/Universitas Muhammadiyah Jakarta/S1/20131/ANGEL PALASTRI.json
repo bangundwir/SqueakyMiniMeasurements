@@ -1,0 +1,682 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ARS017",
+      "nm_mk": "MENGGAMBAR TEKNIK",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS015",
+      "nm_mk": "MENGGAMBAR ARSITEKTUR I",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS006",
+      "nm_mk": "TEORI ARSITEKTUR I",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS012",
+      "nm_mk": "ESTETIKA BENTUK I",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMJ004",
+      "nm_mk": "Al Islam I",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS031",
+      "nm_mk": "TEKNOLOGI BANGUNAN I",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMJ002",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS010X",
+      "nm_mk": "Sejarah Arsitektur I",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT0005",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS014",
+      "nm_mk": "MEKANIKA TEKNIK",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS016",
+      "nm_mk": "MENGGAMBAR ARSITEKTUR II",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS032",
+      "nm_mk": "TEKNOLOGI BANGUNAN II",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMJ005",
+      "nm_mk": "AL-ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS011X",
+      "nm_mk": "Sejarah Arsitektur II",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS025",
+      "nm_mk": "PERANCANGAN ARSITEKTUR I",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMJ001",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS018X",
+      "nm_mk": "Aplikasi Komputer",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS007",
+      "nm_mk": "TEORI ARSITEKTUR II",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS013",
+      "nm_mk": "ESTETIKA BENTUK II",
+      "sks_mk": 0,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS023",
+      "nm_mk": "UTILITAS BANGUNAN I",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS026",
+      "nm_mk": "PERANCANGAN ARSITEKTUR II",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS019",
+      "nm_mk": "TIPOLOGI BANGUNAN",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS056",
+      "nm_mk": "BANGUNAN PINTAR",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS008X",
+      "nm_mk": "Pemrograman Arsitektur I",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS021",
+      "nm_mk": "KRITIK ARSITEKTUR",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT0001",
+      "nm_mk": "Al Islam III",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS041",
+      "nm_mk": "INTERIOR I",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS033X",
+      "nm_mk": "Teknologi Bangunan III",
+      "sks_mk": 0,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS009X",
+      "nm_mk": "Pemrograman Arsitektur II",
+      "sks_mk": 0,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS034",
+      "nm_mk": "TEKNOLOGI BANGUNAN IV",
+      "sks_mk": 0,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS027",
+      "nm_mk": "PERANCANGAN ARSITEKTUR III",
+      "sks_mk": 0,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS024",
+      "nm_mk": "UTILITAS II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS004X",
+      "nm_mk": "Arsitektur Hijau",
+      "sks_mk": 0,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS053X",
+      "nm_mk": "Manajemen Proyek",
+      "sks_mk": 0,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS042",
+      "nm_mk": "INTERIOR II",
+      "sks_mk": 0,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS037",
+      "nm_mk": "ARSITEKTUR LANSEKAP I",
+      "sks_mk": 0,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS060",
+      "nm_mk": "ARSITEKTUR UNIVERSAL",
+      "sks_mk": 0,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS044",
+      "nm_mk": "ANGGARAN BIAYA",
+      "sks_mk": 0,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS026",
+      "nm_mk": "PERANCANGAN ARSITEKTUR II",
+      "sks_mk": 0,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS001X",
+      "nm_mk": "Arsitektur Kota",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS035",
+      "nm_mk": "TEKNOLOGI BANGUNAN V",
+      "sks_mk": 0,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS051",
+      "nm_mk": "Etika & Praktik Keprofesian",
+      "sks_mk": 0,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS020X",
+      "nm_mk": "Analitik Ruang",
+      "sks_mk": 0,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS039",
+      "nm_mk": "ARSITEKTUR KOMUNITAS I",
+      "sks_mk": 0,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS052",
+      "nm_mk": "PRANATA PEMBANGUNAN",
+      "sks_mk": 0,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS049",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS002",
+      "nm_mk": "PERUMAHAN & PEMUKIMAN",
+      "sks_mk": 0,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS036",
+      "nm_mk": "TEKNOLOGI BANGUNAN VI",
+      "sks_mk": 0,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS038X",
+      "nm_mk": "Arsitektur Lansekap II",
+      "sks_mk": 0,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS027",
+      "nm_mk": "PERANCANGAN ARSITEKTUR III",
+      "sks_mk": 0,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS058X",
+      "nm_mk": "Arsitektur Digital",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS047X",
+      "nm_mk": "Metode Penelitian Kualitatif",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS014",
+      "nm_mk": "MEKANIKA TEKNIK",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS005",
+      "nm_mk": "KOMUNIKASI ARSITEKTUR",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS061X",
+      "nm_mk": "Filsafat Arsitektur",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS006",
+      "nm_mk": "TEORI ARSITEKTUR I",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS044",
+      "nm_mk": "ANGGARAN BIAYA",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS028",
+      "nm_mk": "PERANCANGAN ARSITEKTUR IV",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FT0001",
+      "nm_mk": "Al Islam III",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMJ003X",
+      "nm_mk": "Kemuhammadiyahan",
+      "sks_mk": 0,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS029X",
+      "nm_mk": "Perancangan Arsitek V",
+      "sks_mk": 0,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS039",
+      "nm_mk": "ARSITEKTUR KOMUNITAS I",
+      "sks_mk": 0,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS007",
+      "nm_mk": "TEORI ARSITEKTUR II",
+      "sks_mk": 0,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS049",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS022",
+      "nm_mk": "ANTROPOLOGI ARSITEKTUR",
+      "sks_mk": 0,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS055X",
+      "nm_mk": "Psikologi Arsitektur",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS053X",
+      "nm_mk": "Manajemen Proyek",
+      "sks_mk": 0,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMJ005",
+      "nm_mk": "AL-ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS030",
+      "nm_mk": "PERANCANGAN ARSITEKTUR VI",
+      "sks_mk": 0,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS008",
+      "nm_mk": "METODE PERENCANAAN DAN PERANCANGAN ARSITEKTUR I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS046",
+      "nm_mk": "SEMINAR TUGAS AKHIR",
+      "sks_mk": 0,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS023",
+      "nm_mk": "UTILITAS BANGUNAN I",
+      "sks_mk": 0,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS012",
+      "nm_mk": "ESTETIKA BENTUK I",
+      "sks_mk": 0,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS060",
+      "nm_mk": "ARSITEKTUR UNIVERSAL",
+      "sks_mk": 0,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS041",
+      "nm_mk": "INTERIOR I",
+      "sks_mk": 0,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS040",
+      "nm_mk": "ARSITEKTUR KOMUNITAS II",
+      "sks_mk": 0,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS039",
+      "nm_mk": "ARSITEKTUR KOMUNITAS I",
+      "sks_mk": 0,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS020",
+      "nm_mk": "TIPOLOGI PEMUKIMAN",
+      "sks_mk": 0,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS032",
+      "nm_mk": "TEKNOLOGI BANGUNAN II",
+      "sks_mk": 0,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS004",
+      "nm_mk": "PENGANTAR ARSITEKTUR BERKELANJUTAN",
+      "sks_mk": 0,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS027",
+      "nm_mk": "PERANCANGAN ARSITEKTUR III",
+      "sks_mk": 0,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS045",
+      "nm_mk": "KAJIAN LITERATUR",
+      "sks_mk": 0,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS034",
+      "nm_mk": "TEKNOLOGI BANGUNAN IV",
+      "sks_mk": 0,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS050",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 0,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS057",
+      "nm_mk": "ARSITEKTUR KONSERVASI",
+      "sks_mk": 0,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS003",
+      "nm_mk": "FISIKA BANGUNAN",
+      "sks_mk": 0,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ANGEL PALASTRI",
+    "jk": "P",
+    "nipd": "2013460024",
+    "namapt": "Universitas Muhammadiyah Jakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Arsitektur",
+    "reg_pd": "C2761E13-9E00-41FB-8B77-EF301F4CE533",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-09-03T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QkVCMDk2NjMtQjYyQy00MTFCLThFRDctMDBBMjc3QjE5MzJD",
+    "link_prodi": "/data_prodi/NzBFNUUyQTItNUU5Ny00ODdDLUE3MUItRDU2NDY0MTY3NzRF"
+  }
+}

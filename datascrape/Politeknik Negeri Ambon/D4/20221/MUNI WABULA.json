@@ -1,0 +1,201 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TI9110",
+      "nm_mk": "Praktikum Pengantar Informatika",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI7102",
+      "nm_mk": "Computer Troubleshooting",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI1105",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI1104",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI3101",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI7101",
+      "nm_mk": "Organisasi dan Arsitektur Komputer",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI7107",
+      "nm_mk": "Praktikum Sistem Digital",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI3102",
+      "nm_mk": "Praktikum Algoritma dan Pemrograman",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI7103",
+      "nm_mk": "Praktikum Computer Troubleshooting",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI7106",
+      "nm_mk": "Sistem Digital",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI9109",
+      "nm_mk": "Pengantar Informatika",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2101",
+      "nm_mk": "Matematika Informatika",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI3207",
+      "nm_mk": "Pemrograman Web",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI3203",
+      "nm_mk": "Algoritma dan Struktur Data",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI6203",
+      "nm_mk": "BASIS DATA 1",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2203",
+      "nm_mk": "Aljabar Linear",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI9206",
+      "nm_mk": "Bahasa Inggris 1",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI3204",
+      "nm_mk": "Praktikum Algoritma dan Struktur Data",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI8202",
+      "nm_mk": "Praktiukum Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI8201",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI2202",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI3208",
+      "nm_mk": "Praktikum Pemrograman Web",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TI6204",
+      "nm_mk": "PRAKTIKUM  BASIS DATA 1",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUNI WABULA",
+    "jk": "P",
+    "nipd": "1322094048",
+    "namapt": "Politeknik Negeri Ambon",
+    "namajenjang": "D4",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "DA7DD9A9-DEE9-4C80-87A9-09906A767A12",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0MxQTk3NDUtMDA1MS00QkNCLUIzMUUtNDA4RDY3MThCOUI2",
+    "link_prodi": "/data_prodi/NkY5MUVBQ0MtRTBCMy00NDlBLTkyNEQtNTVEOTFEQ0FGNDMy"
+  }
+}

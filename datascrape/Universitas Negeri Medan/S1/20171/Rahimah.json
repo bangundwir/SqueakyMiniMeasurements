@@ -1,0 +1,515 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "1UMD4700103",
+      "nm_mk": "KEPEMIMPINAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MDK4700202",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47007",
+      "nm_mk": "ANTROPOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FIS4700102",
+      "nm_mk": "PENGEMBANGAN MATERI  IPS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MDK4700102",
+      "nm_mk": "FILSAFAT PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47002",
+      "nm_mk": "SEJARAH INDONESIA PERIODE PRAAKSARA SAMPAI HINDHU BUDHA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47004",
+      "nm_mk": "SEJARAH KEBUDAYAAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47005",
+      "nm_mk": "ARKEOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47001",
+      "nm_mk": "PENGANTAR ILMU SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47009",
+      "nm_mk": "SEJARAH ASIA SELATAN",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47006",
+      "nm_mk": "SEJARAH MARITIM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47011",
+      "nm_mk": "SEJARAH ASIA TIMUR",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47003",
+      "nm_mk": "SEJARAH EROPA",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47010",
+      "nm_mk": "SEJARAH AMERIKA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MDK4700402",
+      "nm_mk": "PROFESI KEPENDIDIKAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47016",
+      "nm_mk": "MAGANG 1",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FIS4700202",
+      "nm_mk": "PEMBELAJARAN  IPS TERPADU",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47012",
+      "nm_mk": "SEJARAH ASIA BARAT DAYA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47014",
+      "nm_mk": "SEJARAH PEREKONOMIAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ47008",
+      "nm_mk": "SEJARAH INDONESIA PERIODE ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MDK4700302",
+      "nm_mk": "PSIKOLOGI PENDIDIKAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MKU4700141214",
+      "nm_mk": "PEND. AGAMA ISLAM",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704141214",
+      "nm_mk": "PENULISAN KARYA ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702441214",
+      "nm_mk": "SOSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703041214",
+      "nm_mk": "SEJARAH POLITIK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4701741214",
+      "nm_mk": "SEJARAH INDONESIA PERIODE BANGSA BARAT",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4701841214",
+      "nm_mk": "SEJARAH ASIA TENGGARA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2FIS4700341214",
+      "nm_mk": "STUDI MASYARAKAT INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702241214",
+      "nm_mk": "GEOGRAFI SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704541214",
+      "nm_mk": "STATISTIK DASAR",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4701941214",
+      "nm_mk": "SEJARAH ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MKU4701441214",
+      "nm_mk": "PEND. KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702841214",
+      "nm_mk": "MUSIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4701341214",
+      "nm_mk": "SEJARAH SUMATERA UTARA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703541214",
+      "nm_mk": "PENGEMBANGAN PERANGKAT PEMBELAJARAN",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702641214",
+      "nm_mk": "SEJARAH INDONESIA PERIODE PERGERAKAN NASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MKU4700641214",
+      "nm_mk": "PEND. PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702941214",
+      "nm_mk": "TEORI KEBUDAYAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4705041214",
+      "nm_mk": "TELAAH KURIKULUM PENDIDIKAN SEJARAH",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MKU4701241214",
+      "nm_mk": "PEND. BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703441214",
+      "nm_mk": "METODOLOGI PENELITIAN SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702741214",
+      "nm_mk": "SEJARAH PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702141214",
+      "nm_mk": "SEJARAH AFRIKA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703741214",
+      "nm_mk": "TEORI-TEORI SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703941214",
+      "nm_mk": "SEJARAH PASIFIK BARAT DAYA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704041214",
+      "nm_mk": "EVALUASI PEMBELAJARAN SEJARAH",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702341214",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704241214",
+      "nm_mk": "SEJARAH SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4705241214",
+      "nm_mk": "MICRO TEACHING",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704441214",
+      "nm_mk": "ANALISA WACANA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703341214",
+      "nm_mk": "STRATEGI BELAJAR MENGAJAR",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703241214",
+      "nm_mk": "SEJARAH AGRARIA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704341214",
+      "nm_mk": "FILSAFAT SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703641214",
+      "nm_mk": "SEJARAH INDONESIA PERIODE PASCA KEMERDEKAAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4705641214",
+      "nm_mk": "SEMINAR SEJARAH",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704841214",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4705141214",
+      "nm_mk": "MEDIA PEMBELAJARAN SEJARAH",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704941214",
+      "nm_mk": "SEJARAH PARIWISATA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4705441214",
+      "nm_mk": "MENGAJAR TERBIMBING",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704741214",
+      "nm_mk": "HISTORIOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4702041214",
+      "nm_mk": "SEJARAH INTELEKTUAL",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4703841214",
+      "nm_mk": "METODOLOGI PENELITIAN PENDIDIKAN SEJARAH",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4704641214",
+      "nm_mk": "SEJARAH INDONESIA KONTEMPORER",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3SEJ4705741214",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1MKU4701641214",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Rahimah",
+    "jk": "P",
+    "nipd": "3172121007",
+    "namapt": "Universitas Negeri Medan",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Sejarah",
+    "reg_pd": "FA68C727-2B67-4D43-BAF8-C20E2BA2005B",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-04-13T00:00:00Z",
+    "no_seri_ijazah": "872012021000567",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RkE4M0E5RkYtNzRCMi00OTM4LTg1NEEtMEY0OTE1RDVBNDFE",
+    "link_prodi": "/data_prodi/OTVGNTQyNjktRTcwMy00NTdGLUJCNTItQ0E2MUQwMEE5QzIy"
+  }
+}

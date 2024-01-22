@@ -1,0 +1,453 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20213",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "IKMSUM6004-2020",
+      "nm_mk": "Dasar Ilmu Gizi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6007-2020",
+      "nm_mk": "Bhs. Inggris",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6008-2020",
+      "nm_mk": "Biomedik I",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6007-2020",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6006-2020",
+      "nm_mk": "Penulisan Karya Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6005-2020",
+      "nm_mk": "Kesehatan dan Keselamatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIOKUM6001-2020",
+      "nm_mk": "Pengantar Ilmu Keolahragaan Dan Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6003-2020",
+      "nm_mk": "Dasar Kesehatan Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6002-2020",
+      "nm_mk": "Pengantar Ilmu Kependudukan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6001-2020",
+      "nm_mk": "Pengantar Ilmu Kesehatan Masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6012-2020",
+      "nm_mk": "Dasar Promosi kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6033-2020",
+      "nm_mk": "Etika dan Hukum Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6011-2020",
+      "nm_mk": "Dasar Epidemiologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6034-2020",
+      "nm_mk": "Sistem Informasi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6010-2020",
+      "nm_mk": "Administrasi dan Kebijakan Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6023-2020",
+      "nm_mk": "Kesehatan Olahraga Wanita dan Anak",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6013-2020",
+      "nm_mk": "Biostatistik Deskriptif dan Inferensial",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6002-2020",
+      "nm_mk": "Pendidikan Agama Protestan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6009-2020",
+      "nm_mk": "Biomedik II",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6030-2020",
+      "nm_mk": "Pengembangan dan Pengorganisasian Masyarakat masyarakat",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6008-2020",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6024-2020",
+      "nm_mk": "Kesehatan olahraga lansia dan disabilitas",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6032-2020",
+      "nm_mk": "Psikologi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6017-2020",
+      "nm_mk": "Epidemiologi Penyakit Tidak Menular",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6031-2020",
+      "nm_mk": "Kepemimpinan &amp; Berfikir Sistem Kesmas",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6015-2020",
+      "nm_mk": "Kesehatan Reproduksi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6021-2020",
+      "nm_mk": "Komunikasi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6016-2020",
+      "nm_mk": "Epidemiologi Penyakit Menular",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6019-2020",
+      "nm_mk": "Perencanaan dan Evaluasi Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6018-2020",
+      "nm_mk": "Analisis Kualitas Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6020-2020",
+      "nm_mk": "Ekonomi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6035-2020",
+      "nm_mk": "Praktikum Kesehatan Masyarakat Dasar",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6027-2020",
+      "nm_mk": "Manajemen Bencana",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6009-2018",
+      "nm_mk": "Pendidikan Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6108-2020",
+      "nm_mk": "Interprofesional",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6028-2020",
+      "nm_mk": "Pembiayaan &amp; Penganggaran Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6022-2020",
+      "nm_mk": "Surveilans Kesehatan Masyarakat",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6026-2020",
+      "nm_mk": "Perencanaan dan Evaluasi Program Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6014-2020",
+      "nm_mk": "Sosio Antropologi Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6029-2020",
+      "nm_mk": "Manajemen Data",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6025-2020",
+      "nm_mk": "Program Promosi Kesehatan Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6102-2020",
+      "nm_mk": "Praktikum Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6073-2020",
+      "nm_mk": "Toksikologi Industri",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6070-2020",
+      "nm_mk": "Hiperkes dan Keselamatan Kerja",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6082-2020",
+      "nm_mk": "Sistem Informasi Manajemen Puskesmas dan RS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6106-2020",
+      "nm_mk": "Metodologi penelitian",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6069-2020",
+      "nm_mk": "Ergonomi dan Faal Kerja",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6107-2020",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6101-2020",
+      "nm_mk": "Manajemen resiko, mutu, dan safety RS",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6103-2020",
+      "nm_mk": "Gizi Kerja",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6091-2020",
+      "nm_mk": "Magang",
+      "sks_mk": 4,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6091-2020",
+      "nm_mk": "Magang",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IKMSUM6100-2020",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6010-2020",
+      "nm_mk": "Manajemen Inovasi",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ANGGITA MARGARETHA TAMPUBOLON",
+    "jk": "P",
+    "nipd": "200612635238",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Kesehatan Masyarakat",
+    "reg_pd": "9BB46C0B-F10D-4818-95E7-3DE798A33567",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/N0ZFOTA1QjYtMTZDMy00OTE5LUI2QjQtQTBDQkM5Q0FFQTRD"
+  }
+}

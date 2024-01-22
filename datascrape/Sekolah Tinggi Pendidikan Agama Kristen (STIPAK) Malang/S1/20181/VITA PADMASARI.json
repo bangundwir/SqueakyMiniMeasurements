@@ -1,0 +1,614 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKK 16",
+      "nm_mk": "DASAR-DASAR KEPENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 04",
+      "nm_mk": "PEMBIMBING PENGETAHUAN PB",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 01",
+      "nm_mk": "PEMBIMBING PENGETAHUAN PL",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 02",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN DAN BIMBINGAN PESERTA DIDIK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 28",
+      "nm_mk": "LOGIKA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW 01",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 04",
+      "nm_mk": "KEPEMIMPINAN KRISTEN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 01",
+      "nm_mk": "PSIKOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 01",
+      "nm_mk": "Persekutuan Mahasiswa",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK 06",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 03",
+      "nm_mk": "PEMBIMBING TEOLOGI SISTEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 14",
+      "nm_mk": "PEMBIMBING PAK II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 15",
+      "nm_mk": "TEOLOGI AGAMA-AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK 07",
+      "nm_mk": "SEJARAH PAK",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW 02",
+      "nm_mk": "KOMPUTER 1",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 15",
+      "nm_mk": "TEORI-TEORI BELAJAR DAN PENERAPANNYA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK 04",
+      "nm_mk": "FILSAFAT PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 34",
+      "nm_mk": "MUSIK GEREJA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 20",
+      "nm_mk": "SEJARAH GEREJA ASIA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB 07",
+      "nm_mk": "OIKUMENIKA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 17",
+      "nm_mk": "HERMENEUTIKA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 14",
+      "nm_mk": "PEMBIMBING PAK II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 56",
+      "nm_mk": "Entrepreneurship",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 13",
+      "nm_mk": "BAHASA IBRANI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK 01",
+      "nm_mk": "PPKN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 29",
+      "nm_mk": "SOSIOLOGI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK 05",
+      "nm_mk": "PENGEMBANGAN DIRI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 25",
+      "nm_mk": "HOMILETIKA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 01",
+      "nm_mk": "Persekutuan Mahasiswa",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK 02",
+      "nm_mk": "KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 04",
+      "nm_mk": "PEMBINAAN WARGA GEREJA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 23",
+      "nm_mk": "ETIKA I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 31",
+      "nm_mk": "PENGEMBANGAN SUMBER BELAJAR",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 07",
+      "nm_mk": "STRATEGI PEMBELAJARAN PAK",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 11",
+      "nm_mk": "TEOLOGI PB I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 01",
+      "nm_mk": "Persekutuan Mahasiswa",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 30",
+      "nm_mk": "PENDIDIKAN INKLUSI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 56",
+      "nm_mk": "Entrepreneurship",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 22",
+      "nm_mk": "PASTORAL",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB 02",
+      "nm_mk": "PROFESI GURU",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 09",
+      "nm_mk": "TEOLOGI PL I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 20",
+      "nm_mk": "SEJARAH GEREJA ASIA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 02",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN DAN BIMBINGAN PESERTA DIDIK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 03",
+      "nm_mk": "METODE-METODE PENDIDIKAN AGAMA DI SEKOLAH DAN JEMAAT",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 24",
+      "nm_mk": "ETIKA II",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 16",
+      "nm_mk": "MANAGEMEN KELAS",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 33",
+      "nm_mk": "PAK DEWASA DAN KELUARGA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 01",
+      "nm_mk": "Persekutuan Mahasiswa",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 56",
+      "nm_mk": "Entrepreneurship",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 18",
+      "nm_mk": "DOGMATIKA I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 07",
+      "nm_mk": "TAFSIR PB I",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 12",
+      "nm_mk": "METODOLOGI PENELITIAN SOSIAL DAN PENELITIAN TINDAKAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 19",
+      "nm_mk": "DOGMATIKA II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 09",
+      "nm_mk": "EVALUASI HASIL PEMBELAJARAN PAK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 31",
+      "nm_mk": "PAK ANAK-ANAK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 28",
+      "nm_mk": "KONSELING KRISTEN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB 02",
+      "nm_mk": "PPL",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 05",
+      "nm_mk": "TAFSIR PL I",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 27",
+      "nm_mk": "MISIOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 05",
+      "nm_mk": "TEKNOLOGI DAN MEDIA PEMBELAJARAN PAK",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 56",
+      "nm_mk": "Entrepreneurship",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 01",
+      "nm_mk": "Persekutuan Mahasiswa",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 06",
+      "nm_mk": "TAFSIR PL II",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 08",
+      "nm_mk": "PERENCANAAN PEMBELAJARAN PAK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 04",
+      "nm_mk": "PSIKOLOGI PEMBELAJARAN",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 26",
+      "nm_mk": "LITURGIKA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 13",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 27",
+      "nm_mk": "PAK REMAJA DAN KAUM MUDA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 10",
+      "nm_mk": "PENGEMBANGAN KURIKULUM PAK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 56",
+      "nm_mk": "Entrepreneurship",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB 11",
+      "nm_mk": "MANAGEMEN KEPENDIDIKAN BERWAWASAN MPMBS",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB 05",
+      "nm_mk": "PAK DALAM MASYARAKAT MAJEMUK",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 01",
+      "nm_mk": "Persekutuan Mahasiswa",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 07",
+      "nm_mk": "TAFSIR PB I",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB 01",
+      "nm_mk": "Persekutuan Mahasiswa",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK 29",
+      "nm_mk": "KATEKETIKA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB 01",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "VITA PADMASARI",
+    "jk": "P",
+    "nipd": "18.1.1.1.1823",
+    "namapt": "Sekolah Tinggi Pendidikan Agama Kristen (STIPAK) Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Agama Kristen",
+    "reg_pd": "7CFD050E-B80D-497A-B8C6-6F44AECD4EC0",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-08-30T00:00:00Z",
+    "no_seri_ijazah": "862082023000234",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjExNzMwNDAtQTc3QS00MjZFLUExNUItODkxN0NBQUQ1MTdD",
+    "link_prodi": "/data_prodi/MThGQTRGNkEtNzE1RS00NEYxLTk4QjktMTc3Mzg0MUU4M0E2"
+  }
+}

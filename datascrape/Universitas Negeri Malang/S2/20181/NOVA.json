@@ -1,0 +1,190 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MTEP812-86103-17",
+      "nm_mk": "Desain Pesan Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP807-86103-17",
+      "nm_mk": "Perencanaan dan Pengembangan Kurikulum",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP802-86103-17",
+      "nm_mk": "Isu dan Trend dalam Teknologi Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPS801-86103-17",
+      "nm_mk": "Landasan Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP801-86103-17",
+      "nm_mk": "Teknologi Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPS806-86103-17",
+      "nm_mk": "Statistik (Deskriptif dan Inferensial)",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPS802-86103-17",
+      "nm_mk": "Metodologi Penelitian Kuantitatif",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP814-86103-17",
+      "nm_mk": "Pengembangan Bahan Ajar",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP813-86103-17",
+      "nm_mk": "Studi Mandiri Bidang Studi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP810-86103-17",
+      "nm_mk": "Desain Pembelajaran: Teori dan Terapan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPS804-86103-17",
+      "nm_mk": "Penelitian Pengembangan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP817-86103-17",
+      "nm_mk": "Belajar Berbasis Jejaring",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP818-86103-17",
+      "nm_mk": "Media dan Teknologi Pembelajaran: Desain dan Produksi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP816-86103-17",
+      "nm_mk": "Pengembangan Lingkungan dan Sumber Belajar",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTEP811-86103-17",
+      "nm_mk": "Evaluasi hasil dan Pelaksanaan Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPL880-86103-17",
+      "nm_mk": "Kajian dan Praktik Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTES890-86103-17",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTES891-86103-17",
+      "nm_mk": "Seminar Usulan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTES890-86103-17",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTES890-86103-17",
+      "nm_mk": "Tesis",
+      "sks_mk": 6,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NOVA",
+    "jk": "P",
+    "nipd": "180121844001",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S2",
+    "namaprodi": "Teknologi Pembelajaran",
+    "reg_pd": "CCE4A778-9B07-499B-B6A1-B1283C83FE35",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-06-30T00:00:00Z",
+    "no_seri_ijazah": "861032020000012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/MjE0M0JDODItQkY2Ri00RjI3LUI3RDYtNUE0RDU1RjI0RkNG"
+  }
+}

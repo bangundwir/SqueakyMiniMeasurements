@@ -1,0 +1,49 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20061",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "F72506",
+      "nm_mk": "PENDADARAN",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "F72505",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NARDI",
+    "jk": "L",
+    "nipd": "00222192          ",
+    "namapt": "Universitas Janabadra",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "3993E073-D9C4-4FDD-A8A5-F05ADC0477FF",
+    "mulai_smt": "20001",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2007-05-03T00:00:00Z",
+    "no_seri_ijazah": "010948 UJB/05782 E/2007",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEU1NzZENTktQTUyOS00MzgyLUIxMDEtMEU1RTM2MjZBRDcz",
+    "link_prodi": "/data_prodi/QkYxQTlFOEEtQkZCRi00NUQxLThFRDktQzgyMzA4RUYxOEU4"
+  }
+}

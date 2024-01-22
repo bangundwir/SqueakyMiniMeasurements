@@ -1,0 +1,179 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 28,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPD711-86004-10",
+      "nm_mk": "Teori dan Model dalam Bidang Studi",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIP701-86004-10",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD521-86104-10",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIP711-86004-10",
+      "nm_mk": "Psikologi Pendidikan Lanjut",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD530-86104-10",
+      "nm_mk": "Model Pembinaan dan Supervisi Pengajaran",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIP703-86004-10",
+      "nm_mk": "Desain Penelitian dan Analisis Data",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD731-86004-10",
+      "nm_mk": "Analisis Isu dan Kebijakan Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD722-86004-10",
+      "nm_mk": "Studi Mandiri II: Analisis Penyelenggaraan Sistem Pendidikan Persekolahan (Menengah)",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIS751-86004-10",
+      "nm_mk": "Seminar: Kajian dan Analisis Penelitian Bidang Studi",
+      "sks_mk": 0,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD520-86104-10",
+      "nm_mk": "Manajemen dan Akreditasi Sistem Persekolahan",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD721-86004-10",
+      "nm_mk": "Studi Mandiri I: Analisis Penyelenggaraan Sistem Pendidikan Persekolahan (Dasar)",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPD533-86104-10",
+      "nm_mk": "Manajemen Perguruan Tinggi",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD511-86104-10",
+      "nm_mk": "Landasan Pendidikan dan Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIS752-86004-08",
+      "nm_mk": "Seminar Usulan Penelitian",
+      "sks_mk": 0,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIS752-86004-10",
+      "nm_mk": "Seminar Usulan Penelitian Bidang Studi",
+      "sks_mk": 0,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIS752-86004-10",
+      "nm_mk": "Seminar Usulan Penelitian Bidang Studi",
+      "sks_mk": 0,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIS952-86004-13",
+      "nm_mk": "Disertasi",
+      "sks_mk": 28,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MARYADI",
+    "jk": "L",
+    "nipd": "100132607750      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S3",
+    "namaprodi": "Manajemen Pendidikan",
+    "reg_pd": "13A43523-DD69-4FAE-A3CA-7DE7BCB53DA9",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-07-22T00:00:00Z",
+    "no_seri_ijazah": "01045/UN32/6/S3/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/MEMyRjdFQjAtMzdGRC00MjYzLUJGQTEtRUEwQUY2NzNBRkJE"
+  }
+}
