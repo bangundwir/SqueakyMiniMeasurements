@@ -67,7 +67,7 @@ async function scrapeInitialData(search: string) {
 
 // Replace 'searchTerm' with the actual search term you want to use
 const searchTerm =
-    "Jawan Sujono Malang";
+    "Ido fihtran yusiri putra Malang";
 scrapeInitialData(searchTerm);
 
 // // const mName = faker.persopersonNaull); // Generates a random full name
