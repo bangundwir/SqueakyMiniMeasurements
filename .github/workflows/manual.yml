@@ -1,30 +1,25 @@
-name: Scrape Kemendikti Data
+name: Student Data Scraping
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *' # Menjalankan workflow setiap hari pada pukul 00:00 UTC
+  push:
+    branches:
+      - main
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - name: Checkout Repository
+      uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14' # Sesuaikan dengan versi Node.js yang Anda butuhkan
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 20
 
-      - name: Install dependencies
-        run: npm install
+    - name: Install Dependencies
+      run: npm install
 
-      - name: Build TypeScript
-        run: npm run build
-
-      - name: Run scrape script
-        run: node dist/SqueakyMiniMeasurements/index.js
-        env:
-          # Set environment variables if needed
-          # API_KEY: ${{ secrets.API_KEY }}
+    - name: Run Scraping Script
+      run: npm start  # Replace with the actual command to run your script
