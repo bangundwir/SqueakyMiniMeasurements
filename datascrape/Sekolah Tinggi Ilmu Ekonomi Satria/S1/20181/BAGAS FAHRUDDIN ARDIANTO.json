@@ -1,0 +1,201 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EK1011",
+      "nm_mk": "PENGANTAR AKUNTANSI I",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1060",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN102",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN107",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1070",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1050",
+      "nm_mk": "MATEMATIKIA EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1008",
+      "nm_mk": "EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1020",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1030",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN101",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1009",
+      "nm_mk": "EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1012",
+      "nm_mk": "PENGANTAR AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK2091",
+      "nm_mk": "STATISTIK EKONOMI I",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK2120",
+      "nm_mk": "PENGANTAR HUKUM BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK1080",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EM2270",
+      "nm_mk": "MANAJEMEN LEMBAGA KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK2100",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK3990",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "BAGAS FAHRUDDIN ARDIANTO",
+    "jk": "L",
+    "nipd": "18012536",
+    "namapt": "Sekolah Tinggi Ilmu Ekonomi Satria",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "4AFBD027-5B8D-4E1A-B430-BF8900247B50",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUQ0QzJDRjktNjI0OC00OTJELUE2RjMtRDhENkI2QTI2NDcz",
+    "link_prodi": "/data_prodi/NjNENjgzMTQtRTAzQi00MTJFLTk4RTItMDY1MTQ0MDAwMUU4"
+  }
+}
