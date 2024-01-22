@@ -1,0 +1,403 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TKIE161102",
+      "nm_mk": "Fisika Elektro (Kuliah+Tutorial)",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU100",
+      "nm_mk": "Penulisan Laporan dan Karya Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKIE161103",
+      "nm_mk": "Pemrograman Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU125",
+      "nm_mk": "Probabilitas dan Statistika",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKIE161103P",
+      "nm_mk": "Prakt. Pemrograman Dasar",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKEE161104",
+      "nm_mk": "Teknik Elektro Dasar",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKIE161101",
+      "nm_mk": "Matematika Teknik (Kuliah+Tutorial)",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKEE161205P",
+      "nm_mk": "Prakt. Elektronika Dasar",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKEE162107",
+      "nm_mk": "Untai Elektrik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKIE161203",
+      "nm_mk": "Aljabar Linear",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIU300",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIU200",
+      "nm_mk": "Konsep Keteknikan untuk Peradaban",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKIE161204",
+      "nm_mk": "Teknik Digital",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKIE161201",
+      "nm_mk": "Matematika Elektro  (Kuliah+Tutorial)",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKEE161205",
+      "nm_mk": "Elektronika Dasar",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKIE161202",
+      "nm_mk": "Fisika Teknik (Kuliah+Tutorial)",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIU212100",
+      "nm_mk": "Agama Kontekstual (Islam)",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU211202",
+      "nm_mk": "Aljabar Linear",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU212121P",
+      "nm_mk": "Prakt. Sains Dasar",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU212101",
+      "nm_mk": "Metode Numeris",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU212141",
+      "nm_mk": "Isyarat dan Sistem",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU211203",
+      "nm_mk": "Persamaan Differensial",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU212144",
+      "nm_mk": "Telekomunikasi Dasar",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE212202",
+      "nm_mk": "Analisis Untai Elektrik AC",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU212243",
+      "nm_mk": "Teknik Kendali",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE212203",
+      "nm_mk": "Pengukuran dan Instrumentasi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU211102",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU212241",
+      "nm_mk": "Medan Elektromagnetik",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU213101",
+      "nm_mk": "Teknik Optimisasi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213101",
+      "nm_mk": "Elektronika Analog",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213104",
+      "nm_mk": "Teknik Tenaga Listrik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213103",
+      "nm_mk": "Mesin Listrik 1",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213102",
+      "nm_mk": "Perancangan Sistem Kendali Modern",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU213141",
+      "nm_mk": "Jaringan dan Komunikasi Data",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU211102",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213201",
+      "nm_mk": "Sistem Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213202",
+      "nm_mk": "Mesin Listrik 2",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213204",
+      "nm_mk": "Proyek Perancangan Teknik Elektro 1",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU213142",
+      "nm_mk": "Kerja Praktik",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213203",
+      "nm_mk": "Analisis Sistem Tenaga",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU212143",
+      "nm_mk": "Analisis Untai Elektrik DC",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU211203",
+      "nm_mk": "Persamaan Differensial",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE215104",
+      "nm_mk": "Teknik Tegangan Tinggi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE214101",
+      "nm_mk": "Proyek Perancangan Teknik Elektro 2",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU214202",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNU215101",
+      "nm_mk": "Manajemen Industri",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE213104",
+      "nm_mk": "Teknik Tenaga Listrik",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKU212142",
+      "nm_mk": "Teknik Digital",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKE215114",
+      "nm_mk": "Jaringan Telekomunikasi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "RAFI MUHAMMAD DZAKY",
+    "jk": "L",
+    "nipd": "20456725TK50549",
+    "namapt": "Universitas Gadjah Mada",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Elektro",
+    "reg_pd": "C3A938E2-DC72-4098-BEFC-2D6C01F17112",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEVEMUQwQ0UtRjEyMi00QjM3LUE4NDktMjVGODFCMzM1Mzk1",
+    "link_prodi": "/data_prodi/RjMzNDZFQ0EtQjc5NS00ODdBLTk5OTktODk4RkZEOTMxMTYw"
+  }
+}
