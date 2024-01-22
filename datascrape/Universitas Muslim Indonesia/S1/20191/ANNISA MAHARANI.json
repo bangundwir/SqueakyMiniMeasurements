@@ -1,0 +1,459 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "20160221EF107",
+      "nm_mk": "KO-KURIKULER",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160223EP116",
+      "nm_mk": "PENGANTAR ILMU EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222PK104",
+      "nm_mk": "BAHASA INGGRIS 1",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222PB101",
+      "nm_mk": "AQIDAH",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160220CK000",
+      "nm_mk": "PENCERAHAN QALBU",
+      "sks_mk": 0,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222PB103",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160223EM110",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160223EF114",
+      "nm_mk": "MATEMATIKA EK DAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222PK103",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160223AK108",
+      "nm_mk": "PENGANTAR AKUNTANSI 1",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222PB111",
+      "nm_mk": "SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222BI124",
+      "nm_mk": "BAHASA INGGRIS 2",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160223EP211",
+      "nm_mk": "TEORI EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222HK126",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222PK102",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160222IH102",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160223EM127",
+      "nm_mk": "PENGANTAR SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160223AK109",
+      "nm_mk": "PENGANTAR AKUNTANSI 2",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20160223EM111",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EF234",
+      "nm_mk": "STATISTIK BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM238",
+      "nm_mk": "MANAJEMEN PEMASARAN 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190222PB231",
+      "nm_mk": "AKHLAK",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM236",
+      "nm_mk": "MANAJEMEN OPERASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM235",
+      "nm_mk": "MANAJEMEN KEUANGAN 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223AK233",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM237",
+      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190221EM239",
+      "nm_mk": "PRAKTIKUM KEUANGAN 1",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190222EM354",
+      "nm_mk": "ISLAM DISIPLIN ILMU",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223AK243",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM244",
+      "nm_mk": "MANAJEMEN KEUANGAN 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223AK242",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM247",
+      "nm_mk": "TEORI PENGAMBILAN KEPUTUSAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM248",
+      "nm_mk": "ETIKA &amp;amp; KOMUNIKASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM246",
+      "nm_mk": "MANAJEMEN PEMASARAN 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM245",
+      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190221PK241",
+      "nm_mk": "PRAKTIKUM KEUANGAN 2",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190222PK241",
+      "nm_mk": "PENDIDIKAN AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM351",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EP355",
+      "nm_mk": "PENGANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM350",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EP475",
+      "nm_mk": "METODE PENELITIAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM354",
+      "nm_mk": "MANAJEMEN KINERJA",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM225",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM352",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190221EF350",
+      "nm_mk": "PRAKTEK KOMPUTASI DAN NUMERIK",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190222EM482",
+      "nm_mk": "BANK &amp;amp; LEMBAGA KEUANGAN LAINNYA",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM479",
+      "nm_mk": "SEMINAR MANAJEMEN SUMBERDAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM362",
+      "nm_mk": "PRILAKU KEORGANISASIAN",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190222CK361",
+      "nm_mk": "ILMU DA'WAH",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM363",
+      "nm_mk": "MANAJEMEN RISIKO",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190222EM364",
+      "nm_mk": "MANAJEMEN KOPERASI DAN UMKM",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM368",
+      "nm_mk": "PERENCANAAN SUMBERDAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM472",
+      "nm_mk": "PASAR MODAL",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190226EM474",
+      "nm_mk": "UJIAN SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223KK473",
+      "nm_mk": "KULIAH KERJA NYATA (KKN)",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EM470",
+      "nm_mk": "MANAJEMEN STRATEGI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20190223EP471",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ANNISA MAHARANI",
+    "jk": "P",
+    "nipd": "02220190037",
+    "namapt": "Universitas Muslim Indonesia",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "520CF408-4203-4D41-8C42-36B6041F7DA7",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-03-02T00:00:00Z",
+    "no_seri_ijazah": "612012023000719",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjhERDBBN0MtQTIwMC00OTg4LUJDNjAtNzg5NTFBRTk1RDFF",
+    "link_prodi": "/data_prodi/NEQ5OTU2N0ItNEJBMy00OTRCLTk4NEYtQTZFQjE2MkFCQkNC"
+  }
+}

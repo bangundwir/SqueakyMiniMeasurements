@@ -1,0 +1,536 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20133",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20153",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20163",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK427-45201-10",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU400-45201-10",
+      "nm_mk": "Fisika Dasar I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK432-45201-10",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK433-45201-10",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU401-45201-10",
+      "nm_mk": "Praktikum Fisika Dasar I",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU406-45201-10",
+      "nm_mk": "Kimia I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPA402-45201-10",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU404-45201-10",
+      "nm_mk": "Matematika I",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU410-45201-10",
+      "nm_mk": "Praktikum Biologi",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU403-45201-10",
+      "nm_mk": "Praktikum Fisika Dasar II",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK421-45201-10",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU412-45201-10",
+      "nm_mk": "Dasar-Dasar Komputer",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU405-45201-10",
+      "nm_mk": "Matematika II",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU402-45201-10",
+      "nm_mk": "Fisika Dasar II",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI408-45201-12",
+      "nm_mk": "Kimia II",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK426-45201-10",
+      "nm_mk": "Dasar-Dasar Sains",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK428-45201-10",
+      "nm_mk": "Bahasa Inggris Profesi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU418-45201-07",
+      "nm_mk": "Praktikum Elektronika Dasar I",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU421-45201-07",
+      "nm_mk": "Fisika Matematika I",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU414-45201-07",
+      "nm_mk": "Dasar-Dasar Instrumentasi Fisika",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU417-45201-07",
+      "nm_mk": "Elektronika Dasar I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU423-45201-07",
+      "nm_mk": "Termodinamika",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU413-45201-07",
+      "nm_mk": "Pemrograman Komputer",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU424-45201-07",
+      "nm_mk": "Mekanika",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI427-45201-07",
+      "nm_mk": "Probabilitas",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU426-45201-10",
+      "nm_mk": "Praktikum Elektromagnet",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI428-45201-10",
+      "nm_mk": "Fisika Komputasi",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU420-45201-10",
+      "nm_mk": "Praktikum Elektronika Dasar II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU425-45201-10",
+      "nm_mk": "Elektromagnet",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU419-45201-10",
+      "nm_mk": "Elektronika Dasar II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU422-45201-10",
+      "nm_mk": "Fisika Matematika II",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU415-45201-10",
+      "nm_mk": "Fisika Modern",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU416-45201-10",
+      "nm_mk": "Praktikum Fisika Modern",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU481-45201-10",
+      "nm_mk": "Elektronika Digital",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU425-84203-10",
+      "nm_mk": "Elektromagnet",
+      "sks_mk": 3,
+      "id_smt": "20133",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU404-45201-10",
+      "nm_mk": "Matematika I",
+      "sks_mk": 3,
+      "id_smt": "20133",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU405-45201-10",
+      "nm_mk": "Matematika II",
+      "sks_mk": 3,
+      "id_smt": "20133",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU432-45201-12",
+      "nm_mk": "Fisika Statistik",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI476-45201-12",
+      "nm_mk": "Fisika Komputasi Numerik I",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU431-45201-12",
+      "nm_mk": "Praktikum Gelombang dan Optik",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI489-45201-12",
+      "nm_mk": "Metode Karakterisasi Bahan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU502-45201-12",
+      "nm_mk": "Ilmu Pengetahuan Bumi",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU433-45201-12",
+      "nm_mk": "Fisika Kuantum",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU430-45201-12",
+      "nm_mk": "Gelombang dan Optik",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU499-84203-12",
+      "nm_mk": "Astronomi",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI477-45201-12",
+      "nm_mk": "Fisika Komputasi Numerik II",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI435-45201-12",
+      "nm_mk": "Fisika Eksperimen",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU434-45201-12",
+      "nm_mk": "Fisika Zat Padat",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI485-45201-12",
+      "nm_mk": "Mikroprosesor",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI500-45201-12",
+      "nm_mk": "Astrofisika",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI503-45201-12",
+      "nm_mk": "Geologi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI436-45201-11",
+      "nm_mk": "Metode Penelitian Fisika",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI446-45201-12",
+      "nm_mk": "Seminar Fisika",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI457-45201-12",
+      "nm_mk": "Penginderaan Jarak Jauh",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKL490-45201-12",
+      "nm_mk": "Praktek Kerja Lapangan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI501-45201-12",
+      "nm_mk": "Fisika Matahari",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI478-45201-12",
+      "nm_mk": "Fisika Komputasi Numerik III",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI460-45201-12",
+      "nm_mk": "Asistensi",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI505-45201-12",
+      "nm_mk": "Klimatologi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FBU437-45201-12",
+      "nm_mk": "Fisika Inti",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS635-45201-13",
+      "nm_mk": "Fisika Zat Padat",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI508-45201-12",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FNI508-45201-12",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20153",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NOVITA DEWI ROSALINA",
+    "jk": "P",
+    "nipd": "120322420466      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Fisika",
+    "reg_pd": "AEA2361E-B387-4A34-83DA-D4C008568FF9",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-08-12T00:00:00Z",
+    "no_seri_ijazah": "11144/UN32/3/S1/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QzBEOEE0QzMtOUI4RS00MzMwLTg2QUMtMDM4REY0NEM4N0VG"
+  }
+}

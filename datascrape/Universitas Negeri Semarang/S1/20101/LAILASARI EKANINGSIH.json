@@ -1,0 +1,100 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Lulus"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MUU005",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKP404",
+      "nm_mk": "Teknologi Informatika",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUU003",
+      "nm_mk": "Praktik Kerja Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUU004",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MUU005",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LAILASARI EKANINGSIH",
+    "jk": "P",
+    "nipd": "8111410040",
+    "namapt": "Universitas Negeri Semarang",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Hukum",
+    "reg_pd": "AE2D589F-051A-4AE3-8158-D3638D6E5D88",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-05-12T00:00:00Z",
+    "no_seri_ijazah": "14.08.0058",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QTU4NTg4QTgtMEY1Mi00RDRELThBQTgtRjgzMjc4QTU2NTU5",
+    "link_prodi": "/data_prodi/RDFEOUM5NTAtNkQ0Qi00QTRELTlBQzQtMDBDMkQxMjU3MUUy"
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "1102614820211",
+      "nm_mk": "Matematika",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102602510311",
+      "nm_mk": "Biologi",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102611680311",
+      "nm_mk": "Kimia",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102602000211",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102625170111",
+      "nm_mk": "Renang",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102619360311",
+      "nm_mk": "Pengantar Ilmu Perikanan",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102606380311",
+      "nm_mk": "Fisika",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102619270211",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "6102618760211",
+      "nm_mk": "Pendidikan Pancasila dan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102600440111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan I",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102608470311",
+      "nm_mk": "Ichtyologi",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102603200211",
+      "nm_mk": "Dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1202600450111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan II",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102601410211",
+      "nm_mk": "Aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102602420311",
+      "nm_mk": "Biokimia",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102609380211",
+      "nm_mk": "Ilmu Sosial dan Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102601740311",
+      "nm_mk": "Avertebrata Air",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102602010211",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102627270311",
+      "nm_mk": "Statistik",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102619550311",
+      "nm_mk": "Pengantar Oceanografi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102601490311",
+      "nm_mk": "Aquaculture Engineering",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102604090311",
+      "nm_mk": "Ekologi Perairan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102616490311",
+      "nm_mk": "Mikrobiologi Perikanan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102606810311",
+      "nm_mk": "Genetika Ikan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102606600311",
+      "nm_mk": "Fisiologi Hewan Air",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102602570311",
+      "nm_mk": "Biologi Laut",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102631720311",
+      "nm_mk": "Reproduksi Organisme Akuatik",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102617680211",
+      "nm_mk": "Pemasaran Hasil Perikanan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102602850311",
+      "nm_mk": "Budidaya Pakan Alami",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102620320211",
+      "nm_mk": "Pengolahan Hasil Perikanan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4102602860311",
+      "nm_mk": "Budidaya Perairan",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102601110211",
+      "nm_mk": "Analisis Mengenai Dampak Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49265",
+      "nm_mk": "RANCANGAN PERCOBAAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49340",
+      "nm_mk": "BIOTEKNOLOGI PERIKANAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49342",
+      "nm_mk": "ILMU NUTRISI MNJPEMB.PAKAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49259",
+      "nm_mk": "BUDIDAYA PERAIRAN BAHARI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49263",
+      "nm_mk": "BUDIDAYA PERAIRAN TAWAR",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49341",
+      "nm_mk": "PARASIT DAN PENYAKIT HEWAN AKU",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49349",
+      "nm_mk": "PENYULUHAN PERIKANAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49282",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49280",
+      "nm_mk": "MANAJEMEN PRODUKSI PEMBENIHAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "51884",
+      "nm_mk": "PENGELOLAAN SUMBERDAYA PESISIR DAN LAUTA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49347",
+      "nm_mk": "ANALISA DAN EVALUASI USAHA",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49345",
+      "nm_mk": "MANAJEMEN KUALITAS AIR PURIF",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "60508",
+      "nm_mk": "PRAKTEK USAHA PERIKANAN",
+      "sks_mk": 4,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49264",
+      "nm_mk": "PENGENDALIAN MUTU HASIL PERIKA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "60510",
+      "nm_mk": "EVALUASI USAHA PERIKANAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49257",
+      "nm_mk": "AL ISLAM DAN KEMUHAMMADIYAHAN",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49123",
+      "nm_mk": "FISIOLOGI HEWAN AIR",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "49121",
+      "nm_mk": "PENDPANCASILA KEWARGANEGAR",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "60511",
+      "nm_mk": "PERENCANAAN USAHA PERIKANAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4102600650311",
+      "nm_mk": "Analisa dan Evaluasi Usaha",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102600470111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102613120211",
+      "nm_mk": "Manajemen Agribisnis",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2102631780311",
+      "nm_mk": "Manajemen Kesehatan Hewan Akuatik",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102602010211",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102604810311",
+      "nm_mk": "Eksplorasi Sumberdaya Perairan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1202600450111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan II",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102631790311",
+      "nm_mk": "Sistem Informasi Geografi Akuakultur",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102625170111",
+      "nm_mk": "Renang",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102611620211",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1202600460111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan III",
+      "sks_mk": 1,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102620180211",
+      "nm_mk": "Pengendalian Mutu Hasil Perikanan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102606600311",
+      "nm_mk": "Fisiologi Hewan Air",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102601890211",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "6102618760211",
+      "nm_mk": "Pendidikan Pancasila dan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102631810311",
+      "nm_mk": "Teknik Manajemen Ikan Hias dan Aquascape",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102600470111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
+      "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102604810311",
+      "nm_mk": "Eksplorasi Sumberdaya Perairan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102602010211",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4102600650311",
+      "nm_mk": "Analisa dan Evaluasi Usaha",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1202600460111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan III",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "6102618760211",
+      "nm_mk": "Pendidikan Pancasila dan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102620180211",
+      "nm_mk": "Pengendalian Mutu Hasil Perikanan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102611620211",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102631810311",
+      "nm_mk": "Teknik Manajemen Ikan Hias dan Aquascape",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "6102618760211",
+      "nm_mk": "Pendidikan Pancasila dan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102611620211",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102620180211",
+      "nm_mk": "Pengendalian Mutu Hasil Perikanan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102612600411",
+      "nm_mk": "Kuliah Kerja Nyata",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102613030411",
+      "nm_mk": "Magang",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1202600460111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan III",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102625550111",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102600470111",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4102600650311",
+      "nm_mk": "Analisa dan Evaluasi Usaha",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "5102626660511",
+      "nm_mk": "Skripsi",
+      "sks_mk": 5,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3102604810311",
+      "nm_mk": "Eksplorasi Sumberdaya Perairan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1102602010211",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AHMAD WARDI",
+    "jk": "L",
+    "nipd": "201110260311018   ",
+    "namapt": "Universitas Muhammadiyah Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Budidaya Perairan",
+    "reg_pd": "D9790547-E040-4893-9BEB-3DB35D08A958",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-08-01T00:00:00Z",
+    "no_seri_ijazah": "542422018000333",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjM5OUQ3N0QtOEM1NS00REZBLTgwRjgtNzAwMjc1MjMwOTlF",
+    "link_prodi": "/data_prodi/NDM5NzFGMjYtRkRBMS00NDk4LTk5OUMtMEEwQTJENUY5OUZF"
+  }
+}

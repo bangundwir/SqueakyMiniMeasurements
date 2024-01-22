@@ -1,0 +1,609 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "C1CX124T",
+      "nm_mk": "LOGIKA MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX121P",
+      "nm_mk": "PRAK. ALGORITMA PEMROGRAMAN 1",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCX111T",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX121T",
+      "nm_mk": "ALGORITMA PEMROGRAMAN 1",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCX211T",
+      "nm_mk": "BAHASA INGGRIS / READING FOR CONCEPTS",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY221T",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCX212T",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCX114T",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX122T",
+      "nm_mk": "FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX322T",
+      "nm_mk": "SISTEM DIGITAL",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCX112T",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCX113T",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX231",
+      "nm_mk": "PEMROGRAMAN 1 (TERSTRUKTUR / PASCAL)",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX222T",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCY211P",
+      "nm_mk": "PRAK .AL ISLAM STUDI KEMUHAMMADIYAHAN",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX123T",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCY241T",
+      "nm_mk": "KEWIRAUSAHAAN ISLAMI",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCY411P",
+      "nm_mk": "PRAKTEK AL ISLAM STUDI AL HADIST",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCY211T",
+      "nm_mk": "AL ISLAM STUDI KEMUHAMMADIYAHAN",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX231P",
+      "nm_mk": "PRAK. PEMROGRAMAN 1 (TERSTRUKTUR / PASCA",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX322P",
+      "nm_mk": "PRAKTIKUM SISTEM DIGITAL",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX222P",
+      "nm_mk": "PRAKTIKUM SISTEM OPERASI",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX125T",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX321T",
+      "nm_mk": "ARSITEKTUR & ORGANISASI KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX533T",
+      "nm_mk": "STATISTIKA DAN PROBABILITAS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1C223T",
+      "nm_mk": "STRUKTUR DATA DAN ALGORITMA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX324T",
+      "nm_mk": "SISTEM INFORMASI (ANALISIS DAN PERANCANGAN)",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX223P",
+      "nm_mk": "PRAK. STRUKTUR DATA DAN ALGORITMA",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX331T",
+      "nm_mk": "PEMROGRAMAN II BAHASA C",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX422T",
+      "nm_mk": "KOMUNIKASI DATA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX426T",
+      "nm_mk": "ANALISIS & STRATEGI ALGORITMA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX433T",
+      "nm_mk": "PBO LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX433P",
+      "nm_mk": "PRAKTIKUM PBO LANJUT",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX532T",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX432T",
+      "nm_mk": "BASIS DATA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX425T",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX532P",
+      "nm_mk": "PRAK. JARINGAN KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCY411P",
+      "nm_mk": "PRAKTEK AL ISLAM STUDI AL HADIST",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCY411T",
+      "nm_mk": "AL ISLAM STUDI AL HADIST",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX426P",
+      "nm_mk": "PRAKTIKUM ANALISIS & STRATEGI ALGORITMA",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX541T",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX432P",
+      "nm_mk": "PRAKTIKUM BASIS DATA",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY666T",
+      "nm_mk": "BASIS DATA LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX633T",
+      "nm_mk": "PEMROGRAMAN V ( PEMROGRAMAN WEB )",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX521T",
+      "nm_mk": "TES IMPLEMENTASI SISTEM",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX751T",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX522T",
+      "nm_mk": "TEORI BAHASA DAN OTOMATA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY666P",
+      "nm_mk": "PRAKTIKUM BASIS DATA LANJUT",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX644T",
+      "nm_mk": "MANAJEMEN PROYEK TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX642T",
+      "nm_mk": "METODE PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY661P",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN BERGERAK",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY661T",
+      "nm_mk": "PEMROGRAMAN BERGERAK",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX633P",
+      "nm_mk": "PRAK. PEMROGRAMAN V (PEMROGRAMAN WEB)",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCY651P",
+      "nm_mk": "KKM",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMCY611T",
+      "nm_mk": "KAJIAN ISLAM PROFESI",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY669T",
+      "nm_mk": "SISTEM PARALEL DAN TERDISTRIBUSI",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX634T",
+      "nm_mk": "PEMROGRAMAN VISUAL",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX632P",
+      "nm_mk": "PRAKTIKUM KECERDASAN KOMPUTASIONAL",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX632T",
+      "nm_mk": "KECERDASAN KOMPUTATIONAL",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX641T",
+      "nm_mk": "PENGAMANAN SISTEM KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX634P",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN VISUAL",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX641P",
+      "nm_mk": "PRAKTIKUM PENGAMANAN SISTEM KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX643T",
+      "nm_mk": "ANALISIS DAN PERANCANGAN BERORIENTASI OBJEK",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY761T",
+      "nm_mk": "SISTEM NIRKABEL DAN BERGERAK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX631T",
+      "nm_mk": "KECERDASAN BUATAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY661T",
+      "nm_mk": "PEMROGRAMAN BERGERAK",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY765T",
+      "nm_mk": "SISTEM PAKAR DAN PENDUKUNG KEPUTUSAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX621T",
+      "nm_mk": "RISET OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY766T",
+      "nm_mk": "PENILAIAN RESIKO TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY661P",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN BERGERAK",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX751P",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN (PKL)",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY741T",
+      "nm_mk": "LEGISLASI PROFESI",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX751T",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CY765P",
+      "nm_mk": "PRAKTIKUM SISTEM PAKAR DAN PENDUKUNG KEPUTUSAN",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX851P",
+      "nm_mk": "SEMINAR TEKNIK INFORMATIKA",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX852P",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "C1CX852P",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LILI RAHAYU",
+    "jk": "P",
+    "nipd": "160511040",
+    "namapt": "Universitas Muhammadiyah Cirebon",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "D725C679-9254-4C23-98AB-59CFCC68619E",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-04-08T00:00:00Z",
+    "no_seri_ijazah": "552012021000170",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NzcxQUY4MTItOTNFOC00NzcyLUIyNjUtQkUzNTEyQjAwQUQ0",
+    "link_prodi": "/data_prodi/NEUxM0FFNEQtQ0M2MS00NDE3LTkwRkUtRTc3MTg1RjhCNjZD"
+  }
+}

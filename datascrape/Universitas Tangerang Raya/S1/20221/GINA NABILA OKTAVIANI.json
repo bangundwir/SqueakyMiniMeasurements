@@ -1,0 +1,189 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UN01103",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01109",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01111",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ1106",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01113",
+      "nm_mk": "PENGANTAR EKONOMI",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01159",
+      "nm_mk": "AKUNTANSI I",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01158",
+      "nm_mk": "MATEMATIKA EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01144",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ1107",
+      "nm_mk": "PENGANTAR ILMU KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01151",
+      "nm_mk": "BAHASA INGGRIS II",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01160",
+      "nm_mk": "AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01110",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01102",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01112",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ1108",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ1109",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01150",
+      "nm_mk": "TEORI EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01140",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01156",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01146",
+      "nm_mk": "SOSIOLOGI EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNJ1105",
+      "nm_mk": "MANAJEMEN SUMBERDAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UN01149",
+      "nm_mk": "TEORI EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GINA NABILA OKTAVIANI",
+    "jk": "P",
+    "nipd": "2210110085",
+    "namapt": "Universitas Tangerang Raya",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "44BD26EB-0408-4F12-9A57-41770E53FC20",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RkUxNzU0MDctOEFDNC00OUYwLTlENzMtOTlFMDcxOUEyN0JG",
+    "link_prodi": "/data_prodi/QkIxMEREM0YtQUE4OC00NjlCLTgzMUQtODZFOTg4NUE1MDdD"
+  }
+}

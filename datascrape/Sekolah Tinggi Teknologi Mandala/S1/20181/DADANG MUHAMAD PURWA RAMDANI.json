@@ -1,0 +1,492 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KU1207",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF114P",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN I (C)",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2303",
+      "nm_mk": "LOGIKA MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA1309",
+      "nm_mk": "MATEMATIKA I",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1203",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF1213",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2216",
+      "nm_mk": "PENGANTAR TEKNOLOGI INFORMASI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF101P",
+      "nm_mk": "PRAKTIKUM PENGANTAR IT",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1201",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA1310",
+      "nm_mk": "MATEMATIKA II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU2118",
+      "nm_mk": "ETIKA PROFESI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2202",
+      "nm_mk": "KOMPUTER DAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF1314",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1204",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF4205",
+      "nm_mk": "PENGANTAR BASIS DATA",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU1206",
+      "nm_mk": "BAHASA INDONESIA/PENULISAN ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2308",
+      "nm_mk": "PENGANTAR ARSITEKTUR KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2315",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU3215",
+      "nm_mk": "MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA2301",
+      "nm_mk": "MATEMATIKA III",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2312",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3312",
+      "nm_mk": "SISTEM OPERASI I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3301",
+      "nm_mk": "ORGANISASI  &amp;amp;amp; ARSITEKTUR KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF211P",
+      "nm_mk": "PRAKTIKUM HARDWARE",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2204",
+      "nm_mk": "PERANCANGAN SISTEM",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3310",
+      "nm_mk": "JARINGAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF224P",
+      "nm_mk": "TEORI DAN PRAKTEK PEMROGRAMAN JAVA",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF212P",
+      "nm_mk": "PRAK. PEMROG IV (VB DOT NET )",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF320P",
+      "nm_mk": "PRAKTIKUM JARINGAN KOMPUTER",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF4211",
+      "nm_mk": "SISTEM OPERASI II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2218",
+      "nm_mk": "PEMROGRAMAN BERORIENTASI OBJEK",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2305",
+      "nm_mk": "SISTEM BASIS DATA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA2308",
+      "nm_mk": "STATISTIK &amp;amp;amp; PROBABILITAS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF4313",
+      "nm_mk": "SISTEM KEAMANAN JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3307",
+      "nm_mk": "TEORI ANTRIAN &amp;amp;amp; KEANDALAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF314P",
+      "nm_mk": "PRAKTIKUM SISTEM BASIS DATA",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3309",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK DASAR",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3311",
+      "nm_mk": "TEORI BAHASA DAN OTOMATA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF4301",
+      "nm_mk": "PENGANTAR INTELEGENSI BUATAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF4233",
+      "nm_mk": "PEMROGRAMAN INTERNET (WEB)",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3201",
+      "nm_mk": "GRAFIKA KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF0302",
+      "nm_mk": "PENGEMBANGAN LAYANAN BERBASIS. TEK. WEB",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF4208",
+      "nm_mk": "SISTEM TERBAGI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3302",
+      "nm_mk": "TEKNIK KOMPILASI",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3104",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN GRAFIS",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU3212",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3204",
+      "nm_mk": "TEORI GERAF DAN APLIKASI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF4315",
+      "nm_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3216",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU4215",
+      "nm_mk": "PRA TUGAS AKHIR",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF3308",
+      "nm_mk": "APLIKASI MULTIMEDIA & ANIMASI",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF425P",
+      "nm_mk": "KERJA PRAKTEK DAN SEMINAR",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MA3305",
+      "nm_mk": "ANALISA NUMERIK",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU411P",
+      "nm_mk": "PERSIAPAN TOEFL",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF0301",
+      "nm_mk": "PEMROGRAMAN JARINGAN",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF0308",
+      "nm_mk": "MOBILE COMPUTING",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF2206",
+      "nm_mk": "MODEL DAN SIMULASI",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SK4507",
+      "nm_mk": "PENGANTAR ROBOTIKA",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TE3312",
+      "nm_mk": "SISTEM MIKROPROSESOR",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF0304",
+      "nm_mk": "SISTEM LAYANAN BERB. LOKASI",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IF4408",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DADANG MUHAMAD PURWA RAMDANI",
+    "jk": "L",
+    "nipd": "1841006",
+    "namapt": "Sekolah Tinggi Teknologi Mandala",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Informatika",
+    "reg_pd": "EB78E005-60CF-4F7D-9636-C923CBFEB84E",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-10-11T00:00:00Z",
+    "no_seri_ijazah": "552012022000035",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTk0ODgwNEItRDk3NS00MTdELUEyQzgtQzE1QkJDRTYyQ0Y4",
+    "link_prodi": "/data_prodi/M0I3MjJEOUYtOTUzNy00QkY0LUIyMzAtRjk3MjUxMzA1RTY3"
+  }
+}

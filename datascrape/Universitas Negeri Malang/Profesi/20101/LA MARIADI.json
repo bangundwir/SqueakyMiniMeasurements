@@ -1,0 +1,63 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PDMP701-BSC",
+      "nm_mk": "Pendalaman Materi Pedagogik dan Perofesional",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LOKP701-BSC",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 22,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UTN701-BSC",
+      "nm_mk": "Ujian Tulis Nasional",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLP701-BSC",
+      "nm_mk": "PPL",
+      "sks_mk": 16,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LA MARIADI",
+    "jk": "*",
+    "nipd": "103122008508",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "3EFE7BEA-0AB1-4774-9842-009597909757",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2011-12-30T00:00:00Z",
+    "no_seri_ijazah": "110918400095",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QjM1MDcyOUQtMkJFQy00QTZELUIxODYtNjM5ODc1NjI2NEJE"
+  }
+}

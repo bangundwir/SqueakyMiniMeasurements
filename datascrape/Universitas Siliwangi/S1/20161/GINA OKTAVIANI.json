@@ -1,0 +1,525 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KK231107",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU231105",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK231201",
+      "nm_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU231101",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU231103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK231103",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK231105",
+      "nm_mk": "PENGANTAR ILMU EKONOMI MAKRO",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK231101",
+      "nm_mk": "PENGANTAR AKUNTANSI I",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231108",
+      "nm_mk": "PENGANTAR AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU16231118",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231120",
+      "nm_mk": "PENGANTAR PERPAJAKAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU16231106",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU16231102",
+      "nm_mk": "PEND PANCASILA & KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU16231112",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK16231110",
+      "nm_mk": "PENGANTAR ILMU EKONOMI MIKRO",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU16231114",
+      "nm_mk": "LABORATORIUM STATISTIKA",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU16231104",
+      "nm_mk": "LABORATORIUM BAHASA INGGRIS",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KU16231116",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231217",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231229",
+      "nm_mk": "PERILAKU ORGANISASI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231235",
+      "nm_mk": "AKUNTANSI KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK16231223",
+      "nm_mk": "BISNIS INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231221",
+      "nm_mk": "METODE KUANTITATIF DALAM BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231225",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231231",
+      "nm_mk": "APLIKASI KOMPUTER DALAM AKUNTANSI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231233",
+      "nm_mk": "LAB APLIKASI KOMPUTER DALAM AKUNTANSI",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231219",
+      "nm_mk": "LABORATORIUM PERPAJAKAN",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK16231227",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK16231113",
+      "nm_mk": "MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231344",
+      "nm_mk": "ANALISIS LAPORAN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231232",
+      "nm_mk": "LABORATORIUM AKUNTANSI KEUANGAN",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231226",
+      "nm_mk": "SISTEM INFORMASI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231234",
+      "nm_mk": "AKUNTANSI KEUANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231230",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK16231222",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231346",
+      "nm_mk": "INTERNAL AUDIT",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231228",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK16231224",
+      "nm_mk": "MANAJEMEN OPERASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231245",
+      "nm_mk": "PENGANGGARAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231341",
+      "nm_mk": "LAB. APLIKASI KOMPUTER DALAM AKUNTANSI",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231347",
+      "nm_mk": "AKUNTANSI KOPERASI DAN UKM",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231343",
+      "nm_mk": "LAB. PERPAJAKAN",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231455",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231349",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231351",
+      "nm_mk": "LAB AKUNTANSI BIAYA",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231353",
+      "nm_mk": "TEORI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231221",
+      "nm_mk": "METODE KUANTITATIF DALAM BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK16231222",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231336",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231338",
+      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN II",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231342",
+      "nm_mk": "SISTEM PENGENDALIAN MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KO16231348",
+      "nm_mk": "AKUNTANSI SEKTOR PUBLIK  *)",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231377",
+      "nm_mk": "KULIAH KERJA NYATA (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231340",
+      "nm_mk": "PENGAUDITAN I",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KO16231463",
+      "nm_mk": "AUDIT SEKTOR PUBLIK  *)",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KO16231465",
+      "nm_mk": "SEMINAR AKUNTANSI SEKTOR PUBLIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231461",
+      "nm_mk": "PRAKTIKUM PENGAUDITAN II",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231337",
+      "nm_mk": "ANALISIS DAN METODE PERANCANGAN SISTEM",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231459",
+      "nm_mk": "PENGAUDITAN II",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231235",
+      "nm_mk": "AKUNTANSI KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231457",
+      "nm_mk": "MANAJEMEN STRATEJIK",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231339",
+      "nm_mk": "PRAKTIKUM ANALISIS DAN METODE PERANCANGAN SISTEM",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231452",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT18231470",
+      "nm_mk": "KOMPREHENSIF/PENDADARAN",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KT16231452",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GINA OKTAVIANI",
+    "jk": "P",
+    "nipd": "163403024",
+    "namapt": "Universitas Siliwangi",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "2057A451-FF43-4E4E-93E9-A86639D7F49E",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2020-08-19T00:00:00Z",
+    "no_seri_ijazah": "622012020000853",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OEI0N0U4MEEtM0E0Mi00NDEyLUJERjItN0U1Rjg1M0EwNzE3",
+    "link_prodi": "/data_prodi/RTYwM0EyMDEtRkI1RC00QUJDLTkxNDItMTUwQThEMzE2NkJB"
+  }
+}

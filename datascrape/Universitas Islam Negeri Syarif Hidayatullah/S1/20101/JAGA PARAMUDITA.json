@@ -1,0 +1,552 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 25,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BIO 3014",
+      "nm_mk": "BIOLOGI DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS 3011",
+      "nm_mk": "FISIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DIK 2069",
+      "nm_mk": "CIVIC EDUCATION",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 3017",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BHS 2010",
+      "nm_mk": "BAHASA ARAB",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BHS 2003",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MK",
+      "nm_mk": "PRAKTIKUM QIRA'AT",
+      "sks_mk": 0,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO 4047",
+      "nm_mk": "PRAKTIKUM BIOLOGI DASAR",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM3047",
+      "nm_mk": "PRAKTIKUM KIMIA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS 3011",
+      "nm_mk": "MATEMATIKA DAN STATISTIK",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SAG 3068",
+      "nm_mk": "STUDI ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DOK 3086",
+      "nm_mk": "METODE PENGOBATAN ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 0004",
+      "nm_mk": "PRAKTIKUM KIMIA ANALISIS",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 3003",
+      "nm_mk": "KIMIA ANALISIS",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO 3005",
+      "nm_mk": "MORFOLOGI ANATOMI TUMBUHAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 50020",
+      "nm_mk": "PRAKTIKUM ANATOMI FISIOLOGI MANUSIA",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 10030",
+      "nm_mk": "KIMIA ORGANIK I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 10048",
+      "nm_mk": "PRAKTIKUM KIMIA FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BHS 3010",
+      "nm_mk": "BAHASA ARAB 2",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BHS 3009",
+      "nm_mk": "BAHASA INGGRIS 2",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3014",
+      "nm_mk": "FARMASEUTIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO 50058",
+      "nm_mk": "PRAKTIKUM MIKROBIOLOGI DAN PARASITOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 10019",
+      "nm_mk": "KIMIA FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3006",
+      "nm_mk": "ANATOMI FISIOLOGI MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO 00050",
+      "nm_mk": "PRAKTIKUM MORFOLOGI ANATOMI TUMBUHAN",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 2002",
+      "nm_mk": "FARMAKOLOGI  I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4063",
+      "nm_mk": "TOKSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DOK4131",
+      "nm_mk": "IMUNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3050",
+      "nm_mk": "PRAKTIKUM FARMASI FISIKA",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 4049",
+      "nm_mk": "PRAKTIKUM FARMASETIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4030",
+      "nm_mk": "KIMIA ORGANIK II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3051",
+      "nm_mk": "PRAKTIKUM FARMAKOGNOSI",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3005",
+      "nm_mk": "FARMASI FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FKF 1225",
+      "nm_mk": "FARMAKOGNOSI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3018",
+      "nm_mk": "TEKNOLOGI SEDIAAN SETENGAH PADAT DAN CAIR",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4051",
+      "nm_mk": "PRAKTIKUM KIMIA ORGANIK  II",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SAG 1085",
+      "nm_mk": "STUDI ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM3075",
+      "nm_mk": "PRAKTIKUM KIMIA FARMASI ANALISA I",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 5001",
+      "nm_mk": "PHARMACEUTICAL CARE",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DOK 2098",
+      "nm_mk": "PATOFISIOLOGI I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 2003",
+      "nm_mk": "FARMAKOLOGI II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3024",
+      "nm_mk": "BIOKIMIA I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR4031",
+      "nm_mk": "KIMIA FARMASI ANALISA I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR3023",
+      "nm_mk": "BIOFARMASETIK DAN FARMAKOKINETIK",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM3001",
+      "nm_mk": "ANALISIS INSTRUMEN I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 2018",
+      "nm_mk": "PRAKTIKUM TEKNOLOGI SEDIAAN 1/2 PADAT DAN CAIR",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR5056",
+      "nm_mk": "PRAKTIKUM FARMAKOLOGI",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4005",
+      "nm_mk": "FITOKIMIA I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4041",
+      "nm_mk": "PRAKTIKUM BIOKIMIA KLINIS  II",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4075",
+      "nm_mk": "PRAKTIKUM KIMIA ANALISIS FARMASI II",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3029",
+      "nm_mk": "HOMEOPATHY DAN PENGOBATAN ALTERNATIF",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4005",
+      "nm_mk": "FITOKIMIA  II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4001",
+      "nm_mk": "ANALISIS INSTRUMEN  II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 4031",
+      "nm_mk": "KIMIA ANALISIS FARMASI II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4076",
+      "nm_mk": "PRAKTIKUM FITOKIMIA",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DOK 4098",
+      "nm_mk": "PATOFISIOLOGI  II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 4019",
+      "nm_mk": "TEKNOLOGI SEDIAAN STERIL",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 5002",
+      "nm_mk": "FARMAKOLOGI  3",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3033",
+      "nm_mk": "KIMIA MAKANAN HALAL I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 4024",
+      "nm_mk": "BIOKIMIA KLINIS II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4077",
+      "nm_mk": "PRAKTIKUM TEKNOLOGI SEDIAAN PADAT",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 2065",
+      "nm_mk": "ILMU KESEHATAN MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 4009",
+      "nm_mk": "KIMIA MEDISINAL I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 3058",
+      "nm_mk": "PRAKTIKUM PENGOBATAN ALTERNATIF & HOMEOPATHY",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 4030",
+      "nm_mk": "INTERAKSI OBAT",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 3002",
+      "nm_mk": "PRAKTIKUM ANALISIS INSTRUMEN",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM 4086",
+      "nm_mk": "PRAKTIKUM SEDIAAN STERIL",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAR 4016",
+      "nm_mk": "TEKNOLOGI LEPAS TERKENDALI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ABI 4038",
+      "nm_mk": "SEMINAR PROPOSAL",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ABI 9042",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ABI 4036",
+      "nm_mk": "SIDANG KOMPREHENSIF SARJANA FARMASI",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JAGA PARAMUDITA",
+    "jk": "P",
+    "nipd": "1110102000063",
+    "namapt": "Universitas Islam Negeri Syarif Hidayatullah",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "C200782A-0E55-43FF-80B1-D5DBC41C53C0",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": " ",
+    "nm_prodi_asal": "Farmasi",
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-07-14T00:00:00Z",
+    "no_seri_ijazah": "ER 036846",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NEEwMTc4NTgtMDU5RS00NkY1LUI3QzEtMzY5NjUwMURGQTA0",
+    "link_prodi": "/data_prodi/Q0U0QkRDNkUtQTRCMC00Q0I2LTgzODUtQjY0MUQ3OUVDQ0U3"
+  }
+}

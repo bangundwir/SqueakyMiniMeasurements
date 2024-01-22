@@ -40,13 +40,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FIS205",
-      "nm_mk": "FISIKA MODERN",
-      "sks_mk": 3,
-      "id_smt": "20121",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "FIS348",
       "nm_mk": "FISIKA BATUAN",
       "sks_mk": 2,
@@ -61,17 +54,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MUU010",
-      "nm_mk": "Pendidikan Lingkungan Hidup",
-      "sks_mk": 2,
+      "kode_mk": "FIS205",
+      "nm_mk": "FISIKA MODERN",
+      "sks_mk": 3,
       "id_smt": "20121",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FIS209",
-      "nm_mk": "MEKANIKA 2",
-      "sks_mk": 3,
-      "id_smt": "20122",
+      "kode_mk": "MUU010",
+      "nm_mk": "Pendidikan Lingkungan Hidup",
+      "sks_mk": 2,
+      "id_smt": "20121",
       "nilai_huruf": null
     },
     {
@@ -89,6 +82,41 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "FIS209",
+      "nm_mk": "MEKANIKA 2",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS315",
+      "nm_mk": "KOMUNIKASI ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS345",
+      "nm_mk": "FISIKA BUMI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS301",
+      "nm_mk": "OPTIKA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS215",
+      "nm_mk": "METODA NUMERIK",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "FIS317",
       "nm_mk": "MICROCONTROLER",
       "sks_mk": 3,
@@ -103,16 +131,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FIS344",
-      "nm_mk": "GEODINAMIKA",
-      "sks_mk": 2,
+      "kode_mk": "FIS345",
+      "nm_mk": "FISIKA BUMI",
+      "sks_mk": 3,
       "id_smt": "20131",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FIS345",
-      "nm_mk": "FISIKA BUMI",
-      "sks_mk": 3,
+      "kode_mk": "FIS344",
+      "nm_mk": "GEODINAMIKA",
+      "sks_mk": 2,
       "id_smt": "20131",
       "nilai_huruf": null
     },
@@ -138,41 +166,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FIS301",
-      "nm_mk": "OPTIKA",
-      "sks_mk": 2,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FIS345",
-      "nm_mk": "FISIKA BUMI",
-      "sks_mk": 3,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FIS315",
-      "nm_mk": "KOMUNIKASI ILMIAH",
-      "sks_mk": 3,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FIS215",
-      "nm_mk": "METODA NUMERIK",
-      "sks_mk": 2,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FIS318",
-      "nm_mk": "PEMROGRAMAN SISTEM INSTRUMENTASI",
-      "sks_mk": 3,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "FIS305",
       "nm_mk": "FISIKA STATISTIK",
       "sks_mk": 3,
@@ -180,8 +173,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FIS303",
-      "nm_mk": "FISIKA KUANTUM",
+      "kode_mk": "FIS306",
+      "nm_mk": "FISIKA INTI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FIS318",
+      "nm_mk": "PEMROGRAMAN SISTEM INSTRUMENTASI",
       "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
@@ -201,9 +201,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FIS306",
-      "nm_mk": "FISIKA INTI",
-      "sks_mk": 3,
+      "kode_mk": "MUU004",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
       "id_smt": "20132",
       "nilai_huruf": null
     },
@@ -215,9 +215,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MUU004",
-      "nm_mk": "KULIAH KERJA NYATA",
-      "sks_mk": 4,
+      "kode_mk": "FIS303",
+      "nm_mk": "FISIKA KUANTUM",
+      "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
     },

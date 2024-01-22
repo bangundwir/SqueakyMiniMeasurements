@@ -1,0 +1,472 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "AKT1.62.1001",
+      "nm_mk": "Hukum Bisnis dan Regulasi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.1301",
+      "nm_mk": "Pengantar Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.1302",
+      "nm_mk": "Pengantar Akuntansi 1",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.1303",
+      "nm_mk": "Pengantar Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.2302",
+      "nm_mk": "Pengantar Akuntansi 2",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.2001",
+      "nm_mk": "Matematika Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1402",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.1401",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.2303",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.2304",
+      "nm_mk": "Statistik 1",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.2301",
+      "nm_mk": "Pengantar Ekonomi Makro",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.3301",
+      "nm_mk": "Statistik 2",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3002",
+      "nm_mk": "Akuntansi Keuangan Menengah 1",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3001",
+      "nm_mk": "Akuntansi Berbasis Komputer",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3005",
+      "nm_mk": "Perpajakan 1",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3004",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3003",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.3101",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.4004",
+      "nm_mk": "Akuntansi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.4005",
+      "nm_mk": "Perpajakan 2",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.4002",
+      "nm_mk": "Anggaran Perusahaan",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.4001",
+      "nm_mk": "Pengauditan 1",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3006",
+      "nm_mk": "Akuntansi Sektor Publik",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3007",
+      "nm_mk": "Sistem Informasi Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.4003",
+      "nm_mk": "Akuntansi Keuangan Menengah 2",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.5001",
+      "nm_mk": "Pengauditan 2",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.5005",
+      "nm_mk": "Sistem Pengendalian Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.5003",
+      "nm_mk": "Akuntansi Keuangan Lanjutan 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.5301",
+      "nm_mk": "Praktek Kewirausahaan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.5002",
+      "nm_mk": "Teori Portofolio dan Analisis Investasi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.5004",
+      "nm_mk": "Akuntansi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.5003",
+      "nm_mk": "Manajemen Keuangan Daerah",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.6003",
+      "nm_mk": "Perencanaan Pajak",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.6003",
+      "nm_mk": "Akuntansi Keuangan Lanjutan 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.6001",
+      "nm_mk": "Akuntansi Syariah",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNP1.60.5401",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.6006",
+      "nm_mk": "Praktek Pengauditan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.6001",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.6005",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.7009",
+      "nm_mk": "Tatakelola Perusahaan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.7001",
+      "nm_mk": "Teori Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.7005",
+      "nm_mk": "Akuntansi Keperilakuan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.7002",
+      "nm_mk": "Analisis Laporan Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.7002",
+      "nm_mk": "Seminar Akuntansi Sektor Publik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3003",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.7003",
+      "nm_mk": "Magang",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3002",
+      "nm_mk": "Akuntansi Keuangan Menengah 1",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.6007",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.8301",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.6007",
+      "nm_mk": "Perencanaan Pajak",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT2.62.7015",
+      "nm_mk": "Pengauditan Internal",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.8301",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.5008",
+      "nm_mk": "Akuntansi Pemerintahan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT1.62.3012",
+      "nm_mk": "Perpajakan 1",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.8301",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FEK1.60.8301",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DINDA PERMATA MUSRI",
+    "jk": "P",
+    "nipd": "18043086",
+    "namapt": "Universitas Negeri Padang",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "EF13857E-16B6-4C48-BFE2-20EA7DE3E761",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTc4NEI5MjctMzQ3QS00MjVELThEQ0YtN0NFOEZENEUwMDAy",
+    "link_prodi": "/data_prodi/RUU2NDVGRkUtNzBEQS00QUVELThFNzMtMDA3RUFGNjQ5NDVC"
+  }
+}

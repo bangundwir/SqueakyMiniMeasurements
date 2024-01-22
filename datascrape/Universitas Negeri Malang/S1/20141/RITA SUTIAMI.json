@@ -140,20 +140,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS629-45201-13",
-      "nm_mk": "Algoritma dan Pemrograman",
-      "sks_mk": 3,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NFIS608-45201-14",
-      "nm_mk": "Praktikum Fisika Dasar III",
-      "sks_mk": 1,
-      "id_smt": "20142",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NFIS623-45201-14",
       "nm_mk": "Elektronika Dasar I",
       "sks_mk": 2,
@@ -164,6 +150,20 @@
       "kode_mk": "UMPK607-45201-14",
       "nm_mk": "Pendidikan Kewarganegaraan",
       "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS629-45201-13",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS608-45201-14",
+      "nm_mk": "Praktikum Fisika Dasar III",
+      "sks_mk": 1,
       "id_smt": "20142",
       "nilai_huruf": null
     },
@@ -266,15 +266,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS614-45201-14",
-      "nm_mk": "Mekanika",
-      "sks_mk": 3,
+      "kode_mk": "NFIS616-45201-14",
+      "nm_mk": "Getaran dan Gelombang",
+      "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
     },
     {
       "kode_mk": "NFIS617-45201-14",
       "nm_mk": "Optika",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS614-45201-14",
+      "nm_mk": "Mekanika",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -287,23 +294,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UMPK608-45201-14",
-      "nm_mk": "Bahasa Indonesia Keilmuan",
-      "sks_mk": 2,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NFIS616-45201-14",
-      "nm_mk": "Getaran dan Gelombang",
-      "sks_mk": 2,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NFIS620-45201-14",
       "nm_mk": "Praktikum Elektromagnetika",
       "sks_mk": 1,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK608-45201-14",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
       "id_smt": "20152",
       "nilai_huruf": null
     },
@@ -343,13 +343,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS641-45201-14",
-      "nm_mk": "Ilmu Pengetahuan Bumi",
-      "sks_mk": 2,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NFIS674-45201-13",
       "nm_mk": "Asistensi",
       "sks_mk": 1,
@@ -367,6 +360,13 @@
       "kode_mk": "NFIS622-45201-14",
       "nm_mk": "Praktikum Fisika Modern",
       "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS641-45201-14",
+      "nm_mk": "Ilmu Pengetahuan Bumi",
+      "sks_mk": 2,
       "id_smt": "20161",
       "nilai_huruf": null
     },
@@ -413,6 +413,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "NFIS661-45201-13",
+      "nm_mk": "Kristalografi",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS645-45201-13",
+      "nm_mk": "Teori Relativitas Khusus",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NFIS634-45201-14",
+      "nm_mk": "Fisika Inti",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "NFIS673-45201-13",
       "nm_mk": "Fisika Lingkungan",
       "sks_mk": 2,
@@ -427,29 +448,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NFIS661-45201-13",
-      "nm_mk": "Kristalografi",
-      "sks_mk": 3,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NFIS690-45201-13",
       "nm_mk": "Seminar Fisika",
-      "sks_mk": 2,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NFIS634-45201-14",
-      "nm_mk": "Fisika Inti",
-      "sks_mk": 3,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NFIS645-45201-13",
-      "nm_mk": "Teori Relativitas Khusus",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null

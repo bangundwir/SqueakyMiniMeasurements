@@ -1,0 +1,66 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20202",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UPDMUM7001-2020",
+      "nm_mk": "Pendalaman Materi Pedagogik dan Bidang Studi",
+      "sks_mk": 5,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ULOKUM7001-2020",
+      "nm_mk": "Pengembangan Perangkat Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UPPLUM7001-2020",
+      "nm_mk": "Praktik Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "APRIADI SIMBOLON",
+    "jk": "L",
+    "nipd": "203113752268",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "B78100C1-9E07-4B58-8DB4-32EAAF4E77BD",
+    "mulai_smt": "20202",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/QjM1MDcyOUQtMkJFQy00QTZELUIxODYtNjM5ODc1NjI2NEJE"
+  }
+}

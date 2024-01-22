@@ -1,0 +1,205 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RSK122021B",
+      "nm_mk": "Teknik Pengukuran II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123015",
+      "nm_mk": "Desain Instalasi II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123031",
+      "nm_mk": "Elekronika Digital",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123023",
+      "nm_mk": "MESIN LISTRIK I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123005",
+      "nm_mk": "Bahasa Inggris I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123002",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123016",
+      "nm_mk": "Bengkel Listrik III",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123032",
+      "nm_mk": "Elektronika Daya",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123025",
+      "nm_mk": "Pembangkit Tenaga Listrik I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK123013",
+      "nm_mk": "Instalasi Listrik III",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124033",
+      "nm_mk": "Mikrokontroller",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124026",
+      "nm_mk": "Transmisi dan Distribusi",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124014C",
+      "nm_mk": "INSTALASI TEGANGAN MENENGAH",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124005",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124003A",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124024C",
+      "nm_mk": "PENGGUNAAN MOTOR LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124027",
+      "nm_mk": "Analisis Sistem Tenaga I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124023C",
+      "nm_mk": "MESIN LISTRIK II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124017C",
+      "nm_mk": "PROYEK INSTALASI",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RSK124016A",
+      "nm_mk": "BENGKEL LISTRIK IV",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ILYAS",
+    "jk": "L",
+    "nipd": "1241150003        ",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Sistem Kelistrikan",
+    "reg_pd": "B1406C2E-1C9A-4E51-BE9A-0300417A4A39",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-09-15T00:00:00Z",
+    "no_seri_ijazah": "13457/POLINEMA/TL/D-IV/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/MzM3RDkzOEItNDRFNi00N0JBLTgxNDgtQzgwMkQ4M0VEMDMz"
+  }
+}

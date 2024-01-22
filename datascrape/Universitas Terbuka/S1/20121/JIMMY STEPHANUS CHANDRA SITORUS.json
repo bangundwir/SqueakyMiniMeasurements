@@ -1,0 +1,595 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 42,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EKMA4116",
+      "nm_mk": "Manajemen",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ADBI4201",
+      "nm_mk": "Bahasa Inggris Niaga",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4158",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4111",
+      "nm_mk": "Pengantar Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4222",
+      "nm_mk": "Pendidikan Agama Kristen",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4115",
+      "nm_mk": "Pengantar Akuntansi",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4111",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4202",
+      "nm_mk": "Hukum Pajak",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4112",
+      "nm_mk": "Ilmu Alamiah Dasar",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4110",
+      "nm_mk": "Pengantar Ekonomi Makro",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4101",
+      "nm_mk": "Laboratorium Pengantar Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4111",
+      "nm_mk": "Pengantar Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4213",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4122",
+      "nm_mk": "Matematika Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4216",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4262",
+      "nm_mk": "Manajemen Risiko",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4215",
+      "nm_mk": "Manajemen Operasi",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4212",
+      "nm_mk": "Pengantar Aplikasi Komputer",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4210",
+      "nm_mk": "Akuntansi Keuangan Menengah I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4221",
+      "nm_mk": "Teori Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4214",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4570",
+      "nm_mk": "Penganggaran",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4308",
+      "nm_mk": "Auditing I",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4312",
+      "nm_mk": "Sistem Informasi Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4309",
+      "nm_mk": "Akuntansi Keuangan Lanjutan I",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4313",
+      "nm_mk": "Akuntansi Keuangan Menengah II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4315",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4207",
+      "nm_mk": "Akuntansi Sektor Publik",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4207",
+      "nm_mk": "Akuntansi Sektor Publik",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4123",
+      "nm_mk": "Statistika Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4158",
+      "nm_mk": "Perilaku Organisasi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4310",
+      "nm_mk": "Auditing II",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4205",
+      "nm_mk": "Bank & Lembaga Keuangan Non Bank",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4314",
+      "nm_mk": "Akuntansi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ISIP4216",
+      "nm_mk": "Metode Penelitian Sosial",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4314",
+      "nm_mk": "Akuntansi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4314",
+      "nm_mk": "Akuntansi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4415",
+      "nm_mk": "Teori Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4416",
+      "nm_mk": "Sistem Pengendalian Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4309",
+      "nm_mk": "Akuntansi Keuangan Lanjutan I",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4414",
+      "nm_mk": "Laboratorium Auditing",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4206",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4204",
+      "nm_mk": "Analisis Informasi Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4415",
+      "nm_mk": "Teori Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4313",
+      "nm_mk": "Akuntansi Keuangan Menengah II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4313",
+      "nm_mk": "Akuntansi Keuangan Menengah II",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4206",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4224",
+      "nm_mk": "Statistika Ekonomi dan Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4500",
+      "nm_mk": "Tugas Akhir Program (TAP )",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4311",
+      "nm_mk": "Studi Kelayakan Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4206",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4309",
+      "nm_mk": "Akuntansi Keuangan Lanjutan I",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4311",
+      "nm_mk": "Akuntansi Keuangan Lanjutan II",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4203",
+      "nm_mk": "Teori Portofolio & Analisis Investasi",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4413",
+      "nm_mk": "Audit Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4311",
+      "nm_mk": "Studi Kelayakan Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4206",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4229",
+      "nm_mk": "Ekonomi Pembangunan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4413",
+      "nm_mk": "Audit Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4123",
+      "nm_mk": "Statistika Ekonomi",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4414",
+      "nm_mk": "Manajemen Strategik",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDU4110",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4434",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4159",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4311",
+      "nm_mk": "Akuntansi Keuangan Lanjutan II",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4313",
+      "nm_mk": "Akuntansi Keuangan Menengah II",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4111",
+      "nm_mk": "Pengantar Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4206",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4214",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4221",
+      "nm_mk": "Teori Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESPA4111",
+      "nm_mk": "Pengantar Ekonomi Mikro",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4313",
+      "nm_mk": "Akuntansi Keuangan Menengah II",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4309",
+      "nm_mk": "Akuntansi Keuangan Lanjutan I",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSI4206",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMA4214",
+      "nm_mk": "Manajemen Sumber Daya Manusia",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JIMMY STEPHANUS CHANDRA SITORUS",
+    "jk": "L",
+    "nipd": "018782087",
+    "namapt": "Universitas Terbuka",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "152EC7FD-C30F-4D3A-A9D7-96EB3B55380A",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-01-20T00:00:00Z",
+    "no_seri_ijazah": "CA020264/42017103354",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEY0NjBGOTctNkQ0Ny00RDk2LThBMkEtNDM2MUVBMDRGM0U4",
+    "link_prodi": "/data_prodi/OERGN0I5RUItMjRCNy00RjQ5LTk5NDAtRUU1QjM0QUYzOTRB"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20111",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "AKT123011",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123005",
+      "nm_mk": "Bahasa Inggris Lanjutan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123001",
+      "nm_mk": "Akuntansi Biaya",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123004",
+      "nm_mk": "Praktikum Akuntansi Perusahaan Dagang",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123002",
+      "nm_mk": "Akuntansi Keuangan Menengah I",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123008",
+      "nm_mk": "Kewirausahaan II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123003",
+      "nm_mk": "Sistem Informasi Akuntansi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123006",
+      "nm_mk": "Penganggaran",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123009",
+      "nm_mk": "Sistem Manajemen Mutu II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123007",
+      "nm_mk": "Manajemen Pemasaran",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT123010",
+      "nm_mk": "Aplikasi Komputer Bisnis II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124002",
+      "nm_mk": "Akuntansi Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124003",
+      "nm_mk": "Pengauditan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124001",
+      "nm_mk": "Akuntansi Keuangan Menengah II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124007",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124008",
+      "nm_mk": "Praktikum Penganggaran",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124004",
+      "nm_mk": "Perpajakan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124009",
+      "nm_mk": "Pemrograman Database I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124005",
+      "nm_mk": "Praktikum Akuntansi Perusahaan Manufaktur",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKT124006",
+      "nm_mk": "Bahasa Inggris Bisnis I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "HERWINDO ARDIANTO",
+    "jk": "L",
+    "nipd": "1132510006        ",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D3",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "210935DF-417B-4B46-A75B-81C971262F1A",
+    "mulai_smt": "20111",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-07-10T00:00:00Z",
+    "no_seri_ijazah": "7380/POLINEMA/AK/D-III/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/ODNBNEJENzUtM0RBOC00RDVDLUIyMkYtNDBDMkE5NDU2MkMz"
+  }
+}

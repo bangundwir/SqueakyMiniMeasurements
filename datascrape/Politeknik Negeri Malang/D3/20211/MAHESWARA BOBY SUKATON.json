@@ -1,0 +1,400 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20211",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "REC211001",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211010",
+      "nm_mk": "Alat Ukur dan Pengukuran",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211008",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211003",
+      "nm_mk": "Gambar Listrik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211009",
+      "nm_mk": "Komponen Elektronika",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211004",
+      "nm_mk": "K3",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211007",
+      "nm_mk": "Matematika 1",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211005",
+      "nm_mk": "Rangkaian Listrik 1",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211006",
+      "nm_mk": "Praktikum Rangkaian Listrik 1",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC211002",
+      "nm_mk": "Bengkel Mekanik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212001",
+      "nm_mk": "Matematika 2",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212007",
+      "nm_mk": "Elektronika Digital 1",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212002",
+      "nm_mk": "Bengkel Elektronika",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212009",
+      "nm_mk": "Sensor dan Transduser",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212003",
+      "nm_mk": "Rangkaian Listrik 2",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212004",
+      "nm_mk": "Praktikum Rangkaian Listrik 2",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212006",
+      "nm_mk": "Praktikum Elektronika Analog 1",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212005",
+      "nm_mk": "Elektronika Analog 1",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212010",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC212008",
+      "nm_mk": "Praktikum Elektronika Digital 1",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213005",
+      "nm_mk": "Sistem Kendali Kontinu",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213009",
+      "nm_mk": "Praktikum Sistem Mikrokontroler 1",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213007",
+      "nm_mk": "Sinyal dan Sistem",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213011",
+      "nm_mk": "Manajemen Industri",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213006",
+      "nm_mk": "Praktikum Sistem Kendali Kontinu",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213012",
+      "nm_mk": "Bahasa Inggris 1",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213004",
+      "nm_mk": "Praktikum Elektronika Digital 2",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213010",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213002",
+      "nm_mk": "Praktikum Elektronika Analog 2",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213003",
+      "nm_mk": "Elektronika Digital 2",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213008",
+      "nm_mk": "Sistem Mikrokontroler 1",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC213001",
+      "nm_mk": "Elektronika Analog 2",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214003",
+      "nm_mk": "Praktikum Sistem Kendali Diskrit",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214008",
+      "nm_mk": "Praktikum Elektronika Industri",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214002",
+      "nm_mk": "Praktikum Mesin Listrik",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214006",
+      "nm_mk": "Sistem Mikrokontroler 2",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214001",
+      "nm_mk": "Mesin Listrik",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214009",
+      "nm_mk": "Bahasa Inggris 2",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214007",
+      "nm_mk": "Elektronika Industri",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214005",
+      "nm_mk": "Praktikum Kendali Pneumatik dan Hidrolik",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC214004",
+      "nm_mk": "Kendali Pneumatik dan Hidrolik",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215006",
+      "nm_mk": "Perawatan dan Perbaikan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215008",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215001",
+      "nm_mk": "Programmable Logic Controller (PLC)",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215002",
+      "nm_mk": "Praktikum Programmable Logic Controller (PLC)",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215004",
+      "nm_mk": "Praktikum Instrumentasi Industri",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215007",
+      "nm_mk": "Bahasa Indonesia (Metode Penulisan)",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215005",
+      "nm_mk": "Sistem Embedded",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215009",
+      "nm_mk": "Technopreneurship",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "REC215003",
+      "nm_mk": "Instrumentasi Industri",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MAHESWARA BOBY SUKATON",
+    "jk": "L",
+    "nipd": "2131110012",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D3",
+    "namaprodi": "Teknik Elektronika",
+    "reg_pd": "1E4881F9-DE50-4E6F-B11F-6BBA24686054",
+    "mulai_smt": "20211",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/Q0IzQ0ZGOTAtQTVEMS00OTkxLUEwOUUtODcyMTg3RUM4NkI3"
+  }
+}

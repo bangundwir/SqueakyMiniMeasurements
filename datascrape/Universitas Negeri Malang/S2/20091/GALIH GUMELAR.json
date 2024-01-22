@@ -113,20 +113,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP408-86204-07",
-      "nm_mk": "Manajemen Kurikulum",
-      "sks_mk": 4,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKK401-86204-10",
-      "nm_mk": "Pengantar Pendidikan",
-      "sks_mk": 3,
-      "id_smt": "20092",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MAP416-86204-07",
       "nm_mk": "Supervisi Pendidikan",
       "sks_mk": 4,
@@ -136,6 +122,13 @@
     {
       "kode_mk": "MKK402-86204-10",
       "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK401-86204-10",
+      "nm_mk": "Pengantar Pendidikan",
       "sks_mk": 3,
       "id_smt": "20092",
       "nilai_huruf": null
@@ -151,6 +144,13 @@
       "kode_mk": "MPK433-86204-10",
       "nm_mk": "Pendidikan Kewarganegaraan",
       "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP408-86204-07",
+      "nm_mk": "Manajemen Kurikulum",
+      "sks_mk": 4,
       "id_smt": "20092",
       "nilai_huruf": null
     },
@@ -176,13 +176,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP401-86204-07",
-      "nm_mk": "Filsafat Manajemen Pendidikan",
-      "sks_mk": 2,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MAP414-86204-07",
       "nm_mk": "Manajemen Layanan Khusus",
       "sks_mk": 2,
@@ -190,8 +183,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FIP405-86204-07",
-      "nm_mk": "Antropologi Pendidikan",
+      "kode_mk": "MAP406-86204-07",
+      "nm_mk": "Pengawasan Pendidikan",
       "sks_mk": 2,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -211,13 +204,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP406-86204-07",
-      "nm_mk": "Pengawasan Pendidikan",
-      "sks_mk": 2,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MAP434-86204-07",
       "nm_mk": "Profesi Manajemen Pendidikan",
       "sks_mk": 2,
@@ -225,8 +211,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP437-86204-07",
-      "nm_mk": "Komputer Aplikasi Manajemen Pendidikan",
+      "kode_mk": "FIP405-86204-07",
+      "nm_mk": "Antropologi Pendidikan",
       "sks_mk": 2,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -239,6 +225,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "MAP401-86204-07",
+      "nm_mk": "Filsafat Manajemen Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP437-86204-07",
+      "nm_mk": "Komputer Aplikasi Manajemen Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP419-86204-07",
+      "nm_mk": "Sistem Informasi Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MAP498-86204-10",
       "nm_mk": "Kuliah Kerja Lapangan",
       "sks_mk": 1,
@@ -246,8 +253,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP419-86204-07",
-      "nm_mk": "Sistem Informasi Manajemen",
+      "kode_mk": "MAP435-86204-07",
+      "nm_mk": "Supervisi Klinis",
       "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -260,22 +267,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP426-86204-10",
-      "nm_mk": "Manajemen Perpustakaan",
-      "sks_mk": 2,
+      "kode_mk": "MAP431-86204-10",
+      "nm_mk": "Sistem Belajar Mengajar",
+      "sks_mk": 4,
       "id_smt": "20111",
       "nilai_huruf": null
     },
     {
       "kode_mk": "MAP433-86204-10",
       "nm_mk": "Bahasa Inggris Profesi Manajemen Pendidikan",
-      "sks_mk": 2,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MAP435-86204-07",
-      "nm_mk": "Supervisi Klinis",
       "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -288,10 +288,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP431-86204-10",
-      "nm_mk": "Sistem Belajar Mengajar",
-      "sks_mk": 4,
+      "kode_mk": "MAP426-86204-10",
+      "nm_mk": "Manajemen Perpustakaan",
+      "sks_mk": 2,
       "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAP428-86204-10",
+      "nm_mk": "Manajemen Mutu Terpadu",
+      "sks_mk": 2,
+      "id_smt": "20112",
       "nilai_huruf": null
     },
     {
@@ -309,15 +316,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP436-86204-10",
-      "nm_mk": "Kewirausahaan",
+      "kode_mk": "MAP423-86204-10",
+      "nm_mk": "Metodologi Penelitian Kualitatif",
       "sks_mk": 4,
       "id_smt": "20112",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP428-86204-10",
-      "nm_mk": "Manajemen Mutu Terpadu",
+      "kode_mk": "MAP418-86204-07",
+      "nm_mk": "Ekonomi Pendidikan",
       "sks_mk": 2,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -330,15 +337,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP418-86204-07",
-      "nm_mk": "Ekonomi Pendidikan",
-      "sks_mk": 2,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MAP423-86204-10",
-      "nm_mk": "Metodologi Penelitian Kualitatif",
+      "kode_mk": "MAP436-86204-10",
+      "nm_mk": "Kewirausahaan",
       "sks_mk": 4,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -358,15 +358,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP438-86204-10",
-      "nm_mk": "Pengembangan Sistem Manajemen Pendidikan",
+      "kode_mk": "MAP439-86204-10",
+      "nm_mk": "PPL Manajemen Pendidikan",
       "sks_mk": 4,
       "id_smt": "20121",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MAP439-86204-10",
-      "nm_mk": "PPL Manajemen Pendidikan",
+      "kode_mk": "MAP438-86204-10",
+      "nm_mk": "Pengembangan Sistem Manajemen Pendidikan",
       "sks_mk": 4,
       "id_smt": "20121",
       "nilai_huruf": null

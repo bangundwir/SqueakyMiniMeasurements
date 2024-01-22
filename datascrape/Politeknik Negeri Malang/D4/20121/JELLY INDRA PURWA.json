@@ -1,0 +1,205 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "RMK123030",
+      "nm_mk": "Struktur Beton I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123029",
+      "nm_mk": "Struktur Baja I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123021",
+      "nm_mk": "Bahasa Inggris Teknik I",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123024",
+      "nm_mk": "Manajemen Konstruksi I",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123022",
+      "nm_mk": "Hidrolika Terapan II",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123023",
+      "nm_mk": "Laboratorium Uji Tanah",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123026",
+      "nm_mk": "Perencanaan Geometrik Jalan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123028",
+      "nm_mk": "Praktek Pipa",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123027",
+      "nm_mk": "Praktek Pemetaan",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK123025",
+      "nm_mk": "Mekanika Rekayasa III",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124034",
+      "nm_mk": "Mekanika Rekayasa IV",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124040",
+      "nm_mk": "Struktur Beton II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124039",
+      "nm_mk": "Struktur Baja II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124032",
+      "nm_mk": "Estimasi Biaya",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124038",
+      "nm_mk": "Rekayasa Pondasi I",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124031",
+      "nm_mk": "Bahasa Inggris Teknik II",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124033",
+      "nm_mk": "Manajemen Konstruksi II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124035",
+      "nm_mk": "Perencanaan Perkerasan Jalan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124037",
+      "nm_mk": "Praktek Drainase",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RMK124036",
+      "nm_mk": "Praktek Acuan Perancah",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JELLY INDRA PURWA",
+    "jk": "L",
+    "nipd": "1241320080        ",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Manajemen Rekayasa Konstruksi",
+    "reg_pd": "FBC93057-4ED7-4D46-951B-58E8F375A1B8",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-08-19T00:00:00Z",
+    "no_seri_ijazah": "11399/POLINEMA/TS/D-IV/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/Q0MwODdGOTQtMTYyMC00QUExLTlEMEYtNzI1MzgwQUIyQ0FE"
+  }
+}

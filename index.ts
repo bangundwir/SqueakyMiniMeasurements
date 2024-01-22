@@ -107,7 +107,7 @@ async function startNewSearch(repeatCount: number) {
 }
 
 // Start the first search with a specified repeat count
-const repeatCount = 10; // Replace with the number of times you want to repeat the scraping
+const repeatCount = 100; // Replace with the number of times you want to repeat the scraping
 startNewSearch(repeatCount);
 
 // // const randomName = faker.person.fullName();

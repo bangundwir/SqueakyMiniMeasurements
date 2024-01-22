@@ -1,0 +1,311 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20091",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": null,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "SIP033",
+      "nm_mk": "Pengatalogan Bahan Non Buku",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP013",
+      "nm_mk": "Bahan Rujukan Umum",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IB011",
+      "nm_mk": "Budaya Melayu",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP032",
+      "nm_mk": "Pengindeksan Subjek",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP044",
+      "nm_mk": "Katalogisasi",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP029",
+      "nm_mk": "Penelusuran Literatur",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP043",
+      "nm_mk": "KLASIFIKASI",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP023",
+      "nm_mk": "Sistem Jaringan Informasi",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP028",
+      "nm_mk": "Automasi Perpustakaan",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP031",
+      "nm_mk": "Bibliografi",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP037",
+      "nm_mk": "Program Aplikasi Komputer Perpustakaan",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP012",
+      "nm_mk": "Perpustakaan Digital",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP022",
+      "nm_mk": "Manajemen Rekod",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP017",
+      "nm_mk": "PENERBITAN TERCETAK &AMP; BAHAN ELEKTRON",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP036",
+      "nm_mk": "Abstrak dan Indeks",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP025",
+      "nm_mk": "Sistem Temu Balik Informasi (STBI)",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP024",
+      "nm_mk": "Perencanaan & Rancangan Fasi. Info",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP040",
+      "nm_mk": "Perpustakaan Khusus",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP015",
+      "nm_mk": "Sumber Informasi dan IPTEK",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP035",
+      "nm_mk": "Metode Penelitian Perpustakaan",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP041",
+      "nm_mk": "PERPUSTAKAAN DAN PERUBAHAN SOSIAL",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IB010",
+      "nm_mk": "Jurnalistik",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP018",
+      "nm_mk": "Pendidikan Pemakai (User Education)",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP039",
+      "nm_mk": "Perpustakaan Umum",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP026",
+      "nm_mk": "Pemasaran Informasi (Marketing Library)",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP048",
+      "nm_mk": "Praktek Kerja Lapangan & Lap. Praktek",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP045",
+      "nm_mk": "Penelusuran Online",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP005",
+      "nm_mk": "Dasar-Dasar Katalog & Klasifikasi",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP019",
+      "nm_mk": "Perbandi Perptk, Dok & Unit Info.(PPDUI)",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP038",
+      "nm_mk": "PENULISAN ARTIKEL DAN RISENSI BUKU",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP050",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP049",
+      "nm_mk": "Seminar Perpustakaan",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIP050",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "GINA OKTAVIANI",
+    "jk": "P",
+    "nipd": "0810041960066     ",
+    "namapt": "Universitas Lancang Kuning",
+    "namajenjang": "S1",
+    "namaprodi": "Ilmu Perpustakaan",
+    "reg_pd": "1AC0DEAA-DA2D-4A79-9379-CC822EA6DEB5",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-01-23T00:00:00Z",
+    "no_seri_ijazah": "18068/UNILAK.06/FIB/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RTg3NDk3RUEtOENCNi00NUMwLUE2NzAtNUNEMDFENThERDAz",
+    "link_prodi": "/data_prodi/QjQzRDgzMDItQzBBNy00MzJELUI2NjgtNTlBNkMzMDNENEM4"
+  }
+}

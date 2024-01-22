@@ -1,0 +1,541 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "421-141-111",
+      "nm_mk": "PRAKTEK BAHASA INGGRIS TEKNIK MESIN 1",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-113",
+      "nm_mk": "PRAKTEK GAMBAR TEKNIK MESIN 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-105",
+      "nm_mk": "PRAKTEK KIMIA TERAPAN",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-112",
+      "nm_mk": "PRAKTEK FISIKA TERAPAN",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-114",
+      "nm_mk": "PRAKTEK KIMIA TERAPAN",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-103",
+      "nm_mk": "FISIKA TERAPAN",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-109",
+      "nm_mk": "PRAKTEK KERJA FABRIKASI DAN LAS DASAR 1",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-102",
+      "nm_mk": "BAHASA INGGRIS TEKNIK TERAPAN I",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-107",
+      "nm_mk": "MATERIAL TEKNIK 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-104",
+      "nm_mk": "PRAKTEK GAMBAR TEKNIK MESIN 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-108",
+      "nm_mk": "TEKNOLOGI MEKANIK TERAPAN 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-106",
+      "nm_mk": "MATEMATIKA TERAPAN 1",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-110",
+      "nm_mk": "PRAKTEK KERJA PEMESINAN DASAR 1",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-115",
+      "nm_mk": "PRAKTEK TEKNOLOGI MEKANIK 1",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-101",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-310",
+      "nm_mk": "Praktek CNC Dasar 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-307",
+      "nm_mk": "Perancangan Teknik",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-304",
+      "nm_mk": "Teknik Kekuatan Bahan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-308",
+      "nm_mk": "Praktek Kerja Fabrikasi dan Las Lanjut 1",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-305",
+      "nm_mk": "Teknik Perawatan Permesinan Dasar",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-301",
+      "nm_mk": "Elemen Mesin Dasar",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-306",
+      "nm_mk": "Termodinamika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-309",
+      "nm_mk": "Praktek Kerja Pemesinan Lanjut 1",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-302",
+      "nm_mk": "Material Teknik Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-303",
+      "nm_mk": "Mekanika Fluida",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-407",
+      "nm_mk": "Praktek CNC Dasar 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-402",
+      "nm_mk": "Kinematika dan Dinamika",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-410",
+      "nm_mk": "Praktikum Pneumatik dan Hidrolik",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-405",
+      "nm_mk": "Praktek Kerja Fabrikasi dan Las Lanjut 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-408",
+      "nm_mk": "Praktek Perawatan Permesinan Dasar 1",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-403",
+      "nm_mk": "Perpindahan Kalor",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-409",
+      "nm_mk": "Praktikum Fenomena Bahan 1",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-404",
+      "nm_mk": "Statistik Terapan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-406",
+      "nm_mk": "Praktek Kerja Pemesinan Lanjut 2",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-401",
+      "nm_mk": "Elemen Mesin Terapan",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-505",
+      "nm_mk": "Pengantar Basis Data Teknik",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-501",
+      "nm_mk": "Praktek Rangkaian Elektronika Terapan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-508",
+      "nm_mk": "Praktek  Perawatan Permesinan Dasar 2",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-503",
+      "nm_mk": "Praktek Mesin Listrik Terapan",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-509",
+      "nm_mk": "Praktikum Computer Aided Design (CAD)",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-511",
+      "nm_mk": "Praktikum Elektro Pneumatik dan Hidrolik",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-504",
+      "nm_mk": "Mesin Penggerak Mula",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-506",
+      "nm_mk": "Praktek Pengantar Basis Data Teknik",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-507",
+      "nm_mk": "Metodologi Penulisan Karya Ilmiah",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-510",
+      "nm_mk": "Praktikum Fenomena Bahan 2",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-512",
+      "nm_mk": "Kesehatan Keselamatan Kerja",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-502",
+      "nm_mk": "Instrumentasi dan Metrologi",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-607",
+      "nm_mk": "Praktek Manufaktur 1",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-604",
+      "nm_mk": "Perencanaan dan Pengendalian produksi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-602",
+      "nm_mk": "Desain Produk",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-608",
+      "nm_mk": "Teknik Manufaktur",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-606",
+      "nm_mk": "Praktek Pemrograman NC",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-601",
+      "nm_mk": "Mekatronika",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-605",
+      "nm_mk": "Perencanaan Instalasi Produksi",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-603",
+      "nm_mk": "Desain Alat Produksi Massal",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-704",
+      "nm_mk": "Sistem Informasi Manufaktur",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-703",
+      "nm_mk": "Praktek Manufaktur 2",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-702",
+      "nm_mk": "Pompa dan Kompresor",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-705",
+      "nm_mk": "Teknik Manufaktur Lanjut",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-701",
+      "nm_mk": "Magang Industri",
+      "sks_mk": 6,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-805",
+      "nm_mk": "Hukum Ketenagakerjaan",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-806",
+      "nm_mk": "Kecakapan Interpersonal",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-801",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-802",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-807",
+      "nm_mk": "Perencanaan Sumber Daya Industri",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-808",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-804",
+      "nm_mk": "Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421-141-803",
+      "nm_mk": "Tribologi Terapan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "USYI DIANA RACHMAWATI",
+    "jk": "P",
+    "nipd": "42114021          ",
+    "namapt": "Politeknik Negeri Semarang",
+    "namajenjang": "D4",
+    "namaprodi": "Teknik Mesin Produksi dan Perawatan",
+    "reg_pd": "63C693E2-D282-4E94-851F-C38B65B365BA",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-09-04T00:00:00Z",
+    "no_seri_ijazah": "213012018000134",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OTJCNDk5QTctRDQ3OS00NTBCLThFNDMtQUM0OUU5QzFDNTA1",
+    "link_prodi": "/data_prodi/RDk4REExQkUtMzdCRS00MjIzLUEzRkEtNENEMDI0MTY2MzUz"
+  }
+}

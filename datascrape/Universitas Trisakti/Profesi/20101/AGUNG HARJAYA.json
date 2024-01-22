@@ -1,0 +1,98 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PPA002",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA001",
+      "nm_mk": "ETIKA BISNIS PROFESI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA011",
+      "nm_mk": "AKUNTANSI FORENSIK AUDIT KECURANGAN",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA004",
+      "nm_mk": "LINGKUNGAN BISNIS DAN HUKUM KOMERSIAL",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA005",
+      "nm_mk": "PASAR MODAL DAN MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA006",
+      "nm_mk": "PELAPORAN DAN AKUNTANSI KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA003",
+      "nm_mk": "PRAKTIK AUDIT",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA007",
+      "nm_mk": "AKUNTANSI MANAJEMEN DAN BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPA008",
+      "nm_mk": "MANAJEMEN RESIKO AUDIT BERBASIS RESIKO",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AGUNG HARJAYA",
+    "jk": "L",
+    "nipd": "023P10351         ",
+    "namapt": "Universitas Trisakti",
+    "namajenjang": "Profesi",
+    "namaprodi": "Profesi Akuntan",
+    "reg_pd": "364603AD-CFEC-4039-99A1-7EC38A8D4456",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-03-10T00:00:00Z",
+    "no_seri_ijazah": "033/PPA-FE.USAKTI/XI/VI/2011",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTEzQjREMDYtMzRDQS00QTZFLUEyOUEtOUFGMzcyOTMzQzhG",
+    "link_prodi": "/data_prodi/RTVEMTUzMEUtREJBRi00OUVELTg4QjMtODhDQ0E1QUQyNzlE"
+  }
+}

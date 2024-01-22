@@ -1,0 +1,56 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20202",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Menunggu Ujian"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "DARM10102",
+      "nm_mk": "Pendalaman Materi Pedagogy Dan Bidang Studi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "DARD10105",
+      "nm_mk": "Pendalaman Materi Pedagogy Dan Bidang Studi",
+      "sks_mk": 5,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPLD10304",
+      "nm_mk": "Praktik Pengalaman Lapangan (PPL)",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "IKA HARINI",
+    "jk": "P",
+    "nipd": "A952200070",
+    "namapt": "Universitas Muhammadiyah Surakarta",
+    "namajenjang": "Profesi",
+    "namaprodi": "Pendidikan Profesi Guru",
+    "reg_pd": "FD45F065-27C3-4F09-9EC8-D99E2FB9250A",
+    "mulai_smt": "20202",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-12-28T00:00:00Z",
+    "no_seri_ijazah": "0610082102020694",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NkQxMjQxNDItRTc5OC00RjYyLTg3NEItQ0U0MzVCNTQwOUYx",
+    "link_prodi": "/data_prodi/NzMzQUU3OUUtRUZFQi00NjBGLUFBOUQtMEI3QTZEQTBBMDQw"
+  }
+}

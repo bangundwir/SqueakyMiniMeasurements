@@ -1,0 +1,670 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "20226",
+      "nm_mk": "Bahasa Toraja",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10922",
+      "nm_mk": "Pembimbing dan Pengetahuan PL 2",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11122",
+      "nm_mk": "Pembimbing dan Pengetahuan PB 2",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21022",
+      "nm_mk": "Pembimbing PL 1",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11222",
+      "nm_mk": "Pembimbing Teologi Sistematika",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21122",
+      "nm_mk": "Psikologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10222",
+      "nm_mk": "Bahasa Inggris 1",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10121",
+      "nm_mk": "Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11521",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11922",
+      "nm_mk": "Teori Belajar",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "31322",
+      "nm_mk": "Psikologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21922",
+      "nm_mk": "Ibrani 1",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "30923",
+      "nm_mk": "Kurikulum PAK",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11422",
+      "nm_mk": "Pembimbing Teologi Sistematika",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "22222",
+      "nm_mk": "Psikologi Perkembangan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20724",
+      "nm_mk": "Musik Gerejawi",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21822",
+      "nm_mk": "Pembimbing PB 2",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10221",
+      "nm_mk": "Komunikasi",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "22622",
+      "nm_mk": "Pengantar Filsafat",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "23223",
+      "nm_mk": "Etika Kristen 1",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "22822",
+      "nm_mk": "Dasar-dasar Kependidikan",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "38726",
+      "nm_mk": "Metode Penulisan Karya Tulis Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "24823",
+      "nm_mk": "Pengembangan Diri",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "24523",
+      "nm_mk": "Sejarah Gereja Umum",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "23023",
+      "nm_mk": "Dogmatika 1",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10621",
+      "nm_mk": "Spiritualitas Kristen",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "26324",
+      "nm_mk": "Kepemimpinan Kristen",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "22322",
+      "nm_mk": "Hermeneutika",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "12722",
+      "nm_mk": "Logika",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "13523",
+      "nm_mk": "Pembimbing PAK",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "23323",
+      "nm_mk": "Sejarah Gereja Asia",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "21422",
+      "nm_mk": "Filsafat PAK",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "25623",
+      "nm_mk": "Pengembangan Kurikulum PAK berdasarkan KTSP",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "23123",
+      "nm_mk": "Dogmatika 2",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "20321",
+      "nm_mk": "Sosiologi Agama",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "36925",
+      "nm_mk": "Islamologi",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "34723",
+      "nm_mk": "Teknik dan Media Pembelajaran PAK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "36124",
+      "nm_mk": "Pastoral",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "34223",
+      "nm_mk": "Etika Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "35724",
+      "nm_mk": "Homiletika",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "34623",
+      "nm_mk": "Perencanaan Pembelajaran PAK",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "33423",
+      "nm_mk": "Sejarah Gereja Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "33823",
+      "nm_mk": "PWG Anak",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32522",
+      "nm_mk": "Tafsiran PB",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "32422",
+      "nm_mk": "Tafsiran PL",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "31822",
+      "nm_mk": "Metodologi Penelitian Sosial dan Tindakan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "33923",
+      "nm_mk": "PWG Remaja",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "36625",
+      "nm_mk": "Simulasi dan Praktek Teknologi Pendidikan dalam PAK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "22922",
+      "nm_mk": "Ilmu Agama-agama",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "24923",
+      "nm_mk": "Etika Kristen 2",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "36725",
+      "nm_mk": "Teologi Agama-agama",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "35423",
+      "nm_mk": "Teologi PB 1",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "12722",
+      "nm_mk": "Logika",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "36024",
+      "nm_mk": "Bimbingan Konseling",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "35223",
+      "nm_mk": "Teologi PL 1",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10521",
+      "nm_mk": "Ilmu Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46224",
+      "nm_mk": "Liturgika",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "44023",
+      "nm_mk": "PWG Dewasa",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "44323",
+      "nm_mk": "Kode Etik dan Profesionalisme Guru",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "45824",
+      "nm_mk": "Misiologi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "37726",
+      "nm_mk": "Etika Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "33723",
+      "nm_mk": "Strategi Pembelajaran PAK",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "35724",
+      "nm_mk": "Homiletika",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10421",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "35523",
+      "nm_mk": "Teologi PB 2",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "28926",
+      "nm_mk": "Adat dan Kebudayan Toraja",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "28126",
+      "nm_mk": "Gereja dan Politik",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "35123",
+      "nm_mk": "Metode-metode Pendidikan Agama di Sekolah",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "23123",
+      "nm_mk": "Dogmatika 2",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "23323",
+      "nm_mk": "Sejarah Gereja Asia",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "38826",
+      "nm_mk": "Pengakuan Gereja Toraja/TGT",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "25623",
+      "nm_mk": "Pengembangan Kurikulum PAK berdasarkan KTSP",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11322",
+      "nm_mk": "Psikologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "10421",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "44123",
+      "nm_mk": "Evaluasi Hasil Pembelajaran PAK",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "25023",
+      "nm_mk": "Teori Belajar dan Penerapannya Dalam PAK 2",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "44023",
+      "nm_mk": "PWG Dewasa",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "47025",
+      "nm_mk": "PAK dalam Masyarakat Majemuk",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "23023",
+      "nm_mk": "Dogmatika 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "11022",
+      "nm_mk": "Pembimbing dan Pengetahuan PB 1",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "38726",
+      "nm_mk": "Metode Penulisan Karya Tulis Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "44423",
+      "nm_mk": "Manajemen Kependidikan Berbasis MPMBS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46425",
+      "nm_mk": "Praktek Pengenalan Lapangan",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "27126",
+      "nm_mk": "Komunikasi Antarpribadi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46525",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Mince Banawa",
+    "jk": "P",
+    "nipd": "20103063",
+    "namapt": "STAK Negeri Toraja",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Agama Kristen",
+    "reg_pd": "7B4C0252-1BB6-4B49-893C-7130792400DB",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-06-30T00:00:00Z",
+    "no_seri_ijazah": "1263/S.1/PAK/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NURCN0NCQTQtQ0E3OS00OEM5LTkwMzMtNjM4ODlEMjdENzU3",
+    "link_prodi": "/data_prodi/NDFEQjk2NDgtOEQ0MS00OERFLUEwNUUtRTA5OEMyQzRCODhF"
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "1100601890210",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1100618590210",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100613000210",
+      "nm_mk": "Logika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100600540310",
+      "nm_mk": "Aljabar",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100629630210",
+      "nm_mk": "Teori Himpunan",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1100605080210",
+      "nm_mk": "English For Spesific Purpose I",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100629420310",
+      "nm_mk": "Teori Bilangan",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100630420210",
+      "nm_mk": "Trigonometri",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1200600440110",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan I",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1100609370210",
+      "nm_mk": "Ilmu Sosial Budaya Dasar",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100610020310",
+      "nm_mk": "Kalkulus Diferensial",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1100605090210",
+      "nm_mk": "English For Spesific Purpose II",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1100600450110",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan II",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100610250210",
+      "nm_mk": "Kapita Selekta Matematika SLTP",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4200629180310",
+      "nm_mk": "Teknologi Informasi dan Komunikasi",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100600570210",
+      "nm_mk": "Aljabar Matriks",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100629760210",
+      "nm_mk": "Teori Peluang",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100619560210",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100602340210",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100606910310",
+      "nm_mk": "Geometri Euclide",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100627550310",
+      "nm_mk": "Statistika Matematika",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100610060310",
+      "nm_mk": "Kalkulus Integral",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100621740210",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100600550310",
+      "nm_mk": "Aljabar Linier",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100614880310",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4200602210210",
+      "nm_mk": "Bahasa Pemrograman I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100627500310",
+      "nm_mk": "Statistika Deskriptif",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100610240210",
+      "nm_mk": "Kapita Selekta Matematika SLTA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100606890310",
+      "nm_mk": "Geometri Analitik Bidang",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100627810310",
+      "nm_mk": "Struktur Aljabar",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100628290210",
+      "nm_mk": "Sumber Belajar dan Media Pembelajaran",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100606900310",
+      "nm_mk": "Geometri Analitik Ruang",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4200602220210",
+      "nm_mk": "Bahasa Pemrograman II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100620020210",
+      "nm_mk": "Pengembangan Kurikulum",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100629760210",
+      "nm_mk": "Teori Peluang",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4200603700210",
+      "nm_mk": "Desain dan Animasi Grafis",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100623630210",
+      "nm_mk": "Profesi Keguruan",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100610090310",
+      "nm_mk": "Kalkulus Peubah Banyak",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100627530310",
+      "nm_mk": "Statistika Inferensial",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1100600460110",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan III",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100631350310",
+      "nm_mk": "Pengantar Analisis Real",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100606770310",
+      "nm_mk": "Fungsi Khusus",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100621100310",
+      "nm_mk": "Perenc. dan Strategi Pembelajaran Matematika",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100601140310",
+      "nm_mk": "Analisis Variabel Kompleks",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100601170310",
+      "nm_mk": "Analisis Vektor",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2200625260310",
+      "nm_mk": "Riset Operasi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100631340310",
+      "nm_mk": "Teori Graf",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100616140310",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100606920310",
+      "nm_mk": "Geometri Transformasi",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3100605530310",
+      "nm_mk": "Evaluasi Pembelajaran Matematika",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100631320310",
+      "nm_mk": "Struktur Aljabar Lanjut",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "1100600470110",
+      "nm_mk": "Al Islam dan Kemuhammadiyahan IV",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4200603790310",
+      "nm_mk": "Desain Web",
+      "sks_mk": 5,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "4100622720210",
+      "nm_mk": "Praktek Pengenalan Lapangan I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "2100621850310",
+      "nm_mk": "Persamaan Differensial",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46057",
+      "nm_mk": "KOMPUTASI MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46059",
+      "nm_mk": "METODE NUMERIK",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46066",
+      "nm_mk": "PRAKTEK PENGENALAN LAPANGAN II",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46064",
+      "nm_mk": "SEMINAR MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46068",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "46070",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SITI ZAENAB",
+    "jk": "P",
+    "nipd": "201010060311197   ",
+    "namapt": "Universitas Muhammadiyah Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Matematika",
+    "reg_pd": "24FA1FC3-360D-40AC-ABF7-D99F785833AD",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-08-16T00:00:00Z",
+    "no_seri_ijazah": "14.3.006.02207",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NjM5OUQ3N0QtOEM1NS00REZBLTgwRjgtNzAwMjc1MjMwOTlF",
+    "link_prodi": "/data_prodi/N0I1Rjg0OEItNDZFNC00QUU4LTk2ODQtNzhGRTEwRDBCRkNE"
+  }
+}

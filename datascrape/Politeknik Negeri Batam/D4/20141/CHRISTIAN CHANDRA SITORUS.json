@@ -1,0 +1,541 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MPK1101",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ106",
+      "nm_mk": "MATEMATIKA DISKRIT",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ104",
+      "nm_mk": "ORGANISASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1103",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1102",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ101",
+      "nm_mk": "PRAKTIKUM DESAIN GRAFIS",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1101",
+      "nm_mk": "BAHASA INGGRIS I",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ103",
+      "nm_mk": "ALGORITMA DAN PEMROGRAMAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ100",
+      "nm_mk": "Desain Grafis",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ105",
+      "nm_mk": "Praktikum Organisasi Komputer",
+      "sks_mk": 1,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ102",
+      "nm_mk": "Algoritma dan Pemrograman",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ114",
+      "nm_mk": "PRAKTIKUM JARINGAN KOMPUTER",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ107",
+      "nm_mk": "SISTEM OPERASI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ111",
+      "nm_mk": "Matematika Teknik",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ112",
+      "nm_mk": "Pengantar Teknologi Informasi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ117",
+      "nm_mk": "Praktikum Naskah Produksi",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ115",
+      "nm_mk": "PROYEK AKHIR I",
+      "sks_mk": 4,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ109",
+      "nm_mk": "Desain Fotografi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ110",
+      "nm_mk": "Praktikum Desain Fotografi",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ116",
+      "nm_mk": "NASKAH PRODUKSI",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ113",
+      "nm_mk": "Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ108",
+      "nm_mk": "PRAKTIKUM SISTEM OPERASI",
+      "sks_mk": 1,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ209",
+      "nm_mk": "Praktikum Basis Data",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ201",
+      "nm_mk": "VIDEOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ204",
+      "nm_mk": "PRAKTIKUM STRUKTUR DATA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ207",
+      "nm_mk": "Praktikum Administrasi Sistem Komputer",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ202",
+      "nm_mk": "PRAKTIKUM VIDEOGRAFI",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ208",
+      "nm_mk": "Basis Data",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ203",
+      "nm_mk": "STRUKTUR DATA",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ205",
+      "nm_mk": "Praktikum Desain Web",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ206",
+      "nm_mk": "Administrasi Sistem Komputer",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK1104",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ214",
+      "nm_mk": "Internetworking",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ217",
+      "nm_mk": "Praktikum Pemrograman Objek",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ213",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN WEB",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ210",
+      "nm_mk": "Animasi 2D",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ215",
+      "nm_mk": "Praktikum Internetworking",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ212",
+      "nm_mk": "PEMROGRAMAN WEB",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ218",
+      "nm_mk": "PROYEK AKHIR II",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ216",
+      "nm_mk": "Pemrograman Objek",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ211",
+      "nm_mk": "Praktikum Animasi 2D",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ306",
+      "nm_mk": "Praktikum Kecerdasan Buatan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ307",
+      "nm_mk": "Sistem Editing",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ304",
+      "nm_mk": "Praktikum Animasi 3D",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ308",
+      "nm_mk": "Praktikum Sistem Editing",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK105",
+      "nm_mk": "Bahasa Inggris III",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ303",
+      "nm_mk": "Animasi 3D",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ302",
+      "nm_mk": "Praktikum Multimedia Networking",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ301",
+      "nm_mk": "Multimedia Networking",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ305",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ315",
+      "nm_mk": "Manajemen Proyek",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ311",
+      "nm_mk": "KEAMANAN JARINGAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ309",
+      "nm_mk": "PEMROGRAMAN GAME",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ312",
+      "nm_mk": "PRAKTIKUM KEAMANAN JARINGAN",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ314",
+      "nm_mk": "Praktikum Broadcasting",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ310",
+      "nm_mk": "PRAKTIKUM PEMROGRAMAN GAME",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK106",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ313",
+      "nm_mk": "Broadcasting",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ317",
+      "nm_mk": "Proyek Akhir III",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ403",
+      "nm_mk": "Kapita Selekta",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ405",
+      "nm_mk": "Tugas Akhir II",
+      "sks_mk": 6,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ402",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ401",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ404",
+      "nm_mk": "Tugas Akhir I",
+      "sks_mk": 6,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ405",
+      "nm_mk": "Tugas Akhir II",
+      "sks_mk": 6,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ407",
+      "nm_mk": "Pelaporan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ408",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJ406",
+      "nm_mk": "Magang Industri",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "CHRISTIAN CHANDRA SITORUS",
+    "jk": "L",
+    "nipd": "4311401012        ",
+    "namapt": "Politeknik Negeri Batam",
+    "namajenjang": "D4",
+    "namaprodi": "Teknik Multimedia dan Jaringan",
+    "reg_pd": "7CFC0E37-8826-49FC-A61D-DF14C7A7E836",
+    "mulai_smt": "20141",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2018-08-13T00:00:00Z",
+    "no_seri_ijazah": "903432018401012",
+    "sert_prof": null,
+    "link_pt": "/data_pt/OENBNTJGRjYtQTI5Qi00RTM1LUI5N0QtNTY5RDU1RDExNEU2",
+    "link_prodi": "/data_prodi/RTZBQ0E5OUMtNDMwNi00NUNFLUJDQjItNTc5RjZEQ0UzQ0Yx"
+  }
+}

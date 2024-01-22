@@ -1,0 +1,460 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": null,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "421410113",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420311",
+      "nm_mk": "PRAKTIKUM  FISIKA DASAR I",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420113",
+      "nm_mk": "KALKULUS I",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420413",
+      "nm_mk": "BIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421410313",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420214",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420414",
+      "nm_mk": "KIMIA DASAR I",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421410423",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420821",
+      "nm_mk": "PRAKTIKUM FISIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421430123",
+      "nm_mk": "STATISTIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420624",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420924",
+      "nm_mk": "KIMIA DASAR II",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421420623",
+      "nm_mk": "KALKULUS II",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421023",
+      "nm_mk": "PENGETAHUAN LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421410521",
+      "nm_mk": "OLAHRAGA DAN SENI",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421234",
+      "nm_mk": "ELEKTRONIKA DASAR",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421144",
+      "nm_mk": "MEKANIKA",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421440232",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421430333",
+      "nm_mk": "ASSESMENT PENGAJARAN FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421134",
+      "nm_mk": "FISIKA MATEMATIKA I",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421440132",
+      "nm_mk": "DASAR-DASAR PENDIDIKAN IPA",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421410233",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421742",
+      "nm_mk": "KAPITA SELEKTA SAINS I",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421643",
+      "nm_mk": "THERMODINAMIKA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421430442",
+      "nm_mk": "INTERAKSI BELAJAR MENGAJAR",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421430343",
+      "nm_mk": "PERENCANAAN PENGAJARAN FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421410842",
+      "nm_mk": "ISBD",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421543",
+      "nm_mk": "KOMPUTER DALAM PENGAJARAN FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421440344",
+      "nm_mk": "BELAJAR DAN PEMBELAJARAN",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421444",
+      "nm_mk": "FISIKA MATEMATIKA II",
+      "sks_mk": 4,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421410742",
+      "nm_mk": "FILSAFAT ILMU",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422152",
+      "nm_mk": "LABORATORIUM FISIKA I",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421954",
+      "nm_mk": "GELOMBANG OPTIK",
+      "sks_mk": 4,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422052",
+      "nm_mk": "KAPITA SELEKTA SAINS II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421421753",
+      "nm_mk": "ELEKTRONIKA LANJUT *",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421430553",
+      "nm_mk": "PENELITIAN PENGAJARAN FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421430653",
+      "nm_mk": "TELAAH KURIKULUM DAN BUKU TEKS",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422862",
+      "nm_mk": "LABORATORIUM FISIKA II",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421430762",
+      "nm_mk": "PPL I",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422063",
+      "nm_mk": "MATRIKS DAN RUANG VEKTOR *",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422364",
+      "nm_mk": "LISTRIK MAGNET",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422462",
+      "nm_mk": "ALAT-ALAT UKUR LISTRIK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422664",
+      "nm_mk": "FISIKA MODERN",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421423283",
+      "nm_mk": "PENDAHULUAN FISIKA ZAT PADAT",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422262",
+      "nm_mk": "KAPITA SELEKTA FISIKA SEKOLAH",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421430874",
+      "nm_mk": "PPL II",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421450274",
+      "nm_mk": "KULIAH KERJA SIBERMAS",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421440452",
+      "nm_mk": "PROFESI KEPENDIDIKAN FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422583",
+      "nm_mk": "FISIKA STATISTIK",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421450172",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422973",
+      "nm_mk": "FISIKA KUANTUM",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422362",
+      "nm_mk": "SEJARAH FISIKA",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422862",
+      "nm_mk": "LABORATORIUM FISIKA II",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421423486",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "421422683",
+      "nm_mk": "PENDAHULUAN FISIKA ZAT PADAT",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KARMAN",
+    "jk": "L",
+    "nipd": "421410021         ",
+    "namapt": "Universitas Negeri Gorontalo",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Fisika",
+    "reg_pd": "E4136F88-2807-4646-AB66-42FE49E6FF8E",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-02-10T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MjAxRDE1QjMtMEY1OC00QThBLUFGRUUtMkFEQjVBQTRBQjlE",
+    "link_prodi": "/data_prodi/QzVGQzk2RTQtMkExNC00QTYzLUI2MzItMEVFRUUyMEI1NkQ3"
+  }
+}

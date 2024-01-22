@@ -1,0 +1,569 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MTE415-83207-10",
+      "nm_mk": "Praktikum Dasar Pemrograman Komputer",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE406-83207-10",
+      "nm_mk": "Rangkaian Listrik DC",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE414-83207-10",
+      "nm_mk": "Dasar Pemrograman Komputer",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IDB411-88201-10",
+      "nm_mk": "Sejarah Sastra",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF408-83207-10",
+      "nm_mk": "Kesehatan dan Keselamatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE407-83207-10",
+      "nm_mk": "Praktikum Rangkaian Listrik DC",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE411-83207-10",
+      "nm_mk": "Praktikum Elektronika Analog",
+      "sks_mk": 1,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE410-83207-10",
+      "nm_mk": "Elektronika Analog",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK402-83207-10",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI432-83207-10",
+      "nm_mk": "Matematika Diskrit",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK428-83207-10",
+      "nm_mk": "Bahasa Inggris Profesi",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK401-83207-10",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI424-83207-10",
+      "nm_mk": "Algoritma dan Struktur Data",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE404-83207-10",
+      "nm_mk": "Matematika Teknik I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE409-83207-10",
+      "nm_mk": "Praktikum Rangkaian Listrik AC",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI428-83207-10",
+      "nm_mk": "Praktikum Pemrograman Berorientasi Obyek",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI425-83207-10",
+      "nm_mk": "Praktikum Algoritma dan Struktur Data",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK403-83207-10",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK421-83207-10",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI427-83207-10",
+      "nm_mk": "Pemrograman Berbasis Obyek",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE401-83207-10",
+      "nm_mk": "Bahasa Inggris Teknik I",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE408-83207-10",
+      "nm_mk": "Rangkaian Listrik AC",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE403-83207-10",
+      "nm_mk": "Fisika Teknik",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI426-83207-10",
+      "nm_mk": "Pengantar Teknologi Informasi",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE413-83207-10",
+      "nm_mk": "Praktikum Elektronika Digital",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI491-83207-10",
+      "nm_mk": "Basis Data",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF402-83207-10",
+      "nm_mk": "Manajemen Pendidikan Kejuruan",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE412-83207-10",
+      "nm_mk": "Elektronika Digital",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI492-83207-10",
+      "nm_mk": "Praktikum Berbasis Data",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE402-83207-10",
+      "nm_mk": "Bahasa Inggris Teknik II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE405-83207-10",
+      "nm_mk": "Matematika Teknik II",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK432-83207-11",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF401-83207-10",
+      "nm_mk": "Kurikulum Pendidikan Kejuruan",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI455-83207-10",
+      "nm_mk": "Arsitektur dan Organisasi Komputer",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI444-83207-10",
+      "nm_mk": "Sistem Informasi",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI435-83207-10",
+      "nm_mk": "Bahasa Pemrograman Visual",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE417-83207-10",
+      "nm_mk": "Probabilitas dan Statistik",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF403-83207-10",
+      "nm_mk": "Evaluasi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI439-83207-10",
+      "nm_mk": "Praktek Dasar Pemrograman Visual",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI454-83207-10",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI478-83207-10",
+      "nm_mk": "Pemrograman Berbasis Web",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK433-83207-10",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF404-83207-10",
+      "nm_mk": "Sumber Belajar",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK427-83207-10",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI495-83207-10",
+      "nm_mk": "Perawatan dan Perbaikan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI479-83207-10",
+      "nm_mk": "Praktikum Pemrograman Berbasis Web",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI453-83207-10",
+      "nm_mk": "Rekayasa Perangkat Lunak",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI498-83207-10",
+      "nm_mk": "Grafika Komputer",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF407-83207-10",
+      "nm_mk": "Metodologi Penelitian Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI473-83207-10",
+      "nm_mk": "Pembelajaran Berbantuan Komputer",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF405-83207-10",
+      "nm_mk": "Perencanaan Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI496-83207-10",
+      "nm_mk": "Komunikasi Data dan Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI464-83207-10",
+      "nm_mk": "Analisa dan Desain Sistem Informasi",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI499-83207-10",
+      "nm_mk": "Praktek Grafika Komputer",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI497-83207-10",
+      "nm_mk": "Praktek Komunikasi Data dan Jaringan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE418-83207-10",
+      "nm_mk": "Praktek Industri",
+      "sks_mk": 4,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI493-83207-10",
+      "nm_mk": "Mikroprosesor dan Teknik Antar Muka",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI480-83207-10",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI483-83207-09",
+      "nm_mk": "Sistem Pendukung Keputusan",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI482-83207-10",
+      "nm_mk": "Robotika",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKF406-83207-10",
+      "nm_mk": "Praktik Pembelajaran Mikro",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI466-83207-10",
+      "nm_mk": "Multimedia",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI494-83207-10",
+      "nm_mk": "Praktikum Mikroprosesor dan Teknik Antar Muka",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MTE416-83207-10",
+      "nm_mk": "Komputasi Numerik",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI487-83207-10",
+      "nm_mk": "Basis Data Terdistribusi",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI477-83207-10",
+      "nm_mk": "Seminar Pra Skripsi",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI480-83207-09",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI490-83207-09",
+      "nm_mk": "Kewirausahaan dan Etika Profesi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPL490-83207-09",
+      "nm_mk": "Praktek Keguruan (PPL)",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI489-83207-09",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI489-83207-09",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTI489-83207-09",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20133",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ONI BUDI SETIYONO",
+    "jk": "L",
+    "nipd": "100533405395      ",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Teknik Informatika",
+    "reg_pd": "AE2D5E07-0ABB-40D2-8395-A5F36DE28C90",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-08-21T00:00:00Z",
+    "no_seri_ijazah": "29104/UN32/5/S1/2014",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/NEE1MTQ3RDItOUM3Ri00NjRGLTkyRjMtMDQ3RkE4OTYyQTMx"
+  }
+}

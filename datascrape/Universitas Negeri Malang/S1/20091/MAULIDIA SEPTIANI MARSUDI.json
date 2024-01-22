@@ -43,16 +43,16 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "MKS407-88210-09",
-      "nm_mk": "Filsafat Ilmu",
-      "sks_mk": 2,
+      "kode_mk": "MKK401-88210-10",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
       "id_smt": "20091",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK401-88210-10",
-      "nm_mk": "Pengantar Pendidikan",
-      "sks_mk": 3,
+      "kode_mk": "MKS407-88210-09",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
     },
@@ -71,8 +71,22 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "SDB406-88210-09",
+      "nm_mk": "Gambar Sket",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "SRK403-88210-09",
       "nm_mk": "Anatomi Plastis",
+      "sks_mk": 2,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SDB403-88210-09",
+      "nm_mk": "Kebudayaan Indonesia",
       "sks_mk": 2,
       "id_smt": "20091",
       "nilai_huruf": null
@@ -85,20 +99,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SDB403-88210-09",
-      "nm_mk": "Kebudayaan Indonesia",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SDB406-88210-09",
-      "nm_mk": "Gambar Sket",
-      "sks_mk": 2,
-      "id_smt": "20091",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "MPK427-88210-10",
       "nm_mk": "Bahasa Indonesia Keilmuan",
       "sks_mk": 2,
@@ -106,9 +106,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SRK401-88210-09",
-      "nm_mk": "Gambar Perspektif",
-      "sks_mk": 2,
+      "kode_mk": "MKK403-88210-10",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 4,
       "id_smt": "20101",
       "nilai_huruf": null
     },
@@ -127,9 +127,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKK403-88210-10",
-      "nm_mk": "Belajar dan Pembelajaran",
-      "sks_mk": 4,
+      "kode_mk": "SRK401-88210-09",
+      "nm_mk": "Gambar Perspektif",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SDB421-88210-09",
+      "nm_mk": "Kurikulum Pendidikan Seni",
+      "sks_mk": 2,
       "id_smt": "20101",
       "nilai_huruf": null
     },
@@ -144,13 +151,6 @@
       "kode_mk": "SRK412-88210-09",
       "nm_mk": "Seni Grafis",
       "sks_mk": 3,
-      "id_smt": "20101",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SDB421-88210-09",
-      "nm_mk": "Kurikulum Pendidikan Seni",
-      "sks_mk": 2,
       "id_smt": "20101",
       "nilai_huruf": null
     },
@@ -183,6 +183,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "SRK411-88210-10",
+      "nm_mk": "Seni Patung",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "SRK413-88210-10",
       "nm_mk": "Seni Kriya",
       "sks_mk": 3,
@@ -190,22 +197,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SRK404-88210-10",
-      "nm_mk": "Penulisan Ilmiah",
-      "sks_mk": 2,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "SDB420-88210-10",
       "nm_mk": "Evaluasi Pembelajaran Seni",
-      "sks_mk": 3,
-      "id_smt": "20102",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SDB425-88210-10",
-      "nm_mk": "Komputer Animasi",
       "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
@@ -218,16 +211,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SRK411-88210-10",
-      "nm_mk": "Seni Patung",
+      "kode_mk": "SDB425-88210-10",
+      "nm_mk": "Komputer Animasi",
       "sks_mk": 3,
       "id_smt": "20102",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SDB418-88210-10",
-      "nm_mk": "Strategi Pembelajaran Seni",
-      "sks_mk": 3,
+      "kode_mk": "SRK404-88210-10",
+      "nm_mk": "Penulisan Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SRK415-88210-10",
+      "nm_mk": "Tinjauan Seni Rupa",
+      "sks_mk": 2,
       "id_smt": "20111",
       "nilai_huruf": null
     },
@@ -246,13 +246,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SRK415-88210-10",
-      "nm_mk": "Tinjauan Seni Rupa",
-      "sks_mk": 2,
-      "id_smt": "20111",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "SDB409-88210-10",
       "nm_mk": "Gambar Ilustrasi",
       "sks_mk": 2,
@@ -267,8 +260,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SDB415-88210-10",
-      "nm_mk": "Fotografi",
+      "kode_mk": "SDB418-88210-10",
+      "nm_mk": "Strategi Pembelajaran Seni",
       "sks_mk": 3,
       "id_smt": "20111",
       "nilai_huruf": null
@@ -281,29 +274,15 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "SDB415-88210-10",
+      "nm_mk": "Fotografi",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "SDB410-88210-10",
       "nm_mk": "Kapita Selekta Budaya Nusantara",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SRK433-88210-10",
-      "nm_mk": "Desain Interior Non Rumah Tinggal",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SRK416-88210-10",
-      "nm_mk": "Kritik Seni Rupa",
-      "sks_mk": 3,
-      "id_smt": "20112",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "SDB412-88210-10",
-      "nm_mk": "Proposal Penelitian",
       "sks_mk": 3,
       "id_smt": "20112",
       "nilai_huruf": null
@@ -323,16 +302,37 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "SRK434-88210-10",
-      "nm_mk": "Manajemen Desain Interior",
-      "sks_mk": 4,
-      "id_smt": "20121",
+      "kode_mk": "SRK433-88210-10",
+      "nm_mk": "Desain Interior Non Rumah Tinggal",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SDB412-88210-10",
+      "nm_mk": "Proposal Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SRK416-88210-10",
+      "nm_mk": "Kritik Seni Rupa",
+      "sks_mk": 3,
+      "id_smt": "20112",
       "nilai_huruf": null
     },
     {
       "kode_mk": "SRK442-88210-12",
       "nm_mk": "Kapita Selekta Pendidikan Seni",
       "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPL490-88210-10",
+      "nm_mk": "Praktik Pengalaman Lapangan",
+      "sks_mk": 4,
       "id_smt": "20121",
       "nilai_huruf": null
     },
@@ -344,8 +344,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PPL490-88210-10",
-      "nm_mk": "Praktik Pengalaman Lapangan",
+      "kode_mk": "SRK434-88210-10",
+      "nm_mk": "Manajemen Desain Interior",
       "sks_mk": 4,
       "id_smt": "20121",
       "nilai_huruf": null

@@ -45,6 +45,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PTP250",
+      "nm_mk": "DASAR TERNAK PERAH",
+      "sks_mk": 3,
+      "id_smt": "20021",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PTP201",
       "nm_mk": "STATISTIKA II",
       "sks_mk": 2,
@@ -55,13 +62,6 @@
       "kode_mk": "PTP220",
       "nm_mk": "DSR.I.PEMULIAAN TER",
       "sks_mk": 2,
-      "id_smt": "20021",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTP250",
-      "nm_mk": "DASAR TERNAK PERAH",
-      "sks_mk": 3,
       "id_smt": "20021",
       "nilai_huruf": null
     },
@@ -94,6 +94,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PTP251",
+      "nm_mk": "ILMU PRODUKSI TERNAK PERAH",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTP200",
+      "nm_mk": "METODE ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PTP261",
       "nm_mk": "AGRIBISNIS",
       "sks_mk": 2,
@@ -108,8 +122,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP251",
-      "nm_mk": "ILMU PRODUKSI TERNAK PERAH",
+      "kode_mk": "PTP231",
+      "nm_mk": "ILMU PRODUKSI TERNAK UNGGAS",
+      "sks_mk": 3,
+      "id_smt": "20022",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTM231",
+      "nm_mk": "AGROSTOLOGI",
       "sks_mk": 3,
       "id_smt": "20022",
       "nilai_huruf": null
@@ -129,45 +150,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTM231",
-      "nm_mk": "AGROSTOLOGI",
-      "sks_mk": 3,
-      "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTP241",
       "nm_mk": "ILMU PRODUKSI TERNAK POTONG",
       "sks_mk": 3,
       "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTP200",
-      "nm_mk": "METODE ILMIAH",
-      "sks_mk": 2,
-      "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTP231",
-      "nm_mk": "ILMU PRODUKSI TERNAK UNGGAS",
-      "sks_mk": 3,
-      "id_smt": "20022",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTP370",
-      "nm_mk": "TRKN.HASIL TERNAK",
-      "sks_mk": 3,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTP211",
-      "nm_mk": "ILMU LINGKUNGAN TERNAK",
-      "sks_mk": 2,
-      "id_smt": "20031",
       "nilai_huruf": null
     },
     {
@@ -192,6 +178,27 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PTP211",
+      "nm_mk": "ILMU LINGKUNGAN TERNAK",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTP360",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTP370",
+      "nm_mk": "TRKN.HASIL TERNAK",
+      "sks_mk": 3,
+      "id_smt": "20031",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PTP321",
       "nm_mk": "DASAR REPRODUKSI TERNAK",
       "sks_mk": 2,
@@ -206,13 +213,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP360",
-      "nm_mk": "KEWIRAUSAHAAN",
-      "sks_mk": 2,
-      "id_smt": "20031",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTP300",
       "nm_mk": "METODPENELPRODUKSI TERNAK",
       "sks_mk": 2,
@@ -220,8 +220,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP322",
-      "nm_mk": "ILMU REPRODUKSI TERNAK",
+      "kode_mk": "PTP231",
+      "nm_mk": "ILMU PRODUKSI TERNAK UNGGAS",
       "sks_mk": 3,
       "id_smt": "20032",
       "nilai_huruf": null
@@ -234,13 +234,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP361",
-      "nm_mk": "STUDI KELAYAKAN USAHA",
-      "sks_mk": 3,
-      "id_smt": "20032",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTP342",
       "nm_mk": "ABTR T.PEMOT.TERN",
       "sks_mk": 3,
@@ -248,15 +241,29 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP310",
-      "nm_mk": "KESEHATAN TERNAK",
+      "kode_mk": "PTP322",
+      "nm_mk": "ILMU REPRODUKSI TERNAK",
       "sks_mk": 3,
       "id_smt": "20032",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP231",
-      "nm_mk": "ILMU PRODUKSI TERNAK UNGGAS",
+      "kode_mk": "PTP361",
+      "nm_mk": "STUDI KELAYAKAN USAHA",
+      "sks_mk": 3,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTP302",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20032",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTP310",
+      "nm_mk": "KESEHATAN TERNAK",
       "sks_mk": 3,
       "id_smt": "20032",
       "nilai_huruf": null
@@ -269,13 +276,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP302",
-      "nm_mk": "APLIKASI KOMPUTER",
-      "sks_mk": 2,
-      "id_smt": "20032",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTP301",
       "nm_mk": "RANCANGAN PERCOBAAN",
       "sks_mk": 3,
@@ -283,15 +283,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP341",
-      "nm_mk": "PENGGEMUKAN SAPI PEDAGING",
+      "kode_mk": "PTP100",
+      "nm_mk": "MATEMATIKA",
       "sks_mk": 3,
       "id_smt": "20041",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP100",
-      "nm_mk": "MATEMATIKA",
+      "kode_mk": "PTP341",
+      "nm_mk": "PENGGEMUKAN SAPI PEDAGING",
       "sks_mk": 3,
       "id_smt": "20041",
       "nilai_huruf": null
@@ -304,13 +304,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTP262",
-      "nm_mk": "ILMU PENYULUHAN PETERNAKAN",
-      "sks_mk": 2,
-      "id_smt": "20042",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTP371",
       "nm_mk": "TEKNOLOGI PENGHASIL IKUTAN TERNAK",
       "sks_mk": 3,
@@ -318,8 +311,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTM202",
-      "nm_mk": "NUTRISI TERNAK DASAR",
+      "kode_mk": "PTP262",
+      "nm_mk": "ILMU PENYULUHAN PETERNAKAN",
       "sks_mk": 2,
       "id_smt": "20042",
       "nilai_huruf": null
@@ -332,17 +325,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTO403",
-      "nm_mk": "SKRIPSI",
-      "sks_mk": 6,
+      "kode_mk": "PTM202",
+      "nm_mk": "NUTRISI TERNAK DASAR",
+      "sks_mk": 2,
       "id_smt": "20042",
       "nilai_huruf": null
     },
     {
       "kode_mk": "PTO403",
       "nm_mk": "SKRIPSI",
-      "sks_mk": 4,
-      "id_smt": "20051",
+      "sks_mk": 6,
+      "id_smt": "20042",
       "nilai_huruf": null
     },
     {
@@ -356,6 +349,13 @@
       "kode_mk": "PTP340",
       "nm_mk": "MANAJEMEN TERNAK POTONG",
       "sks_mk": 3,
+      "id_smt": "20051",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTO403",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
       "id_smt": "20051",
       "nilai_huruf": null
     }

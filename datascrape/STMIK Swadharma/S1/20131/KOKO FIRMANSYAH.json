@@ -1,0 +1,205 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PB1251",
+      "nm_mk": "DATABASE ADMINISTRATOR (OCA 1",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK1152",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1153",
+      "nm_mk": "MANAJEMEN PERBANKAN",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK1151",
+      "nm_mk": "PENDIDIKAN KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1152",
+      "nm_mk": "METODOLOGI PENELITIAN DAN PENULISAN ILMIAH",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB1155",
+      "nm_mk": "PEMROGRAMAN BERBASIS WEB",
+      "sks_mk": 4,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB1164",
+      "nm_mk": "PEMROGRAMAN MOBILE (C#)",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB1161",
+      "nm_mk": "KERJA PRAKTIK",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB1165",
+      "nm_mk": "PERANCANGAN BASIS DATA",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1163",
+      "nm_mk": "PROGRAM APLIKASI PERBANKAN",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1165",
+      "nm_mk": "MANAJEMEN SAINS",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1261",
+      "nm_mk": "PERFORMANCE TUNING DATABASE OCA 2",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1173",
+      "nm_mk": "KEAMANAN KOMPUTER",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1172",
+      "nm_mk": "TECHNOPRENEURSHIP",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1175",
+      "nm_mk": "MANAJEMEN PROYEK SISTEM INFORMASI",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1174",
+      "nm_mk": "REKAYASA PERANGKAT LUNAK",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1275",
+      "nm_mk": "BACKUP RECOVERY DATABASE",
+      "sks_mk": 4,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB1161",
+      "nm_mk": "KERJA PRAKTIK",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB1171",
+      "nm_mk": "KOMPUTER & MASYARAKAT",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB1181",
+      "nm_mk": "TUGAS AKHIR",
+      "sks_mk": 6,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KOKO FIRMANSYAH",
+    "jk": "L",
+    "nipd": "13101022          ",
+    "namapt": "STMIK Swadharma",
+    "namajenjang": "S1",
+    "namaprodi": "Sistem Informasi",
+    "reg_pd": "30B42F1E-57A7-4C22-BF27-16859F692C9F",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-09-12T00:00:00Z",
+    "no_seri_ijazah": "1659/11/STMIK/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/REJFMDY3NEYtOUY2Ny00MzNCLTkxMDItOTkwRDBBQUQzRkI5",
+    "link_prodi": "/data_prodi/OEVCMjkzMDMtRDVEOS00Q0E3LTg5OTItN0E0M0Y2NEE3NTBC"
+  }
+}

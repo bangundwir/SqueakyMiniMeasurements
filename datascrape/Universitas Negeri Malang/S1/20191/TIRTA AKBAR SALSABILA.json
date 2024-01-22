@@ -71,6 +71,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "UNIV6011-86203-2018",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PTEP6006-86203-2018",
       "nm_mk": "Karakteristik Pebelajar",
       "sks_mk": 2,
@@ -99,20 +106,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNIV6011-86203-2018",
-      "nm_mk": "Pengantar Pendidikan",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "UNIV6007-86201-2018",
-      "nm_mk": "Pendidikan Pancasila",
-      "sks_mk": 2,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTEP6023-86203-2018",
       "nm_mk": "Pemrograman Visual",
       "sks_mk": 3,
@@ -123,6 +116,13 @@
       "kode_mk": "PTEP6007-86203-2018",
       "nm_mk": "Desain Sistem Pembelajaran",
       "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEP6008-86203-2018",
+      "nm_mk": "Pengembangan Sumber Belajar",
+      "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -148,16 +148,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNIV6012-86203-2018",
-      "nm_mk": "Perkembangan Peserta Didik",
-      "sks_mk": 3,
+      "kode_mk": "UNIV6007-86201-2018",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6008-86203-2018",
-      "nm_mk": "Pengembangan Sumber Belajar",
-      "sks_mk": 2,
+      "kode_mk": "UNIV6012-86203-2018",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -176,13 +176,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UNIV6013-2018",
-      "nm_mk": "Belajar dan Pembelajaran",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "FFIP6003-2018",
       "nm_mk": "Sosiologi dan Antropologi Pendidikan",
       "sks_mk": 3,
@@ -197,9 +190,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6016-2018",
-      "nm_mk": "Komunikasi Massa",
-      "sks_mk": 2,
+      "kode_mk": "UNIV6013-2018",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 3,
       "id_smt": "20201",
       "nilai_huruf": null
     },
@@ -211,22 +204,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6042-2018",
-      "nm_mk": "Pengembangan Program Pendidikan dan Pelatihan",
-      "sks_mk": 3,
-      "id_smt": "20202",
+      "kode_mk": "PTEP6016-2018",
+      "nm_mk": "Komunikasi Massa",
+      "sks_mk": 2,
+      "id_smt": "20201",
       "nilai_huruf": null
     },
     {
       "kode_mk": "PTEP6021-2018",
       "nm_mk": "Pengembangan Kurikulum",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTEP6020-2018",
-      "nm_mk": "Strategi dan Model Pembelajaran",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -253,13 +239,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6019-2018",
-      "nm_mk": "Media Audio dan Video Pembelajaran",
-      "sks_mk": 4,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTEP6013-2018",
       "nm_mk": "Teknologi Visual 3D",
       "sks_mk": 3,
@@ -267,9 +246,30 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6026-86203-2018",
-      "nm_mk": "Inovasi Pendidikan",
-      "sks_mk": 2,
+      "kode_mk": "PTEP6042-2018",
+      "nm_mk": "Pengembangan Program Pendidikan dan Pelatihan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEP6020-2018",
+      "nm_mk": "Strategi dan Model Pembelajaran",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEP6019-2018",
+      "nm_mk": "Media Audio dan Video Pembelajaran",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEP6017-86203-2018",
+      "nm_mk": "Evaluasi Pembelajaran",
+      "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
     },
@@ -281,15 +281,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6017-86203-2018",
-      "nm_mk": "Evaluasi Pembelajaran",
-      "sks_mk": 3,
+      "kode_mk": "PTEP6025-86203-2018",
+      "nm_mk": "Perpustakaan Digital",
+      "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6025-86203-2018",
-      "nm_mk": "Perpustakaan Digital",
+      "kode_mk": "PTEP6026-86203-2018",
+      "nm_mk": "Inovasi Pendidikan",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -309,15 +309,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6022-86203-2018",
-      "nm_mk": "Manajemen Pusat Sumber Belajar",
+      "kode_mk": "PTEP6027-86203-2018",
+      "nm_mk": "Evaluasi Program dan Proyek",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6027-86203-2018",
-      "nm_mk": "Evaluasi Program dan Proyek",
+      "kode_mk": "PTEP6022-86203-2018",
+      "nm_mk": "Manajemen Pusat Sumber Belajar",
       "sks_mk": 2,
       "id_smt": "20211",
       "nilai_huruf": null
@@ -337,6 +337,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "PTEP6030-86203-2018",
+      "nm_mk": "Kewirausahaan dalam Teknologi Pendidikan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "PTEPUM6028-2020",
       "nm_mk": "Peran Teknologi Pendidikan",
       "sks_mk": 2,
@@ -344,9 +351,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6030-86203-2018",
-      "nm_mk": "Kewirausahaan dalam Teknologi Pendidikan",
+      "kode_mk": "PTEP6043-86203-2018",
+      "nm_mk": "Seminar Proposal Riset",
       "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTEP6029-86203-2018",
+      "nm_mk": "Media Interaktif dan Adaptif",
+      "sks_mk": 3,
       "id_smt": "20212",
       "nilai_huruf": null
     },
@@ -372,22 +386,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "PTEP6029-86203-2018",
-      "nm_mk": "Media Interaktif dan Adaptif",
-      "sks_mk": 3,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "PTEP6038-86203-2018",
       "nm_mk": "Inovasi Kurikulum",
-      "sks_mk": 2,
-      "id_smt": "20212",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "PTEP6043-86203-2018",
-      "nm_mk": "Seminar Proposal Riset",
       "sks_mk": 2,
       "id_smt": "20212",
       "nilai_huruf": null

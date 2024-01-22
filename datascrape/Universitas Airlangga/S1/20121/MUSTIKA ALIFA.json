@@ -1,0 +1,401 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20121",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": null,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PLU105",
+      "nm_mk": "PLANKTONOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SOB101",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAE110",
+      "nm_mk": "BAHASSA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKA106",
+      "nm_mk": "HUKUM DAN KEBIJAKAN PERIKANAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI101",
+      "nm_mk": "AGAMA ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NOP101",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLU104",
+      "nm_mk": "PENGANTAR ILMU PERIKANAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLU103",
+      "nm_mk": "ICHTYOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLU101",
+      "nm_mk": "DASAR-DASAR AKUAKULTUR",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLL201",
+      "nm_mk": "EKOLOGI PERAIRAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLU102",
+      "nm_mk": "FISIOLOGI HEWAN AIR",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLL103",
+      "nm_mk": "PENGANTAR OCEANOGRAFI",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNG301",
+      "nm_mk": "MANAJEMEN AGRIBISNIS PERIKANAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK101",
+      "nm_mk": "BIOKIMIA",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SOS252",
+      "nm_mk": "SOSIOLOGI DAN PENYULUHAN PERIKANAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLU106",
+      "nm_mk": "AVERTEBRATA AIR",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLL102",
+      "nm_mk": "LIMNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIL301",
+      "nm_mk": "BIOLOGI LAUT",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLU201",
+      "nm_mk": "BIOLOGI PERIKANAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT304",
+      "nm_mk": "TEKNOLOGI PENANGKAPAN IKAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNU401",
+      "nm_mk": "DASAR MANAJEMEN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM202",
+      "nm_mk": "MIKROBIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT201",
+      "nm_mk": "FISH HANDLING",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KII207",
+      "nm_mk": "KIMIA PANGAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT202",
+      "nm_mk": "MANAJEMEN AKUAKULTUR PAYAU",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT205",
+      "nm_mk": "DASAR FARMAKOLOGI DAN TOKSIKOLOGI PERAIR",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAS210",
+      "nm_mk": "STATISTIKA",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT307",
+      "nm_mk": "FISIOLOGI, FORMASI DAN DEGRADASI METABOL",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT304",
+      "nm_mk": "TEKNOLOGI PENANGKAPAN IKAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NUI302",
+      "nm_mk": "GIZI IKANI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNW301",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT308",
+      "nm_mk": "TOKSIKOLOGI HASIL PERIKANAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT305",
+      "nm_mk": "PENGENDALIAN MUTU HASIL PERIKANAN / HACC",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT306",
+      "nm_mk": "TEKNOLOGI PROSES TERMAL",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHI101",
+      "nm_mk": "FILSAFAT ILMU",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT308",
+      "nm_mk": "TEKNOLOGI PENGOLAHAN LIMBAH HASIL PERIKA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNG307",
+      "nm_mk": "MANAJEMEN INDUSTRI HASIL PERIKANAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLL302",
+      "nm_mk": "KONSERVASI SUMBERDAYA PERAIRAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT307",
+      "nm_mk": "PENGEMASAN HASIL PERIKANAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM203",
+      "nm_mk": "BIOTA FARMASI",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNI301",
+      "nm_mk": "PERANCANGAN PERCOBAAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KNI491",
+      "nm_mk": "KKN-BELAJAR BERSAMA MASYARAKAT",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIT403",
+      "nm_mk": "BIOTEKNOLOGI HASIL PERAIRAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNI497",
+      "nm_mk": "SEMINAR PROPOSAL PENELITIAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLI401",
+      "nm_mk": "PRAKTEK KERJA LAPANGAN (PKL)",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNI498",
+      "nm_mk": "Proposal Skripsi",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI401",
+      "nm_mk": "AGAMA ISLAM II",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PLT309",
+      "nm_mk": "Teknologi Industri Biota Laut",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "MUSTIKA ALIFA",
+    "jk": "P",
+    "nipd": "141211133013      ",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "S1",
+    "namaprodi": "Akuakultur",
+    "reg_pd": "F4E34ADD-48FD-47C8-92AD-740DCA115481",
+    "mulai_smt": "20121",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2016-11-03T00:00:00Z",
+    "no_seri_ijazah": "741/001004/14.1/S1/2016",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/MjI1RDlGMjItMEM4Qy00QkRFLUE4RjgtNUU4QUFBRDY1Rjgz"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KEU221001",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU221006",
+      "nm_mk": "Matematika Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU221008",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU221003",
+      "nm_mk": "Aplikasi Komputer Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU221004",
+      "nm_mk": "Pengetikan Niaga",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU221002",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU221007",
+      "nm_mk": "Pengantar Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU221005",
+      "nm_mk": "Pengantar Akuntansi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU222008",
+      "nm_mk": "Bahasa Inggris Menengah",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU222001",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU222004",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU222006",
+      "nm_mk": "Aspek Hukum Dalam Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU222007",
+      "nm_mk": "Komunikasi Bisnis",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU222002",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU222005",
+      "nm_mk": "Akuntansi Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU222003",
+      "nm_mk": "Aplikasi Komputer Basis Data",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU223002",
+      "nm_mk": "Bahasa Inggris Lanjutan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU223003",
+      "nm_mk": "Praktikum Penganggaran",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU223001",
+      "nm_mk": "Aplikasi Komputer Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU223006",
+      "nm_mk": "Keuangan Syariah 1",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU223007",
+      "nm_mk": "Manajemen Keuangan",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU223004",
+      "nm_mk": "Ekonomi Moneter",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KEU223005",
+      "nm_mk": "Akuntansi Managerial",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AQIDAHTUL AISYAH",
+    "jk": "P",
+    "nipd": "2242530037",
+    "namapt": "Politeknik Negeri Malang",
+    "namajenjang": "D4",
+    "namaprodi": "Keuangan",
+    "reg_pd": "B59AEF7F-410D-47F7-B246-6B9345FB1494",
+    "mulai_smt": "20221",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MDVBRDAwMDItRDBCOC00MTEzLThCMEUtNkM3Q0MyNkUwN0I3",
+    "link_prodi": "/data_prodi/NTRENzg2QjUtNzZGRS00QkM5LTgxRUYtRkU3RTYzOEJGQUE1"
+  }
+}

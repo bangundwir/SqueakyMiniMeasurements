@@ -99,6 +99,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "NTEL601-20201-14",
+      "nm_mk": "Fisika Listrik",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "JTEL601-20201-14",
       "nm_mk": "Komunikasi Interpersonal",
       "sks_mk": 2,
@@ -120,17 +127,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL601-20201-14",
-      "nm_mk": "Fisika Listrik",
-      "sks_mk": 2,
-      "id_smt": "20151",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NTEL618-20201-14",
       "nm_mk": "Algoritma dan Pemrograman Komputer",
       "sks_mk": 3,
       "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK601-20201-14",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20152",
       "nilai_huruf": null
     },
     {
@@ -141,8 +148,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "JTEL603-20201-14",
-      "nm_mk": "Kalkulus II",
+      "kode_mk": "NTEL619-20201-14",
+      "nm_mk": "Elektronika Analog I",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTEL617-20201-14",
+      "nm_mk": "Rangkaian Listrik II",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
@@ -169,37 +183,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL619-20201-14",
-      "nm_mk": "Elektronika Analog I",
+      "kode_mk": "JTEL603-20201-14",
+      "nm_mk": "Kalkulus II",
       "sks_mk": 3,
       "id_smt": "20152",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL617-20201-14",
-      "nm_mk": "Rangkaian Listrik II",
-      "sks_mk": 3,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "UMPK601-20201-14",
-      "nm_mk": "Pendidikan Agama Islam",
+      "kode_mk": "NTEL611-20201-14",
+      "nm_mk": "Dasar Sistem Komunikasi",
       "sks_mk": 2,
-      "id_smt": "20152",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTEL620-20201-14",
-      "nm_mk": "Elektronika Analog II",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTEL622-20201-14",
-      "nm_mk": "Sistem Mikrokontroler",
-      "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
     },
@@ -211,6 +204,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "NTEL620-20201-14",
+      "nm_mk": "Elektronika Analog II",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "UMPK606-20201-14",
       "nm_mk": "Pendidikan Pancasila",
       "sks_mk": 2,
@@ -218,9 +218,23 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL611-20201-14",
-      "nm_mk": "Dasar Sistem Komunikasi",
-      "sks_mk": 2,
+      "kode_mk": "NTEL622-20201-14",
+      "nm_mk": "Sistem Mikrokontroler",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTEL623-20201-14",
+      "nm_mk": "Komunikasi Data dan Jaringan Komputer",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTEL605-20201-14",
+      "nm_mk": "Matematika Teknik I",
+      "sks_mk": 3,
       "id_smt": "20161",
       "nilai_huruf": null
     },
@@ -239,30 +253,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL605-20201-14",
-      "nm_mk": "Matematika Teknik I",
+      "kode_mk": "NTEL613-20201-14",
+      "nm_mk": "Medan Elektromagnet",
       "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTEL623-20201-14",
-      "nm_mk": "Komunikasi Data dan Jaringan Komputer",
-      "sks_mk": 3,
-      "id_smt": "20161",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTEL607-20201-14",
-      "nm_mk": "Stokastik dan Variabel Random",
-      "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL625-20201-14",
-      "nm_mk": "Elektronika Daya",
-      "sks_mk": 3,
+      "kode_mk": "NTEL608-20201-14",
+      "nm_mk": "Manajemen Industri",
+      "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
@@ -288,13 +288,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UMPK608-87201-15",
-      "nm_mk": "Bahasa Indonesia Keilmuan",
-      "sks_mk": 2,
-      "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NTEL624-20201-14",
       "nm_mk": "Sistem Kendali Kontinyu",
       "sks_mk": 3,
@@ -302,24 +295,24 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL608-20201-14",
-      "nm_mk": "Manajemen Industri",
+      "kode_mk": "NTEL625-20201-14",
+      "nm_mk": "Elektronika Daya",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTEL607-20201-14",
+      "nm_mk": "Stokastik dan Variabel Random",
       "sks_mk": 2,
       "id_smt": "20162",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL613-20201-14",
-      "nm_mk": "Medan Elektromagnet",
-      "sks_mk": 3,
+      "kode_mk": "UMPK608-87201-15",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
       "id_smt": "20162",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTEL614-20201-14",
-      "nm_mk": "Sistem Cerdas",
-      "sks_mk": 3,
-      "id_smt": "20171",
       "nilai_huruf": null
     },
     {
@@ -346,6 +339,13 @@
     {
       "kode_mk": "NTEL674-20201-14",
       "nm_mk": "Robotika I",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTEL614-20201-14",
+      "nm_mk": "Sistem Cerdas",
       "sks_mk": 3,
       "id_smt": "20171",
       "nilai_huruf": null
@@ -379,13 +379,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "JTEL607-20201-15",
-      "nm_mk": "Technopreneurship",
-      "sks_mk": 2,
-      "id_smt": "20172",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NTEL675-20201-15",
       "nm_mk": "Robotika II",
       "sks_mk": 3,
@@ -393,9 +386,23 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "JTEL607-20201-15",
+      "nm_mk": "Technopreneurship",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "NTEL679-20201-15",
       "nm_mk": "Sistem Kendali Jarak Jauh",
       "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTEL606-20201-15",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
       "id_smt": "20172",
       "nilai_huruf": null
     },
@@ -414,10 +421,17 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "JTEL606-20201-15",
-      "nm_mk": "Metodologi Penelitian",
-      "sks_mk": 2,
-      "id_smt": "20172",
+      "kode_mk": "JTEL608-20201-15",
+      "nm_mk": "Praktik Industri",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTEL680-20201-15",
+      "nm_mk": "Perancangan Sistem Elektronik",
+      "sks_mk": 3,
+      "id_smt": "20181",
       "nilai_huruf": null
     },
     {
@@ -430,20 +444,6 @@
     {
       "kode_mk": "NTEL690-20201-15",
       "nm_mk": "Machine Learning",
-      "sks_mk": 3,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "JTEL608-20201-15",
-      "nm_mk": "Praktik Industri",
-      "sks_mk": 4,
-      "id_smt": "20181",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTEL680-20201-15",
-      "nm_mk": "Perancangan Sistem Elektronik",
       "sks_mk": 3,
       "id_smt": "20181",
       "nilai_huruf": null
@@ -470,13 +470,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL629-20201-15",
-      "nm_mk": "Skripsi",
-      "sks_mk": 4,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "NTEL627-20201-15",
       "nm_mk": "Seminar Pra Skripsi",
       "sks_mk": 1,
@@ -491,10 +484,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL627-20201-15",
-      "nm_mk": "Seminar Pra Skripsi",
-      "sks_mk": 1,
-      "id_smt": "20183",
+      "kode_mk": "NTEL629-20201-15",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20182",
       "nilai_huruf": null
     },
     {
@@ -512,17 +505,10 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "NTEL629-20201-16",
-      "nm_mk": "Skripsi",
-      "sks_mk": 4,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "JTEL608-20201-16",
-      "nm_mk": "Praktik Industri",
-      "sks_mk": 4,
-      "id_smt": "20191",
+      "kode_mk": "NTEL627-20201-15",
+      "nm_mk": "Seminar Pra Skripsi",
+      "sks_mk": 1,
+      "id_smt": "20183",
       "nilai_huruf": null
     },
     {
@@ -536,6 +522,27 @@
       "kode_mk": "JTEL608-20201-16",
       "nm_mk": "Praktik Industri",
       "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTEL629-20201-16",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTEL629-20201-16",
+      "nm_mk": "Skripsi",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "JTEL608-20201-16",
+      "nm_mk": "Praktik Industri",
+      "sks_mk": 4,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -543,13 +550,6 @@
       "kode_mk": "NTEL627-20201-16",
       "nm_mk": "Seminar Pra Skripsi",
       "sks_mk": 1,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTEL629-20201-16",
-      "nm_mk": "Skripsi",
-      "sks_mk": 4,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -572,13 +572,6 @@
       "nm_mk": "Skripsi",
       "sks_mk": 4,
       "id_smt": "20193",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "NTRO6069-20201-2018",
-      "nm_mk": "Seminar Praskripsi",
-      "sks_mk": 1,
-      "id_smt": "20201",
       "nilai_huruf": null
     },
     {
@@ -592,6 +585,13 @@
       "kode_mk": "NTRO6100-20201-2018",
       "nm_mk": "Skripsi",
       "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NTRO6069-20201-2018",
+      "nm_mk": "Seminar Praskripsi",
+      "sks_mk": 1,
       "id_smt": "20201",
       "nilai_huruf": null
     },

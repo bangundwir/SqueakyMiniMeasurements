@@ -1,0 +1,73 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EKMS2C1752",
+      "nm_mk": "MANAJEMEN SISTEM INFORMASI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMS2B0452",
+      "nm_mk": "METODOLOGI PENELITIAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMS2C0652",
+      "nm_mk": "MANAJEMEN STRATEGI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKMS2C0552",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AJIMAT ",
+    "jk": "L",
+    "nipd": "2010520008        ",
+    "namapt": "Universitas Pamulang",
+    "namajenjang": "S2",
+    "namaprodi": "Manajemen",
+    "reg_pd": "87DF824C-51FD-47CB-92C5-36C44597A7F4",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-03-24T00:00:00Z",
+    "no_seri_ijazah": "412030119",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MkU2MjlCMTUtOTBCMC00MDAxLTk1RDAtMDI2QTMwQzhEODE0",
+    "link_prodi": "/data_prodi/MUJDQ0ZCODMtNTg1Qi00QzNDLThCMDUtMzM4MDg1RjJBMDJE"
+  }
+}

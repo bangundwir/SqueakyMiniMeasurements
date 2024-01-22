@@ -1,0 +1,601 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20161",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20173",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20213",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FSAS601-88201-13",
+      "nm_mk": "Pengantar Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB616-88201-13",
+      "nm_mk": "Dasar-Dasar Wicara",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK601-88201-13",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB624-88201-15",
+      "nm_mk": "Bahasa Inggris Akademik",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB601-88201-13",
+      "nm_mk": "Pengantar Linguistik",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB609-88201-13",
+      "nm_mk": "Teori Sastra",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK607-88201-13",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB612-88201-13",
+      "nm_mk": "Menyimak Kritis",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB618-88201-13",
+      "nm_mk": "Dasar-Dasar Menulis",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB611-88201-13",
+      "nm_mk": "Sejarah Sastra Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK604-88201-13",
+      "nm_mk": "Dasar-Dasar Membaca",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK608-88201-16",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB615-88201-13",
+      "nm_mk": "Membaca Sastra",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB602-88201-13",
+      "nm_mk": "Fonologi Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK606-88201-13",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMKK603-88201-13",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMKK601-88201-13",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB617-88201-13",
+      "nm_mk": "Wicara Publik",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB614-88201-16",
+      "nm_mk": "Membaca Teks Nonilmiah/Membaca Informatif",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB603-88201-13",
+      "nm_mk": "Morfologi Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB604-88201-13",
+      "nm_mk": "Sintaksis Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB605-88201-13",
+      "nm_mk": "Semantik Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK601-88201-13",
+      "nm_mk": "Apresiasi Puisi",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMKK602-88201-13",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK602-88201-13",
+      "nm_mk": "Apresiasi Prosa Fiksi",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB610-88201-13",
+      "nm_mk": "Pengantar Kritik Sastra",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK608-88201-16",
+      "nm_mk": "Kurikulum PBSI",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB613-88201-16",
+      "nm_mk": "Membaca Teks Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB672-88201-16",
+      "nm_mk": "Menulis Naskah Drama",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK609-88201-13",
+      "nm_mk": "Materi Pembelajaran BSI",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB625-88201-16",
+      "nm_mk": "Bahasa Arab Melayu",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB671-88201-16",
+      "nm_mk": "Menulis Puisi dan Prosa",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB606-88201-16",
+      "nm_mk": "Analisis Wacana Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB608-88201-16",
+      "nm_mk": "Sosiolinguistik",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB626-88201-16",
+      "nm_mk": "Bahasa Jawa",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB622-88201-15",
+      "nm_mk": "Menulis Kritik dan Esai",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK623-88201-15",
+      "nm_mk": "Penyusunan Program Pembelajaran BSI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB673-88201-15",
+      "nm_mk": "Dasar -Dasar Penelitian dan Analisis Data",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK611-88201-15",
+      "nm_mk": "Evaluasi Pembelajaran BSI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK605-88201-15",
+      "nm_mk": "Menulis Buku Teks Pelajaran",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB637-88201-15",
+      "nm_mk": "Pengantar Jurnalistik",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB638-88201-15",
+      "nm_mk": "Menulis Berita dan Features",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB670-88201-15",
+      "nm_mk": "Menulis Laporan Penelitian dan Artikel",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK613-88201-15",
+      "nm_mk": "Keterampilan Dasar Mengajar BSI",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK603-88201-15",
+      "nm_mk": "Apresiasi Drama/Teater",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK620-88201-15",
+      "nm_mk": "Penelitian Pendidikan Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB607-88201-15",
+      "nm_mk": "Psikolinguistik",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIDK621-88201-15",
+      "nm_mk": "Penelitian Pendidikan Sastra Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6032-88201-2018",
+      "nm_mk": "Penelitian Pendidikan Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6030-88201-2018",
+      "nm_mk": "Praktik Pembelajaran Mikro BSI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6033-88201-2018",
+      "nm_mk": "Penelitian Pendidikan Sastra Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6020-88201-2018",
+      "nm_mk": "Menulis Kritik dan Esai Sastra",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6005-88201-2018",
+      "nm_mk": "Psikolinguistik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6027-88201-2018",
+      "nm_mk": "Pengembangan Sumber dan Media Belajar BSI",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6003-88201-2018",
+      "nm_mk": "Sintaksis Bahasa Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GIDB662-88201-15",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKPL6090-88201-2018",
+      "nm_mk": "Kajian dan Praktik Lapangan (KPL)",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6100-88201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6019-88201-2018",
+      "nm_mk": "Menulis Prosa dan Drama",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PINDUM6017-2020",
+      "nm_mk": "Menulis Kreatif Sastra",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6100-88201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PINDUM6068-2020",
+      "nm_mk": "Bahasa Jurnalistik",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PINDUM6024-2020",
+      "nm_mk": "Dasar-Dasar Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PINDUM6065-2020",
+      "nm_mk": "Sistem Pers Indonesia",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6100-88201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20213",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6100-88201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6100-88201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PIND6100-88201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "CAKRA WISNU MEGANTARA",
+    "jk": "L",
+    "nipd": "160211601859",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Bahasa, Sastra Indonesia dan Daerah",
+    "reg_pd": "B5B42F5E-D39A-4ED2-A83F-E4A55E0BEB23",
+    "mulai_smt": "20161",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/NzREN0ExNzItN0I0Mi00N0ZBLTgzMjktMEY1ODhENTdCRUI2"
+  }
+}
