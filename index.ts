@@ -89,27 +89,27 @@ async function scrapeInitialData(search: string) {
 // startNewSearch();
 
 // 3333333333333333333
-// // Function to start a new search with a random name
-// async function startNewSearch(repeatCount: number) {
-//   if (repeatCount <= 0) {
-//     console.log("Scraping process completed.");
-//     return; // Exit if the repeat count reaches zero
-//   }
+// Function to start a new search with a random name
+async function startNewSearch(repeatCount: number) {
+  if (repeatCount <= 0) {
+    console.log("Scraping process completed.");
+    return; // Exit if the repeat count reaches zero
+  }
 
-//   const randomName = faker.person.fullName();
-//   const universityName = " Malang";
-//   const searchTerm = `${randomName} ${universityName}`;
-//   console.log(`Starting new search with term: ${searchTerm}`);
+  const randomName = faker.person.fullName();
+  const universityName = " Malang";
+  const searchTerm = `${randomName} ${universityName}`;
+  console.log(`Starting new search with term: ${searchTerm}`);
 
-//   await scrapeInitialData(searchTerm);
+  await scrapeInitialData(searchTerm);
 
-//   console.log(`Searches remaining: ${repeatCount - 1}`);
-//   startNewSearch(repeatCount - 1); // Call the function again with the decreased count
-// }
+  console.log(`Searches remaining: ${repeatCount - 1}`);
+  startNewSearch(repeatCount - 1); // Call the function again with the decreased count
+}
 
-// // Start the first search with a specified repeat count
-// const repeatCount = 10; // Replace with the number of times you want to repeat the scraping
-// startNewSearch(repeatCount);
+// Start the first search with a specified repeat count
+const repeatCount = 1000; // Replace with the number of times you want to repeat the scraping
+startNewSearch(repeatCount);
 
 //3333333333333333333333333333
 // // const randomName = faker.person.fullName();
