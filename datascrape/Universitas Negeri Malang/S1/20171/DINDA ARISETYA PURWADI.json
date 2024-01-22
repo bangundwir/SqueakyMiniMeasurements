@@ -1,0 +1,479 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20183",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PKO 426-85202-15",
+      "nm_mk": "Anatomi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SPKO 428-85202-15",
+      "nm_mk": "Fisiologi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK607-85202-13",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 407-85202-15",
+      "nm_mk": "Atletik",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 408-85202-15",
+      "nm_mk": "Senam",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 424-85202-15",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK601-85202-13",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMKK602-85202-13",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 401-85202-15",
+      "nm_mk": "Dasar-dasar Pendidikan Jasmani dan Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 420-85202-15",
+      "nm_mk": "Bulu Tangkis",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 409-85202-15",
+      "nm_mk": "Renang",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMKK601-85201-13",
+      "nm_mk": "Pengantar Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 443-85202-15",
+      "nm_mk": "Metode Kepelatihan",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK608-85202-13",
+      "nm_mk": "Bahasa Indonesia Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 429-85202-15",
+      "nm_mk": "Fisiologi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 425-85202-15",
+      "nm_mk": "Filsafat Kepelatihan Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 412-85202-15",
+      "nm_mk": "Sepak Bola",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 510-85202-15",
+      "nm_mk": "Kepelatihan Kondisi Fisik Dasar",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 411-85202-15",
+      "nm_mk": "Bola Basket",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMPK606-89201-13",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 410-85202-15",
+      "nm_mk": "Bola Voli",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 405-85202-15",
+      "nm_mk": "Pertumbuhan dan Perkembangan Motorik",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 403-85202-15",
+      "nm_mk": "Teknik Penulisan Karya Ilmiah",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 414-85202-15",
+      "nm_mk": "Teknologi Informasi dan Komunikasi",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UMKK603-84203-17",
+      "nm_mk": "Belajar dan Pembelajaran",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 441-85202-15",
+      "nm_mk": "PP dan PCO",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 511-85202-15",
+      "nm_mk": "Kepelatihan Kondisi Fisik Lanjutan",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 434-85202-15",
+      "nm_mk": "Bahasa Inggris Keolahragaan",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 402-85202-15",
+      "nm_mk": "Statistika",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 427-85202-15",
+      "nm_mk": "Kesehatan Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 432-85202-15",
+      "nm_mk": "Manajemen Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 444-85202-15",
+      "nm_mk": "Metode Latihan Fisik",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 431-85202-15",
+      "nm_mk": "Tes dan Pengukuran Olahraga",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 406-85202-15",
+      "nm_mk": "Belajar Motorik",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 512-85202-15",
+      "nm_mk": "Sarana Prasarana Latihan Kondisi Fisik",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 446-85202-15",
+      "nm_mk": "Psikologi Kepelatihan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 423-85202-15",
+      "nm_mk": "Bolavol Pantai",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 436-85202-15",
+      "nm_mk": "Biomekanika dan Kinesiologi Olahraga",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 440-85202-15",
+      "nm_mk": "Masase Olahraga",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 512-85202-15",
+      "nm_mk": "Sarana Prasarana Latihan Kondisi Fisik",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 438-85202-15",
+      "nm_mk": "Sosio-antropologi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 442-85202-15",
+      "nm_mk": "Pemanduan Bakat Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 433-85202-15",
+      "nm_mk": "Prasarana dan Sarana Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 437-85202-15",
+      "nm_mk": "Gizi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 439-85202-15",
+      "nm_mk": "Kewirausahaan Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 445-85202-15",
+      "nm_mk": "Penyusunan Program Latihan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 422-85202-15",
+      "nm_mk": "Tenis Lapangan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 430-85202-15",
+      "nm_mk": "Evaluasi Olahraga",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 447-85202-15",
+      "nm_mk": "Metode Latihan Mental",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 404-85202-15",
+      "nm_mk": "Metode Penelitian Keolahragaan",
+      "sks_mk": 4,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 514-85202-15",
+      "nm_mk": "program Latihan Kondisi Fisik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 435-85202-15",
+      "nm_mk": "Fisioterapi Olahraga",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKKN6090",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 4,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 413-15",
+      "nm_mk": "Pencak Silat",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKO 515-15",
+      "nm_mk": "Magang Melatih Kondisi Fisik",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UKPL601-15",
+      "nm_mk": "Kajian Pengalaman Lapangan",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PPKO6100-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DINDA ARISETYA PURWADI",
+    "jk": "P",
+    "nipd": "170631635016",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Kepelatihan Olahraga",
+    "reg_pd": "BC0D2DBA-5471-4D59-AD4C-386D0561D39C",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-06-15T00:00:00Z",
+    "no_seri_ijazah": "852022021000236",
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/OTcxODg4OUUtRDVEMC00NzBGLTlBMjctQzFEMzkwQzk1RkUy"
+  }
+}

@@ -109,6 +109,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "FEKO6004-60201-2018",
+      "nm_mk": "Pengantar Manajemen",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "FEKO6010-60201-2018",
       "nm_mk": "Matematika Ekonomi dan Bisnis",
       "sks_mk": 3,
@@ -116,15 +123,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "FEKO6007-60201-2018",
-      "nm_mk": "Statistika I",
-      "sks_mk": 3,
-      "id_smt": "20182",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "FEKO6004-60201-2018",
-      "nm_mk": "Pengantar Manajemen",
+      "kode_mk": "EKSP6003-60201-2018",
+      "nm_mk": "Akuntansi Keuangan",
       "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -144,8 +144,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKSP6003-60201-2018",
-      "nm_mk": "Akuntansi Keuangan",
+      "kode_mk": "FEKO6007-60201-2018",
+      "nm_mk": "Statistika I",
       "sks_mk": 3,
       "id_smt": "20182",
       "nilai_huruf": null
@@ -172,8 +172,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKSP6010-60201-2018",
-      "nm_mk": "Matematika Ekonomi Lanjut",
+      "kode_mk": "EKSP6000-60201-2018",
+      "nm_mk": "Bank dan Lembaga Keuangan Bukan Bank",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -186,8 +186,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKSP6000-60201-2018",
-      "nm_mk": "Bank dan Lembaga Keuangan Bukan Bank",
+      "kode_mk": "EKSP6009-60201-2018",
+      "nm_mk": "Ekonomi Regional",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSP6010-60201-2018",
+      "nm_mk": "Matematika Ekonomi Lanjut",
       "sks_mk": 3,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -200,13 +207,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKSP6009-60201-2018",
-      "nm_mk": "Ekonomi Regional",
-      "sks_mk": 3,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKSP6044-60201-2018",
       "nm_mk": "Ekonomi Sumberdaya Manusia",
       "sks_mk": 3,
@@ -214,8 +214,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKSP6012-60201-2018",
-      "nm_mk": "Ekonomi Mikro II",
+      "kode_mk": "EKSP6013-60201-2018",
+      "nm_mk": "Ekonomi Makro II",
       "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -235,13 +235,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKSP6013-60201-2018",
-      "nm_mk": "Ekonomi Makro II",
-      "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "UNIV6001-60201-2018",
       "nm_mk": "Pendidikan Agama Islam",
       "sks_mk": 3,
@@ -251,6 +244,13 @@
     {
       "kode_mk": "FEKO6009-60201-2018",
       "nm_mk": "Ekonomi dan Bisnis Digital",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSP6012-60201-2018",
+      "nm_mk": "Ekonomi Mikro II",
       "sks_mk": 3,
       "id_smt": "20192",
       "nilai_huruf": null
@@ -277,27 +277,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKSP6023-2018",
-      "nm_mk": "Manajemen Perbankan dan lembaga keuangan",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKSP6046-2018",
-      "nm_mk": "Perencanaan Pembangunan",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKSP6018-2018",
-      "nm_mk": "Studi Kelayakan dan Evaluasi Proyek",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "EKSP6017-2018",
       "nm_mk": "Sejarah Pemikiran Ekonomi",
       "sks_mk": 3,
@@ -312,10 +291,45 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "EKSP6023-2018",
+      "nm_mk": "Manajemen Perbankan dan lembaga keuangan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSP6018-2018",
+      "nm_mk": "Studi Kelayakan dan Evaluasi Proyek",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSP6046-2018",
+      "nm_mk": "Perencanaan Pembangunan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "EKSP6024-2018",
       "nm_mk": "Investasi &amp; Portofolio",
       "sks_mk": 3,
       "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSP6021-2018",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKSP6025-2018",
+      "nm_mk": "Praktik*)  dan Seminar Keuangan dan Perbankan",
+      "sks_mk": 3,
+      "id_smt": "20202",
       "nilai_huruf": null
     },
     {
@@ -335,20 +349,6 @@
     {
       "kode_mk": "EKSP6026-2018",
       "nm_mk": "Kebanksentralan",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKSP6021-2018",
-      "nm_mk": "Metodologi Penelitian",
-      "sks_mk": 3,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "EKSP6025-2018",
-      "nm_mk": "Praktik*)  dan Seminar Keuangan dan Perbankan",
       "sks_mk": 3,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -389,16 +389,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "UPKL6090-60201-2018",
-      "nm_mk": "Praktik Kerja Lapangan",
-      "sks_mk": 4,
+      "kode_mk": "EKSP6100-60201-2018",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
       "id_smt": "20212",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "EKSP6100-60201-2018",
-      "nm_mk": "Skripsi",
-      "sks_mk": 6,
+      "kode_mk": "UPKL6090-60201-2018",
+      "nm_mk": "Praktik Kerja Lapangan",
+      "sks_mk": 4,
       "id_smt": "20212",
       "nilai_huruf": null
     }

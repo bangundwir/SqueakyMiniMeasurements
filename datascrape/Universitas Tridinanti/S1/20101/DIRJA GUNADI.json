@@ -1,0 +1,658 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKKS001",
+      "nm_mk": "PENGANTAR EKONOMI MIKRO",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPKF001",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS006",
+      "nm_mk": "MATEMATIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPKF005",
+      "nm_mk": "PENGANTAR APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM115",
+      "nm_mk": "PENGANTAR AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS004",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPKF002",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS002",
+      "nm_mk": "PENG.EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM101",
+      "nm_mk": "STATISTIK BISNIS I",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM114",
+      "nm_mk": "ETIKA BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPKF003",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS005",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBBS001",
+      "nm_mk": "HUKUM BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPKF004",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM116",
+      "nm_mk": "AKUNTANSI BIAYA",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPKF006",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS003",
+      "nm_mk": "TEORI EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBS004",
+      "nm_mk": "PRAKTIKUM KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM102",
+      "nm_mk": "STATISTIK BISNIS II",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPKF007",
+      "nm_mk": "BAHASA INGGRIS BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM113",
+      "nm_mk": "BANK & LEMBAGA KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM104",
+      "nm_mk": "MANAJEMEN KOPERASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM109",
+      "nm_mk": "PRILAKU ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM117",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBS003",
+      "nm_mk": "PRAKTIKUM STATISTIK",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM102",
+      "nm_mk": "MANAJEMEN SUMBER DAYA MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM101",
+      "nm_mk": "KOMUNIKASI BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM105",
+      "nm_mk": "PRILAKU KONSUMEN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS007",
+      "nm_mk": "METODELOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM103",
+      "nm_mk": "PEREKONOMIAN INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM101",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM105",
+      "nm_mk": "MANAJEMEN OPERASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM102",
+      "nm_mk": "MANAJEMEN PERBANKAN",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM110",
+      "nm_mk": "EKONOMI INTERNASIONAL",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM111",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM105",
+      "nm_mk": "METODE KUANTITATIF",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM106",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM105",
+      "nm_mk": "MANAJEMEN BANK SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM107",
+      "nm_mk": "PRAKTIKUM KUANTITATIF",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM104",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM107",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM103",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM104",
+      "nm_mk": "SEMINAR SUMBER DAYA MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM106",
+      "nm_mk": "ANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBS005",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM112",
+      "nm_mk": "MANAJ. PASAR MODAL DAN PORTOFOLIO",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM106",
+      "nm_mk": "RISET PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM104",
+      "nm_mk": "SEMINAR SUMBER DAYA MANUSIA",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM103",
+      "nm_mk": "MANAJEMEN STRATEGIK",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM106",
+      "nm_mk": "MANAJEMEN PEMASARAN GLOBAL",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS003",
+      "nm_mk": "TEORI EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM101",
+      "nm_mk": "SEMINAR PEMASARAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM101",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM107",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM107",
+      "nm_mk": "PRAKTIKUM KUANTITATIF",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM102",
+      "nm_mk": "SEMINAR KEUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM106",
+      "nm_mk": "ANGGARAN PERUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM103",
+      "nm_mk": "MANAJEMEN AGROBISNIS",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBS005",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM103",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM112",
+      "nm_mk": "MANAJ. PASAR MODAL DAN PORTOFOLIO",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM104",
+      "nm_mk": "MANAJEMEN PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM105",
+      "nm_mk": "MANAJEMEN BANK SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM108",
+      "nm_mk": "STRATEGI PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM101",
+      "nm_mk": "STATISTIK BISNIS I",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM101",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM104",
+      "nm_mk": "KEUANGAN INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM106",
+      "nm_mk": "MANAJEMEN PEMASARAN GLOBAL",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM105",
+      "nm_mk": "PRILAKU KONSUMEN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM107",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM103",
+      "nm_mk": "MANAJEMEN AGROBISNIS",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS003",
+      "nm_mk": "TEORI EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM103",
+      "nm_mk": "MANAJEMEN STRATEGIK",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS002",
+      "nm_mk": "PENG.EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM102",
+      "nm_mk": "SEMINAR KEUANGAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM108",
+      "nm_mk": "STRATEGI PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM101",
+      "nm_mk": "SEMINAR PEMASARAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM106",
+      "nm_mk": "RISET PEMASARAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPBM105",
+      "nm_mk": "PRILAKU KONSUMEN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKM101",
+      "nm_mk": "STATISTIK BISNIS I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKPM104",
+      "nm_mk": "KEUANGAN INTERNASIONAL",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKBM107",
+      "nm_mk": "STUDI KELAYAKAN BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKKS002",
+      "nm_mk": "PENG.EKONOMI MAKRO",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BBS003",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "DIRJA GUNADI",
+    "jk": "L",
+    "nipd": "1011110029        ",
+    "namapt": "Universitas Tridinanti",
+    "namajenjang": "S1",
+    "namaprodi": "Manajemen",
+    "reg_pd": "5AA40086-4A27-44EE-B14E-EADFEDDDBA2E",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2014-10-21T00:00:00Z",
+    "no_seri_ijazah": "14 1 1 11 085",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RTQ4MThFQ0MtMDYyNi00OUI5LTk5RUYtNzVFNjMyQzg1RTc2",
+    "link_prodi": "/data_prodi/RDEyODE4NzgtRTNGRi00N0ZBLTkyMUEtRDNFRUU4OEZENzVC"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20021",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20022",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20031",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20032",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20041",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20042",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20052",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "EK811",
+      "nm_mk": "KOMPREHENSIF",
+      "sks_mk": 1,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EK711",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 4,
+      "id_smt": "20052",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ENTENG ANGGANI",
+    "jk": "P",
+    "nipd": "4301500021",
+    "namapt": "Universitas Pancasakti Tegal",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "B7435D44-D3A7-4E01-8E79-80F6EECF6A83",
+    "mulai_smt": "20011",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2006-07-29T00:00:00Z",
+    "no_seri_ijazah": "10.08070 E",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QkZERjFGNjgtODIwMC00NTM2LThGRTUtQTczNURDNzkzNTQy",
+    "link_prodi": "/data_prodi/RDQ2REEwM0ItRkE2Ri00QTkzLUJCN0ItRjc5OEY5MEJCNDMz"
+  }
+}

@@ -64,6 +64,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KSU1104",
+      "nm_mk": "Algoritma dan Pemrograman I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MPK9001",
       "nm_mk": "Pendidikan Agama Islam",
       "sks_mk": 2,
@@ -73,6 +80,13 @@
     {
       "kode_mk": "KSU1105",
       "nm_mk": "Interaksi Manusia dan Komputer",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKI9001",
+      "nm_mk": "IT dan Agroindustri",
       "sks_mk": 2,
       "id_smt": "20191",
       "nilai_huruf": null
@@ -92,30 +106,16 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "MKI9001",
-      "nm_mk": "IT dan Agroindustri",
+      "kode_mk": "MPK9007",
+      "nm_mk": "Bahasa Indonesia",
       "sks_mk": 2,
-      "id_smt": "20191",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KSU1104",
-      "nm_mk": "Algoritma dan Pemrograman I",
-      "sks_mk": 3,
-      "id_smt": "20191",
+      "id_smt": "20192",
       "nilai_huruf": null
     },
     {
       "kode_mk": "KSU1202",
       "nm_mk": "Matematika Diskrit",
       "sks_mk": 3,
-      "id_smt": "20192",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MPK9007",
-      "nm_mk": "Bahasa Indonesia",
-      "sks_mk": 2,
       "id_smt": "20192",
       "nilai_huruf": null
     },
@@ -176,15 +176,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KSF1304",
-      "nm_mk": "Kecerdasan Buatan",
-      "sks_mk": 3,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "MKI9007",
-      "nm_mk": "Manajemen dan Kewirausahaan",
+      "kode_mk": "KSU1302",
+      "nm_mk": "Arsitektur Komputer",
       "sks_mk": 2,
       "id_smt": "20201",
       "nilai_huruf": null
@@ -204,6 +197,20 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "KSF1304",
+      "nm_mk": "Kecerdasan Buatan",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKI9007",
+      "nm_mk": "Manajemen dan Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "MKI1309",
       "nm_mk": "Riset Operasi",
       "sks_mk": 2,
@@ -218,20 +225,6 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KSU1302",
-      "nm_mk": "Arsitektur Komputer",
-      "sks_mk": 2,
-      "id_smt": "20201",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "KSF1412",
-      "nm_mk": "Statistika",
-      "sks_mk": 2,
-      "id_smt": "20202",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "KSF1402",
       "nm_mk": "Teori Bahasa dan Otomata",
       "sks_mk": 3,
@@ -239,8 +232,8 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KSU1601",
-      "nm_mk": "Metodologi Penelitian",
+      "kode_mk": "KSF1412",
+      "nm_mk": "Statistika",
       "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
@@ -256,6 +249,13 @@
       "kode_mk": "KSF1413",
       "nm_mk": "Sistem Terdistribusi",
       "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSU1601",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
       "id_smt": "20202",
       "nilai_huruf": null
     },
@@ -323,15 +323,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KFU1307",
-      "nm_mk": "Software Quality",
+      "kode_mk": "KFU1404",
+      "nm_mk": "Manajemen Risiko TI",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null
     },
     {
-      "kode_mk": "KFU1404",
-      "nm_mk": "Manajemen Risiko TI",
+      "kode_mk": "KFU1307",
+      "nm_mk": "Software Quality",
       "sks_mk": 3,
       "id_smt": "20211",
       "nilai_huruf": null

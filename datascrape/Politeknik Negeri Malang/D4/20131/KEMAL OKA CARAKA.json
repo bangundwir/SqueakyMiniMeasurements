@@ -43,20 +43,6 @@
   ],
   "datastudi": [
     {
-      "kode_mk": "RTI121009",
-      "nm_mk": "Praktikum Algoritma dan Pemrograman",
-      "sks_mk": 2,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RTI121005",
-      "nm_mk": "Matematika Informatika",
-      "sks_mk": 2,
-      "id_smt": "20131",
-      "nilai_huruf": null
-    },
-    {
       "kode_mk": "RTI121008",
       "nm_mk": "Algoritma dan Pemrograman",
       "sks_mk": 2,
@@ -66,6 +52,20 @@
     {
       "kode_mk": "RTI121004",
       "nm_mk": "Pengantar Teknologi Informasi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTI121009",
+      "nm_mk": "Praktikum Algoritma dan Pemrograman",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTI121005",
+      "nm_mk": "Matematika Informatika",
       "sks_mk": 2,
       "id_smt": "20131",
       "nilai_huruf": null
@@ -106,9 +106,9 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTI132008",
-      "nm_mk": "Sistem Operasi",
-      "sks_mk": 3,
+      "kode_mk": "RTI132001",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
       "id_smt": "20132",
       "nilai_huruf": null
     },
@@ -120,29 +120,15 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTI132010",
-      "nm_mk": "Praktikum Pemrograman Berbasis Objek",
-      "sks_mk": 2,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RTI132004",
-      "nm_mk": "Basisdata",
-      "sks_mk": 2,
+      "kode_mk": "RTI132008",
+      "nm_mk": "Sistem Operasi",
+      "sks_mk": 3,
       "id_smt": "20132",
       "nilai_huruf": null
     },
     {
       "kode_mk": "RTI132007",
       "nm_mk": "Dasar Multimedia",
-      "sks_mk": 2,
-      "id_smt": "20132",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RTI132001",
-      "nm_mk": "Pendidikan Agama",
       "sks_mk": 2,
       "id_smt": "20132",
       "nilai_huruf": null
@@ -162,6 +148,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "RTI132010",
+      "nm_mk": "Praktikum Pemrograman Berbasis Objek",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "RTI132009",
       "nm_mk": "Pemrograman Berbasis Objek",
       "sks_mk": 2,
@@ -176,6 +169,13 @@
       "nilai_huruf": null
     },
     {
+      "kode_mk": "RTI132004",
+      "nm_mk": "Basisdata",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
       "kode_mk": "RTI133005",
       "nm_mk": "Jaringan Komputer (TP)",
       "sks_mk": 2,
@@ -183,15 +183,22 @@
       "nilai_huruf": null
     },
     {
-      "kode_mk": "RTI133007",
-      "nm_mk": "Pemrograman Berbasis GUI",
-      "sks_mk": 3,
+      "kode_mk": "RTI133006",
+      "nm_mk": "Praktikum Jaringan Komputer",
+      "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null
     },
     {
       "kode_mk": "RTI133002",
       "nm_mk": "Sistem manajemen Basisdata",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "RTI133007",
+      "nm_mk": "Pemrograman Berbasis GUI",
       "sks_mk": 3,
       "id_smt": "20141",
       "nilai_huruf": null
@@ -213,13 +220,6 @@
     {
       "kode_mk": "RTI133003",
       "nm_mk": "Rekayasa Perangkat Lunak",
-      "sks_mk": 2,
-      "id_smt": "20141",
-      "nilai_huruf": null
-    },
-    {
-      "kode_mk": "RTI133006",
-      "nm_mk": "Praktikum Jaringan Komputer",
       "sks_mk": 2,
       "id_smt": "20141",
       "nilai_huruf": null

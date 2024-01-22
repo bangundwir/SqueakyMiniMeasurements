@@ -1,0 +1,190 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20092",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": null,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PDGK4401",
+      "nm_mk": "Materi & Pembelajaran PKn SD",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEMA4210",
+      "nm_mk": "Statistika Pendidikan",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK4002",
+      "nm_mk": "Perkembangan Peserta Didik",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PKNI4317",
+      "nm_mk": "Hak Asasi Manusia (HAM)",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4306",
+      "nm_mk": "Pembel. Berwawasan Kemasyarakatan",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKDK4005",
+      "nm_mk": "Profesi Keguruan",
+      "sks_mk": 2,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4406",
+      "nm_mk": "Pembelajaran Matematika SD",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4402",
+      "nm_mk": "Penulisan Karya Ilmiah",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4403",
+      "nm_mk": "Pendidikan Anak di SD",
+      "sks_mk": 4,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4404",
+      "nm_mk": "Pengantar Pendidikan Luar Biasa",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IDIK4007",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4405",
+      "nm_mk": "Materi dan Pembelajaran IPS SD",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4504",
+      "nm_mk": "Materi & Pembel. B. Indonesia SD",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4503",
+      "nm_mk": "Materi & Pembelajaran IPA SD",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4502",
+      "nm_mk": "Pengemb. Kur. & Pembel. di SD",
+      "sks_mk": 4,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4505",
+      "nm_mk": "Pembaharuan dalam Pembel. di SD",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IDIK4012",
+      "nm_mk": "Manajemen Berbasis Sekolah",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4500",
+      "nm_mk": "Tugas Akhir Program",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PDGK4501",
+      "nm_mk": "Pemantapan Kemampuan Profesional",
+      "sks_mk": 4,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PEBI4223",
+      "nm_mk": "Pendidikan Lingkungan Hidup",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NURLINA LABUH",
+    "jk": "P",
+    "nipd": "821334103",
+    "namapt": "Universitas Terbuka",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Guru Sekolah Dasar",
+    "reg_pd": "5500F812-A1E8-4758-8792-4EADEE86B3F4",
+    "mulai_smt": "20091",
+    "nm_jns_daftar": "RPL Perolehan SKS",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-05-08T00:00:00Z",
+    "no_seri_ijazah": "CE026149/12012221969",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MEY0NjBGOTctNkQ0Ny00RDk2LThBMkEtNDM2MUVBMDRGM0U4",
+    "link_prodi": "/data_prodi/ODhBQUI0NEEtMDhCMS00MzI5LUI2RTAtM0IwMEYxRTlFNjQ0"
+  }
+}

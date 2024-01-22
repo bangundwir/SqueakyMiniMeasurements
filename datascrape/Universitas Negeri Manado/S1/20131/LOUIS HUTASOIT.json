@@ -1,0 +1,335 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20132",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BIO1206 ",
+      "nm_mk": "ETIKA DAN PROFESI ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU1110 ",
+      "nm_mk": "BAHASA INDONESIA ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO1204 ",
+      "nm_mk": "FILSAFAT ILMU PENGETAHUAN ALAM ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM2112 ",
+      "nm_mk": "KIMIA ORGANIK ",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO1205 ",
+      "nm_mk": "PENGANTAR PENDIDIKAN ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKU1109 ",
+      "nm_mk": "PKLH ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO1202 ",
+      "nm_mk": "PENGANTAR BIOTEKNOLOGI ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO1203 ",
+      "nm_mk": "BIOLOGI SEL ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO1207 ",
+      "nm_mk": "DASAR-DASAR KOMPUTER ",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO2104",
+      "nm_mk": "STATISTIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO3143",
+      "nm_mk": "ENTOMOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO2110 ",
+      "nm_mk": "ANATOMI TUMBUHAN ",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO2108 ",
+      "nm_mk": "BIOKIMIA ",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO2111 ",
+      "nm_mk": "ZOOLOGI INVERTEBRATA ",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO2112 ",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK ",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO2113 ",
+      "nm_mk": "KURIKULUM DAN PENGAJARAN BIOLOGI ",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO3141",
+      "nm_mk": "LIMNOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-2043",
+      "nm_mk": "GENETIKA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-1443",
+      "nm_mk": "MORFOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP-1962",
+      "nm_mk": "PENDIDIKAN SEKS",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP-0662",
+      "nm_mk": "MEDIA PEMBELAJARAN",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-1763",
+      "nm_mk": "FISIOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-1343",
+      "nm_mk": "ZOOLOGI VERTEBRATA",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-1143",
+      "nm_mk": "STRUKTUR HEWAN",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP-1442",
+      "nm_mk": "KEMAMPUAN DASAR MENGAJAR",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-0643",
+      "nm_mk": "STRATEGI BELAJAR-MENGAJAR BIO",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-1863",
+      "nm_mk": "FISIOLOGI HEWAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP-1272",
+      "nm_mk": "HORTIKULTURA",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-2563",
+      "nm_mk": "EKOLOGI TUMBUHAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-1063",
+      "nm_mk": "METODE PENELITIAN PENDIDIKAN",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-2163",
+      "nm_mk": "ANATOMI FISIOLOGI MANUSIA",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-0862",
+      "nm_mk": "KAJIAN KURIKULUM SMA/SMK",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB-0184",
+      "nm_mk": "KKN",
+      "sks_mk": 4,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP-0972",
+      "nm_mk": "AGROINDUSTRI",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-1072",
+      "nm_mk": "PPL1",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-0973",
+      "nm_mk": "EVALUASI PEMBELAJARAN BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-2372",
+      "nm_mk": "EVOLUSI",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-0373",
+      "nm_mk": "PERENCANAAN PEMBELAJARAN BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB-0386",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK-1184",
+      "nm_mk": "PPL II",
+      "sks_mk": 4,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LOUIS HUTASOIT",
+    "jk": "P",
+    "nipd": "13534043          ",
+    "namapt": "Universitas Negeri Manado",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Biologi",
+    "reg_pd": "143851B7-6307-40FF-9E2F-B8753B535E94",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-07-19T00:00:00Z",
+    "no_seri_ijazah": "12930/2065/S1/2017",
+    "sert_prof": null,
+    "link_pt": "/data_pt/RTM0NzU2MjItRDk2NS00NkJBLTg2QTYtM0I4RjhGOEM1MkU3",
+    "link_prodi": "/data_prodi/REM2RTBCQjEtQThEMC00RDk0LUE2NTctOUI0NEZFOTEwQTI1"
+  }
+}

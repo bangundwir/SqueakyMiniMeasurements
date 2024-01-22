@@ -1,0 +1,521 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20193",
+      "sks_smt": 3,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "G11C130",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C138",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C134",
+      "nm_mk": "BIOPSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C135",
+      "nm_mk": "STATISTIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C137",
+      "nm_mk": "TEKNIK PENULISAN KARYA ILMIAH",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C131",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C139",
+      "nm_mk": "KODE ETIK PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C132",
+      "nm_mk": "PSIKOLOGI UMUM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C136",
+      "nm_mk": "FILSAFAT UMUM",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C133",
+      "nm_mk": "SEJARAH ALIRAN PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C232",
+      "nm_mk": "PENGANTAR PSIKODIAGNOSTIKA",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C231",
+      "nm_mk": "STATISTIKA LANJUT",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C237",
+      "nm_mk": "PSIKOLOGI KEPRIBADIAN",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C233",
+      "nm_mk": "PSIKOLOGI PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C234",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN ANAK",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C236",
+      "nm_mk": "KESEHATAN MENTAL",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C230",
+      "nm_mk": "PENDIDIKAN AGAMA",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C235",
+      "nm_mk": "PENGANTAR PSIKOLOGI SOSIAL",
+      "sks_mk": 3,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C324",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN REMAJA",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C328",
+      "nm_mk": "PSIKOPATOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C321",
+      "nm_mk": "PENGANTAR PSIKOMETRIKA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C327",
+      "nm_mk": "PENGANTAR KEWIRAUSAHAAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C326",
+      "nm_mk": "PSIKOLOGI INDUSTRI DAN ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C323",
+      "nm_mk": "METODE WAWANCARA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C322",
+      "nm_mk": "METODE OBSERVASI",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C325",
+      "nm_mk": "PSIKOLOGI SOSIAL LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C434",
+      "nm_mk": "PERILAKU BERWIRAUSAHA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C428",
+      "nm_mk": "PENGUKURAN KEPRIBADIAN NON PROYEKTIF",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C431",
+      "nm_mk": "PSIKOLOGI PERKEMBANGAN DEWASA DAN LANJUT USIA",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C438",
+      "nm_mk": "PENGANTAR INTERVENSI PSIKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C427",
+      "nm_mk": "PSIKOMETRIKA LANJUT",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C429",
+      "nm_mk": "PENGUKURAN INTELLIGENSI DAN BAKAT",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C435",
+      "nm_mk": "PENGEMBANGAN DIRI DAN KARIR",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C426",
+      "nm_mk": "METODE PENELITIAN KUANTITATIF",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C437",
+      "nm_mk": "PSIKOLOGI KLINIS",
+      "sks_mk": 3,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C521",
+      "nm_mk": "PSIKOLOGI AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C523",
+      "nm_mk": "COACHING",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C525",
+      "nm_mk": "PSIKOLOGI KONSELING",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C520",
+      "nm_mk": "PSIKOEDUKASI",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C522",
+      "nm_mk": "PSIKOLOGI PERDAMAIAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C518",
+      "nm_mk": "METODE PENELITIAN EKSPERIMEN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C519",
+      "nm_mk": "METODE PENELITIAN KUALITATIF",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C531",
+      "nm_mk": "PSIKOLOGI KESEHATAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C524",
+      "nm_mk": "APLIKASI KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C629",
+      "nm_mk": "ANALISIS KEBUTUHAN DAN RANCANGAN PELATIHAN",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C626",
+      "nm_mk": "PSIKOLOGI KOMUNIKASI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C623",
+      "nm_mk": "PSIKOLOGI KELUARGA",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C621",
+      "nm_mk": "SCHOOL WELL BEING AND SPIRITUAL TEACHING",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C627",
+      "nm_mk": "PSIKOLOGI KOMUNITAS",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C633",
+      "nm_mk": "PSIKOFARMAKOLOGI",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C631",
+      "nm_mk": "PENGUKURAN KEPRIBADIAN PROYEKTIF",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C632",
+      "nm_mk": "MODIFIKASI PERILAKU",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C625",
+      "nm_mk": "ASESMEN DAN INTERVENSI DALAM PSIKOLOGI PERDAMAIAN",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C524",
+      "nm_mk": "APLIKASI KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20193",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C714",
+      "nm_mk": "PENGEMBANGAN DIRI DAN KARIR LANJUT",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C707",
+      "nm_mk": "INTERVENSI DALAM RELASI PERNIKAHAN DAN KELUARGA",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C715",
+      "nm_mk": "KULIAH KERJA NYATA",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C530",
+      "nm_mk": "ANALISIS JABATAN",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C436",
+      "nm_mk": "PENYUSUNAN KOMPETENSI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C620",
+      "nm_mk": "TEKNIK PENULISAN SKRIPSI",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C733",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C731",
+      "nm_mk": "UJIAN PROPOSAL SKRIPSI",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "G11C803",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "SITI WARDAYA YAMAN",
+    "jk": "P",
+    "nipd": "1771042087",
+    "namapt": "Universitas Negeri Makassar",
+    "namajenjang": "S1",
+    "namaprodi": "Psikologi",
+    "reg_pd": "1D3D0BC2-801B-4294-9933-0B65AE178798",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2022-04-27T00:00:00Z",
+    "no_seri_ijazah": "732012022000616",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QzZFQUQwN0UtNDMzRi00Q0U4LTk5MkUtNDFBNTBGMkM3MThB",
+    "link_prodi": "/data_prodi/ODZBODhERjktRDY5QS00MTRDLUIyRkUtODYwNDg2NEI4NUU0"
+  }
+}

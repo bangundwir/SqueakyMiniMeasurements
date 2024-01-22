@@ -1,0 +1,440 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MKW61505",
+      "nm_mk": "READING I",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61513",
+      "nm_mk": "WRITING I",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61517",
+      "nm_mk": "GRAMMAR I",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU61501",
+      "nm_mk": "AGAMA ISLAM I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61501",
+      "nm_mk": "LISTENING I",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU61506",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB41409",
+      "nm_mk": "SPEAKING I",
+      "sks_mk": 4,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61510",
+      "nm_mk": "SPEAKING II",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61518",
+      "nm_mk": "GRAMMAR II",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61514",
+      "nm_mk": "WRITING II",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61506",
+      "nm_mk": "READING II",
+      "sks_mk": 4,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61502",
+      "nm_mk": "LISTENING II",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD61501",
+      "nm_mk": "PENGANTAR PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61519",
+      "nm_mk": "GRAMMAR III",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61507",
+      "nm_mk": "READING III",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61515",
+      "nm_mk": "WRITING III",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61503",
+      "nm_mk": "LISTENING III",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU61508",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB41424",
+      "nm_mk": "PROSE",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK31402",
+      "nm_mk": "PERKEMBANGAN PESERTA DIDIK",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11404",
+      "nm_mk": "AGAMA ISLAM IV",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK41404",
+      "nm_mk": "LISTENING IV",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPB21404",
+      "nm_mk": "ICT Based Learning",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB41408",
+      "nm_mk": "READING IV",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK41412",
+      "nm_mk": "SPEAKING IV",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61537",
+      "nm_mk": "TEFL",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61528",
+      "nm_mk": "RESEARCH ON ELT 1",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61533",
+      "nm_mk": "INTRODUCTION TO SLA",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61521",
+      "nm_mk": "ENGLISH MORPHOLOGY",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MPK11405",
+      "nm_mk": "AGAMA ISLAM V",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61536",
+      "nm_mk": "LANGUAGE TEACHING PREPARATION",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61525",
+      "nm_mk": "POETRY",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61530",
+      "nm_mk": "STATISTICS FOR ELT STUDIES",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61534",
+      "nm_mk": "SEMINAR ON ELT",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61539",
+      "nm_mk": "LANGUAGE ASSESSMENT",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW65122",
+      "nm_mk": "ENGLISH SYNTAX",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD61505",
+      "nm_mk": "MICRO TEACHING",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61529",
+      "nm_mk": "RESEARCH ON ELT 2",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61523",
+      "nm_mk": "ENGLISH SEMANTICS",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD61506",
+      "nm_mk": "TEACHING PRACTICE",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP61504",
+      "nm_mk": "ENGLISH FOR TOURISM I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB41408",
+      "nm_mk": "ENGLISH FOR BUSINESS CORRESPONDENCE",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MBB11401",
+      "nm_mk": "KKN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD61503",
+      "nm_mk": "PROFESI KEGURUAN",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKB41428",
+      "nm_mk": "THESIS WRITING SEMINAR",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKD61504",
+      "nm_mk": "MANAJEMEN PENDIDIKAN",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKK11433",
+      "nm_mk": "THESIS",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MWU61507",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKW61532",
+      "nm_mk": "ENGLISH FOR YOUNG LEARNERS II",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MKP61506",
+      "nm_mk": "ENGLISH FOR BUSINESS CORRESPONDENCE",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "JEFRI DARMAJI",
+    "jk": "L",
+    "nipd": "21701073051",
+    "namapt": "Universitas Islam Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Pendidikan Bahasa Inggris",
+    "reg_pd": "BB657F94-EBF7-445B-9F3C-74F2E9BD45E8",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RjVDODhGREUtRTlGRS00MTY2LTg2MjktOUFEREZFQUJEQzJF",
+    "link_prodi": "/data_prodi/QTEyODZCODEtRDVFQy00QTUxLTg0RjEtMEY0OTJBMjgzNzhF"
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 4,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 2,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "TKK619101",
+      "nm_mk": "Pengenalan Proses dan Alat Industri Kimia",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619106",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619107",
+      "nm_mk": "Praktikum Kimia Dasar",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619102",
+      "nm_mk": "Kimia Analitik",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI619101",
+      "nm_mk": "Agama",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI619105",
+      "nm_mk": "Ketahanan Pangan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI619103",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619101",
+      "nm_mk": "Kalkulus 1",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619103",
+      "nm_mk": "Fisika Dasar 1",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619102",
+      "nm_mk": "Kalkulus 2",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619104",
+      "nm_mk": "Kimia Fisik Dan Larutan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619105",
+      "nm_mk": "Praktikum Fisika Dasar",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI619104",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619103",
+      "nm_mk": "Proses Industri Kimia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619104",
+      "nm_mk": "Fisika Dasar 2",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI619102",
+      "nm_mk": "Seminar Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI619105",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619108",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619105",
+      "nm_mk": "Praktikum Kimia Analitik dan Fisik",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEK619106",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 2,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619333",
+      "nm_mk": "Keselamatan dan Kesehatan Kerja",
+      "sks_mk": 2,
+      "id_smt": "20203",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619201",
+      "nm_mk": "Metode Analitik dan Numerik Teknik Kimia",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619206",
+      "nm_mk": "Neraca Massa dan Energi",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619203",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI619201",
+      "nm_mk": "Studi Kebantenan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619205",
+      "nm_mk": "Termodinamika",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619207",
+      "nm_mk": "Alat Industri Kimia",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619103",
+      "nm_mk": "Neraca Massa dan Energi",
+      "sks_mk": 4,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619202",
+      "nm_mk": "Pengolahan dan Analisis Data",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619204",
+      "nm_mk": "Praktikum Kimia Organik",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619212",
+      "nm_mk": "Perpindahan Massa",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619209",
+      "nm_mk": "Teknik Reaksi Kimia 1",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619214",
+      "nm_mk": "Pengantar Peristiwa Perpindahan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619417",
+      "nm_mk": "Teknologi Pengolahan Biomassa",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619213",
+      "nm_mk": "Termodinamika I",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619421",
+      "nm_mk": "Teknologi Membran",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619211",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK619208",
+      "nm_mk": "Matematika Teknik Kimia",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622301",
+      "nm_mk": "Laboratorium Teknik Kimia 2",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622214",
+      "nm_mk": "Pengelolaan Air dan Limbah",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622307",
+      "nm_mk": "Teknik Reaksi Kimia 2",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI622403",
+      "nm_mk": "Teknologi dan Transformasi Digital",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622204",
+      "nm_mk": "Sistem Utilitas",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622410",
+      "nm_mk": "Teknologi Biofuel",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622305",
+      "nm_mk": "Perancangan Proses Teknik Kimia",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622303",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622206",
+      "nm_mk": "Perpindahan Panas",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622426",
+      "nm_mk": "Teknologi Biogas",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622312",
+      "nm_mk": "Pengendalian Proses",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622314",
+      "nm_mk": "Praktikum Pengendalian Proses",
+      "sks_mk": 1,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622435",
+      "nm_mk": "Teknologi Fotokatalisis",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622302",
+      "nm_mk": "Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNI622304",
+      "nm_mk": "Kuliah Kerja Mahasiswa",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622306",
+      "nm_mk": "Perancangan Alat Proses",
+      "sks_mk": 3,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622202",
+      "nm_mk": "Praktikum Simulasi Proses Teknik Kimia",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622401",
+      "nm_mk": "Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20223",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622402",
+      "nm_mk": "Pra-Rancangan Pabrik",
+      "sks_mk": 5,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622304",
+      "nm_mk": "Kerja Praktek",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622404",
+      "nm_mk": "Sidang Tugas Akhir",
+      "sks_mk": 1,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TKK622302",
+      "nm_mk": "Penelitian",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "EVAN SIMON MARPAUNG",
+    "jk": "L",
+    "nipd": "3335200095",
+    "namapt": "Universitas Sultan Ageng Tirtayasa",
+    "namajenjang": "S1",
+    "namaprodi": "Teknik Kimia",
+    "reg_pd": "593F44D9-21BB-495F-B630-9B9212A48199",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/MkEwREM5RUItMzkyNS00RDY4LTk1NDMtMUYyQjhFREJENUVG",
+    "link_prodi": "/data_prodi/MTMzN0IxQjktN0JGMS00NEJFLTk5MTItRDNCNDEwQzk1ODI1"
+  }
+}

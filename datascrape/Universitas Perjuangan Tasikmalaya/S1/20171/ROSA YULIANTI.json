@@ -1,0 +1,633 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20171",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20172",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20181",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 15,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 13,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 8,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20223",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "AKK4820111",
+      "nm_mk": "Prak. Fisika Dasar",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APK4820102",
+      "nm_mk": "Agama",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APK4820101",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820112",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820113",
+      "nm_mk": "Pengantar Ilmu Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820110",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820109",
+      "nm_mk": "Prak. Kimia Dasar",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820118",
+      "nm_mk": "Morfologi & sistematika tumbuhan obat",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820107",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820108",
+      "nm_mk": "Kimia Dasar",
+      "sks_mk": 3,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820590",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820119",
+      "nm_mk": "Prak. Morfologi & sistematika tumbuhan obat",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820133",
+      "nm_mk": "Praktikum Kimia Fisika I",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820127",
+      "nm_mk": "Praktikum Anatomi Fisiologi Manusia I",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APK4820503",
+      "nm_mk": "Pendidikan Pancasila &amp;amp; Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APK4820105",
+      "nm_mk": "Statistika",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APK4820104",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820128",
+      "nm_mk": "Farmasetika I",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820126",
+      "nm_mk": "Anatomi Fisiologi Manusia I",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820129",
+      "nm_mk": "Praktikum Farmasetika I",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820115",
+      "nm_mk": "Praktikum Anatomi Fisiologi Tumbuhan",
+      "sks_mk": 1,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APK4820106",
+      "nm_mk": "Seni Budaya &amp;amp; Kearifan Lokal",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820120",
+      "nm_mk": "Kimia Fisika I",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820114",
+      "nm_mk": "Anatomi Fisiologi Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20172",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820132",
+      "nm_mk": "Undang-Undang Kesehatan dan Etika",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820131",
+      "nm_mk": "Prak.Kimia Kualitatif",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820140",
+      "nm_mk": "Instrumentasi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820138",
+      "nm_mk": "Farmasetika II",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820116",
+      "nm_mk": "Kimia Organik I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820150",
+      "nm_mk": "Farmakologi 1",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820191",
+      "nm_mk": "Praktikum Kimia Organik",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820121",
+      "nm_mk": "Etnobotani",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820124",
+      "nm_mk": "Biokimia",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820139",
+      "nm_mk": "Prak. Farmasetika II",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820130",
+      "nm_mk": "Kimia Kualitatif",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820125",
+      "nm_mk": "Prak. Biokimia",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820153",
+      "nm_mk": "Farmakognosi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820164",
+      "nm_mk": "Farmakologi II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820154",
+      "nm_mk": "Praktikum Farmakognosi",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820165",
+      "nm_mk": "Praktikum Farmakologi 2",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820123",
+      "nm_mk": "Praktikum Kimia Organik II",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820179",
+      "nm_mk": "Bahan Alam Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820122",
+      "nm_mk": "Kimia Organik II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820134",
+      "nm_mk": "Botani Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820160",
+      "nm_mk": "Kimia Kuantitatif",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKB4820187",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820136",
+      "nm_mk": "Mikrobiologi Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820161",
+      "nm_mk": "Praktikum Kimia Kuantitatif",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820151",
+      "nm_mk": "Kimia Medisinal I",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820141",
+      "nm_mk": "Farmakoterapi I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820168",
+      "nm_mk": "Interaksi Obat",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820173",
+      "nm_mk": "Biofarmasi",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820143",
+      "nm_mk": "Prak. Farmasi Fisika",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820135",
+      "nm_mk": "Teknologi Sediaan Farmasi Padat",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820137",
+      "nm_mk": "Prak. Teknologi Sediaan Farmasi Padat",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820146",
+      "nm_mk": "Parasitologi Imunologi",
+      "sks_mk": 3,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820155",
+      "nm_mk": "Teknologi Herbal",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820142",
+      "nm_mk": "Farmasi Fisika",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820162",
+      "nm_mk": "Fitokimia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820174",
+      "nm_mk": "Kimia Medisinal II",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820155",
+      "nm_mk": "Farmakoterapi II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ABB4820190",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820176",
+      "nm_mk": "Praktikum Kimia Klinik",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820151",
+      "nm_mk": "Biologi Molekuler",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820148",
+      "nm_mk": "Praktikum Teknologi Sediaan Farmasi Cair",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820144",
+      "nm_mk": "Teknologi Sediaan Farmasi Semisolid",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820145",
+      "nm_mk": "Prak.Teknologi Sediaan Farmasi Semisolid",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820186",
+      "nm_mk": "Metode Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820175",
+      "nm_mk": "Kimia Klinik",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820147",
+      "nm_mk": "Teknologi Sediaan Farmasi Cair",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820155",
+      "nm_mk": "Teknologi Herbal",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820178",
+      "nm_mk": "Prak.Teknologi Sediaan Farmasi Steril",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820169",
+      "nm_mk": "Farmakokinetik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820159",
+      "nm_mk": "Kosmetika",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820177",
+      "nm_mk": "Teknologi Sediaan Farmasi Steril",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820157",
+      "nm_mk": "Toksikologi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKK4820163",
+      "nm_mk": "Nanoteknologi Farmasi",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "APB4820166",
+      "nm_mk": "Proposal dan Studi Pustaka",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AKB4820188",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ROSA YULIANTI",
+    "jk": "P",
+    "nipd": "1704010088",
+    "namapt": "Universitas Perjuangan Tasikmalaya",
+    "namajenjang": "S1",
+    "namaprodi": "Farmasi",
+    "reg_pd": "AF0C5C46-84C8-4DD2-8CCF-047D2DCF9EDF",
+    "mulai_smt": "20171",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-08-14T00:00:00Z",
+    "no_seri_ijazah": "482012021000381",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NDZEQzE1RUUtMDVBRC00Q0Q3LUIzMjQtMjdERUJERjk0QzhD",
+    "link_prodi": "/data_prodi/NkMyOUFFMzYtNUJCQi00RjcyLTk3MjUtQzM3NTYwM0NCRkIz"
+  }
+}

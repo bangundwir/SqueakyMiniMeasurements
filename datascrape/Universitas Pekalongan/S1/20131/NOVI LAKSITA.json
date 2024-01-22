@@ -1,0 +1,532 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20152",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20161",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20162",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20171",
+      "sks_smt": 9,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "AGT001",
+      "nm_mk": "Pendidikan Agama",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT008",
+      "nm_mk": "Pengantar Ilmu Ekonomi",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT006",
+      "nm_mk": "Pengantar Ilmu Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT007",
+      "nm_mk": "Botani Umum",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT004",
+      "nm_mk": "Kimia",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT005",
+      "nm_mk": "Pendidikan Pancasila dan Kewarganegaraan",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT003",
+      "nm_mk": "Matematika",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT002",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT018",
+      "nm_mk": "Perbankan",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT009",
+      "nm_mk": "Statistik",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT015",
+      "nm_mk": "Dasar Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT017",
+      "nm_mk": "Pengolahan Data Berbasis Komputer",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT010",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT012",
+      "nm_mk": "Genetika Tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT011",
+      "nm_mk": "Fisika",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT013",
+      "nm_mk": "Biokimia Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT014",
+      "nm_mk": "Sosiologi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT016",
+      "nm_mk": "Dasar Ilmu Tanah",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT046",
+      "nm_mk": "Pengantar Agribisnis",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT020",
+      "nm_mk": "Agroklimatologi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT027",
+      "nm_mk": "Landskip Pertamanan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT022",
+      "nm_mk": "Dasar Agronomi",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT025",
+      "nm_mk": "Dasar Pemuliaan Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT023",
+      "nm_mk": "Perancangan Percobaan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT021",
+      "nm_mk": "Teknologi Perlindungan Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT026",
+      "nm_mk": "Kesuburan Tanah dan Pemupukan",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT024",
+      "nm_mk": "Fisiologi Tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT034",
+      "nm_mk": "Ekologi Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT029",
+      "nm_mk": "Budidaya Tanaman Semusim",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT028",
+      "nm_mk": "Mikrobiologi Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT031",
+      "nm_mk": "Teknologi dan Produksi Benih",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT030",
+      "nm_mk": "Irigasi dan Drainase",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT035",
+      "nm_mk": "Kultur Jaringan",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT033",
+      "nm_mk": "Konservasi Tanah dan Air",
+      "sks_mk": 2,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT032",
+      "nm_mk": "Nutrisi Tanaman",
+      "sks_mk": 3,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT062",
+      "nm_mk": "Pengelolaan Wilayah Pesisir",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT044",
+      "nm_mk": "Pertanian Berkelanjutan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT045",
+      "nm_mk": "Pengetahuan Dan Analisa Bahan",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT041",
+      "nm_mk": "Bioteknologi Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT042",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT039",
+      "nm_mk": "Budidaya Tanaman Tahunan",
+      "sks_mk": 2,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT058",
+      "nm_mk": "Teknologi Media Tanam",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT040",
+      "nm_mk": "Mekanisasi Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT043",
+      "nm_mk": "Kewirasahaan Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20151",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT053",
+      "nm_mk": "Aplikasi Zat Pengatur Tumbuh",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT050",
+      "nm_mk": "Praktek Kerja Lapangan (PKL)",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT049",
+      "nm_mk": "Fisiologi dan Teknologi Pasca Panen",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT048",
+      "nm_mk": "Fisiologi Cekaman Lingkungan",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT052",
+      "nm_mk": "Budidaya Tanaman Holtrikultura",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT047",
+      "nm_mk": "Sistem Informasi Geografis",
+      "sks_mk": 3,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT054",
+      "nm_mk": "Klinik Tanaman",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT051",
+      "nm_mk": "Agroforestri",
+      "sks_mk": 2,
+      "id_smt": "20152",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT070",
+      "nm_mk": "Pendadaran",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT006",
+      "nm_mk": "Pengantar Ilmu Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT060",
+      "nm_mk": "Penyuluhan dan Komunikasi Pertanian",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT057",
+      "nm_mk": "Kuliah Kerja Nyata (KKN)",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT069",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT059",
+      "nm_mk": "Teknologi Pengolahan Hasil Per",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT050",
+      "nm_mk": "Praktek Kerja Lapangan (PKL)",
+      "sks_mk": 3,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT068",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20161",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT070",
+      "nm_mk": "Pendadaran",
+      "sks_mk": 2,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT069",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT068",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20162",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT070",
+      "nm_mk": "Pendadaran",
+      "sks_mk": 2,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT068",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGT069",
+      "nm_mk": "Seminar",
+      "sks_mk": 1,
+      "id_smt": "20171",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NOVI LAKSITA",
+    "jk": "P",
+    "nipd": "0410086412",
+    "namapt": "Universitas Pekalongan",
+    "namajenjang": "S1",
+    "namaprodi": "Agroteknologi",
+    "reg_pd": "78BFB0A0-055E-41E7-B0D7-DFCBDE96D15D",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2017-01-26T00:00:00Z",
+    "no_seri_ijazah": "18.6.1.040367",
+    "sert_prof": null,
+    "link_pt": "/data_pt/QkE1NzUzMDItMThEMC00NkNCLTkzQ0EtOTMxRERCNkI4OUI4",
+    "link_prodi": "/data_prodi/MTFCMkM5QjAtNjdGMy00NjYyLTk3MkQtQTM4MTM3MDQ2RDVC"
+  }
+}

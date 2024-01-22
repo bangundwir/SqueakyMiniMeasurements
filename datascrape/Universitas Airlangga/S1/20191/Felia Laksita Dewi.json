@@ -1,0 +1,718 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20191",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "KGM101",
+      "nm_mk": "Ilmu Material Kedokteran Gigi I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NOP104",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI101",
+      "nm_mk": "Agama Islam I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA103",
+      "nm_mk": "Anatomi I",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ETH103",
+      "nm_mk": "Etika Hukum dan Medikolegal",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAI101",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI101",
+      "nm_mk": "Modul I/ Berpikir Kritis Dan Pembelajaran Berdasar Bukti",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA201",
+      "nm_mk": "Anatomi Praktikum I",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PHG101",
+      "nm_mk": "Filsafat Ilmu",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NOP103",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIF103",
+      "nm_mk": "Ilmu Faal I",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIF203",
+      "nm_mk": "Ilmu Faal Praktikum",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PSG201",
+      "nm_mk": "Psikologi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SOA324",
+      "nm_mk": "Antropologi Dental",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA203",
+      "nm_mk": "Anatomi Praktikum II",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIH104",
+      "nm_mk": "Histologi Praktikum",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM101",
+      "nm_mk": "Mikrobiologi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK103",
+      "nm_mk": "Biokimia I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGM102",
+      "nm_mk": "Ilmu Material Kedokteran Gigi Praktikum I",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA104",
+      "nm_mk": "Anatomi II",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI105",
+      "nm_mk": "Skills LabI/ Model Malam Mahkota Gigi, Determinasi Gigi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIH103",
+      "nm_mk": "Histologi",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGM103",
+      "nm_mk": "Ilmu Material Kedokteran Gigi II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIF202",
+      "nm_mk": "Ilmu Faal II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI103",
+      "nm_mk": "Modul II/ Komunikasi Interpersonal Dan Teknik Dasar Wawancara",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "LKM108",
+      "nm_mk": "IKGM I/ Ilmu Kesehatan Lingkungan",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDJ301",
+      "nm_mk": "Ilmu Kedokteran Jiwa",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI209",
+      "nm_mk": "Modul III / Tumbuh Kembang",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM102",
+      "nm_mk": "Mikrobiologi Praktikum",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT202",
+      "nm_mk": "Farmakologi dan Terapi I",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDK218",
+      "nm_mk": "Patologi Mulut & Maksilofasial",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK203",
+      "nm_mk": "Ilmu Biokimia Praktikum",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDK219",
+      "nm_mk": "Patologi Mulut & Maksilofasial I (Praktikum)",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI121",
+      "nm_mk": "Skills Lab II/ Pembuatan Piranti Ortodonsi Lepasan (Mencetak,klamer Ortodonsi)",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO204",
+      "nm_mk": "Biologi Mulut I (Praktikum)",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM210",
+      "nm_mk": "Parasitologi Praktikum",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIK202",
+      "nm_mk": "Ilmu Biokimia II",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO203",
+      "nm_mk": "Biologi Mulut I",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGM201",
+      "nm_mk": "Ilmu Material Kedokteran Gigi Praktikum II",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT203",
+      "nm_mk": "Farmakologi & Terapi Praktikum",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIM208",
+      "nm_mk": "Parasitologi",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO302",
+      "nm_mk": "Biologi Mulut Praktikum II",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDD303",
+      "nm_mk": "Ilmu Penyakit Dalam",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI207",
+      "nm_mk": "Skills Lab III / Pembuatan Gigi Tiruan Lepasan (GTL, GTSL)",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDP301",
+      "nm_mk": "Ilmu Kesehatan Anak",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO301",
+      "nm_mk": "Biologi Mulut II",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDS304",
+      "nm_mk": "Ilmu Penyakit Kulit Dan Kelamin",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FAT303",
+      "nm_mk": "Farmakologi dan Terapi II",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDA202",
+      "nm_mk": "Anestesiologi & Reanimasi",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDN303",
+      "nm_mk": "Ilmu Penyakit Syaraf",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDK203",
+      "nm_mk": "Patologi Klinik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDK211",
+      "nm_mk": "Patologi Mulut dan Maksilofasial Praktikum II",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDK204",
+      "nm_mk": "Patologi Klinik Praktikum",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMD202",
+      "nm_mk": "IKGM II/ Ilmu Dasar Epidemiologi & Surveilance",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDY204",
+      "nm_mk": "Ilmu Kedokteran Gigi Forensik",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI122",
+      "nm_mk": "Modul IV/ Temporo Mandibular Disorder",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDR201",
+      "nm_mk": "Radiologi Kedokteran Gigi I",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDY205",
+      "nm_mk": "Ilmu Kedokteran Gigi Forensik (Praktikum)",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDE403",
+      "nm_mk": "Ilmu Penyakit Mata",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI201",
+      "nm_mk": "Modul V/ Penyakit Infeksi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDR302",
+      "nm_mk": "Radiologi Kedokteran Gigi II",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI208",
+      "nm_mk": "Skills Lab IV /Preparasi Gigi (Preparasi Kavitas Gigi Sulung, Preparasi Kavitas dan Saluran Akar Gigi Permanen, Preparasi Gigi Penyangga Untuk GTT)",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KNG401",
+      "nm_mk": "KKN Berbasis Kompetensi",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGP301",
+      "nm_mk": "Periodontia I",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGA301",
+      "nm_mk": "Kedokteran Gigi Anak I",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KME202",
+      "nm_mk": "Metpen & Statistik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDT404",
+      "nm_mk": "Ilmu Penyakit Telinga Hidung Tenggorokan &amp; KL",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGK201",
+      "nm_mk": "Ilmu Konservasi Gigi I",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMP305",
+      "nm_mk": "IKGM III/ Ilmu Kesehatan Pencegahan & Gizi",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI401",
+      "nm_mk": "Agama Islam II",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KDB301",
+      "nm_mk": "Ilmu Bedah",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGO301",
+      "nm_mk": "Ortodonsia I",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGB303",
+      "nm_mk": "Ilmu Bedah Mulut dan Maksilofasial I",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI312",
+      "nm_mk": "Skills Lab V / Ketrampilan Penatalaksanaan Bedah Minor Dasar",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI204",
+      "nm_mk": "Modul VI/ Penyakit Non Infeksi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMP306",
+      "nm_mk": "IKGM IV/ Ilmu Perilaku &amp; Promosi Kesehatan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGK301",
+      "nm_mk": "Ilmu Konservasi Gigi II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGD301",
+      "nm_mk": "Ilmu Penyakit Mulut I",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT401",
+      "nm_mk": "Prostodonsia II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNG498",
+      "nm_mk": "Proposal Skripsi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT301",
+      "nm_mk": "Prostodonsia I",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGP302",
+      "nm_mk": "Periodontia II",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGA302",
+      "nm_mk": "Kedokteran Gigi Anak II",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI307",
+      "nm_mk": "Simulasi Praktek Kedokteran Gigi",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGB304",
+      "nm_mk": "Ilmu Bedah Mulut dan Maksilofasial II",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNS406",
+      "nm_mk": "Manajemen Praktek Kedokteran Gigi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT403",
+      "nm_mk": "Prostodonsia III: Tata Laksana Kasus Prostodonsia",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGO401",
+      "nm_mk": "Ortodonsia II",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGD401",
+      "nm_mk": "Ilmu Penyakit Mulut II",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI405",
+      "nm_mk": "Skills lab VI / Ketrampilan Rencana Perawatan secara Komprehensif",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMA401",
+      "nm_mk": "IKGM V/ Administrasi Kebijakan Kesehatan dan Perencanaan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGK403",
+      "nm_mk": "Ilmu Konservasi Gigi III: Aspek klinis dan estetik Ilmu Endodontik dan Restorasi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGI406",
+      "nm_mk": "Modul Penanganan kasus klinis Kedokteran Gigi Terintegrasi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PNG499",
+      "nm_mk": "Skripsi",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Felia Laksita Dewi",
+    "jk": "P",
+    "nipd": "021911133108",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "S1",
+    "namaprodi": "Kedokteran Gigi",
+    "reg_pd": "A64A3336-C920-4A07-A1BE-5A4BE88117B0",
+    "mulai_smt": "20191",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2023-01-27T00:00:00Z",
+    "no_seri_ijazah": "122012023000743",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/NzQyQjc4NDUtODVGRS00MEEyLUIyRjktODBFMEM4REEyRjFB"
+  }
+}

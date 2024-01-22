@@ -1,0 +1,171 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20131",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": null,
+      "nm_stat_mhs": "Drop-Out/Putus Studi"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "ARS0412",
+      "nm_mk": "MATEMATIKA DALAM ARSITEKTUR",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0613",
+      "nm_mk": "PRESENTASI ARSITEKTURAL 1",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0116",
+      "nm_mk": "STUDIO ARSITEKTUR 1",
+      "sks_mk": 6,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0513",
+      "nm_mk": "PENGANTAR ARSITEKTUR",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0214",
+      "nm_mk": "KONSTRUKSI BANGUNAN GEDUNG",
+      "sks_mk": 4,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0312",
+      "nm_mk": "STATIKA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0923",
+      "nm_mk": "SEJARAH DAN TEORI SENI",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS1122",
+      "nm_mk": "STATIKA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0823",
+      "nm_mk": "STRUKTUR,KONSTRUKSI & BAHAN BANGUNAN I",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS1023",
+      "nm_mk": "FALSAFAH ILMU PENGETAHUAN",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0726",
+      "nm_mk": "STUDIO ARSITEKTUR 2",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS1223",
+      "nm_mk": "PRESENTASI ARSITEKTURAL II",
+      "sks_mk": 3,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS1023",
+      "nm_mk": "FALSAFAH ILMU PENGETAHUAN",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0726",
+      "nm_mk": "STUDIO ARSITEKTUR 2",
+      "sks_mk": 6,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS1223",
+      "nm_mk": "PRESENTASI ARSITEKTURAL II",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0923",
+      "nm_mk": "SEJARAH DAN TEORI SENI",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS0823",
+      "nm_mk": "STRUKTUR,KONSTRUKSI & BAHAN BANGUNAN I",
+      "sks_mk": 3,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARS1122",
+      "nm_mk": "STATIKA TERAPAN",
+      "sks_mk": 2,
+      "id_smt": "20141",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "PRAYOGA SASMITA AJI",
+    "jk": "L",
+    "nipd": "130115008         ",
+    "namapt": "Universitas Atma Jaya Yogyakarta",
+    "namajenjang": "S1",
+    "namaprodi": "Arsitektur",
+    "reg_pd": "B6B0B486-3499-406D-8CFC-05FA142366F7",
+    "mulai_smt": "20131",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Dikeluarkan",
+    "tgl_keluar": "2015-07-27T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/QjU5MEY4OEYtMkUzRi00Q0NFLTlDNTktQ0NEN0MzMzk5QjA3",
+    "link_prodi": "/data_prodi/QUM1QkRGQzEtNzZGQS00NTM1LTgyQTYtMjhDM0ZFOURCQjRB"
+  }
+}

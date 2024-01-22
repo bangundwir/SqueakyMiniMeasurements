@@ -1,0 +1,479 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20101",
+      "sks_smt": 14,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 11,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20122",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20131",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20132",
+      "sks_smt": 5,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20141",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Cuti"
+    },
+    {
+      "id_smt": "20142",
+      "sks_smt": 6,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20151",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "PK205",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK70302",
+      "nm_mk": "PENGANTAR BISNIS",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK204",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PK202",
+      "nm_mk": "PENDIDIKAN PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB202",
+      "nm_mk": "ILMU KEALAMAN DASAR",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK70301",
+      "nm_mk": "PENGANTAR EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK70208",
+      "nm_mk": "APLIKASI KOMPUTER",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73301",
+      "nm_mk": "PENGANTAR AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK101",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN II",
+      "sks_mk": 1,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB70315",
+      "nm_mk": "MIKROEKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB70217",
+      "nm_mk": "SISTIM EKONOMI ISLAM",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB70205",
+      "nm_mk": "ETIKA BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK70304",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB70316",
+      "nm_mk": "MAKRO EKONOMI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK70203",
+      "nm_mk": "BAHASA INGGRIS BISNIS",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB201",
+      "nm_mk": "ILMU SOSIAL BUDAYA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73219",
+      "nm_mk": "LAB. AKUNTANSI",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK102",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN III",
+      "sks_mk": 1,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK70206",
+      "nm_mk": "STATITIK I",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73303",
+      "nm_mk": "AKUNTANSI KEUANGAN I",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73316",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73311",
+      "nm_mk": "TEORI AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73312",
+      "nm_mk": "SISTEM INFORMASI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73305",
+      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN I",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK103",
+      "nm_mk": "AIK IV",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB70324",
+      "nm_mk": "BANK DAN LEMBAGA KEUANGAN NON BANK",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73304",
+      "nm_mk": "AKUNTANSI KEUANGAN II",
+      "sks_mk": 3,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73225",
+      "nm_mk": "AKUNTANSI BANK DAN SYARIAH",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK70307",
+      "nm_mk": "STATISTIK II",
+      "sks_mk": 2,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB73302",
+      "nm_mk": "PERILAKU ORGANISASI",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK104",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN V",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73316",
+      "nm_mk": "MANAJEMEN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73308",
+      "nm_mk": "AKUNTANSI SEKTOR PUBLIK",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73322",
+      "nm_mk": "ANALISA LAPORAN KEUANGAN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73306",
+      "nm_mk": "AKUNTANSI KEUANGAN LANJUTAN II",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73307",
+      "nm_mk": "AKUNTANSI MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73221",
+      "nm_mk": "AKUNTANSI BIAYA II",
+      "sks_mk": 2,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB73306",
+      "nm_mk": "EKONOMI MANAJERIAL",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73222",
+      "nm_mk": "ANALISA LAPORAN KEUNGAN",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB73209",
+      "nm_mk": "AKUNTANSI MANAJEMEN SEKTOR PUBLIK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK105",
+      "nm_mk": "AIK VI",
+      "sks_mk": 1,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK70309",
+      "nm_mk": "METODOLOGI PENELITIAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB73301",
+      "nm_mk": "PERPAJAKAN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73309",
+      "nm_mk": "AUDITING I",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73314",
+      "nm_mk": "SISTIM PENGENDALIAN MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK73313",
+      "nm_mk": "HUKUM PAJAK",
+      "sks_mk": 2,
+      "id_smt": "20122",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB70210",
+      "nm_mk": "BAHASA MANDARIN",
+      "sks_mk": 2,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB70204",
+      "nm_mk": "KEWIRAUSAHAAN",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KB73310",
+      "nm_mk": "AUDITING II",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK73312",
+      "nm_mk": "PEMERIKSAAN AKUNTANSI II",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK106",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN VII",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KK73321",
+      "nm_mk": "MAGANG",
+      "sks_mk": 1,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PB73309",
+      "nm_mk": "SEMINAR AKUNTANSI",
+      "sks_mk": 3,
+      "id_smt": "20131",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IK107",
+      "nm_mk": "AL ISLAM KEMUHAMMADIYAHAN VIII",
+      "sks_mk": 1,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB70405",
+      "nm_mk": "KKP",
+      "sks_mk": 4,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB70606",
+      "nm_mk": "KOMPREHENSIF DAN SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20132",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BB70606",
+      "nm_mk": "KOMPREHENSIF DAN SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20142",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "ENTENG ARIANY",
+    "jk": "P",
+    "nipd": "105730230910      ",
+    "namapt": "Universitas Muhammadiyah Makassar",
+    "namajenjang": "S1",
+    "namaprodi": "Akuntansi",
+    "reg_pd": "D2B038F5-EC97-4555-90FD-6605BB28538C",
+    "mulai_smt": "20101",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2015-11-11T00:00:00Z",
+    "no_seri_ijazah": "2084/091004/73/2015",
+    "sert_prof": null,
+    "link_pt": "/data_pt/MTZBOEZEOTItQTAxRi00RkYzLUE5NUItN0NGOTlEODdEQTI2",
+    "link_prodi": "/data_prodi/QjlFNjVGMzAtQUVGNS00Nzk5LTgyMjAtRDI2RTk0NDhFRUM5"
+  }
+}
