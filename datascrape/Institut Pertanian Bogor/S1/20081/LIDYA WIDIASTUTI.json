@@ -1,0 +1,434 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20081",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20082",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20091",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20092",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20101",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20102",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20111",
+      "sks_smt": 17,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20112",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20121",
+      "sks_smt": 7,
+      "nm_stat_mhs": "Lulus"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "FIS100",
+      "nm_mk": "FISIKA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM130",
+      "nm_mk": "SOSIOLOGI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT100",
+      "nm_mk": "PENGANTAR MATEMATIKA",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB109",
+      "nm_mk": "OLAHRAGA DAN SENI",
+      "sks_mk": 1,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB107",
+      "nm_mk": "Pengantar Ilmu Pertanian",
+      "sks_mk": 2,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB105",
+      "nm_mk": "PPKN",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB108",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 3,
+      "id_smt": "20081",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGB100",
+      "nm_mk": "PENGANTAR KEWIRAUSAHAAN",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KIM101",
+      "nm_mk": "KIMIA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAT103",
+      "nm_mk": "KALKULUS",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO100",
+      "nm_mk": "BIOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "EKO100",
+      "nm_mk": "EKONOMI UMUM",
+      "sks_mk": 3,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB100",
+      "nm_mk": "PENGANTAR ILMU PERTANIAN",
+      "sks_mk": 1,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "IPB106",
+      "nm_mk": "BAHASA INDONESIA",
+      "sks_mk": 2,
+      "id_smt": "20082",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "GFM221",
+      "nm_mk": "KLIMATOLOGI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESL231",
+      "nm_mk": "EKONOMI LINGKUNGAN",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN201",
+      "nm_mk": "PENGANTAR MANAJEMEN",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TSL200",
+      "nm_mk": "DASAR-DASAR ILMU TANAH",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGH200",
+      "nm_mk": "DASAR-DASAR AGRONOMI",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL200",
+      "nm_mk": "DASAR-DASAR ARSITEKTUR LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL210",
+      "nm_mk": "TEKNIK STUDIO",
+      "sks_mk": 3,
+      "id_smt": "20091",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL211",
+      "nm_mk": "PENGANTAR SENI DAN ARSITEKTUR",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL214",
+      "nm_mk": "REKAYASA TAPAK",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL212",
+      "nm_mk": "TEORI DESAIN LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL213",
+      "nm_mk": "KOMPUTER GRAFIK UNTUK ARSITEKTUR LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PTN200",
+      "nm_mk": "DASAR-DASAR PROTEKSI TANAMAN",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIO242",
+      "nm_mk": "FISIOLOGI TUMBUHAN DASAR",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL313",
+      "nm_mk": "LANSKAP KOTA DAN WILAYAH",
+      "sks_mk": 3,
+      "id_smt": "20092",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL310",
+      "nm_mk": "ANALISIS TAPAK",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KSH323",
+      "nm_mk": "MANAJEMEN KAWASAN KONSERVASI",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL311",
+      "nm_mk": "PELESTARIAN LANSKAP SEJARAH DAN BUDAYA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "TEP362",
+      "nm_mk": "TEKNOLOGI GREENHOUSE",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL320",
+      "nm_mk": "TANAMAN DALAM LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STK211",
+      "nm_mk": "METODE STATISTIKA",
+      "sks_mk": 3,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGH401",
+      "nm_mk": "PERTANIAN TERPADU",
+      "sks_mk": 2,
+      "id_smt": "20101",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL312",
+      "nm_mk": "DESAIN LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL400",
+      "nm_mk": "KULIAH LAPANG ARSITEKTUR LANSKAP",
+      "sks_mk": 2,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL321",
+      "nm_mk": "DESAIN PENANAMAN LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL398",
+      "nm_mk": "TEKNIK PENULISAN ILMIAH",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KPM210",
+      "nm_mk": "DASAR-DASAR KOMUNIKASI",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL399",
+      "nm_mk": "KULIAH KERJA PROFESI (KKP)",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "STK222",
+      "nm_mk": "PERANCANGAN PERCOBAAN I",
+      "sks_mk": 3,
+      "id_smt": "20102",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL411",
+      "nm_mk": "TATALAKSANA PROFESI ARSITEKTUR LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL410",
+      "nm_mk": "PERENCANAAN LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL412",
+      "nm_mk": "PENGELOLAAN LANSKAP",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL401",
+      "nm_mk": "PROYEK STUDIO LANSKAP",
+      "sks_mk": 2,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MAN424",
+      "nm_mk": "PERILAKU PELANGGAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ESL313",
+      "nm_mk": "TEORI HARGA PERTANIAN",
+      "sks_mk": 3,
+      "id_smt": "20111",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL499",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL498",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 1,
+      "id_smt": "20112",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL498",
+      "nm_mk": "SEMINAR",
+      "sks_mk": 1,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ARL499",
+      "nm_mk": "SKRIPSI",
+      "sks_mk": 6,
+      "id_smt": "20121",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "LIDYA WIDIASTUTI",
+    "jk": "P",
+    "nipd": "A44080044         ",
+    "namapt": "Institut Pertanian Bogor",
+    "namajenjang": "S1",
+    "namaprodi": "Arsitektur Lanskap",
+    "reg_pd": "34BD3F41-65CC-4F3C-A423-A0DCEC3AADA0",
+    "mulai_smt": "20081",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2012-12-19T00:00:00Z",
+    "no_seri_ijazah": "1003120350",
+    "sert_prof": null,
+    "link_pt": "/data_pt/ODI4RkI5NjYtMzczMy00MzBFLTg2RkYtOTA5Qjc2NEUyNTIz",
+    "link_prodi": "/data_prodi/NUFFMzA0OUYtQTA5Qy00MUU1LUIwMTMtMUVGRjJDMzRGNkZD"
+  }
+}

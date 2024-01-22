@@ -1,0 +1,585 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 24,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 12,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "3310911",
+      "nm_mk": "Praktikum Kimia Dasar Organik",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310220",
+      "nm_mk": "Biologi Sel",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310811",
+      "nm_mk": "Praktikum Kimia Dasar Anorganik",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310420",
+      "nm_mk": "Kimia Dasar Organik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310711",
+      "nm_mk": "Praktikum Biologi Sel",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310520",
+      "nm_mk": "Fisika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3311011",
+      "nm_mk": "Praktikum Fisika Dasar",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310120",
+      "nm_mk": "Pengantar Teknologi dan Industri Pangan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "0010720",
+      "nm_mk": "Alquran dan Hadits",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310620",
+      "nm_mk": "Matematika Dasar",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3310320",
+      "nm_mk": "Kimia Dasar Anorganik",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330010420",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3320711",
+      "nm_mk": "Praktikum Mikrobiologi Umum",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3320220",
+      "nm_mk": "Mikrobiologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330020320",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3320420",
+      "nm_mk": "Kalkulus",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330020220",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3320320",
+      "nm_mk": "Satuan Operasi I: Azas Teknik Pengolahan",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3320811",
+      "nm_mk": "Praktikum Kimia Fisika",
+      "sks_mk": 1,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3320620",
+      "nm_mk": "Kimia Fisika",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3320520",
+      "nm_mk": "Statistik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3320120",
+      "nm_mk": "Kimia Analitik",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330010120",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330530",
+      "nm_mk": "Satuan Operasi II: Evaporasi, Kristalisasi, Pengeringan, dan Pendinginan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330420",
+      "nm_mk": "Sifat Fisik Bahan Pangan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330320",
+      "nm_mk": "Analisis Pangan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3350520",
+      "nm_mk": "Pemasaran Produk Pangan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330811",
+      "nm_mk": "Praktikum Analisis Pangan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330120",
+      "nm_mk": "Kimia Pangan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330711",
+      "nm_mk": "Praktikum Kimia Pangan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "330030820",
+      "nm_mk": "Aqidah Islam",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3350420",
+      "nm_mk": "Ekonomi Teknik",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330620",
+      "nm_mk": "Dasar-Dasar Ekonomi dan Manajemen",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330911",
+      "nm_mk": "Praktikum Sifat Fisik Bahan Pangan",
+      "sks_mk": 1,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3330230",
+      "nm_mk": "Biokimia Pangan",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340130",
+      "nm_mk": "Ilmu Gizi dan Kesehatan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340811",
+      "nm_mk": "Praktikum Mikrobiologi Pangan dan Pengolahan",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340330",
+      "nm_mk": "Metodologi Penelitian dan Rancangan Percobaan",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340420",
+      "nm_mk": "Mikrobiologi Pangan dan Pengolahan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340711",
+      "nm_mk": "Praktikum Uji Inderawi",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340620",
+      "nm_mk": "Penanganan Pascapanen",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340911",
+      "nm_mk": "Praktikum Satuan Operasi",
+      "sks_mk": 1,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340220",
+      "nm_mk": "Uji Inderawi",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "0050521",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3340520",
+      "nm_mk": "Satuan Operasi III: Pengecilan Ukuran, Pencampuran dan Pemisahan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3341120",
+      "nm_mk": "Teknologi Kopi, Teh, dan Kakao",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3351220",
+      "nm_mk": "Akhlak",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223350611",
+      "nm_mk": "Praktikum Teknologi Pengelolaan Limbah dan Bahan Samping",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223350420",
+      "nm_mk": "Pengembangan Produk dan Inovasi Pangan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "3350911",
+      "nm_mk": "Praktikum Komputer Terapan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223350920",
+      "nm_mk": "Teknologi Pengemasan dan Penyimpanan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223350730",
+      "nm_mk": "Sistem Jaminan Halal",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223370120",
+      "nm_mk": "Industri Kuliner Halal",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223350511",
+      "nm_mk": "Praktikum Pengembangan Produk dan Inovasi Pangan",
+      "sks_mk": 1,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223351020",
+      "nm_mk": "Teknologi Daging",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223320420",
+      "nm_mk": "Komputer Terapan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223351120",
+      "nm_mk": "Teknologi Minyak dan Lemak",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223350820",
+      "nm_mk": "Teknologi Penanganan Limbah dan Bahan Samping",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223380220",
+      "nm_mk": "Teknologi Buah dan Sayur",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223340320",
+      "nm_mk": "Manajemen dan Pengendalian Mutu",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223380320",
+      "nm_mk": "Teknologi Perisa",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223360440",
+      "nm_mk": "Kerja Praktik",
+      "sks_mk": 4,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223360220",
+      "nm_mk": "Kapita Selekta",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223360120",
+      "nm_mk": "Islam Interdisipliner",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223360820",
+      "nm_mk": "Toksikologi dan Keamanan Pangan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223360720",
+      "nm_mk": "Peraturan dan Legislasi Pangan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223360320",
+      "nm_mk": "Keamanan dan Sanitasi Industri Pangan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223360620",
+      "nm_mk": "Pangan Fungsional",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223361020",
+      "nm_mk": "Teknologi Hasil Perairan",
+      "sks_mk": 2,
+      "id_smt": "20222",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223370620",
+      "nm_mk": "Teknologi Fermentasi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223370520",
+      "nm_mk": "Seminar",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223370320",
+      "nm_mk": "Manajemen Rantai Pasok Halal",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223370420",
+      "nm_mk": "Perancangan Pabrik",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223370920",
+      "nm_mk": "Perencanaan dan Pengendalian Produksi",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "223370720",
+      "nm_mk": "Teknologi Pangan Halal",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "Lidya Anggraeni Widiastuti",
+    "jk": "P",
+    "nipd": "2000033042",
+    "namapt": "Universitas Ahmad Dahlan",
+    "namajenjang": "S1",
+    "namaprodi": "Teknologi Pangan",
+    "reg_pd": "40927FF0-6975-4F44-8D0E-CA9C6DD70C5A",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/RUY5ODMwNTItNDhBMC00QUZELUFBNEMtRkMxNDJCNTNGMEZG",
+    "link_prodi": "/data_prodi/MDA0NzQyNTItMjY4OC00RTFELTlDNjctNjI1ODc5QkEzNjQz"
+  }
+}

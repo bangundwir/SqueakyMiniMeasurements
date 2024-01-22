@@ -1,0 +1,422 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20201",
+      "sks_smt": 21,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20203",
+      "sks_smt": 0,
+      "nm_stat_mhs": "Non-Aktif                           "
+    },
+    {
+      "id_smt": "20211",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20212",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20221",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20222",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20231",
+      "sks_smt": 16,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "UNIVUM6007-2020",
+      "nm_mk": "Pendidikan Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6101-2020",
+      "nm_mk": "Biologi Umum",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6102-2020",
+      "nm_mk": "Kimia Dasar I",
+      "sks_mk": 4,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6103-2020",
+      "nm_mk": "Ikatan Kimia",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "FMIAUM6001-2020",
+      "nm_mk": "Dasar-dasar Sains",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6105-2020",
+      "nm_mk": "Fisika untuk Bioteknologi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6104-2020",
+      "nm_mk": "Matematika untuk Bioteknologi",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6106-2020",
+      "nm_mk": "Keselamatan Kerja di Laboratorium",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6107-2020",
+      "nm_mk": "Bahasa Inggris Keilmuan",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6112-2020",
+      "nm_mk": "Kimia Dasar II",
+      "sks_mk": 4,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6109-2020",
+      "nm_mk": "Struktur Hewan dan Tumbuhan",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6001-2020",
+      "nm_mk": "Pendidikan Agama Islam",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6113-2020",
+      "nm_mk": "Kimia Organik",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6110-2020",
+      "nm_mk": "Biologi Sel",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6108-2020",
+      "nm_mk": "Pengantar dan Etika Bioteknologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6114-2020",
+      "nm_mk": "Studi Literatur Bioteknologi",
+      "sks_mk": 2,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6111-2020",
+      "nm_mk": "Mikrobiologi",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6123-2020",
+      "nm_mk": "Pengantar  Spektroskopi dan Mikroskopi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6119-2020",
+      "nm_mk": "Struktur dan Fungsi Biomolekul",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6118-2020",
+      "nm_mk": "Genetika",
+      "sks_mk": 3,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6120-2020",
+      "nm_mk": "Enzimologi",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6009-2020",
+      "nm_mk": "Pendidikan Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6121-2020",
+      "nm_mk": "Metabolisme",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6127-2020",
+      "nm_mk": "Pengantar Teknologi Bioproses",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6115-2020",
+      "nm_mk": "Megabiodiversitas Tropika",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6117-2020",
+      "nm_mk": "Fisiologi Tumbuhan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6116-2020",
+      "nm_mk": "Fisiologi Hewan",
+      "sks_mk": 2,
+      "id_smt": "20211",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6124-2020",
+      "nm_mk": "Imunology",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6128-2020",
+      "nm_mk": "Bioremediasi Lingkungan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6125-2020",
+      "nm_mk": "Pensinyalan Sel",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6122-2020",
+      "nm_mk": "Kimia Pangan Fungsional",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6008-2020",
+      "nm_mk": "Pendidikan Kewarganegaraan",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6131-2020",
+      "nm_mk": "Bioinformatika",
+      "sks_mk": 2,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6126-2020",
+      "nm_mk": "Rekayasa Genetika",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6129-2020",
+      "nm_mk": "Pemisahan dan Teknik Analisis Protein",
+      "sks_mk": 4,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6130-2020",
+      "nm_mk": "Pemisahan dan Teknik Analisis Asam Nukleat",
+      "sks_mk": 3,
+      "id_smt": "20212",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6132-2020",
+      "nm_mk": "Biostatistika",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6205-2020",
+      "nm_mk": "Nutrigenomik",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6501-2020",
+      "nm_mk": "Biobisnis",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6134-2018",
+      "nm_mk": "Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNIVUM6010-2020",
+      "nm_mk": "Manajemen Inovasi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6206-2020",
+      "nm_mk": "Toksikologi",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6202-2020",
+      "nm_mk": "Dasar- Dasar Desain Biomarker",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6133-2020",
+      "nm_mk": "Metodologi Penelitian",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6518-2020",
+      "nm_mk": "Mikrobiologi Terapan",
+      "sks_mk": 3,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6517-2020",
+      "nm_mk": "Kultur Jaringan",
+      "sks_mk": 2,
+      "id_smt": "20221",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6208-2020",
+      "nm_mk": "Teknologi Vaksin",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6207-2020",
+      "nm_mk": "Terapi Gen dan Sel",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6209-2020",
+      "nm_mk": "Bioassay",
+      "sks_mk": 3,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6135-2020",
+      "nm_mk": "Skripsi",
+      "sks_mk": 6,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIOTUM6201-2020",
+      "nm_mk": "Perkembangan Hewan",
+      "sks_mk": 2,
+      "id_smt": "20231",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "NISA AULIA TSABITA",
+    "jk": "P",
+    "nipd": "200343616423",
+    "namapt": "Universitas Negeri Malang",
+    "namajenjang": "S1",
+    "namaprodi": "Bioteknologi",
+    "reg_pd": "FE686B11-7952-4FB6-9AB1-6737F904BF1D",
+    "mulai_smt": "20201",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": null,
+    "tgl_keluar": null,
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/N0FDNTEyNjUtRUNDMi00NEQ3LThGQjItNzE3RDNDRjFBQkM1",
+    "link_prodi": "/data_prodi/NjBBNzNDMUMtMTIwNi00QjMxLTg0NDEtMUZDNTMyRUY2OTI5"
+  }
+}

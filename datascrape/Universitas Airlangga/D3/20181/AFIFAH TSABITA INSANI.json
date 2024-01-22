@@ -1,0 +1,426 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20181",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20182",
+      "sks_smt": 23,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20191",
+      "sks_smt": 22,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20192",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20201",
+      "sks_smt": 19,
+      "nm_stat_mhs": "Kampus Merdeka"
+    },
+    {
+      "id_smt": "20202",
+      "sks_smt": 10,
+      "nm_stat_mhs": "Kampus Merdeka"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "BIA016",
+      "nm_mk": "Anatomi Kepala dan Leher",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KMK019",
+      "nm_mk": "Hiperkes",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA003",
+      "nm_mk": "Anatomi Gigi",
+      "sks_mk": 6,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT034",
+      "nm_mk": "Pelilinan Fungsional",
+      "sks_mk": 1,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NOP002",
+      "nm_mk": "Pancasila",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT035",
+      "nm_mk": "Pelilinan Fungsional (Praktikum)",
+      "sks_mk": 4,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGU001",
+      "nm_mk": "Teknik Penggunaan Dan Pemeliharaan Alat Laboratorium Kedokteran Gigi",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAE038",
+      "nm_mk": "Bahasa Inggris",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGM002",
+      "nm_mk": "Ilmu Material Laboratorium Kedokteran Gigi I",
+      "sks_mk": 2,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BIA017",
+      "nm_mk": "Anatomi Gigi (Praktikum)",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGM008",
+      "nm_mk": "Ilmu Material Laboratorium dan Teknologi Kedokteran Gigi (Praktikum)",
+      "sks_mk": 3,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGM001",
+      "nm_mk": "Ilmu Material Dan Teknologi Kedokteran Gigi",
+      "sks_mk": 5,
+      "id_smt": "20181",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT039",
+      "nm_mk": "Teknik Pembuatan Restorasi Intrakoronal dan Ekstrakoronal (Praktikum)",
+      "sks_mk": 4,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "AGI001",
+      "nm_mk": "AGAMAISLAM",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGM003",
+      "nm_mk": "Ilmu Material Laboratorium Kedokteran Gigi II",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "NOP003",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT037",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Lengkap I (Praktikum)",
+      "sks_mk": 5,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT036",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Lengkap I",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAI001",
+      "nm_mk": "Bahasa Indonesia",
+      "sks_mk": 2,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT038",
+      "nm_mk": "Teknik Pembuatan Restorasi Intrakoronal dan Ekstrakoronal",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KME001",
+      "nm_mk": "Dasar Epidemiologi",
+      "sks_mk": 1,
+      "id_smt": "20182",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGO009",
+      "nm_mk": "Teknik Pembuatan Peranti Ortodonsia Lepas",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MND001",
+      "nm_mk": "Ide Kreatif dan Kewirausahaan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT041",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Jembatan (Praktikum)",
+      "sks_mk": 5,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SIK026",
+      "nm_mk": "Komputer",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGO010",
+      "nm_mk": "Teknik Pembuatan Peranti Ortodonti Lepas (Praktikum)",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT043",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Sebagian Lepas (Praktikum)",
+      "sks_mk": 4,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT040",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Jembatan",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "BAE033",
+      "nm_mk": "Bahasa Inggris II",
+      "sks_mk": 2,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT042",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Sebagian Lepas",
+      "sks_mk": 1,
+      "id_smt": "20191",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "ETG001",
+      "nm_mk": "Etika Profesi",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT046",
+      "nm_mk": "Teknik Pembuatan Protesa Maksilo Fasial",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT045",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Keramik I (Praktikum)",
+      "sks_mk": 5,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "HKD001",
+      "nm_mk": "Pengantar Hukum Indonesia",
+      "sks_mk": 1,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGO008",
+      "nm_mk": "Teknik Pembuatan Peranti Ortodonsia Lepas II (Praktikum)",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLD001",
+      "nm_mk": "Praktek Kerja Lapangan",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGO007",
+      "nm_mk": "Teknik Pembuatan Peranti Ortodonsia Lepas II",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT044",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Keramik I",
+      "sks_mk": 2,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT047",
+      "nm_mk": "Teknik Pembuatan Protesa Maksilo Fasial (Praktikum)",
+      "sks_mk": 3,
+      "id_smt": "20192",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT055",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Kerangka Logam (Praktikum)",
+      "sks_mk": 3,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGO009",
+      "nm_mk": "Teknik Pembuatan Peranti Ortodonsia Lepas",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KLD003",
+      "nm_mk": "Praktek Kerja Lapangan II",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT052",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Lepas",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGO010",
+      "nm_mk": "Teknik Pembuatan Peranti Ortodonti Lepas (Praktikum)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT048",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Cekat",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MNU018",
+      "nm_mk": "Manajemen Laboratorium Kedokteran Gigi",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT054",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Kerangka Logam",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT051",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Keramik (Praktik)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT050",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Keramik",
+      "sks_mk": 1,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT053",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Lepas (Praktik)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KGT049",
+      "nm_mk": "Teknik Pembuatan Gigi Tiruan Cekat (Praktik)",
+      "sks_mk": 2,
+      "id_smt": "20201",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PND099",
+      "nm_mk": "Tugas Akhir",
+      "sks_mk": 3,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "KKD001",
+      "nm_mk": "Magang",
+      "sks_mk": 6,
+      "id_smt": "20202",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "AFIFAH TSABITA INSANI",
+    "jk": "P",
+    "nipd": "151810513004",
+    "namapt": "Universitas Airlangga",
+    "namajenjang": "D3",
+    "namaprodi": "Teknik Gigi",
+    "reg_pd": "D53FF350-D155-4133-85CB-41CB7FFFB8BD",
+    "mulai_smt": "20181",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lulus",
+    "tgl_keluar": "2021-10-28T00:00:00Z",
+    "no_seri_ijazah": "124012021000132",
+    "sert_prof": null,
+    "link_pt": "/data_pt/NUFBREYzREYtRDBGOC00QTE3LUJERkQtNjEwOEZDNUNFNDA1",
+    "link_prodi": "/data_prodi/MEFFMEU1NUItOEIxRS00QUY4LThCRjUtMTk3NzVCMTk2MDdG"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "datastatuskuliah": [
+    {
+      "id_smt": "20061",
+      "sks_smt": 20,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20062",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    },
+    {
+      "id_smt": "20071",
+      "sks_smt": 18,
+      "nm_stat_mhs": "Aktif"
+    }
+  ],
+  "datastudi": [
+    {
+      "kode_mk": "MJF113",
+      "nm_mk": "KIMIA DASAR",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF111",
+      "nm_mk": "FISIKA DASAR I",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF114",
+      "nm_mk": "STATISKA",
+      "sks_mk": 3,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG151",
+      "nm_mk": "PANCASILA",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG260",
+      "nm_mk": "KEWARGANEGARAAN",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF113P",
+      "nm_mk": "PRAKT.KIM.DAS",
+      "sks_mk": 1,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF112",
+      "nm_mk": "MATEMATIKA DASAR I",
+      "sks_mk": 4,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF111P",
+      "nm_mk": "PRAKT FIS DAS I",
+      "sks_mk": 1,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "SBE121",
+      "nm_mk": "BAHASA INGGRIS",
+      "sks_mk": 2,
+      "id_smt": "20061",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF125",
+      "nm_mk": "MEKANIKA",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF121P",
+      "nm_mk": "PRAKT. FISIKA DASAR II",
+      "sks_mk": 1,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF124",
+      "nm_mk": "TERMODINAMIKA",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "UNG105",
+      "nm_mk": "AGAMA",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF122",
+      "nm_mk": "MATEMATIKA DASAR II",
+      "sks_mk": 4,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF121",
+      "nm_mk": "FISIKA DASAR II",
+      "sks_mk": 3,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "MJF123",
+      "nm_mk": "BIOLOGI DASAR",
+      "sks_mk": 2,
+      "id_smt": "20062",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFF212",
+      "nm_mk": "LISTRIK MAGNET",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFF214",
+      "nm_mk": "FISIKA MODERN",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFF215",
+      "nm_mk": "GELOMBANG",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFF211",
+      "nm_mk": "FISIKA MATEMATIKA I",
+      "sks_mk": 4,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFF213P",
+      "nm_mk": "PRAKT. ELEKTRONIKA DASAR",
+      "sks_mk": 1,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFF213",
+      "nm_mk": "ELEKTRONIKA DASAR",
+      "sks_mk": 3,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    },
+    {
+      "kode_mk": "PFF216",
+      "nm_mk": "ANAL. NUM. & PEMROGRAMAN",
+      "sks_mk": 2,
+      "id_smt": "20071",
+      "nilai_huruf": null
+    }
+  ],
+  "dataumum": {
+    "nm_pd": "KARNA",
+    "jk": "L",
+    "nipd": "J2D006023         ",
+    "namapt": "Universitas Diponegoro",
+    "namajenjang": "S1",
+    "namaprodi": "Fisika",
+    "reg_pd": "5490834A-A2A7-4981-9F2F-6AFF44321E4F",
+    "mulai_smt": "20061",
+    "nm_jns_daftar": "Peserta didik baru",
+    "nm_pt_asal": null,
+    "nm_prodi_asal": null,
+    "ket_keluar": "Lainnya",
+    "tgl_keluar": "2019-05-27T00:00:00Z",
+    "no_seri_ijazah": null,
+    "sert_prof": null,
+    "link_pt": "/data_pt/NTREMDFCRjMtODI1NS00NzRCLUI5NkQtNDQyNjEzNUVFRDAx",
+    "link_prodi": "/data_prodi/QkJERkRCRTEtOUE3Ni00QkM0LUExMEUtNDBEMTE4OTc3QjQy"
+  }
+}

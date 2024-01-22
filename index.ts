@@ -65,10 +65,10 @@ async function scrapeInitialData(search: string) {
   }
 }
 
-// // Replace 'searchTerm' with the actual search term you want to use
-// const searchTerm =
-//     "Hendra Bangun Dwi Rihanjaya Universitas Muhammadiyah Malang";
-// scrapeInitialData(searchTerm);
+// Replace 'searchTerm' with the actual search term you want to use
+const searchTerm =
+    "Jawan Sujono Malang";
+scrapeInitialData(searchTerm);
 
 // // const mName = faker.persopersonNaull); // Generates a random full name
 // const randomName = faker.person.fullName();
@@ -88,28 +88,30 @@ async function scrapeInitialData(search: string) {
 // // Start the first search
 // startNewSearch();
 
-// Function to start a new search with a random name
-async function startNewSearch(repeatCount: number) {
-  if (repeatCount <= 0) {
-    console.log("Scraping process completed.");
-    return; // Exit if the repeat count reaches zero
-  }
+// 3333333333333333333
+// // Function to start a new search with a random name
+// async function startNewSearch(repeatCount: number) {
+//   if (repeatCount <= 0) {
+//     console.log("Scraping process completed.");
+//     return; // Exit if the repeat count reaches zero
+//   }
 
-  const randomName = faker.person.fullName();
-  const universityName = "Universitas Negeri Malang";
-  const searchTerm = `${randomName} ${universityName}`;
-  console.log(`Starting new search with term: ${searchTerm}`);
+//   const randomName = faker.person.fullName();
+//   const universityName = " Malang";
+//   const searchTerm = `${randomName} ${universityName}`;
+//   console.log(`Starting new search with term: ${searchTerm}`);
 
-  await scrapeInitialData(searchTerm);
+//   await scrapeInitialData(searchTerm);
 
-  console.log(`Searches remaining: ${repeatCount - 1}`);
-  startNewSearch(repeatCount - 1); // Call the function again with the decreased count
-}
+//   console.log(`Searches remaining: ${repeatCount - 1}`);
+//   startNewSearch(repeatCount - 1); // Call the function again with the decreased count
+// }
 
-// Start the first search with a specified repeat count
-const repeatCount = 10; // Replace with the number of times you want to repeat the scraping
-startNewSearch(repeatCount);
+// // Start the first search with a specified repeat count
+// const repeatCount = 10; // Replace with the number of times you want to repeat the scraping
+// startNewSearch(repeatCount);
 
+//3333333333333333333333333333
 // // const randomName = faker.person.fullName();
 // const randomName = faker.person.firstName();
 // console.log(randomName);
